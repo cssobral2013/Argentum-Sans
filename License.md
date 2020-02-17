@@ -1,5 +1,6 @@
 Copyright (c) 2011-2016 The Montserrat Project Authors (julieta.ulanovsky@gmail.com)
-Copyright (c) 2017-2019 Cristiano Sobral (cssobral2013@gmail.com)
+Copyright (c) 2018-2020 Cristiano Sobral (cssobral2013@gmail.com)
+Portions are Copyright (c) 2016 green-s (github.com/green-s/Montserrat-G)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
