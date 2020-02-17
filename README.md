@@ -1,8 +1,5 @@
 # Argentum-Sans
 Fork of Montserrat font, version 5
-It all started when I've perceived the font Montserrat suffered two changes of weight in less than 1 year. Inspirated by
-bringing back the good old spirit of the Montserrat typeface, this project was born. But, different than Montserrat version 7.2
-(the version that, as of this writing, is on Google Fonts), this font has tabular figures as default.
+Argentum Sans (Latin for "Silver") is a sans-serif geometric font forked from Montserrat version 5.001. This project was born following the two weight changes in 2017 on upstream fonts, so we created this font as a response. The first modifications are a lowercase l with a tail from alternate glyphs, and fixed some glyphs.
 
-It supports more than 100 Latin languages including Vietnamese, also all other features of the original Montserrat version 5 
-(except the tabular figures) were mantained untouched.
+It supports the following blocks: Afrikaans, Baltic, Basic Latin, Catalan, Central European, Dutch, Esperanto, Euro, Igbo Onwu, Romanian, Turkish, Vietnamese and Western European (900+ glyphs per face).
