@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Thin.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Thin.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Thin.ttf') format('truetype');
+    src: url('web/ArgentumSans-Thin.woff2') format('woff2'),
+        url('web/ArgentumSans-Thin.woff') format('woff'),
+        url('ttf/ArgentumSans-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-ThinItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-ThinItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-ThinItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-ThinItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-ThinItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-ThinItalic.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
@@ -18,63 +18,63 @@
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-ExtraLight.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-ExtraLight.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-ExtraLight.ttf') format('truetype');
+    src: url('web/ArgentumSans-ExtraLight.woff2') format('woff2'),
+        url('web/ArgentumSans-ExtraLight.woff') format('woff'),
+        url('ttf/ArgentumSans-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-ExtraLightItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-ExtraLightItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-ExtraLightItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-ExtraLightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-ExtraLightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-ExtraLightItalic.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Light.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Light.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Light.ttf') format('truetype');
+    src: url('web/ArgentumSans-Light.woff2') format('woff2'),
+        url('web/ArgentumSans-Light.woff') format('woff'),
+        url('ttf/ArgentumSans-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-LightItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-LightItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-LightItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-LightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-LightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Regular.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Regular.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Regular.ttf') format('truetype');
+    src: url('web/ArgentumSans-Regular.woff2') format('woff2'),
+        url('web/ArgentumSans-Regular.woff') format('woff'),
+        url('ttf/ArgentumSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Italic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Italic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Italic.ttf') format('truetype');
+    src: url('web/ArgentumSans-Italic.woff2') format('woff2'),
+        url('web/ArgentumSans-Italic.woff') format('woff'),
+        url('ttf/ArgentumSans-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Medium.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Medium.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Medium.ttf') format('truetype');
+    src: url('web/ArgentumSans-Medium.woff2') format('woff2'),
+        url('web/ArgentumSans-Medium.woff') format('woff'),
+        url('ttf/ArgentumSans-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
@@ -82,81 +82,81 @@
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-MediumItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-MediumItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-MediumItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-MediumItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-MediumItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-MediumItalic.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-SemiBold.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-SemiBold.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-SemiBold.ttf') format('truetype');
+    src: url('web/ArgentumSans-SemiBold.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiBold.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-SemiBoldItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-SemiBoldItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-SemiBoldItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-SemiBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiBoldItalic.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Bold.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Bold.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Bold.ttf') format('truetype');
+    src: url('web/ArgentumSans-Bold.woff2') format('woff2'),
+        url('web/ArgentumSans-Bold.woff') format('woff'),
+        url('ttf/ArgentumSans-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-BoldItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-BoldItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-BoldItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-BoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-BoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-ExtraBold.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-ExtraBold.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-ExtraBold.ttf') format('truetype');
+    src: url('web/ArgentumSans-ExtraBold.woff2') format('woff2'),
+        url('web/ArgentumSans-ExtraBold.woff') format('woff'),
+        url('ttf/ArgentumSans-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-ExtraBoldItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-ExtraBoldItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-ExtraBoldItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-ExtraBoldItalic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-Black.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-Black.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-Black.ttf') format('truetype');
+    src: url('web/ArgentumSans-Black.woff2') format('woff2'),
+        url('web/ArgentumSans-Black.woff') format('woff'),
+        url('ttf/ArgentumSans-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('web/hinted-ArgentumSans-BlackItalic.woff2') format('woff2'),
-        url('web/hinted-ArgentumSans-BlackItalic.woff') format('woff'),
-        url('ttf/hinted-ArgentumSans-BlackItalic.ttf') format('truetype');
+    src: url('web/ArgentumSans-BlackItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-BlackItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
