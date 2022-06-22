@@ -11,11 +11,22 @@ Changelog prior to Argentum Sans, v2.0 fork
 - Added 'useTypoMetrics' flag
 - Added OpenType features consistent with character-set expansion
 
-Changelog of Argentum Sans, v2.0
+Changelog of Argentum Sans, v2.0 (in no particular order):
 
 - Re-worked vertical metrics
 - Subsetted to 782 glyph-set (including all Latin, Extended and Vietnamese)
 - Changed to Tabularized numerals
-- Added a crossbar 'G' by @green-s (github.com/green-s/Montserrat-G)
+- Added a crossbar 'G' by @green-s (https://github.com/green-s/Montserrat-G)
 - Added a tailed 'l' from alternate glyphs
 - Fixed adieresismacron and guaranisign (so it matches the G)
+- Added percent and perthousand from Montserrat, version 6.002 (more narrower), and re-done spacing of both
+- Fixed 'G' on italics, so they feel more italicized, rather that obliqued
+
+Changelog of Argentum Sans, v2.7 (in no particular order):
+
+- Added mention to me (Cristiano Sobral) in copyright notes in all weights
+- Streamlined vertical metrics in all weights
+- Recomposed basic OpenType features
+- Adapted kerning to tabular figures in all roman weights
+- Imported Cyrillic support from Montserrat, version 7.2
+- Completely reworked kerning (more than 300,000 pairs in total)
