@@ -30,3 +30,4 @@ Changelog of Argentum Sans, v2.7 (in no particular order):
 - Adapted kerning to tabular figures in all roman weights
 - Imported Cyrillic support from Montserrat, version 7.2
 - Modified 'Q' to straight-tailed
+- Flattened caps-height (to be exactly 70% of em-size)
