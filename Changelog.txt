@@ -31,3 +31,7 @@ Changelog of Argentum Sans, v2.7 (in no particular order):
 - Imported Cyrillic support from Montserrat, version 7.2
 - Modified 'Q' to straight-tailed
 - Flattened caps-height (to be exactly 70% of em-size)
+- Upscaled UPM to 2000
+
+Changelog of Argentum Sans, v2.8 (in no particular order):
+- Slightly condensed tracking in lowercase Italic
