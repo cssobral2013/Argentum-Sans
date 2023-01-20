@@ -42,3 +42,7 @@ Changelog of Argentum Sans, v2.10 (in no particular order):
 Changelog of Argentum Sans, v2.12 (in no particular order):
 - Some fixes in ae/oe
 - Slightly changed spacing in all 'e'-related glyphs in Italic
+
+Changelog of Argentum Sans, v2.14 (in no particular order):
+- Adjusted G overshoot in many weights
+- Rebuilt composite glyphs in Thin/ThinItalic
