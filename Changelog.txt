@@ -46,3 +46,4 @@ Changelog of Argentum Sans, v2.12 (in no particular order):
 Changelog of Argentum Sans, v2.14 (in no particular order):
 - Adjusted G overshoot in many weights
 - Rebuilt composite glyphs in Thin/ThinItalic
+- Made f/t crossbars match x-height
