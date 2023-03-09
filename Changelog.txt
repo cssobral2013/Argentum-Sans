@@ -49,4 +49,5 @@ Changelog of Argentum Sans, v2.14 (in no particular order):
 - Made f/t crossbars match x-height
 
 Changelog of Argentum Sans, v2.16 (in no particular order):
-- Some bug fixes
+- Some bug fixes (including Aring/aring)
+- Added colonmod (U+A789)
