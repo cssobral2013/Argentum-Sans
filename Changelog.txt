@@ -55,3 +55,4 @@ Changelog of Argentum Sans, v2.16 (in no particular order):
 Changelog of Argentum Sans, v2.18 (in no particular order):
 - Made 'Q' display-friendly
 - Fixed copyright notes (so it matches OFL.txt in Github)
+- Adjusted left kerning in G-related glyphs in Italic
