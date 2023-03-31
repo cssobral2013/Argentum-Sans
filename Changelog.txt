@@ -30,7 +30,7 @@ Changelog of Argentum Sans, v2.7 (in no particular order):
 - Adapted kerning to tabular figures in all roman weights
 - Imported Cyrillic support from Montserrat, version 7.2
 - Modified 'Q' to straight-tailed
-- Flattened caps-height (to be exactly 70% of em-size)
+- Flattened caps-height (to be exactly 70 percent of em-size)
 - Upscaled UPM to 2000
 
 Changelog of Argentum Sans, v2.8 (in no particular order):
@@ -53,6 +53,9 @@ Changelog of Argentum Sans, v2.16 (in no particular order):
 - Added colonmod (U+A789)
 
 Changelog of Argentum Sans, v2.18 (in no particular order):
-- Made 'Q' display-friendly
+- Made 'Q' display-friendly (by changing it to crossing,
+  but not descending below the baseline)
 - Fixed copyright notes (so it matches OFL.txt in Github)
 - Adjusted left kerning in G-related glyphs in Italic
+- Fixed greaterequal in several Italic weights
+- Fixed some accents in Italic
