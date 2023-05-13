@@ -59,3 +59,6 @@ Changelog of Argentum Sans, v2.18 (in no particular order):
 - Adjusted left kerning in G-related glyphs in Italic
 - Fixed greaterequal in several Italic weights
 - Fixed some accents in Italic
+
+Changelog of Argentum Sans, v3.0 (in no particular order):
+- Upgraded to variable font
