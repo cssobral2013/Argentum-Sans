@@ -62,3 +62,6 @@ Changelog of Argentum Sans, v2.18 (in no particular order):
 
 Changelog of Argentum Sans, v3.0 (in no particular order):
 - Upgraded to variable font
+
+Changelog of Argentum Sans, v3.2 (in no particular order):
+- Reduced some more tracking in Italic
