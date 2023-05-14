@@ -65,3 +65,6 @@ Changelog of Argentum Sans, v3.0 (in no particular order):
 
 Changelog of Argentum Sans, v3.2 (in no particular order):
 - Reduced some more tracking in Italic
+
+Changelog of Argentum Sans, v3.4 (in no particular order):
+- Adjusted kerning of upper/lowercase v/w/x/y
