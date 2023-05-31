@@ -70,3 +70,7 @@ Changelog of Argentum Sans, v3.4 (in no particular order):
 - Adjusted kerning of upper/lowercase k/v/w/x/y
 - Adjusted G crossbar in Italic
 - Redrawn 0 (all forms) in Italic
+
+Changelog of Argentum Sans, v3.6 (in no particular order):
+- Re-imported Cyrillic forms from Montserrat v7.2
+- Redrawn S in Italic
