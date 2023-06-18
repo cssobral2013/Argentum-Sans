@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.dnom" format="2">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="131" y="231" type="line"/>
+      <point x="133" y="225" type="line"/>
+      <point x="316" y="392" type="line"/>
+      <point x="319" y="406" type="line"/>
+      <point x="90" y="406" type="line"/>
+      <point x="87" y="388" type="line"/>
+      <point x="298" y="388" type="line"/>
+      <point x="296" y="394" type="line"/>
+      <point x="114" y="231" type="line"/>
+      <point x="111" y="214" type="line"/>
+      <point x="157" y="214" type="line" smooth="yes"/>
+      <point x="225" y="214"/>
+      <point x="265" y="186"/>
+      <point x="265" y="137" type="curve" smooth="yes"/>
+      <point x="265" y="65"/>
+      <point x="203" y="12"/>
+      <point x="117" y="12" type="curve" smooth="yes"/>
+      <point x="78" y="12"/>
+      <point x="38" y="25"/>
+      <point x="11" y="45" type="curve"/>
+      <point x="-1" y="30" type="line"/>
+      <point x="30" y="8"/>
+      <point x="73" y="-5"/>
+      <point x="116" y="-5" type="curve" smooth="yes"/>
+      <point x="213" y="-5"/>
+      <point x="285" y="57"/>
+      <point x="285" y="138" type="curve" smooth="yes"/>
+      <point x="285" y="194"/>
+      <point x="238" y="231"/>
+      <point x="163" y="231" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>three</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

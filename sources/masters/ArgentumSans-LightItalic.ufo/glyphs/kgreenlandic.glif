@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="512"/>
+  <unicode hex="0138"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="173" y="10" name="ogonek"/>
+  <anchor x="104" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="151" y="517" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="171" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="517" type="line"/>
+      <point x="97" y="178" type="line"/>
+      <point x="90" y="147" type="line"/>
+      <point x="528" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="314" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="286" y="326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.834,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

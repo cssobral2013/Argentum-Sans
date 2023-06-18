@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gedescender-cy" format="2">
+  <advance width="611"/>
+  <unicode hex="04F6"/>
+  <anchor x="62" y="0" name="bottomleft"/>
+  <anchor x="62" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <contour>
+      <point x="384" y="-137" type="line"/>
+      <point x="384" y="183" type="line"/>
+      <point x="62" y="183" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="168" y="51" type="line"/>
+      <point x="168" y="-137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

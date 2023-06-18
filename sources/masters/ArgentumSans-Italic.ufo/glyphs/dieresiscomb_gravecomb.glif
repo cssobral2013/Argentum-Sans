@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_gravecomb" format="2">
+  <advance width="386"/>
+  <anchor x="270" y="531" name="_top"/>
+  <anchor x="324" y="804" name="top"/>
+  <outline>
+    <component base="dieresiscomb.loclVIET" xOffset="-1"/>
+    <component base="gravecomb.loclVIET" xOffset="22" yOffset="129"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

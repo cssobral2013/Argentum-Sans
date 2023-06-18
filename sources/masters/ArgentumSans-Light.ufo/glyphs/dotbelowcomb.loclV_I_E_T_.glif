@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb.loclVIET" format="2">
+  <advance width="152"/>
+  <anchor x="76" y="0" name="_bottom"/>
+  <anchor x="76" y="-132" name="bottom"/>
+  <outline>
+    <component base="dotbelowcomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
+</glyph>

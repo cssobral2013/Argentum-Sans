@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <advance width="431"/>
+  <outline>
+    <contour>
+      <point x="127" y="752" type="line"/>
+      <point x="237" y="752" type="line"/>
+      <point x="361" y="837" type="line"/>
+      <point x="275" y="837" type="line"/>
+      <point x="365" y="752" type="line"/>
+      <point x="475" y="752" type="line"/>
+      <point x="387" y="852" type="line"/>
+      <point x="253" y="852" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="1042"/>
+      <point x="287" y="1033"/>
+      <point x="255" y="1015" type="curve"/>
+      <point x="280" y="966" type="line"/>
+      <point x="291" y="973"/>
+      <point x="302" y="975"/>
+      <point x="311" y="975" type="curve" smooth="yes"/>
+      <point x="323" y="975"/>
+      <point x="331" y="969"/>
+      <point x="331" y="959" type="curve" smooth="yes"/>
+      <point x="331" y="944"/>
+      <point x="313" y="922"/>
+      <point x="285" y="901" type="curve"/>
+      <point x="337" y="878" type="line"/>
+      <point x="389" y="911"/>
+      <point x="425" y="949"/>
+      <point x="425" y="986" type="curve" smooth="yes"/>
+      <point x="425" y="1020"/>
+      <point x="395" y="1042"/>
+      <point x="349" y="1042" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

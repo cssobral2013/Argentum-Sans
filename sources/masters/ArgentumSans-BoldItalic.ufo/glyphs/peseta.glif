@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+  <advance width="1700"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <component base="P" xOffset="-6"/>
+    <component base="t" xOffset="694"/>
+    <component base="s" xOffset="1161"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

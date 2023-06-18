@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="1063"/>
+  <unicode hex="04A4"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="428" y="350" name="center"/>
+  <anchor x="1197" y="700" name="top"/>
+  <anchor x="122" y="700" name="topleft"/>
+  <anchor x="832" y="0" name="bottomleft"/>
+  <anchor x="1220" y="0" name="bottomright"/>
+  <outline>
+    <component base="En-cy"/>
+    <component base="Ge-cy" xOffset="476"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>En-cy_Ge-cy</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

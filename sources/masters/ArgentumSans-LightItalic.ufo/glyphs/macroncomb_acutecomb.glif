@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_acutecomb" format="2">
+  <advance width="448"/>
+  <anchor x="261" y="517" name="_top"/>
+  <anchor x="321" y="824" name="top"/>
+  <outline>
+    <component base="macroncomb.loclVIET" xOffset="-46" yOffset="-1"/>
+    <component base="acutecomb.loclVIET" xOffset="63" yOffset="85"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

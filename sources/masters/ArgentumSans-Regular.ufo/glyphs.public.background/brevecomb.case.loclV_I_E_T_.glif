@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.case.loclVIET" format="2">
+  <advance width="470"/>
+  <outline>
+    <contour>
+      <point x="50" y="863" type="line"/>
+      <point x="53" y="790"/>
+      <point x="112" y="742"/>
+      <point x="193" y="742" type="curve" smooth="yes"/>
+      <point x="274" y="742"/>
+      <point x="333" y="790"/>
+      <point x="336" y="863" type="curve"/>
+      <point x="255" y="863" type="line"/>
+      <point x="253" y="834"/>
+      <point x="228" y="814"/>
+      <point x="193" y="814" type="curve" smooth="yes"/>
+      <point x="158" y="814"/>
+      <point x="133" y="834"/>
+      <point x="131" y="863" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

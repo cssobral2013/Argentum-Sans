@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="2">
+  <advance width="549"/>
+  <anchor x="303" y="441" name="_center"/>
+  <outline>
+    <contour>
+      <point x="130" y="408" type="line"/>
+      <point x="476" y="408" type="line"/>
+      <point x="476" y="474" type="line"/>
+      <point x="130" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

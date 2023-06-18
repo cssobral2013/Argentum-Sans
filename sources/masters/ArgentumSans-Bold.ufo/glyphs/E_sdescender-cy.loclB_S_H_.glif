@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Esdescender-cy.loclBSH" format="2">
+  <advance width="737"/>
+  <anchor x="387" y="0" name="_bottom"/>
+  <outline>
+    <component base="Es-cy"/>
+    <contour>
+      <point x="280" y="40" type="line"/>
+      <point x="280" y="-137" type="line"/>
+      <point x="496" y="-137" type="line"/>
+      <point x="496" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

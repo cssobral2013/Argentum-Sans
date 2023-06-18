@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case.loclVIET" format="2">
+  <advance width="287"/>
+  <anchor x="230" y="701" name="_top"/>
+  <anchor x="276" y="911" name="top"/>
+  <outline>
+    <component base="dotaccentcomb.loclVIET" xOffset="30" yOffset="152"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

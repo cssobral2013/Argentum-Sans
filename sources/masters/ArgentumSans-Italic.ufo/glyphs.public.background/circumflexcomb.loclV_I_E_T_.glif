@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.loclVIET" format="2">
+  <advance width="451"/>
+  <anchor x="278" y="531" name="_top"/>
+  <anchor x="304" y="662" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="602" type="line"/>
+      <point x="228" y="602" type="line"/>
+      <point x="352" y="687" type="line"/>
+      <point x="266" y="687" type="line"/>
+      <point x="356" y="602" type="line"/>
+      <point x="466" y="602" type="line"/>
+      <point x="378" y="702" type="line"/>
+      <point x="244" y="702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

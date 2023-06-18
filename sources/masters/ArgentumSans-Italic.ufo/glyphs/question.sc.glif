@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="2">
+  <advance width="369"/>
+  <outline>
+    <component base="period.sc" xOffset="123"/>
+    <contour>
+      <point x="140" y="438" type="line"/>
+      <point x="149" y="493"/>
+      <point x="179" y="519"/>
+      <point x="230" y="519" type="curve" smooth="yes"/>
+      <point x="275" y="519"/>
+      <point x="297" y="498"/>
+      <point x="297" y="457" type="curve" smooth="yes"/>
+      <point x="297" y="368"/>
+      <point x="177" y="350"/>
+      <point x="162" y="209" type="curve"/>
+      <point x="247" y="209" type="line"/>
+      <point x="258" y="313"/>
+      <point x="402" y="347"/>
+      <point x="402" y="474" type="curve" smooth="yes"/>
+      <point x="402" y="557"/>
+      <point x="344" y="609"/>
+      <point x="247" y="609" type="curve" smooth="yes"/>
+      <point x="140" y="609"/>
+      <point x="67" y="545"/>
+      <point x="53" y="439" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>adjustSpace</key>
+    <integer>10</integer>
+    <key>height</key>
+    <integer>82</integer>
+    <key>weight</key>
+    <integer>-3</integer>
+    <key>width</key>
+    <integer>82</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

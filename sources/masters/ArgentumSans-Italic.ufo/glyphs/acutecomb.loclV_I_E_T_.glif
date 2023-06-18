@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.loclVIET" format="2">
+  <advance width="313"/>
+  <anchor x="176" y="531" name="_top"/>
+  <anchor x="237" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="113" y="624" type="line"/>
+      <point x="197" y="600" type="line"/>
+      <point x="335" y="674" type="line"/>
+      <point x="237" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

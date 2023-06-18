@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.narrow" format="2">
+  <advance width="371"/>
+  <outline>
+    <contour>
+      <point x="266" y="734" type="line"/>
+      <point x="266" y="709"/>
+      <point x="262" y="688"/>
+      <point x="239" y="688" type="curve" smooth="yes"/>
+      <point x="210" y="688"/>
+      <point x="162" y="738"/>
+      <point x="106" y="738" type="curve" smooth="yes"/>
+      <point x="41" y="738"/>
+      <point x="22" y="675"/>
+      <point x="22" y="608" type="curve"/>
+      <point x="100" y="608" type="line"/>
+      <point x="100" y="633"/>
+      <point x="104" y="654"/>
+      <point x="127" y="654" type="curve" smooth="yes"/>
+      <point x="156" y="654"/>
+      <point x="204" y="604"/>
+      <point x="260" y="604" type="curve" smooth="yes"/>
+      <point x="325" y="604"/>
+      <point x="344" y="667"/>
+      <point x="344" y="734" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>tildecomb</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

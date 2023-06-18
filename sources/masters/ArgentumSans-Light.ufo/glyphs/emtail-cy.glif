@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emtail-cy" format="2">
+  <advance width="791"/>
+  <unicode hex="04CE"/>
+  <anchor x="639" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="em-cy"/>
+    <contour>
+      <point x="700" y="-121" type="line"/>
+      <point x="747" y="18" type="line"/>
+      <point x="639" y="18" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="735" y="0" type="line"/>
+      <point x="723" y="8" type="line"/>
+      <point x="682" y="-121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

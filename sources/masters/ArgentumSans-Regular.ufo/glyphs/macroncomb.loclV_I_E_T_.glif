@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.loclVIET" format="2">
+  <advance width="352"/>
+  <anchor x="178" y="531" name="_top"/>
+  <anchor x="178" y="644" name="top"/>
+  <outline>
+    <contour>
+      <point x="51" y="602" type="line"/>
+      <point x="306" y="602" type="line"/>
+      <point x="306" y="672" type="line"/>
+      <point x="51" y="672" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="727"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

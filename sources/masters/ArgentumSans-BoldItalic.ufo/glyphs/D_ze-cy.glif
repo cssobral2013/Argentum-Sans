@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dze-cy" format="2">
+  <advance width="671"/>
+  <unicode hex="0405"/>
+  <outline>
+    <component base="S" xOffset="13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

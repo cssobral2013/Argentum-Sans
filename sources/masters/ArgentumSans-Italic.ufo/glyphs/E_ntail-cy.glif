@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Entail-cy" format="2">
+  <advance width="839"/>
+  <unicode hex="04C9"/>
+  <anchor x="548" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="En-cy"/>
+    <contour>
+      <point x="659" y="-151" type="line"/>
+      <point x="782" y="99" type="line"/>
+      <point x="569" y="99" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="646" y="29" type="line"/>
+      <point x="568" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

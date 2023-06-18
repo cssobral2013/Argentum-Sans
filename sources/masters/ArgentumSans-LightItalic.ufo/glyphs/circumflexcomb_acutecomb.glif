@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <advance width="432"/>
+  <anchor x="252" y="517" name="_top"/>
+  <anchor x="311" y="821" name="top"/>
+  <outline>
+    <component base="circumflexcomb.loclVIET" xOffset="-17"/>
+    <component base="acutecomb.loclVIET" xOffset="61" yOffset="115"/>
+  </outline>
+  <guideline angle="0" x="0" y="517"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

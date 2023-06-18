@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+  <advance width="597"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="576" y="174" type="line"/>
+      <point x="576" y="274" type="line"/>
+      <point x="96" y="274" type="line"/>
+      <point x="123" y="231" type="line"/>
+      <point x="373" y="700" type="line"/>
+      <point x="259" y="700" type="line"/>
+      <point x="21" y="258" type="line"/>
+      <point x="21" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="472" y="444" type="line"/>
+      <point x="362" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

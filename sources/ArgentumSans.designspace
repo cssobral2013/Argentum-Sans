@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" maximum="900" minimum="100" default="400" tag="wght">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="100" output="100"/>
+   <map input="200" output="200"/>
+   <map input="300" output="300"/>
+   <map input="400" output="400"/>
+   <map input="500" output="500"/>
+   <map input="600" output="600"/>
+   <map input="700" output="700"/>
+   <map input="800" output="800"/>
+   <map input="900" output="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Argentum Sans" name="Bold" filename="masters/ArgentumSans-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source familyname="Argentum Sans" name="Light" filename="masters/ArgentumSans-Light.ufo" stylename="Light">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source familyname="Argentum Sans" name="Regular" filename="masters/ArgentumSans-Regular.ufo" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>GSDimensionPlugin.Dimensions</key>
+   <dict>
+    <key>1C84A7F3-C40A-4DC1-B8B4-102D183C348F</key>
+    <dict>
+     <key>HV</key>
+     <integer>20</integer>
+    </dict>
+    <key>5DA6E103-6A94-47F2-987D-4952DB8EA68E</key>
+    <dict>
+     <key>HH</key>
+     <integer>176</integer>
+     <key>HV</key>
+     <integer>232</integer>
+     <key>OH</key>
+     <integer>193</integer>
+     <key>OV</key>
+     <integer>220</integer>
+     <key>nV</key>
+     <integer>225</integer>
+     <key>oH</key>
+     <integer>168</integer>
+     <key>oV</key>
+     <integer>210</integer>
+     <key>tH</key>
+     <integer>142</integer>
+    </dict>
+    <key>D46AABC6-AB7D-4C0B-AE2B-3079AD121F41</key>
+    <dict>
+     <key>HV</key>
+     <integer>232</integer>
+    </dict>
+    <key>UUID0</key>
+    <dict>
+     <key>HH</key>
+     <integer>20</integer>
+     <key>HV</key>
+     <integer>20</integer>
+     <key>OH</key>
+     <integer>20</integer>
+     <key>OV</key>
+     <integer>20</integer>
+     <key>nV</key>
+     <integer>20</integer>
+     <key>nd</key>
+     <integer>15</integer>
+     <key>oH</key>
+     <integer>20</integer>
+     <key>oV</key>
+     <integer>20</integer>
+     <key>tH</key>
+     <integer>20</integer>
+    </dict>
+    <key>UUID1</key>
+    <dict>
+     <key>HH</key>
+     <integer>150</integer>
+     <key>HV</key>
+     <integer>190</integer>
+     <key>OH</key>
+     <integer>165</integer>
+     <key>OV</key>
+     <integer>200</integer>
+    </dict>
+   </dict>
+   <key>com.schriftgestaltung.font.Disable Last Change</key>
+   <integer>1</integer>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Argentum Sans" name="Thin" filename="instances/ArgentumSans-Thin.ufo" stylename="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="ExtraLight" filename="instances/ArgentumSans-ExtraLight.ufo" stylename="ExtraLight">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="Light" filename="instances/ArgentumSans-Light.ufo" stylename="Light">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="Regular" filename="instances/ArgentumSans-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="Medium" filename="instances/ArgentumSans-Medium.ufo" stylename="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="SemiBold" filename="instances/ArgentumSans-SemiBold.ufo" stylename="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="Bold" filename="instances/ArgentumSans-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="ExtraBold" filename="instances/ArgentumSans-ExtraBold.ufo" stylename="ExtraBold">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance familyname="Argentum Sans" name="Black" filename="instances/ArgentumSans-Black.ufo" stylename="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

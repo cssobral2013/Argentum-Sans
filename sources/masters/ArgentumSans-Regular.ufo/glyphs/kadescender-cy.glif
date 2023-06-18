@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="607"/>
+  <unicode hex="049B"/>
+  <anchor x="472" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="ka-cy"/>
+    <contour>
+      <point x="639" y="-112" type="line"/>
+      <point x="639" y="94" type="line"/>
+      <point x="472" y="94" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="539" y="27" type="line"/>
+      <point x="539" y="-112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Kadescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

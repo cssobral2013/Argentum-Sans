@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb.case" format="2">
+  <advance width="369"/>
+  <anchor x="268" y="700" name="_top"/>
+  <anchor x="328" y="1000" name="top"/>
+  <outline>
+    <component base="circumflexcomb_acutecomb" xOffset="31" yOffset="150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="678"/>
+  <outline>
+    <contour>
+      <point x="328" y="299" type="line"/>
+      <point x="344" y="311" type="line"/>
+      <point x="569" y="517" type="line"/>
+      <point x="540" y="517" type="line"/>
+      <point x="168" y="178" type="line"/>
+      <point x="168" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="742" type="line"/>
+      <point x="155" y="742" type="line"/>
+      <point x="155" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="0" type="line"/>
+      <point x="340" y="316" type="line"/>
+      <point x="324" y="304" type="line"/>
+      <point x="566" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Kabashkir-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi" format="2">
+  <advance width="688"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="299" y="609" type="line"/>
+      <point x="465" y="609" type="line"/>
+      <point x="465" y="864" type="line"/>
+      <point x="299" y="864" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="-165" type="line"/>
+      <point x="465" y="-165" type="line"/>
+      <point x="465" y="90" type="line"/>
+      <point x="299" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

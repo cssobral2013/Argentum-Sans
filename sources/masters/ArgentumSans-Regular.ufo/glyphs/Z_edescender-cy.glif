@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zedescender-cy" format="2">
+  <advance width="646"/>
+  <unicode hex="0498"/>
+  <anchor x="304" y="0" name="_bottom"/>
+  <outline>
+    <component base="Ze-cy"/>
+    <contour>
+      <point x="252" y="25" type="line"/>
+      <point x="252" y="-151" type="line"/>
+      <point x="358" y="-151" type="line"/>
+      <point x="358" y="25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

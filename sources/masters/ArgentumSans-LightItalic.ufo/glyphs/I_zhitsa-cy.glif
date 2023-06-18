@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="722"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="287" y="0" type="line"/>
+      <point x="587" y="535" type="line" smooth="yes"/>
+      <point x="655" y="658"/>
+      <point x="710" y="701"/>
+      <point x="795" y="680" type="curve"/>
+      <point x="802" y="700" type="line"/>
+      <point x="707" y="723"/>
+      <point x="643" y="676"/>
+      <point x="570" y="543" type="curve" smooth="yes"/>
+      <point x="281" y="28" type="line"/>
+      <point x="138" y="700" type="line"/>
+      <point x="115" y="700" type="line"/>
+      <point x="267" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

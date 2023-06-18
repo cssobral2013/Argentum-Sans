@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tf" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="90" y="501" type="line"/>
+      <point x="195" y="501" type="line"/>
+      <point x="197" y="651" type="line"/>
+      <point x="144" y="600" type="line"/>
+      <point x="544" y="600" type="line"/>
+      <point x="514" y="646" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="623" y="615" type="line"/>
+      <point x="623" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>monoWidth</key>
+    <integer>617</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

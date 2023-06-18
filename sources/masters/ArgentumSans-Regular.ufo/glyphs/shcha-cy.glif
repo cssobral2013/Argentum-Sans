@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shcha-cy" format="2">
+  <advance width="948"/>
+  <unicode hex="0449"/>
+  <outline>
+    <component base="sha-cy"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Shcha-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

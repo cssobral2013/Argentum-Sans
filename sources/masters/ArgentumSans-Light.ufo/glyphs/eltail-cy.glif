@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eltail-cy" format="2">
+  <advance width="628"/>
+  <unicode hex="04C6"/>
+  <anchor x="476" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="el-cy"/>
+    <contour>
+      <point x="537" y="-121" type="line"/>
+      <point x="584" y="18" type="line"/>
+      <point x="476" y="18" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="560" y="8" type="line"/>
+      <point x="519" y="-121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

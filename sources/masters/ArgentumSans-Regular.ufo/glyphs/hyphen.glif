@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="368"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="61" y="266" type="line"/>
+      <point x="307" y="266" type="line"/>
+      <point x="307" y="342" type="line"/>
+      <point x="61" y="342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

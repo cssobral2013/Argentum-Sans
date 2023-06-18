@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="esdescender-cy" format="2">
+  <advance width="575"/>
+  <unicode hex="04AB"/>
+  <anchor x="314" y="0" name="_bottom"/>
+  <outline>
+    <component base="es-cy"/>
+    <contour>
+      <point x="263" y="23" type="line"/>
+      <point x="263" y="-111" type="line"/>
+      <point x="367" y="-111" type="line"/>
+      <point x="367" y="23" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Esdescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

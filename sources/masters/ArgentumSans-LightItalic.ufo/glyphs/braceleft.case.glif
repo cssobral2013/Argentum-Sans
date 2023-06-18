@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft.case" format="2">
+  <advance width="296"/>
+  <outline>
+    <contour>
+      <point x="215" y="742" type="line"/>
+      <point x="41" y="-124" type="line"/>
+      <point x="190" y="-124" type="line"/>
+      <point x="194" y="-104" type="line"/>
+      <point x="65" y="-104" type="line"/>
+      <point x="231" y="722" type="line"/>
+      <point x="360" y="722" type="line"/>
+      <point x="364" y="742" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

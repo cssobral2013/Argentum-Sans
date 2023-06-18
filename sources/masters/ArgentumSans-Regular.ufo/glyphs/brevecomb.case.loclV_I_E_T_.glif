@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.case.loclVIET" format="2">
+  <advance width="386"/>
+  <anchor x="193" y="700" name="_top"/>
+  <anchor x="193" y="805" name="top"/>
+  <outline>
+    <component base="brevecomb.loclVIET" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

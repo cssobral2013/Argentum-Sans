@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.sc.narrow" format="2">
+  <advance width="431"/>
+  <anchor x="216" y="542" name="_top"/>
+  <anchor x="216" y="653" name="top"/>
+  <outline>
+    <component base="macroncomb.narrow" xOffset="87" yOffset="-24"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

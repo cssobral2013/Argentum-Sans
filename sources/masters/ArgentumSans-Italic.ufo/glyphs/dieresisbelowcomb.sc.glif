@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb.sc" format="2">
+  <advance width="578"/>
+  <anchor x="170" y="0" name="_bottom"/>
+  <anchor x="131" y="-191" name="bottom"/>
+  <anchor x="277" y="574" name="top"/>
+  <outline>
+    <component base="dieresisbelowcomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

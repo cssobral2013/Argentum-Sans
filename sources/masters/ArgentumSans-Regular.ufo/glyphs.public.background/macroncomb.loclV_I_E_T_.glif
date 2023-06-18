@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.loclVIET" format="2">
+  <advance width="393"/>
+  <outline>
+    <contour>
+      <point x="50" y="674" type="line"/>
+      <point x="50" y="608" type="line"/>
+      <point x="306" y="608" type="line"/>
+      <point x="306" y="674" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case.loclVIET" format="2">
+  <advance width="432"/>
+  <anchor x="327" y="700" name="_top"/>
+  <anchor x="327" y="820" name="top"/>
+  <outline>
+    <contour>
+      <point x="501" y="864" type="line"/>
+      <point x="391" y="864" type="line"/>
+      <point x="284" y="779" type="line"/>
+      <point x="370" y="779" type="line"/>
+      <point x="263" y="864" type="line"/>
+      <point x="153" y="864" type="line"/>
+      <point x="260" y="764" type="line"/>
+      <point x="394" y="764" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

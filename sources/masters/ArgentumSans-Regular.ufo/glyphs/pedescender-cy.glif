@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pedescender-cy" format="2">
+  <advance width="679"/>
+  <unicode hex="0525"/>
+  <anchor x="480" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="pe-cy"/>
+    <contour>
+      <point x="672" y="-111" type="line"/>
+      <point x="672" y="96" type="line"/>
+      <point x="480" y="96" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="569" y="28" type="line"/>
+      <point x="569" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Pedescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

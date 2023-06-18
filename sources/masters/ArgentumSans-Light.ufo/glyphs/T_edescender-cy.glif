@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tedescender-cy" format="2">
+  <advance width="556"/>
+  <unicode hex="04AC"/>
+  <anchor x="268" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="Te-cy"/>
+    <contour>
+      <point x="405" y="-165" type="line"/>
+      <point x="405" y="19" type="line"/>
+      <point x="268" y="19" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="385" y="9" type="line"/>
+      <point x="385" y="-165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

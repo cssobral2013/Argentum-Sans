@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softsign-cy.loclBGR" format="2">
+  <advance width="591"/>
+  <outline>
+    <contour>
+      <point x="265" y="-13" type="curve" smooth="yes"/>
+      <point x="434" y="-13"/>
+      <point x="547" y="82"/>
+      <point x="547" y="222" type="curve" smooth="yes"/>
+      <point x="547" y="327"/>
+      <point x="483" y="383"/>
+      <point x="360" y="383" type="curve" smooth="yes"/>
+      <point x="299" y="383"/>
+      <point x="250" y="369"/>
+      <point x="198" y="336" type="curve"/>
+      <point x="237" y="532" type="line"/>
+      <point x="127" y="532" type="line"/>
+      <point x="62" y="205" type="line" smooth="yes"/>
+      <point x="34" y="64"/>
+      <point x="112" y="-13"/>
+    </contour>
+    <contour>
+      <point x="275" y="69" type="curve" smooth="yes"/>
+      <point x="194" y="69"/>
+      <point x="155" y="115"/>
+      <point x="170" y="192" type="curve" smooth="yes"/>
+      <point x="179" y="237" type="line"/>
+      <point x="214" y="280"/>
+      <point x="266" y="304"/>
+      <point x="325" y="304" type="curve" smooth="yes"/>
+      <point x="395" y="304"/>
+      <point x="435" y="270"/>
+      <point x="435" y="209" type="curve" smooth="yes"/>
+      <point x="435" y="129"/>
+      <point x="367" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>b</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

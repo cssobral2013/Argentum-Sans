@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lje-cy" format="2">
+  <advance width="939"/>
+  <unicode hex="0459"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="softsign-cy" xOffset="358"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Lje-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

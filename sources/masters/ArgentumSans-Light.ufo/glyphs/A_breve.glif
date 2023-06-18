@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="2">
+  <advance width="687"/>
+  <unicode hex="0102"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb.case" xScale="1.0014" yScale="1.0014" xOffset="218"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
+</glyph>

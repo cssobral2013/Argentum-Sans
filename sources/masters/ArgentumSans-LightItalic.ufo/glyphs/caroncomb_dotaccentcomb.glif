@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <advance width="428"/>
+  <anchor x="263" y="517" name="_top"/>
+  <anchor x="315" y="786" name="top"/>
+  <outline>
+    <component base="caroncomb.loclVIET" xOffset="9"/>
+    <component base="dotaccentcomb.loclVIET" xOffset="62" yOffset="110"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

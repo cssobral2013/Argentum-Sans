@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="721"/>
+  <unicode hex="048B"/>
+  <anchor x="499" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="brevecomb" xOffset="167" yOffset="1"/>
+    <contour>
+      <point x="632" y="-111" type="line"/>
+      <point x="693" y="96" type="line"/>
+      <point x="499" y="96" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="578" y="28" type="line"/>
+      <point x="544" y="-111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

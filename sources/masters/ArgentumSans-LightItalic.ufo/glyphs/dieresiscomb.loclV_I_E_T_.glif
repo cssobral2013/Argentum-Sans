@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.loclVIET" format="2">
+  <advance width="465"/>
+  <anchor x="285" y="517" name="_top"/>
+  <anchor x="300" y="599" name="top"/>
+  <outline>
+    <contour>
+      <point x="250" y="676" type="curve" smooth="yes"/>
+      <point x="234" y="676"/>
+      <point x="218" y="662"/>
+      <point x="218" y="646" type="curve" smooth="yes"/>
+      <point x="218" y="634"/>
+      <point x="227" y="624"/>
+      <point x="239" y="624" type="curve" smooth="yes"/>
+      <point x="255" y="624"/>
+      <point x="271" y="638"/>
+      <point x="271" y="654" type="curve" smooth="yes"/>
+      <point x="271" y="666"/>
+      <point x="262" y="676"/>
+    </contour>
+    <contour>
+      <point x="382" y="676" type="curve" smooth="yes"/>
+      <point x="366" y="676"/>
+      <point x="350" y="662"/>
+      <point x="350" y="646" type="curve" smooth="yes"/>
+      <point x="350" y="634"/>
+      <point x="359" y="624"/>
+      <point x="371" y="624" type="curve" smooth="yes"/>
+      <point x="387" y="624"/>
+      <point x="403" y="638"/>
+      <point x="403" y="654" type="curve" smooth="yes"/>
+      <point x="403" y="666"/>
+      <point x="394" y="676"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

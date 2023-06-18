@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb.case" format="2">
+  <advance width="342"/>
+  <anchor x="189" y="0" name="_bottom"/>
+  <anchor x="161" y="-265" name="bottom"/>
+  <anchor x="166" y="701" name="top"/>
+  <outline>
+    <component base="cedillacomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="642"/>
+  <unicode hex="04B7"/>
+  <anchor x="416" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="che-cy"/>
+    <contour>
+      <point x="608" y="-111" type="line"/>
+      <point x="608" y="96" type="line"/>
+      <point x="416" y="96" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="505" y="28" type="line"/>
+      <point x="505" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Chedescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

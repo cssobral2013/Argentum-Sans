@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upArrow" format="2">
+  <advance width="578"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="328" y="467" type="line"/>
+      <point x="127" y="341" type="line"/>
+      <point x="122" y="314" type="line"/>
+      <point x="322" y="439" type="line"/>
+      <point x="478" y="314" type="line"/>
+      <point x="483" y="341" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="447" type="line"/>
+      <point x="242" y="79" type="line"/>
+      <point x="264" y="79" type="line"/>
+      <point x="336" y="447" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreveacute" format="2">
+  <advance width="687"/>
+  <unicode hex="1EAE"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_acutecomb.case" xScale="1.0014" yScale="1.0014" xOffset="183"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
+</glyph>

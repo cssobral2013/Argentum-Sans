@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="esdescender-cy.loclCHU" format="2">
+  <advance width="588"/>
+  <anchor x="249.019" y="-222" name="bottom"/>
+  <anchor x="398.019" y="531" name="top"/>
+  <outline>
+    <component base="es-cy"/>
+    <component base="cedillacomb" xOffset="196"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>es-cy+cedillacomb</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

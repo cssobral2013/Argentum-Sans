@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb.case" format="2">
+  <advance width="419"/>
+  <anchor x="292" y="699" name="_top"/>
+  <anchor x="357" y="1020" name="top"/>
+  <outline>
+    <component base="brevecomb_hookabovecomb" xOffset="29" yOffset="145"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

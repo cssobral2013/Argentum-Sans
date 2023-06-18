@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb.narrow" format="2">
+  <advance width="361"/>
+  <outline>
+    <contour>
+      <point x="94" y="647"/>
+      <point x="120" y="675"/>
+      <point x="155" y="675" type="curve" smooth="yes"/>
+      <point x="190" y="675"/>
+      <point x="216" y="647"/>
+      <point x="218" y="608" type="curve"/>
+      <point x="296" y="608" type="line"/>
+      <point x="293" y="692"/>
+      <point x="235" y="748"/>
+      <point x="155" y="748" type="curve" smooth="yes"/>
+      <point x="75" y="748"/>
+      <point x="17" y="692"/>
+      <point x="14" y="608" type="curve"/>
+      <point x="92" y="608" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>breveinvertedcomb</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tf" format="2">
+  <advance width="699"/>
+  <outline>
+    <component base="seven" xOffset="35"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>keepStroke</key>
+    <integer>50</integer>
+    <key>monoWidth</key>
+    <integer>617</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

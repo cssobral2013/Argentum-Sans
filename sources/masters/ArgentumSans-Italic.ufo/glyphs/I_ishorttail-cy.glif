@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iishorttail-cy" format="2">
+  <advance width="844"/>
+  <unicode hex="048A"/>
+  <anchor x="553" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="Iishort-cy"/>
+    <contour>
+      <point x="664" y="-151" type="line"/>
+      <point x="787" y="99" type="line"/>
+      <point x="574" y="99" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="651" y="29" type="line"/>
+      <point x="573" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

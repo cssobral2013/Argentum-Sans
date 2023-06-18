@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="1060"/>
+  <anchor x="571.693" y="517" name="_top"/>
+  <anchor x="591.112" y="620" name="top"/>
+  <outline>
+    <component base="sha-cy.loclBGR"/>
+    <contour>
+      <point x="340" y="657" type="line"/>
+      <point x="854" y="657" type="line"/>
+      <point x="858" y="677" type="line"/>
+      <point x="344" y="677" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

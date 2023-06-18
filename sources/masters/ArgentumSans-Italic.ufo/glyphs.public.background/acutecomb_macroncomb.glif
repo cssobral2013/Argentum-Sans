@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb_macroncomb" format="2">
+  <advance width="411"/>
+  <outline>
+    <contour>
+      <point x="159" y="626" type="line"/>
+      <point x="238" y="602" type="line"/>
+      <point x="391" y="676" type="line"/>
+      <point x="305" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="762" type="line"/>
+      <point x="424" y="762" type="line"/>
+      <point x="438" y="832" type="line"/>
+      <point x="183" y="832" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

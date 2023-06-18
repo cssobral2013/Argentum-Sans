@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fita-cy" format="2">
+  <advance width="857"/>
+  <unicode hex="0472"/>
+  <outline>
+    <component base="Obarred-cy"/>
+  </outline>
+  <guideline angle="0" x="0" y="350"/>
+</glyph>

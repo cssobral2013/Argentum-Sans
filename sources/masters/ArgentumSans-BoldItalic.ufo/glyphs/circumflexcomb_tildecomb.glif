@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <advance width="445"/>
+  <anchor x="278" y="547" name="_top"/>
+  <anchor x="351" y="924" name="top"/>
+  <outline>
+    <component base="circumflexcomb.loclVIET" xOffset="-9"/>
+    <component base="tildecomb.loclVIET" xOffset="22" yOffset="172"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

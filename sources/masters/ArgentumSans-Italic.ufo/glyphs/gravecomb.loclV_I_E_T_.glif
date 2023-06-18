@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <advance width="288"/>
+  <anchor x="273" y="531" name="_top"/>
+  <anchor x="251" y="685" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="674" type="line"/>
+      <point x="269" y="600" type="line"/>
+      <point x="353" y="624" type="line"/>
+      <point x="229" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

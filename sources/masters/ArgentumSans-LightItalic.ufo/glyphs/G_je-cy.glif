@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gje-cy" format="2">
+  <advance width="561"/>
+  <unicode hex="0403"/>
+  <anchor x="85" y="0" name="_bottomleft"/>
+  <anchor x="85" y="0" name="bottomleft"/>
+  <anchor x="405" y="0" name="bottomright"/>
+  <anchor x="484" y="880" name="top"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <component base="acutecomb.case" xOffset="218" yOffset="1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ge-cy+acutecomb.case</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb.sc" format="2">
+  <advance width="412"/>
+  <anchor x="274" y="547" name="_top"/>
+  <anchor x="369" y="950" name="top"/>
+  <outline>
+    <component base="brevecomb_tildecomb" xOffset="-16"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

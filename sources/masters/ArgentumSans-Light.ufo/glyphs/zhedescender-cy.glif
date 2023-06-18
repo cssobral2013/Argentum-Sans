@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="820"/>
+  <unicode hex="0497"/>
+  <anchor x="727" y="0" name="_bottomleft"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <contour>
+      <point x="813" y="-121" type="line"/>
+      <point x="813" y="18" type="line"/>
+      <point x="727" y="18" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="794" y="8" type="line"/>
+      <point x="794" y="-121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

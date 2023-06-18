@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotbelow" format="2">
+  <advance width="639"/>
+  <unicode hex="1E62"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotbelowcomb.case" xScale="0.9984" yScale="0.9984" xOffset="170" yOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

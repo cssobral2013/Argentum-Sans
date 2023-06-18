@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <advance width="449"/>
+  <anchor x="254" y="517" name="_top"/>
+  <anchor x="314" y="821" name="top"/>
+  <outline>
+    <component base="brevecomb.loclVIET" xOffset="-20"/>
+    <component base="acutecomb.loclVIET" xOffset="62" yOffset="114"/>
+  </outline>
+  <guideline angle="90" x="297" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

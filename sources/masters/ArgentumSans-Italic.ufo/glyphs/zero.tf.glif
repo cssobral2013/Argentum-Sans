@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="425" y="705" type="curve" smooth="yes"/>
+      <point x="247" y="705"/>
+      <point x="127" y="605"/>
+      <point x="81" y="377" type="curve" smooth="yes"/>
+      <point x="35" y="149"/>
+      <point x="106" y="-5"/>
+      <point x="284" y="-5" type="curve" smooth="yes"/>
+      <point x="459" y="-5"/>
+      <point x="581" y="95"/>
+      <point x="627" y="323" type="curve" smooth="yes"/>
+      <point x="672" y="551"/>
+      <point x="601" y="705"/>
+    </contour>
+    <contour>
+      <point x="408" y="616" type="curve" smooth="yes"/>
+      <point x="507" y="616"/>
+      <point x="539" y="515"/>
+      <point x="503" y="335" type="curve" smooth="yes"/>
+      <point x="468" y="156"/>
+      <point x="402" y="84"/>
+      <point x="301" y="84" type="curve" smooth="yes"/>
+      <point x="202" y="84"/>
+      <point x="169" y="186"/>
+      <point x="205" y="365" type="curve" smooth="yes"/>
+      <point x="241" y="545"/>
+      <point x="307" y="616"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>monoWidth</key>
+    <integer>617</integer>
+    <key>weight</key>
+    <integer>2</integer>
+    <key>width</key>
+    <integer>90</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

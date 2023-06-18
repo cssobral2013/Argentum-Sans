@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case.loclVIET" format="2">
+  <advance width="272"/>
+  <outline>
+    <contour>
+      <point x="81" y="890"/>
+      <point x="54" y="863"/>
+      <point x="54" y="827" type="curve" smooth="yes"/>
+      <point x="54" y="792"/>
+      <point x="81" y="765"/>
+      <point x="116" y="765" type="curve" smooth="yes"/>
+      <point x="152" y="765"/>
+      <point x="179" y="792"/>
+      <point x="179" y="827" type="curve" smooth="yes"/>
+      <point x="179" y="863"/>
+      <point x="152" y="890"/>
+      <point x="116" y="890" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

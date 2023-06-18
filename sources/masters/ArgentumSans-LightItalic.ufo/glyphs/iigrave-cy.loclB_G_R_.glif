@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iigrave-cy.loclBGR" format="2">
+  <advance width="656"/>
+  <anchor x="467" y="0" name="bottomleft"/>
+  <anchor x="538" y="0" name="bottomright"/>
+  <anchor x="502.677" y="660" name="top"/>
+  <outline>
+    <component base="ii-cy.loclBGR"/>
+    <component base="gravecomb" xOffset="88"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ii-cy.loclBGR+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

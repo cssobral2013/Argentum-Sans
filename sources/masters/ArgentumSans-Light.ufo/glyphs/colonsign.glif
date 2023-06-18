@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="2">
+  <advance width="705"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="347" y="687" type="line"/>
+      <point x="367" y="687" type="line"/>
+      <point x="387" y="804" type="line"/>
+      <point x="367" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="687" type="line"/>
+      <point x="477" y="687" type="line"/>
+      <point x="497" y="804" type="line"/>
+      <point x="477" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="-119" type="line"/>
+      <point x="347" y="-119" type="line"/>
+      <point x="367" y="11" type="line"/>
+      <point x="347" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="-119" type="line"/>
+      <point x="457" y="-119" type="line"/>
+      <point x="477" y="11" type="line"/>
+      <point x="457" y="11" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

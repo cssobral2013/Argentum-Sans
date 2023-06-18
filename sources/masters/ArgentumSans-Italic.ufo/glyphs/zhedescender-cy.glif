@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="906"/>
+  <unicode hex="0497"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <contour>
+      <point x="815" y="-112" type="line"/>
+      <point x="857" y="94" type="line"/>
+      <point x="690" y="94" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="743" y="27" type="line"/>
+      <point x="715" y="-112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Zhedescender-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

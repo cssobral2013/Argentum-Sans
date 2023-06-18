@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackDiamond" format="2">
+  <advance width="600"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <component base="blackSquare" xScale="0.7071" xyScale="-0.7071" yxScale="0.7071" yScale="0.7071" xOffset="-100" yOffset="290"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
+</glyph>

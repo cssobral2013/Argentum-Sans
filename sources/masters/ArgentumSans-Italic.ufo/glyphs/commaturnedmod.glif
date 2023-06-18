@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedmod" format="2">
+  <advance width="294"/>
+  <unicode hex="02BB"/>
+  <anchor x="278" y="700" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="278" y="700" type="line"/>
+      <point x="200" y="700" type="line"/>
+      <point x="137" y="528" type="line"/>
+      <point x="241" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.numr" format="2">
+  <advance width="351"/>
+  <outline>
+    <contour>
+      <point x="100" y="700" type="line"/>
+      <point x="75" y="573" type="line"/>
+      <point x="149" y="573" type="line"/>
+      <point x="162" y="636" type="line"/>
+      <point x="319" y="636" type="line"/>
+      <point x="84" y="287" type="line"/>
+      <point x="170" y="287" type="line"/>
+      <point x="407" y="641" type="line"/>
+      <point x="418" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>seven</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>
