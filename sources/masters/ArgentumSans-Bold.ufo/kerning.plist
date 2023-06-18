@@ -3624,8 +3624,6 @@
     <integer>-10</integer>
     <key>public.kern2.R_j</key>
     <integer>50</integer>
-    <key>public.kern2.R_n</key>
-    <integer>80</integer>
     <key>public.kern2.R_nine</key>
     <integer>20</integer>
     <key>public.kern2.R_nine.osf</key>
