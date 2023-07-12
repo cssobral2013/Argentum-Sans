@@ -74,3 +74,9 @@ Changelog of Argentum Sans, v3.4 (in no particular order):
 Changelog of Argentum Sans, v3.6 (in no particular order):
 - Re-imported Cyrillic forms from Montserrat v7.2
 - Redrawn S in Italic
+
+Changelog of Argentum Sans, v3.8 (in no particular order):
+- Removed serif in 1.tf and 1.tosf
+
+Changelog of Argentum Sans, v3.9 (in no particular order):
+- Redrawn G in Italic

@@ -8,12 +8,7 @@
   <anchor x="224" y="742" name="top"/>
   <anchor x="334" y="742" name="topright"/>
   <outline>
-    <contour>
-      <point x="86" y="0" type="line"/>
-      <point x="234" y="742" type="line"/>
-      <point x="214" y="742" type="line"/>
-      <point x="66" y="0" type="line"/>
-    </contour>
+    <component base="l"/>
   </outline>
   <lib>
   <dict>

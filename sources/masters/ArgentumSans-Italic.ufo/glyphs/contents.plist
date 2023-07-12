@@ -816,8 +816,6 @@
   <string>amacron.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
-  <key>ampersand.sc</key>
-  <string>ampersand.sc.glif</string>
   <key>aogonek</key>
   <string>aogonek.glif</string>
   <key>apostrophemod</key>
@@ -1778,8 +1776,6 @@
   <string>numbersign.glif</string>
   <key>numero</key>
   <string>numero.glif</string>
-  <key>numero.ss01</key>
-  <string>numero.ss01.glif</string>
   <key>o</key>
   <string>o.glif</string>
   <key>o-cy</key>

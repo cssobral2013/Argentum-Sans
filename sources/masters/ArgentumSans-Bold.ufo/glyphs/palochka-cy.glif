@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="palochka-cy" format="2">
-  <advance width="332"/>
+  <advance width="374"/>
   <unicode hex="04CF"/>
   <anchor x="166" y="0" name="bottom"/>
   <anchor x="166" y="370" name="center"/>
@@ -8,11 +8,14 @@
   <anchor x="166" y="742" name="top"/>
   <anchor x="349" y="742" name="topright"/>
   <outline>
-    <contour>
-      <point x="279" y="0" type="line"/>
-      <point x="279" y="742" type="line"/>
-      <point x="53" y="742" type="line"/>
-      <point x="53" y="0" type="line"/>
-    </contour>
+    <component base="l"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
+  </dict>
+  </lib>
 </glyph>
