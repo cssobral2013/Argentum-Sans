@@ -867,10 +867,6 @@
   <array>
     <string>ampersand</string>
   </array>
-  <key>public.kern1.L_ampersand.sc</key>
-  <array>
-    <string>ampersand.sc</string>
-  </array>
   <key>public.kern1.L_apostrophemod</key>
   <array>
     <string>apostrophemod</string>
@@ -887,7 +883,6 @@
   <array>
     <string>asterisk</string>
     <string>numero</string>
-    <string>numero.ss01</string>
     <string>ordfeminine</string>
     <string>ordmasculine</string>
   </array>
@@ -2398,10 +2393,6 @@
     <string>Jcircumflex</string>
     <string>Je-cy</string>
   </array>
-  <key>public.kern2.R_N.ss01</key>
-  <array>
-    <string>numero.ss01</string>
-  </array>
   <key>public.kern2.R_O</key>
   <array>
     <string>C</string>
@@ -2640,10 +2631,6 @@
   <key>public.kern2.R_ampersand</key>
   <array>
     <string>ampersand</string>
-  </array>
-  <key>public.kern2.R_ampersand.sc</key>
-  <array>
-    <string>ampersand.sc</string>
   </array>
   <key>public.kern2.R_apostrophemod</key>
   <array>

@@ -2723,35 +2723,6 @@
     <key>public.kern2.R_x</key>
     <integer>-10</integer>
   </dict>
-  <key>public.kern1.L_ampersand.sc</key>
-  <dict>
-    <key>public.kern2.R_a_slant</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_asterisk</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_backslash</key>
-    <integer>-70</integer>
-    <key>public.kern2.R_paragraph</key>
-    <integer>-80</integer>
-    <key>public.kern2.R_percent</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-0</integer>
-    <key>public.kern2.R_question</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_question.sc</key>
-    <integer>-0</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-0</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-0</integer>
-    <key>public.kern2.R_slash</key>
-    <integer>30</integer>
-    <key>public.kern2.R_underscore</key>
-    <integer>-0</integer>
-  </dict>
   <key>public.kern1.L_asterisk</key>
   <dict>
     <key>iinvertedbreve</key>
@@ -4982,8 +4953,6 @@
   <dict>
     <key>public.kern2.R_a_slant</key>
     <integer>-50</integer>
-    <key>public.kern2.R_ampersand.sc</key>
-    <integer>50</integer>
     <key>public.kern2.R_asterisk</key>
     <integer>-50</integer>
     <key>public.kern2.R_backslash</key>
@@ -5249,8 +5218,6 @@
     <integer>-30</integer>
     <key>public.kern2.R_ampersand</key>
     <integer>-30</integer>
-    <key>public.kern2.R_ampersand.sc</key>
-    <integer>-0</integer>
     <key>public.kern2.R_backslash</key>
     <integer>-20</integer>
     <key>public.kern2.R_braceright.case</key>
@@ -6349,8 +6316,6 @@
     <integer>-40</integer>
     <key>public.kern2.R_ampersand</key>
     <integer>-30</integer>
-    <key>public.kern2.R_ampersand.sc</key>
-    <integer>-40</integer>
     <key>public.kern2.R_backslash</key>
     <integer>-0</integer>
     <key>public.kern2.R_braceright</key>

@@ -393,7 +393,6 @@
     <string>Adblgrave</string>
     <string>Adieresis</string>
     <string>Adieresis-cy</string>
-    <string>Adieresis.alt</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
     <string>Ahookabove</string>
@@ -764,7 +763,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhookabove</string>
@@ -2160,7 +2158,6 @@
     <string>Adblgrave</string>
     <string>Adieresis</string>
     <string>Adieresis-cy</string>
-    <string>Adieresis.alt</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
     <string>Ahookabove</string>
@@ -2507,7 +2504,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhookabove</string>
