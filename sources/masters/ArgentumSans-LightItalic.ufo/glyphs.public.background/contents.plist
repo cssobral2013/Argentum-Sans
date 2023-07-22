@@ -138,8 +138,6 @@
   <string>esdescender-cy.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>five</key>
-  <string>five.glif</string>
   <key>five.tf</key>
   <string>five.tf.glif</string>
   <key>five.tosf</key>
@@ -184,12 +182,12 @@
   <string>kaverticalstroke-cy.glif</string>
   <key>lje-cy</key>
   <string>lje-cy.glif</string>
+  <key>nine.osf</key>
+  <string>nine.osf.glif</string>
   <key>nje-cy</key>
   <string>nje-cy.glif</string>
   <key>obarred-cy</key>
   <string>obarred-cy.glif</string>
-  <key>one</key>
-  <string>one.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
   <key>reversedze-cy</key>
@@ -226,6 +224,8 @@
   <string>ze-cy.glif</string>
   <key>ze-cy.loclBGR</key>
   <string>ze-cy.loclB_G_R_.glif</string>
+  <key>zero.osf</key>
+  <string>zero.osf.glif</string>
   <key>zhe-cy</key>
   <string>zhe-cy.glif</string>
   <key>zhe-cy.loclBGR</key>

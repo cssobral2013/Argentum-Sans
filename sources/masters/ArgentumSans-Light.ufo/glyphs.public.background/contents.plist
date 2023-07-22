@@ -132,10 +132,6 @@
   <string>esdescender-cy.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>five</key>
-  <string>five.glif</string>
-  <key>four</key>
-  <string>four.glif</string>
   <key>four.tf</key>
   <string>four.tf.glif</string>
   <key>four.tosf</key>
@@ -188,8 +184,6 @@
   <string>sha-cy.loclB_G_R_.glif</string>
   <key>shcha-cy</key>
   <string>shcha-cy.glif</string>
-  <key>six</key>
-  <string>six.glif</string>
   <key>softsign-cy.loclBGR</key>
   <string>softsign-cy.loclB_G_R_.glif</string>
   <key>tbar</key>

@@ -2,7 +2,7 @@
 <glyph name="five.tf" format="2">
   <advance width="700"/>
   <outline>
-    <component base="five" xOffset="42"/>
+    <component base="five" xOffset="47"/>
   </outline>
   <lib>
   <dict>

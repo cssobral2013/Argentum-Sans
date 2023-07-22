@@ -30,32 +30,20 @@
   <string>f.glif</string>
   <key>five.tosf</key>
   <string>five.tosf.glif</string>
-  <key>one</key>
-  <string>one.glif</string>
+  <key>nine.osf</key>
+  <string>nine.osf.glif</string>
   <key>s</key>
   <string>s.glif</string>
-  <key>seven</key>
-  <string>seven.glif</string>
   <key>seven.tf</key>
   <string>seven.tf.glif</string>
   <key>three.tf</key>
   <string>three.tf.glif</string>
+  <key>three.tosf</key>
+  <string>three.tosf.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>verticallinelowmod</key>
   <string>verticallinelowmod.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
-  <key>zero.osf</key>
-  <string>zero.osf.glif</string>
-  <key>zero.osf</key>
-  <string>zero.osf.glif</string>
-  <key>zero.osf</key>
-  <string>zero.osf.glif</string>
   <key>zero.tf</key>
   <string>zero.tf.glif</string>
   <key>zero.tf</key>
