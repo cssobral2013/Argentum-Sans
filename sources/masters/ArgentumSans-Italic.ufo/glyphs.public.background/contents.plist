@@ -372,6 +372,8 @@
   <string>nine.glif</string>
   <key>nine.dnom</key>
   <string>nine.dnom.glif</string>
+  <key>nine.osf</key>
+  <string>nine.osf.glif</string>
   <key>nine.tf</key>
   <string>nine.tf.glif</string>
   <key>nine.tosf</key>
@@ -460,6 +462,8 @@
   <string>six.dnom.glif</string>
   <key>six.numr</key>
   <string>six.numr.glif</string>
+  <key>six.osf</key>
+  <string>six.osf.glif</string>
   <key>six.sups</key>
   <string>six.sups.glif</string>
   <key>six.tf</key>
@@ -538,7 +542,11 @@
   <string>won.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
   <key>zero.numr</key>
   <string>zero.numr.glif</string>
+  <key>zero.osf</key>
+  <string>zero.osf.glif</string>
 </dict>
 </plist>
