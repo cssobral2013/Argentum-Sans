@@ -24,34 +24,48 @@
   <string>acutecomb.case.glif</string>
   <key>caroncomb.alt</key>
   <string>caroncomb.alt.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
   <key>enghe-cy</key>
   <string>enghe-cy.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>five.tosf</key>
-  <string>five.tosf.glif</string>
-  <key>nine.osf</key>
-  <string>nine.osf.glif</string>
+  <key>five.osf</key>
+  <string>five.osf.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
   <key>s</key>
   <string>s.glif</string>
-  <key>seven.tf</key>
-  <string>seven.tf.glif</string>
-  <key>three.tf</key>
-  <string>three.tf.glif</string>
-  <key>three.tosf</key>
-  <string>three.tosf.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>three.osf</key>
+  <string>three.osf.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>verticallinelowmod</key>
   <string>verticallinelowmod.glif</string>
-  <key>zero.tf</key>
-  <string>zero.tf.glif</string>
-  <key>zero.tf</key>
-  <string>zero.tf.glif</string>
-  <key>zero.tf</key>
-  <string>zero.tf.glif</string>
-  <key>zero.tosf</key>
-  <string>zero.tosf.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
+  <key>zero.osf</key>
+  <string>zero.osf.glif</string>
   <key>zhedescender-cy</key>
   <string>zhedescender-cy.glif</string>
 </dict>

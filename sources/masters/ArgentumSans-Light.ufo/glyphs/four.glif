@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="570"/>
+  <advance width="634"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="542" y="208" type="line"/>
-      <point x="542" y="228" type="line"/>
-      <point x="46" y="228" type="line"/>
-      <point x="50" y="220" type="line"/>
-      <point x="349" y="699" type="line"/>
-      <point x="326" y="699" type="line"/>
-      <point x="35" y="233" type="line"/>
-      <point x="35" y="208" type="line"/>
+      <point x="572" y="208" type="line"/>
+      <point x="572" y="228" type="line"/>
+      <point x="75" y="228" type="line"/>
+      <point x="79" y="220" type="line"/>
+      <point x="379" y="700" type="line"/>
+      <point x="356" y="700" type="line"/>
+      <point x="64" y="233" type="line"/>
+      <point x="64" y="208" type="line"/>
     </contour>
     <contour>
-      <point x="401" y="0" type="line"/>
-      <point x="421" y="0" type="line"/>
-      <point x="421" y="452" type="line"/>
-      <point x="401" y="452" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="453" type="line"/>
+      <point x="431" y="453" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>monoWidth</key>
+    <integer>617</integer>
+  </dict>
   <key>public.markColor</key>
   <string>1,0.821,0.6,1</string>
   </dict>

@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.osf" format="2">
-  <advance width="586"/>
+  <advance width="700"/>
   <outline>
     <contour>
-      <point x="26" y="143" type="line"/>
-      <point x="-2" y="0" type="line"/>
-      <point x="487" y="0" type="line"/>
-      <point x="521" y="175" type="line"/>
-      <point x="227" y="175" type="line"/>
-      <point x="239" y="110" type="line"/>
-      <point x="411" y="240" type="line" smooth="yes"/>
-      <point x="503" y="310"/>
-      <point x="573" y="386"/>
-      <point x="573" y="467" type="curve" smooth="yes"/>
-      <point x="573" y="553"/>
-      <point x="492" y="611"/>
-      <point x="376" y="611" type="curve" smooth="yes"/>
-      <point x="274" y="611"/>
-      <point x="175" y="575"/>
-      <point x="70" y="514" type="curve"/>
-      <point x="122" y="347" type="line"/>
-      <point x="194" y="394"/>
-      <point x="259" y="425"/>
-      <point x="303" y="425" type="curve" smooth="yes"/>
-      <point x="315" y="425"/>
-      <point x="321" y="421"/>
-      <point x="321" y="413" type="curve" smooth="yes"/>
-      <point x="321" y="398"/>
-      <point x="298" y="373"/>
-      <point x="274" y="353" type="curve" smooth="yes"/>
+      <point x="84" y="144" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="612" y="175" type="line"/>
+      <point x="286" y="175" type="line"/>
+      <point x="292" y="120" type="line"/>
+      <point x="489" y="238" type="line"/>
+      <point x="586" y="314"/>
+      <point x="660" y="384"/>
+      <point x="660" y="465" type="curve" smooth="yes"/>
+      <point x="660" y="552"/>
+      <point x="573" y="610"/>
+      <point x="449" y="610" type="curve" smooth="yes"/>
+      <point x="342" y="610"/>
+      <point x="238" y="574"/>
+      <point x="129" y="513" type="curve"/>
+      <point x="181" y="346" type="line"/>
+      <point x="256" y="393"/>
+      <point x="326" y="424"/>
+      <point x="375" y="424" type="curve" smooth="yes"/>
+      <point x="397" y="424"/>
+      <point x="408" y="420"/>
+      <point x="408" y="411" type="curve" smooth="yes"/>
+      <point x="408" y="396"/>
+      <point x="381" y="373"/>
+      <point x="353" y="351" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>two.osf</string>
+  </dict>
   <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
+  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

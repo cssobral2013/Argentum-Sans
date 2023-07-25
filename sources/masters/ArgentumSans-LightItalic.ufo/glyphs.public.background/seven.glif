@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="2">
-  <advance width="584"/>
+  <advance width="700"/>
   <outline>
     <contour>
-      <point x="30" y="567" type="line"/>
-      <point x="50" y="567" type="line"/>
-      <point x="50" y="688" type="line"/>
-      <point x="41" y="679" type="line"/>
-      <point x="514" y="679" type="line"/>
-      <point x="509" y="687" type="line"/>
-      <point x="159" y="0" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="523" y="674" type="line"/>
-      <point x="523" y="699" type="line"/>
-      <point x="30" y="699" type="line"/>
+      <point x="110" y="568" type="line"/>
+      <point x="130" y="568" type="line"/>
+      <point x="130" y="689" type="line"/>
+      <point x="121" y="680" type="line"/>
+      <point x="601" y="680" type="line"/>
+      <point x="596" y="688" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="610" y="675" type="line"/>
+      <point x="610" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>seven</string>
+  </dict>
   <key>public.markColor</key>
-  <string>1,0.674,0.6,1</string>
+  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

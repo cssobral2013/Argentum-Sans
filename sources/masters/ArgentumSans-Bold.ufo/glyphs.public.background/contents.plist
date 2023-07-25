@@ -6,14 +6,20 @@
   <string>E_ndescender-cy.glif</string>
   <key>Zhedescender-cy</key>
   <string>Z_hedescender-cy.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>four.tf</key>
-  <string>four.tf.glif</string>
-  <key>four.tosf</key>
-  <string>four.tosf.glif</string>
-  <key>one.tosf</key>
-  <string>one.tosf.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>four.osf</key>
+  <string>four.osf.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>one.osf</key>
+  <string>one.osf.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
   <key>tbar</key>
   <string>tbar.glif</string>
 </dict>

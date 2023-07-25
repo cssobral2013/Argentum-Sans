@@ -174,6 +174,8 @@ languagesystem cyrl SRB;
 
 
 
+
+
 feature aalt {
 feature ccmp;
 feature locl;
@@ -328,6 +330,8 @@ lookup ccmp_latn_2 {
 
 
 
+
+
 feature locl {
 script latn;
 language NLD;
@@ -409,6 +413,8 @@ sub zedescender-cy by zedescender-cy.loclBSH;
 
 
 
+
+
 feature subs {
 sub zero by zeroinferior;
 sub one by oneinferior;
@@ -421,6 +427,8 @@ sub seven by seveninferior;
 sub eight by eightinferior;
 sub nine by nineinferior;
 } subs;
+
+
 
 
 
@@ -451,6 +459,8 @@ sub nine by nine.sinf;
 
 
 
+
+
 feature sups {
 sub zero by zerosuperior;
 sub one by onesuperior;
@@ -463,6 +473,8 @@ sub seven by sevensuperior;
 sub eight by eightsuperior;
 sub nine by ninesuperior;
 } sups;
+
+
 
 
 
@@ -493,6 +505,8 @@ sub nine by nine.numr;
 
 
 
+
+
 feature dnom {
 sub zero by zero.dnom;
 sub one by one.dnom;
@@ -505,6 +519,8 @@ sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
 } dnom;
+
+
 
 
 
@@ -535,6 +551,8 @@ lookup DOWN {
 
 
 
+
+
 feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
@@ -549,100 +567,9 @@ sub N o period by numero;
 
 
 
-feature lnum {
-sub zero.osf by zero;
-sub one.osf by one;
-sub two.osf by two;
-sub three.osf by three;
-sub four.osf by four;
-sub five.osf by five;
-sub six.osf by six;
-sub seven.osf by seven;
-sub eight.osf by eight;
-sub nine.osf by nine;
-} lnum;
-
-
-
-
-
-
-
-
-
-feature pnum {
-sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-sub zero.tosf by zero.osf;
-sub one.tosf by one.osf;
-sub two.tosf by two.osf;
-sub three.tosf by three.osf;
-sub four.tosf by four.osf;
-sub five.tosf by five.osf;
-sub six.tosf by six.osf;
-sub seven.tosf by seven.osf;
-sub eight.tosf by eight.osf;
-sub nine.tosf by nine.osf;
-} pnum;
-
-
-
-
-
-
-
-
-
-feature tnum {
-sub zero by zero.tf;
-sub one by one.tf;
-sub two by two.tf;
-sub three by three.tf;
-sub four by four.tf;
-sub five by five.tf;
-sub six by six.tf;
-sub seven by seven.tf;
-sub eight by eight.tf;
-sub nine by nine.tf;
-sub zero.osf by zero.tosf;
-sub one.osf by one.tosf;
-sub two.osf by two.tosf;
-sub three.osf by three.tosf;
-sub four.osf by four.tosf;
-sub five.osf by five.tosf;
-sub six.osf by six.tosf;
-sub seven.osf by seven.tosf;
-sub eight.osf by eight.tosf;
-sub nine.osf by nine.tosf;
-} tnum;
-
-
-
-
-
-
-
 
 
 feature onum {
-sub zero.tf by zero.tosf;
-sub one.tf by one.tosf;
-sub two.tf by two.tosf;
-sub three.tf by three.tosf;
-sub four.tf by four.tosf;
-sub five.tf by five.tosf;
-sub six.tf by six.tosf;
-sub seven.tf by seven.tosf;
-sub eight.tf by eight.tosf;
-sub nine.tf by nine.tosf;
 sub zero by zero.osf;
 sub one by one.osf;
 sub two by two.osf;
@@ -654,6 +581,8 @@ sub seven by seven.osf;
 sub eight by eight.osf;
 sub nine by nine.osf;
 } onum;
+
+
 
 
 
@@ -939,6 +868,8 @@ sub slashlongcomb by slashlongcomb.sc;
 
 
 
+
+
 feature smcp {
 sub a by a.sc;
 sub aacute by aacute.sc;
@@ -1214,6 +1145,8 @@ sub slashlongcomb by slashlongcomb.sc;
 
 
 
+
+
 feature case {
 sub backslash by backslash.case;
 sub periodcentered by periodcentered.case;
@@ -1288,9 +1221,13 @@ sub verticalbar-cy by verticalbar-cy.case;
 
 
 
+
+
 feature dlig {
 sub T h by T_h;
 } dlig;
+
+
 
 
 
@@ -1304,6 +1241,8 @@ feature liga {
 sub f i by fi;
 sub f l by fl;
 } liga;
+
+
 
 
 

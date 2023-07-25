@@ -138,10 +138,10 @@
   <string>esdescender-cy.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>five.tf</key>
-  <string>five.tf.glif</string>
-  <key>five.tosf</key>
-  <string>five.tosf.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>five.osf</key>
+  <string>five.osf.glif</string>
   <key>ge-cy</key>
   <string>ge-cy.glif</string>
   <key>ge-cy.loclBGR</key>
@@ -182,24 +182,24 @@
   <string>kaverticalstroke-cy.glif</string>
   <key>lje-cy</key>
   <string>lje-cy.glif</string>
-  <key>nine.osf</key>
-  <string>nine.osf.glif</string>
   <key>nje-cy</key>
   <string>nje-cy.glif</string>
   <key>obarred-cy</key>
   <string>obarred-cy.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
   <key>reversedze-cy</key>
   <string>reversedze-cy.glif</string>
   <key>semisoftsign-cy</key>
   <string>semisoftsign-cy.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
-  <key>seven.tf</key>
-  <string>seven.tf.glif</string>
-  <key>seven.tosf</key>
-  <string>seven.tosf.glif</string>
+  <key>seven.osf</key>
+  <string>seven.osf.glif</string>
   <key>sha-cy.loclBGR</key>
   <string>sha-cy.loclB_G_R_.glif</string>
   <key>shcha-cy</key>
@@ -210,8 +210,6 @@
   <string>softsign-cy.loclB_G_R_.glif</string>
   <key>three</key>
   <string>three.glif</string>
-  <key>three.tf</key>
-  <string>three.tf.glif</string>
   <key>tse-cy</key>
   <string>tse-cy.glif</string>
   <key>ustrait-cy</key>
@@ -234,8 +232,6 @@
   <string>ze-cy.glif</string>
   <key>ze-cy.loclBGR</key>
   <string>ze-cy.loclB_G_R_.glif</string>
-  <key>zero.osf</key>
-  <string>zero.osf.glif</string>
   <key>zhe-cy</key>
   <string>zhe-cy.glif</string>
   <key>zhe-cy.loclBGR</key>

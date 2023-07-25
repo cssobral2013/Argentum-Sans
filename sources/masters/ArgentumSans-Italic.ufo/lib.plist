@@ -501,6 +501,16 @@
     <string>Omega</string>
     <string>mu</string>
     <string>pi</string>
+    <string>zero.sinf</string>
+    <string>one.sinf</string>
+    <string>two.sinf</string>
+    <string>three.sinf</string>
+    <string>four.sinf</string>
+    <string>five.sinf</string>
+    <string>six.sinf</string>
+    <string>seven.sinf</string>
+    <string>eight.sinf</string>
+    <string>nine.sinf</string>
     <string>zero</string>
     <string>one</string>
     <string>two</string>
@@ -521,36 +531,6 @@
     <string>seven.osf</string>
     <string>eight.osf</string>
     <string>nine.osf</string>
-    <string>zero.sinf</string>
-    <string>one.sinf</string>
-    <string>two.sinf</string>
-    <string>three.sinf</string>
-    <string>four.sinf</string>
-    <string>five.sinf</string>
-    <string>six.sinf</string>
-    <string>seven.sinf</string>
-    <string>eight.sinf</string>
-    <string>nine.sinf</string>
-    <string>zero.tf</string>
-    <string>one.tf</string>
-    <string>two.tf</string>
-    <string>three.tf</string>
-    <string>four.tf</string>
-    <string>five.tf</string>
-    <string>six.tf</string>
-    <string>seven.tf</string>
-    <string>eight.tf</string>
-    <string>nine.tf</string>
-    <string>zero.tosf</string>
-    <string>one.tosf</string>
-    <string>two.tosf</string>
-    <string>three.tosf</string>
-    <string>four.tosf</string>
-    <string>five.tosf</string>
-    <string>six.tosf</string>
-    <string>seven.tosf</string>
-    <string>eight.tosf</string>
-    <string>nine.tosf</string>
     <string>zero.subs</string>
     <string>one.subs</string>
     <string>two.subs</string>

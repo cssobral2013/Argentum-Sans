@@ -228,12 +228,10 @@
   <string>eight.dnom.glif</string>
   <key>eight.numr</key>
   <string>eight.numr.glif</string>
+  <key>eight.osf</key>
+  <string>eight.osf.glif</string>
   <key>eight.sups</key>
   <string>eight.sups.glif</string>
-  <key>eight.tf</key>
-  <string>eight.tf.glif</string>
-  <key>eight.tosf</key>
-  <string>eight.tosf.glif</string>
   <key>emptyset</key>
   <string>emptyset.glif</string>
   <key>eth</key>
@@ -252,12 +250,10 @@
   <string>five.dnom.glif</string>
   <key>five.numr</key>
   <string>five.numr.glif</string>
+  <key>five.osf</key>
+  <string>five.osf.glif</string>
   <key>five.sups</key>
   <string>five.sups.glif</string>
-  <key>five.tf</key>
-  <string>five.tf.glif</string>
-  <key>five.tosf</key>
-  <string>five.tosf.glif</string>
   <key>florin</key>
   <string>florin.glif</string>
   <key>four</key>
@@ -266,12 +262,10 @@
   <string>four.dnom.glif</string>
   <key>four.numr</key>
   <string>four.numr.glif</string>
+  <key>four.osf</key>
+  <string>four.osf.glif</string>
   <key>four.sups</key>
   <string>four.sups.glif</string>
-  <key>four.tf</key>
-  <string>four.tf.glif</string>
-  <key>four.tosf</key>
-  <string>four.tosf.glif</string>
   <key>fourthtonechinese</key>
   <string>fourthtonechinese.glif</string>
   <key>fraction</key>
@@ -374,10 +368,6 @@
   <string>nine.dnom.glif</string>
   <key>nine.osf</key>
   <string>nine.osf.glif</string>
-  <key>nine.tf</key>
-  <string>nine.tf.glif</string>
-  <key>nine.tosf</key>
-  <string>nine.tosf.glif</string>
   <key>numero</key>
   <string>numero.glif</string>
   <key>ogonek</key>
@@ -392,12 +382,10 @@
   <string>one.glif</string>
   <key>one.numr</key>
   <string>one.numr.glif</string>
+  <key>one.osf</key>
+  <string>one.osf.glif</string>
   <key>one.sups</key>
   <string>one.sups.glif</string>
-  <key>one.tf</key>
-  <string>one.tf.glif</string>
-  <key>one.tosf</key>
-  <string>one.tosf.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>oslash</key>
@@ -450,12 +438,10 @@
   <string>seven.dnom.glif</string>
   <key>seven.numr</key>
   <string>seven.numr.glif</string>
+  <key>seven.osf</key>
+  <string>seven.osf.glif</string>
   <key>seven.sups</key>
   <string>seven.sups.glif</string>
-  <key>seven.tf</key>
-  <string>seven.tf.glif</string>
-  <key>seven.tosf</key>
-  <string>seven.tosf.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six.dnom</key>
@@ -466,10 +452,6 @@
   <string>six.osf.glif</string>
   <key>six.sups</key>
   <string>six.sups.glif</string>
-  <key>six.tf</key>
-  <string>six.tf.glif</string>
-  <key>six.tosf</key>
-  <string>six.tosf.glif</string>
   <key>slashlongcomb</key>
   <string>slashlongcomb.glif</string>
   <key>slashshortcomb</key>
@@ -490,12 +472,10 @@
   <string>three.dnom.glif</string>
   <key>three.numr</key>
   <string>three.numr.glif</string>
+  <key>three.osf</key>
+  <string>three.osf.glif</string>
   <key>three.sups</key>
   <string>three.sups.glif</string>
-  <key>three.tf</key>
-  <string>three.tf.glif</string>
-  <key>three.tosf</key>
-  <string>three.tosf.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
   <key>tilde</key>
@@ -526,12 +506,10 @@
   <string>two.dnom.glif</string>
   <key>two.numr</key>
   <string>two.numr.glif</string>
+  <key>two.osf</key>
+  <string>two.osf.glif</string>
   <key>two.sups</key>
   <string>two.sups.glif</string>
-  <key>two.tf</key>
-  <string>two.tf.glif</string>
-  <key>two.tosf</key>
-  <string>two.tosf.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>verticallinelowmod</key>
@@ -542,11 +520,7 @@
   <string>won.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
   <key>zero.numr</key>
   <string>zero.numr.glif</string>
-  <key>zero.osf</key>
-  <string>zero.osf.glif</string>
 </dict>
 </plist>

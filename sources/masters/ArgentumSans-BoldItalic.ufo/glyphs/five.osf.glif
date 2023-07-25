@@ -1,46 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.osf" format="2">
-  <advance width="633"/>
+  <advance width="700"/>
   <outline>
-    <contour>
-      <point x="339" y="524" type="line"/>
-      <point x="219" y="423" type="line"/>
-      <point x="597" y="423" type="line"/>
-      <point x="631" y="601" type="line"/>
-      <point x="142" y="601" type="line"/>
-      <point x="60" y="180" type="line"/>
-      <point x="100" y="180"/>
-      <point x="226" y="180"/>
-      <point x="257" y="180" type="curve" smooth="yes"/>
-      <point x="307" y="180"/>
-      <point x="328" y="161"/>
-      <point x="321" y="123" type="curve" smooth="yes"/>
-      <point x="313" y="82"/>
-      <point x="284" y="61"/>
-      <point x="234" y="61" type="curve" smooth="yes"/>
-      <point x="172" y="61"/>
-      <point x="120" y="89"/>
-      <point x="77" y="149" type="curve"/>
-      <point x="-42" y="-17" type="line"/>
-      <point x="24" y="-73"/>
-      <point x="130" y="-110"/>
-      <point x="229" y="-110" type="curve" smooth="yes"/>
-      <point x="433" y="-110"/>
-      <point x="578" y="9"/>
-      <point x="578" y="171" type="curve" smooth="yes"/>
-      <point x="578" y="280"/>
-      <point x="487" y="349"/>
-      <point x="336" y="349" type="curve" smooth="yes"/>
-      <point x="323" y="349"/>
-      <point x="285" y="349"/>
-      <point x="237" y="349" type="curve"/>
-      <point x="286" y="248" type="line"/>
-    </contour>
+    <component base="five" xOffset="-20" yOffset="-100"/>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
+  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

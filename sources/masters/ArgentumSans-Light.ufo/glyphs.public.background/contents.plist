@@ -114,6 +114,8 @@
   <string>cheabkhasian-cy.glif</string>
   <key>chekhakassian-cy</key>
   <string>chekhakassian-cy.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
   <key>de-cy</key>
   <string>de-cy.glif</string>
   <key>dje-cy</key>
@@ -132,10 +134,10 @@
   <string>esdescender-cy.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>four.tf</key>
-  <string>four.tf.glif</string>
-  <key>four.tosf</key>
-  <string>four.tosf.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>four.osf</key>
+  <string>four.osf.glif</string>
   <key>ge-cy</key>
   <string>ge-cy.glif</string>
   <key>ge-cy.loclBGR</key>
@@ -172,14 +174,18 @@
   <string>lje-cy.glif</string>
   <key>nje-cy</key>
   <string>nje-cy.glif</string>
-  <key>one.tf</key>
-  <string>one.tf.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
   <key>reversedze-cy</key>
   <string>reversedze-cy.glif</string>
   <key>semisoftsign-cy</key>
   <string>semisoftsign-cy.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
   <key>sha-cy.loclBGR</key>
   <string>sha-cy.loclB_G_R_.glif</string>
   <key>shcha-cy</key>

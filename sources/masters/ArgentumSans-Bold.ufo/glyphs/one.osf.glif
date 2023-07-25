@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.osf" format="2">
-  <advance width="432"/>
+  <advance width="700"/>
   <outline>
     <contour>
-      <point x="7" y="418" type="line"/>
-      <point x="230" y="418" type="line"/>
-      <point x="129" y="519" type="line"/>
-      <point x="129" y="0" type="line"/>
-      <point x="361" y="0" type="line"/>
-      <point x="361" y="601" type="line"/>
-      <point x="7" y="601" type="line"/>
+      <point x="124" y="418" type="line"/>
+      <point x="367" y="418" type="line"/>
+      <point x="266" y="519" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="601" type="line"/>
+      <point x="124" y="601" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>one.osf</string>
+  </dict>
   <key>public.markColor</key>
-  <string>1,0.821,0.6,1</string>
+  <string>0.784,0.784,0.784,0</string>
   </dict>
   </lib>
 </glyph>

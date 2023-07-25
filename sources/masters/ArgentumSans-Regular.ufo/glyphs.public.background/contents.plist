@@ -118,10 +118,8 @@
   <string>dotaccentcomb.case.loclV_I_E_T_.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
-  <key>eight.tf</key>
-  <string>eight.tf.glif</string>
-  <key>eight.tosf</key>
-  <string>eight.tosf.glif</string>
+  <key>eight.osf</key>
+  <string>eight.osf.glif</string>
   <key>eogonek</key>
   <string>eogonek.glif</string>
   <key>eth</key>
@@ -134,18 +132,14 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
-  <key>five.tf</key>
-  <string>five.tf.glif</string>
-  <key>five.tosf</key>
-  <string>five.tosf.glif</string>
+  <key>five.osf</key>
+  <string>five.osf.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>four</key>
   <string>four.glif</string>
-  <key>four.tf</key>
-  <string>four.tf.glif</string>
-  <key>four.tosf</key>
-  <string>four.tosf.glif</string>
+  <key>four.osf</key>
+  <string>four.osf.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
   <key>gravecomb.case</key>
@@ -200,10 +194,10 @@
   <string>n.glif</string>
   <key>naira</key>
   <string>naira.glif</string>
-  <key>nine.tf</key>
-  <string>nine.tf.glif</string>
-  <key>nine.tosf</key>
-  <string>nine.tosf.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>nine.osf</key>
+  <string>nine.osf.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
   <key>ogonekcomb</key>
@@ -214,10 +208,8 @@
   <string>ogonekcomb.curve.sc.glif</string>
   <key>one</key>
   <string>one.glif</string>
-  <key>one.tf</key>
-  <string>one.tf.glif</string>
-  <key>one.tosf</key>
-  <string>one.tosf.glif</string>
+  <key>one.osf</key>
+  <string>one.osf.glif</string>
   <key>oogonek</key>
   <string>oogonek.glif</string>
   <key>parenleft.case</key>
@@ -238,24 +230,18 @@
   <string>saltillo.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
-  <key>seven.tf</key>
-  <string>seven.tf.glif</string>
-  <key>seven.tosf</key>
-  <string>seven.tosf.glif</string>
+  <key>seven.osf</key>
+  <string>seven.osf.glif</string>
   <key>six</key>
   <string>six.glif</string>
-  <key>six.tf</key>
-  <string>six.tf.glif</string>
-  <key>six.tosf</key>
-  <string>six.tosf.glif</string>
+  <key>six.osf</key>
+  <string>six.osf.glif</string>
   <key>tbar</key>
   <string>tbar.glif</string>
   <key>three</key>
   <string>three.glif</string>
-  <key>three.tf</key>
-  <string>three.tf.glif</string>
-  <key>three.tosf</key>
-  <string>three.tosf.glif</string>
+  <key>three.osf</key>
+  <string>three.osf.glif</string>
   <key>tilde</key>
   <string>tilde.glif</string>
   <key>tildecomb.case</key>
@@ -268,10 +254,8 @@
   <string>tildecomb.narrow.glif</string>
   <key>two</key>
   <string>two.glif</string>
-  <key>two.tf</key>
-  <string>two.tf.glif</string>
-  <key>two.tosf</key>
-  <string>two.tosf.glif</string>
+  <key>two.osf</key>
+  <string>two.osf.glif</string>
   <key>upArrow</key>
   <string>upA_rrow.glif</string>
   <key>upArrow.case</key>
@@ -284,9 +268,5 @@
   <string>zero.glif</string>
   <key>zero.osf</key>
   <string>zero.osf.glif</string>
-  <key>zero.tf</key>
-  <string>zero.tf.glif</string>
-  <key>zero.tosf</key>
-  <string>zero.tosf.glif</string>
 </dict>
 </plist>

@@ -1025,11 +1025,6 @@
   <array>
     <string>circumflexcomb_tildecomb.case</string>
   </array>
-  <key>public.kern1.L_colon</key>
-  <array>
-    <string>colon</string>
-    <string>semicolon</string>
-  </array>
   <key>public.kern1.L_commaaccentcomb</key>
   <array>
     <string>commaaccentcomb</string>
@@ -1150,11 +1145,6 @@
     <string>io-cy</string>
     <string>oe</string>
   </array>
-  <key>public.kern1.L_eight</key>
-  <array>
-    <string>eight</string>
-    <string>eight.osf</string>
-  </array>
   <key>public.kern1.L_eight.dnom</key>
   <array>
     <string>eight.sinf</string>
@@ -1187,10 +1177,6 @@
   <array>
     <string>figurespace</string>
   </array>
-  <key>public.kern1.L_five</key>
-  <array>
-    <string>five</string>
-  </array>
   <key>public.kern1.L_five.dnom</key>
   <array>
     <string>five.sinf</string>
@@ -1203,10 +1189,6 @@
   <key>public.kern1.L_florin</key>
   <array>
     <string>florin</string>
-  </array>
-  <key>public.kern1.L_four</key>
-  <array>
-    <string>four</string>
   </array>
   <key>public.kern1.L_four.dnom</key>
   <array>
@@ -1546,10 +1528,6 @@
     <string>ohornhookabove</string>
     <string>ohorntilde</string>
   </array>
-  <key>public.kern1.L_one</key>
-  <array>
-    <string>one</string>
-  </array>
   <key>public.kern1.L_one.dnom</key>
   <array>
     <string>one.sinf</string>
@@ -1590,9 +1568,7 @@
   </array>
   <key>public.kern1.L_period</key>
   <array>
-    <string>comma</string>
     <string>ellipsis</string>
-    <string>period</string>
     <string>period.sc</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
@@ -1732,10 +1708,6 @@
   <array>
     <string>section</string>
   </array>
-  <key>public.kern1.L_seven</key>
-  <array>
-    <string>seven</string>
-  </array>
   <key>public.kern1.L_seven.dnom</key>
   <array>
     <string>seven.sinf</string>
@@ -1744,11 +1716,6 @@
   <key>public.kern1.L_seven.osf</key>
   <array>
     <string>seven.osf</string>
-  </array>
-  <key>public.kern1.L_six</key>
-  <array>
-    <string>six</string>
-    <string>six.osf</string>
   </array>
   <key>public.kern1.L_six.dnom</key>
   <array>
@@ -1820,10 +1787,6 @@
   <array>
     <string>thinspace</string>
   </array>
-  <key>public.kern1.L_three</key>
-  <array>
-    <string>three</string>
-  </array>
   <key>public.kern1.L_three.dnom</key>
   <array>
     <string>three.sinf</string>
@@ -1857,10 +1820,6 @@
   <key>public.kern1.L_trademark</key>
   <array>
     <string>trademark</string>
-  </array>
-  <key>public.kern1.L_two</key>
-  <array>
-    <string>two</string>
   </array>
   <key>public.kern1.L_two.dnom</key>
   <array>
@@ -2131,11 +2090,6 @@
     <string>zcaron</string>
     <string>zdotaccent</string>
     <string>zdotbelow</string>
-  </array>
-  <key>public.kern1.L_zero</key>
-  <array>
-    <string>nine</string>
-    <string>zero</string>
   </array>
   <key>public.kern1.L_zero.dnom</key>
   <array>
@@ -2797,11 +2751,6 @@
   <array>
     <string>circumflexcomb_tildecomb.case</string>
   </array>
-  <key>public.kern2.R_colon</key>
-  <array>
-    <string>colon</string>
-    <string>semicolon</string>
-  </array>
   <key>public.kern2.R_commaaccentcomb</key>
   <array>
     <string>commaaccentcomb</string>
@@ -2899,11 +2848,6 @@
     <string>downArrow</string>
     <string>downArrow.case</string>
   </array>
-  <key>public.kern2.R_eight</key>
-  <array>
-    <string>eight</string>
-    <string>eight.osf</string>
-  </array>
   <key>public.kern2.R_eight.dnom</key>
   <array>
     <string>eight.sinf</string>
@@ -2949,10 +2893,6 @@
   <array>
     <string>figurespace</string>
   </array>
-  <key>public.kern2.R_five</key>
-  <array>
-    <string>five</string>
-  </array>
   <key>public.kern2.R_five.dnom</key>
   <array>
     <string>five.sinf</string>
@@ -2968,10 +2908,6 @@
   <key>public.kern2.R_florin</key>
   <array>
     <string>florin</string>
-  </array>
-  <key>public.kern2.R_four</key>
-  <array>
-    <string>four</string>
   </array>
   <key>public.kern2.R_four.dnom</key>
   <array>
@@ -3300,10 +3236,6 @@
   <array>
     <string>nbspace</string>
   </array>
-  <key>public.kern2.R_nine</key>
-  <array>
-    <string>nine</string>
-  </array>
   <key>public.kern2.R_nine.dnom</key>
   <array>
     <string>nine.sinf</string>
@@ -3469,10 +3401,6 @@
     <string>ogonek</string>
     <string>ogonekcomb</string>
   </array>
-  <key>public.kern2.R_one</key>
-  <array>
-    <string>one</string>
-  </array>
   <key>public.kern2.R_one.dnom</key>
   <array>
     <string>one.sinf</string>
@@ -3523,9 +3451,7 @@
   </array>
   <key>public.kern2.R_period</key>
   <array>
-    <string>comma</string>
     <string>ellipsis</string>
-    <string>period</string>
     <string>period.sc</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
@@ -3654,10 +3580,6 @@
   <array>
     <string>semisoftsign-cy</string>
   </array>
-  <key>public.kern2.R_seven</key>
-  <array>
-    <string>seven</string>
-  </array>
   <key>public.kern2.R_seven.dnom</key>
   <array>
     <string>seven.sinf</string>
@@ -3737,10 +3659,6 @@
   <array>
     <string>thinspace</string>
   </array>
-  <key>public.kern2.R_three</key>
-  <array>
-    <string>three</string>
-  </array>
   <key>public.kern2.R_three.dnom</key>
   <array>
     <string>three.sinf</string>
@@ -3790,10 +3708,6 @@
   <key>public.kern2.R_tshe-cy</key>
   <array>
     <string>tshe-cy</string>
-  </array>
-  <key>public.kern2.R_two</key>
-  <array>
-    <string>two</string>
   </array>
   <key>public.kern2.R_two.dnom</key>
   <array>
@@ -3942,12 +3856,6 @@
     <string>zcaron</string>
     <string>zdotaccent</string>
     <string>zdotbelow</string>
-  </array>
-  <key>public.kern2.R_zero</key>
-  <array>
-    <string>six</string>
-    <string>six.osf</string>
-    <string>zero</string>
   </array>
   <key>public.kern2.R_zero.dnom</key>
   <array>

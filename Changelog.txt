@@ -80,3 +80,8 @@ Changelog of Argentum Sans, v3.8 (in no particular order):
 
 Changelog of Argentum Sans, v3.9 (in no particular order):
 - Redrawn G in Italic
+
+Changelog of Argentum Sans, v3.11 (in no particular order):
+- Reverted back to tabular figures as default (as of prior
+  to version 3.0)
+- Re-adjusted spacing and kerning to tabular figures
