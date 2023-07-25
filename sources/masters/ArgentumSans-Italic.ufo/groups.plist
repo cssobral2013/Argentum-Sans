@@ -392,6 +392,7 @@
     <string>Adblgrave</string>
     <string>Adieresis</string>
     <string>Adieresis-cy</string>
+    <string>Adieresis.alt</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
     <string>Ahookabove</string>
@@ -429,7 +430,6 @@
     <string>Ccedillaacute</string>
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
-    <string>Chedescenderabkhasian-cy</string>
     <string>E-cy</string>
     <string>Es-cy</string>
     <string>Esdescender-cy</string>
@@ -518,7 +518,7 @@
     <string>Gmacron</string>
     <string>guarani</string>
   </array>
-  <key>public.kern1.L_Gamma</key>
+  <key>public.kern1.L_Ge-cy</key>
   <array>
     <string>Enghe-cy</string>
     <string>Ge-cy</string>
@@ -609,12 +609,14 @@
   <key>public.kern1.L_O</key>
   <array>
     <string>Cheabkhasian-cy</string>
+    <string>Chedescenderabkhasian-cy</string>
     <string>D</string>
     <string>Dcaron</string>
     <string>Dcroat</string>
     <string>Ddotbelow</string>
     <string>Dlinebelow</string>
     <string>Edieresis-cy</string>
+    <string>Ef-cy</string>
     <string>Ef-cy.loclBGR</string>
     <string>Ereversed-cy</string>
     <string>Eth</string>
@@ -681,10 +683,6 @@
     <string>P</string>
     <string>ruble</string>
   </array>
-  <key>public.kern1.L_Phi</key>
-  <array>
-    <string>Ef-cy</string>
-  </array>
   <key>public.kern1.L_R</key>
   <array>
     <string>R</string>
@@ -714,6 +712,7 @@
   </array>
   <key>public.kern1.L_Shha-cy</key>
   <array>
+    <string>Pemiddlehook-cy</string>
     <string>Shha-cy</string>
   </array>
   <key>public.kern1.L_Softsign-cy</key>
@@ -764,6 +763,7 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
+    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhookabove</string>
@@ -912,6 +912,14 @@
   <array>
     <string>braceleft.case</string>
     <string>bracketleft.case</string>
+  </array>
+  <key>public.kern1.L_braceright</key>
+  <array>
+    <string>braceright</string>
+  </array>
+  <key>public.kern1.L_braceright.case</key>
+  <array>
+    <string>braceright.case</string>
   </array>
   <key>public.kern1.L_bracketright</key>
   <array>
@@ -1286,7 +1294,6 @@
   <key>public.kern1.L_hyphen</key>
   <array>
     <string>asciitilde</string>
-    <string>braceright</string>
     <string>bullet</string>
     <string>divide</string>
     <string>guillemetright</string>
@@ -1302,7 +1309,6 @@
   </array>
   <key>public.kern1.L_hyphen.case</key>
   <array>
-    <string>braceright.case</string>
     <string>bullet.case</string>
     <string>guillemetright.case</string>
     <string>guilsinglright.case</string>
@@ -1425,6 +1431,33 @@
   <key>public.kern1.L_n</key>
   <array>
     <string>T_h</string>
+    <string>a</string>
+    <string>aacute</string>
+    <string>abreve</string>
+    <string>abreve-cy</string>
+    <string>abreveacute</string>
+    <string>abrevedotbelow</string>
+    <string>abrevegrave</string>
+    <string>abrevehookabove</string>
+    <string>abrevetilde</string>
+    <string>acircumflex</string>
+    <string>acircumflexacute</string>
+    <string>acircumflexdotbelow</string>
+    <string>acircumflexgrave</string>
+    <string>acircumflexhookabove</string>
+    <string>acircumflextilde</string>
+    <string>adblgrave</string>
+    <string>adieresis</string>
+    <string>adieresis-cy</string>
+    <string>adotbelow</string>
+    <string>agrave</string>
+    <string>ahookabove</string>
+    <string>ainvertedbreve</string>
+    <string>amacron</string>
+    <string>aogonek</string>
+    <string>aring</string>
+    <string>aringacute</string>
+    <string>atilde</string>
     <string>en-cy.loclBGR</string>
     <string>eng</string>
     <string>h</string>
@@ -1593,7 +1626,6 @@
     <string>comma</string>
     <string>ellipsis</string>
     <string>period</string>
-    <string>period.sc</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
   </array>
@@ -1617,17 +1649,9 @@
   <array>
     <string>question</string>
   </array>
-  <key>public.kern1.L_question.sc</key>
-  <array>
-    <string>question.sc</string>
-  </array>
   <key>public.kern1.L_questiondown</key>
   <array>
     <string>questiondown</string>
-  </array>
-  <key>public.kern1.L_questiondown.sc</key>
-  <array>
-    <string>questiondown.sc</string>
   </array>
   <key>public.kern1.L_quoteleft</key>
   <array>
@@ -1635,20 +1659,10 @@
     <string>quotedblleft</string>
     <string>quoteleft</string>
   </array>
-  <key>public.kern1.L_quoteleft.sc</key>
-  <array>
-    <string>quotedblleft.sc</string>
-    <string>quoteleft.sc</string>
-  </array>
   <key>public.kern1.L_quoteright</key>
   <array>
     <string>quotedblright</string>
     <string>quoteright</string>
-  </array>
-  <key>public.kern1.L_quoteright.sc</key>
-  <array>
-    <string>quotedblright.sc</string>
-    <string>quoteright.sc</string>
   </array>
   <key>public.kern1.L_quotesingle</key>
   <array>
@@ -1656,11 +1670,6 @@
     <string>quotedbl</string>
     <string>quotesingle</string>
     <string>second</string>
-  </array>
-  <key>public.kern1.L_quotesingle.sc</key>
-  <array>
-    <string>quotedbl.sc</string>
-    <string>quotesingle.sc</string>
   </array>
   <key>public.kern1.L_r</key>
   <array>
@@ -1875,34 +1884,7 @@
   <array>
     <string>Lj</string>
     <string>Nj</string>
-    <string>a</string>
     <string>a-cy</string>
-    <string>aacute</string>
-    <string>abreve</string>
-    <string>abreve-cy</string>
-    <string>abreveacute</string>
-    <string>abrevedotbelow</string>
-    <string>abrevegrave</string>
-    <string>abrevehookabove</string>
-    <string>abrevetilde</string>
-    <string>acircumflex</string>
-    <string>acircumflexacute</string>
-    <string>acircumflexdotbelow</string>
-    <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
-    <string>acircumflextilde</string>
-    <string>adblgrave</string>
-    <string>adieresis</string>
-    <string>adieresis-cy</string>
-    <string>adotbelow</string>
-    <string>agrave</string>
-    <string>ahookabove</string>
-    <string>ainvertedbreve</string>
-    <string>amacron</string>
-    <string>aogonek</string>
-    <string>aring</string>
-    <string>aringacute</string>
-    <string>atilde</string>
     <string>che-cy</string>
     <string>che-cy.loclBGR</string>
     <string>chedescender-cy</string>
@@ -1973,6 +1955,7 @@
     <string>pe-cy</string>
     <string>pe-cy.loclSRB</string>
     <string>pedescender-cy</string>
+    <string>pemiddlehook-cy</string>
     <string>q</string>
     <string>qa-cy</string>
     <string>sha-cy</string>
@@ -2176,6 +2159,7 @@
     <string>Adblgrave</string>
     <string>Adieresis</string>
     <string>Adieresis-cy</string>
+    <string>Adieresis.alt</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
     <string>Ahookabove</string>
@@ -2361,6 +2345,7 @@
     <string>Palochka-cy</string>
     <string>Pe-cy</string>
     <string>Pedescender-cy</string>
+    <string>Pemiddlehook-cy</string>
     <string>R</string>
     <string>Racute</string>
     <string>Rcaron</string>
@@ -2403,6 +2388,7 @@
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
     <string>E-cy</string>
+    <string>Ef-cy</string>
     <string>Ef-cy.loclBGR</string>
     <string>Es-cy</string>
     <string>Esdescender-cy</string>
@@ -2476,10 +2462,6 @@
     <string>Ohm</string>
     <string>Omega</string>
   </array>
-  <key>public.kern2.R_Phi</key>
-  <array>
-    <string>Ef-cy</string>
-  </array>
   <key>public.kern2.R_S</key>
   <array>
     <string>Dze-cy</string>
@@ -2524,6 +2506,7 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
+    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhookabove</string>
@@ -2601,11 +2584,37 @@
   </array>
   <key>public.kern2.R_a</key>
   <array>
-    <string>aie-cy</string>
-  </array>
-  <key>public.kern2.R_a_slant</key>
-  <array>
+    <string>a</string>
+    <string>a-cy</string>
+    <string>aacute</string>
+    <string>abreve</string>
+    <string>abreve-cy</string>
+    <string>abreveacute</string>
+    <string>abrevedotbelow</string>
+    <string>abrevegrave</string>
+    <string>abrevehookabove</string>
+    <string>abrevetilde</string>
+    <string>acircumflex</string>
+    <string>acircumflexacute</string>
+    <string>acircumflexdotbelow</string>
+    <string>acircumflexgrave</string>
+    <string>acircumflexhookabove</string>
+    <string>acircumflextilde</string>
+    <string>adblgrave</string>
+    <string>adieresis</string>
+    <string>adieresis-cy</string>
+    <string>adotbelow</string>
+    <string>ae</string>
     <string>aeacute</string>
+    <string>agrave</string>
+    <string>ahookabove</string>
+    <string>aie-cy</string>
+    <string>ainvertedbreve</string>
+    <string>amacron</string>
+    <string>aogonek</string>
+    <string>aring</string>
+    <string>aringacute</string>
+    <string>atilde</string>
   </array>
   <key>public.kern2.R_acutecomb</key>
   <array>
@@ -2670,6 +2679,14 @@
   <key>public.kern2.R_blackSquare</key>
   <array>
     <string>blackSquare</string>
+  </array>
+  <key>public.kern2.R_braceleft</key>
+  <array>
+    <string>braceleft</string>
+  </array>
+  <key>public.kern2.R_braceleft.case</key>
+  <array>
+    <string>braceleft.case</string>
   </array>
   <key>public.kern2.R_braceright</key>
   <array>
@@ -2945,6 +2962,10 @@
   <array>
     <string>exclamdown</string>
   </array>
+  <key>public.kern2.R_f</key>
+  <array>
+    <string>f</string>
+  </array>
   <key>public.kern2.R_figurespace</key>
   <array>
     <string>figurespace</string>
@@ -3029,10 +3050,6 @@
   <array>
     <string>hairspace</string>
   </array>
-  <key>public.kern2.R_hbar</key>
-  <array>
-    <string>hbar</string>
-  </array>
   <key>public.kern2.R_hookabovecomb</key>
   <array>
     <string>hookabovecomb</string>
@@ -3055,7 +3072,6 @@
   <key>public.kern2.R_hyphen</key>
   <array>
     <string>asciitilde</string>
-    <string>braceleft</string>
     <string>bullet</string>
     <string>divide</string>
     <string>guillemetleft</string>
@@ -3073,7 +3089,6 @@
   </array>
   <key>public.kern2.R_hyphen.case</key>
   <array>
-    <string>braceleft.case</string>
     <string>bullet.case</string>
     <string>guillemetleft.case</string>
     <string>guilsinglleft.case</string>
@@ -3107,6 +3122,7 @@
     <string>dje-cy</string>
     <string>germandbls</string>
     <string>h</string>
+    <string>hbar</string>
     <string>hbrevebelow</string>
     <string>hcircumflex</string>
     <string>hdotbelow</string>
@@ -3278,6 +3294,7 @@
     <string>pe-cy</string>
     <string>pe-cy.loclBGR</string>
     <string>pedescender-cy</string>
+    <string>pemiddlehook-cy</string>
     <string>r</string>
     <string>racute</string>
     <string>rcaron</string>
@@ -3330,35 +3347,6 @@
   </array>
   <key>public.kern2.R_o</key>
   <array>
-    <string>a</string>
-    <string>a-cy</string>
-    <string>aacute</string>
-    <string>abreve</string>
-    <string>abreve-cy</string>
-    <string>abreveacute</string>
-    <string>abrevedotbelow</string>
-    <string>abrevegrave</string>
-    <string>abrevehookabove</string>
-    <string>abrevetilde</string>
-    <string>acircumflex</string>
-    <string>acircumflexacute</string>
-    <string>acircumflexdotbelow</string>
-    <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
-    <string>acircumflextilde</string>
-    <string>adblgrave</string>
-    <string>adieresis</string>
-    <string>adieresis-cy</string>
-    <string>adotbelow</string>
-    <string>ae</string>
-    <string>agrave</string>
-    <string>ahookabove</string>
-    <string>ainvertedbreve</string>
-    <string>amacron</string>
-    <string>aogonek</string>
-    <string>aring</string>
-    <string>aringacute</string>
-    <string>atilde</string>
     <string>c</string>
     <string>cacute</string>
     <string>ccaron</string>
@@ -3526,7 +3514,6 @@
     <string>comma</string>
     <string>ellipsis</string>
     <string>period</string>
-    <string>period.sc</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
   </array>
@@ -3550,17 +3537,9 @@
   <array>
     <string>question</string>
   </array>
-  <key>public.kern2.R_question.sc</key>
-  <array>
-    <string>question.sc</string>
-  </array>
   <key>public.kern2.R_questiondown</key>
   <array>
     <string>questiondown</string>
-  </array>
-  <key>public.kern2.R_questiondown.sc</key>
-  <array>
-    <string>questiondown.sc</string>
   </array>
   <key>public.kern2.R_quoteleft</key>
   <array>
@@ -3568,20 +3547,10 @@
     <string>quotedblleft</string>
     <string>quoteleft</string>
   </array>
-  <key>public.kern2.R_quoteleft.sc</key>
-  <array>
-    <string>quotedblleft.sc</string>
-    <string>quoteleft.sc</string>
-  </array>
   <key>public.kern2.R_quoteright</key>
   <array>
     <string>quotedblright</string>
     <string>quoteright</string>
-  </array>
-  <key>public.kern2.R_quoteright.sc</key>
-  <array>
-    <string>quotedblright.sc</string>
-    <string>quoteright.sc</string>
   </array>
   <key>public.kern2.R_quotesingle</key>
   <array>
@@ -3589,11 +3558,6 @@
     <string>quotedbl</string>
     <string>quotesingle</string>
     <string>second</string>
-  </array>
-  <key>public.kern2.R_quotesingle.sc</key>
-  <array>
-    <string>quotedbl.sc</string>
-    <string>quotesingle.sc</string>
   </array>
   <key>public.kern2.R_reversedze-cy</key>
   <array>
@@ -3711,7 +3675,6 @@
   </array>
   <key>public.kern2.R_t</key>
   <array>
-    <string>f</string>
     <string>fi</string>
     <string>fl</string>
     <string>t</string>
