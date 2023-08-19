@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+ <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
   <axis minimum="100" tag="wght" maximum="900" default="400" name="weight">

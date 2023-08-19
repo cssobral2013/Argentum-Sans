@@ -15,9 +15,9 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/ArgentumSans-BoldItalic.ufo" familyname="Argentum Sans" stylename="Bold Italic" name="BoldItalic">
+  <source filename="masters/ArgentumSans-LightItalic.ufo" familyname="Argentum Sans" stylename="Light Italic" name="LightItalic">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </source>
   <source filename="masters/ArgentumSans-Italic.ufo" familyname="Argentum Sans" stylename="Italic" name="Italic">
@@ -29,9 +29,9 @@
     <dimension xvalue="400" name="weight"/>
    </location>
   </source>
-  <source filename="masters/ArgentumSans-LightItalic.ufo" familyname="Argentum Sans" stylename="Light Italic" name="LightItalic">
+  <source filename="masters/ArgentumSans-BoldItalic.ufo" familyname="Argentum Sans" stylename="Bold Italic" name="BoldItalic">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </source>
  </sources>

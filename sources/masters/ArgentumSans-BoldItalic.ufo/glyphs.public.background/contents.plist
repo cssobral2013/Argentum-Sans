@@ -26,12 +26,10 @@
   <string>acutecomb.case.glif</string>
   <key>caroncomb.alt</key>
   <string>caroncomb.alt.glif</string>
+  <key>circumflexcomb.loclVIET</key>
+  <string>circumflexcomb.loclV_I_E_T_.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
-  <key>dieresiscomb.case</key>
-  <string>dieresiscomb.case.glif</string>
-  <key>dieresiscomb.narrow</key>
-  <string>dieresiscomb.narrow.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>enghe-cy</key>

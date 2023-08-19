@@ -304,6 +304,8 @@
   <string>I_dieresis.glif</string>
   <key>Idieresis-cy</key>
   <string>I_dieresis-cy.glif</string>
+  <key>Idieresis.double</key>
+  <string>I_dieresis.double.glif</string>
   <key>Idieresisacute</key>
   <string>I_dieresisacute.glif</string>
   <key>Idotaccent</key>
@@ -1518,6 +1520,8 @@
   <string>idieresis.glif</string>
   <key>idieresis-cy</key>
   <string>idieresis-cy.glif</string>
+  <key>idieresis.double</key>
+  <string>idieresis.double.glif</string>
   <key>idieresisacute</key>
   <string>idieresisacute.glif</string>
   <key>idotaccent</key>

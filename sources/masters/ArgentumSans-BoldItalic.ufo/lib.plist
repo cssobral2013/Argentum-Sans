@@ -1235,6 +1235,8 @@
     <string>te-cy.loclSRB</string>
     <string>softsign-cy.loclBGR</string>
     <string>hardsign-cy.loclBGR</string>
+    <string>Idieresis.double</string>
+    <string>idieresis.double</string>
   </array>
 </dict>
 </plist>

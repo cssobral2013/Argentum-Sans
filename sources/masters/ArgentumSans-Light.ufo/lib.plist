@@ -1223,6 +1223,8 @@
     <string>zedescender-cy</string>
     <string>Kadescender-cy</string>
     <string>kadescender-cy</string>
+    <string>Idieresis.double</string>
+    <string>idieresis.double</string>
   </array>
 </dict>
 </plist>
