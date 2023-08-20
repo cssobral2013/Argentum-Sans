@@ -104,10 +104,14 @@
   <string>Z_he-cy.glif</string>
   <key>Zhedescender-cy</key>
   <string>Z_hedescender-cy.glif</string>
+  <key>acutecomb.loclVIET</key>
+  <string>acutecomb.loclV_I_E_T_.glif</string>
   <key>be-cy</key>
   <string>be-cy.glif</string>
   <key>be-cy.loclSRB</key>
   <string>be-cy.loclS_R_B_.glif</string>
+  <key>brevecomb.case</key>
+  <string>brevecomb.case.glif</string>
   <key>che-cy</key>
   <string>che-cy.glif</string>
   <key>cheabkhasian-cy</key>
@@ -172,8 +176,12 @@
   <string>kastroke-cy.glif</string>
   <key>lje-cy</key>
   <string>lje-cy.glif</string>
+  <key>naira</key>
+  <string>naira.glif</string>
   <key>nje-cy</key>
   <string>nje-cy.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
   <key>question</key>

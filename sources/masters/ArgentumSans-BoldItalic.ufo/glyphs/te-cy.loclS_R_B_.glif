@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="te-cy.loclSRB" format="2">
   <advance width="1035"/>
-  <anchor x="553.699" y="547" name="_top"/>
-  <anchor x="595.139" y="770" name="top"/>
+  <anchor x="554" y="547" name="_top"/>
+  <anchor x="595" y="770" name="top"/>
   <outline>
     <component base="sha-cy.loclBGR"/>
     <contour>

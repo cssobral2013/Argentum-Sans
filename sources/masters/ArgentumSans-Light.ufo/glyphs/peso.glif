@@ -32,14 +32,30 @@
     </contour>
     <contour>
       <point x="34" y="518" type="line"/>
+      <point x="152" y="518" type="line"/>
+      <point x="215" y="518" type="line"/>
+      <point x="510" y="518" type="line"/>
+      <point x="572" y="518" type="line"/>
       <point x="709" y="518" type="line"/>
       <point x="709" y="538" type="line"/>
+      <point x="572" y="538" type="line"/>
+      <point x="510" y="538" type="line"/>
+      <point x="215" y="538" type="line"/>
+      <point x="152" y="538" type="line"/>
       <point x="34" y="538" type="line"/>
     </contour>
     <contour>
       <point x="34" y="408" type="line"/>
+      <point x="152" y="408" type="line"/>
+      <point x="215" y="408" type="line"/>
+      <point x="510" y="408" type="line"/>
+      <point x="572" y="408" type="line"/>
       <point x="709" y="408" type="line"/>
       <point x="709" y="428" type="line"/>
+      <point x="572" y="428" type="line"/>
+      <point x="510" y="428" type="line"/>
+      <point x="215" y="428" type="line"/>
+      <point x="152" y="428" type="line"/>
       <point x="34" y="428" type="line"/>
     </contour>
   </outline>

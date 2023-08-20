@@ -3,9 +3,8 @@
   <advance width="564"/>
   <unicode hex="1E09"/>
   <outline>
-    <component base="c"/>
-    <component base="cedillacomb" xOffset="128"/>
     <component base="acutecomb" xOffset="191"/>
+    <component base="ccedilla"/>
   </outline>
   <lib>
   <dict>

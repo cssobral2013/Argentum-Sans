@@ -3,7 +3,7 @@
   <advance width="349"/>
   <outline>
     <component base="ringcomb" xOffset="-50"/>
-    <component base="acutecomb.loclVIET" xOffset="31" yOffset="222"/>
+    <component base="acutecomb.loclVIET" xOffset="74" yOffset="130"/>
   </outline>
   <lib>
   <dict>

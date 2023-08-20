@@ -24,7 +24,7 @@
       <point x="109" y="700" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="578.189" y="0"/>
+  <guideline angle="90" x="578" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>
