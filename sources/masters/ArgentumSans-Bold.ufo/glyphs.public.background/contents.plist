@@ -6,6 +6,8 @@
   <string>E_ndescender-cy.glif</string>
   <key>Zhedescender-cy</key>
   <string>Z_hedescender-cy.glif</string>
+  <key>acutecomb.loclVIET</key>
+  <string>acutecomb.loclV_I_E_T_.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>f</key>
@@ -14,11 +16,19 @@
   <string>four.glif</string>
   <key>four.osf</key>
   <string>four.osf.glif</string>
+  <key>naira</key>
+  <string>naira.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>one.osf</key>
   <string>one.osf.glif</string>
+  <key>peso</key>
+  <string>peso.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>tbar</key>
   <string>tbar.glif</string>
+  <key>won</key>
+  <string>won.glif</string>
 </dict>
 </plist>

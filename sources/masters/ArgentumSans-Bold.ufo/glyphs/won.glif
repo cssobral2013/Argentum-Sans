@@ -22,16 +22,10 @@
       <point x="-2" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="5" y="375" type="line"/>
-      <point x="1065" y="375" type="line"/>
-      <point x="1065" y="445" type="line"/>
-      <point x="5" y="445" type="line"/>
-    </contour>
-    <contour>
-      <point x="15" y="261" type="line"/>
-      <point x="1055" y="261" type="line"/>
-      <point x="1055" y="331" type="line"/>
-      <point x="15" y="331" type="line"/>
+      <point x="5" y="315" type="line"/>
+      <point x="1065" y="315" type="line"/>
+      <point x="1065" y="385" type="line"/>
+      <point x="5" y="385" type="line"/>
     </contour>
   </outline>
   <lib>

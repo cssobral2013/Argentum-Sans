@@ -5,7 +5,7 @@
   <anchor x="327" y="902" name="top"/>
   <outline>
     <component base="ringcomb" xOffset="-9"/>
-    <component base="acutecomb.loclVIET" xOffset="85" yOffset="219"/>
+    <component base="acutecomb.loclVIET" xOffset="101" yOffset="127"/>
   </outline>
   <lib>
   <dict>

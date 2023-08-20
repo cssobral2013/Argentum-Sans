@@ -12,10 +12,6 @@
 @idieresis = [idieresis yi-cy];
 @ordn = [zero one two three four five six seven eight nine];
 #/< otclasses
-
-#/> tags
-@noexport = [commaaccentcomb.alt];
-#/< tags
 #< classes
 
 ###

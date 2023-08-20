@@ -72,6 +72,8 @@
   <string>K_averticalstroke-cy.glif</string>
   <key>Lje-cy</key>
   <string>L_je-cy.glif</string>
+  <key>M</key>
+  <string>M_.glif</string>
   <key>Nje-cy</key>
   <string>N_je-cy.glif</string>
   <key>O</key>
@@ -108,6 +110,8 @@
   <string>Z_he-cy.glif</string>
   <key>Zhedescender-cy</key>
   <string>Z_hedescender-cy.glif</string>
+  <key>acutecomb.loclVIET</key>
+  <string>acutecomb.loclV_I_E_T_.glif</string>
   <key>be-cy</key>
   <string>be-cy.glif</string>
   <key>be-cy.loclSRB</key>
@@ -182,16 +186,22 @@
   <string>kaverticalstroke-cy.glif</string>
   <key>lje-cy</key>
   <string>lje-cy.glif</string>
+  <key>naira</key>
+  <string>naira.glif</string>
   <key>nje-cy</key>
   <string>nje-cy.glif</string>
   <key>obarred-cy</key>
   <string>obarred-cy.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>pe-cy</key>
   <string>pe-cy.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>reversedze-cy</key>
   <string>reversedze-cy.glif</string>
+  <key>ringcomb_acutecomb</key>
+  <string>ringcomb_acutecomb.glif</string>
   <key>semisoftsign-cy</key>
   <string>semisoftsign-cy.glif</string>
   <key>seven</key>

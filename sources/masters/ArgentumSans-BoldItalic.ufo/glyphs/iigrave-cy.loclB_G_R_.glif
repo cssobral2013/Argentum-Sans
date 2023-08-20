@@ -3,7 +3,7 @@
   <advance width="693"/>
   <anchor x="372" y="0" name="bottomleft"/>
   <anchor x="631" y="0" name="bottomright"/>
-  <anchor x="539.976" y="770" name="top"/>
+  <anchor x="540" y="770" name="top"/>
   <outline>
     <component base="ii-cy.loclBGR"/>
     <component base="gravecomb" xOffset="141"/>

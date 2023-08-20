@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.osf" format="2">
-  <advance width="700"/>
+  <advance width="634"/>
   <outline>
     <contour>
-      <point x="16" y="325" type="line"/>
-      <point x="220" y="325" type="line"/>
-      <point x="220" y="525" type="line"/>
-      <point x="119" y="423" type="line"/>
-      <point x="441" y="423" type="line"/>
-      <point x="381" y="517" type="line"/>
-      <point x="109" y="-100" type="line"/>
-      <point x="354" y="-100" type="line"/>
-      <point x="595" y="447" type="line"/>
-      <point x="595" y="601" type="line"/>
-      <point x="16" y="601" type="line"/>
+      <point x="-17" y="325" type="line"/>
+      <point x="187" y="325" type="line"/>
+      <point x="187" y="525" type="line"/>
+      <point x="86" y="423" type="line"/>
+      <point x="408" y="423" type="line"/>
+      <point x="348" y="517" type="line"/>
+      <point x="76" y="-100" type="line"/>
+      <point x="321" y="-100" type="line"/>
+      <point x="562" y="447" type="line"/>
+      <point x="562" y="601" type="line"/>
+      <point x="-17" y="601" type="line"/>
     </contour>
   </outline>
   <lib>

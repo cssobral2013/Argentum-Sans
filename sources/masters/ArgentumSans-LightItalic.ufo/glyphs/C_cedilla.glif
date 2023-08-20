@@ -2,9 +2,59 @@
 <glyph name="Ccedilla" format="2">
   <advance width="711"/>
   <unicode hex="00C7"/>
+  <anchor x="304" y="-200" name="bottom"/>
+  <anchor x="437" y="518" name="top"/>
   <outline>
-    <component base="C"/>
-    <component base="cedillacomb.case" xScale="1.0016" yScale="1.0016" xOffset="213"/>
+    <contour>
+      <point x="453" y="704" type="curve" smooth="yes"/>
+      <point x="256" y="704"/>
+      <point x="79" y="546"/>
+      <point x="60" y="353" type="curve" smooth="yes"/>
+      <point x="42" y="170"/>
+      <point x="167" y="19"/>
+      <point x="345" y="-1" type="curve"/>
+      <point x="311" y="-73" type="line"/>
+      <point x="340" y="-73" type="line" smooth="yes"/>
+      <point x="371" y="-73"/>
+      <point x="387" y="-95"/>
+      <point x="387" y="-121" type="curve" smooth="yes"/>
+      <point x="387" y="-154"/>
+      <point x="357" y="-192"/>
+      <point x="306" y="-192" type="curve" smooth="yes"/>
+      <point x="284" y="-192"/>
+      <point x="259" y="-183"/>
+      <point x="246" y="-171" type="curve"/>
+      <point x="233" y="-191" type="line"/>
+      <point x="247" y="-204"/>
+      <point x="277" y="-213"/>
+      <point x="302" y="-213" type="curve" smooth="yes"/>
+      <point x="368" y="-213"/>
+      <point x="409" y="-162"/>
+      <point x="409" y="-117" type="curve" smooth="yes"/>
+      <point x="409" y="-85"/>
+      <point x="387" y="-55"/>
+      <point x="341" y="-54" type="curve"/>
+      <point x="366" y="-2" type="line"/>
+      <point x="463" y="-8"/>
+      <point x="559" y="28"/>
+      <point x="634" y="89" type="curve"/>
+      <point x="621" y="102" type="line"/>
+      <point x="556" y="48"/>
+      <point x="473" y="16"/>
+      <point x="385" y="16" type="curve" smooth="yes"/>
+      <point x="198" y="16"/>
+      <point x="61" y="166"/>
+      <point x="79" y="351" type="curve" smooth="yes"/>
+      <point x="97" y="536"/>
+      <point x="264" y="685"/>
+      <point x="453" y="685" type="curve" smooth="yes"/>
+      <point x="539" y="685"/>
+      <point x="616" y="654"/>
+      <point x="671" y="600" type="curve"/>
+      <point x="685" y="613" type="line"/>
+      <point x="627" y="670"/>
+      <point x="546" y="704"/>
+    </contour>
   </outline>
   <lib>
   <dict>

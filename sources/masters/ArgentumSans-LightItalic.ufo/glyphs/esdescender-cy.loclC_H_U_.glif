@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="esdescender-cy.loclCHU" format="2">
   <advance width="560"/>
-  <anchor x="242.219" y="-200" name="bottom"/>
-  <anchor x="375.219" y="517" name="top"/>
+  <anchor x="242" y="-200" name="bottom"/>
+  <anchor x="375" y="517" name="top"/>
   <outline>
     <component base="es-cy"/>
     <component base="cedillacomb" xOffset="151"/>
