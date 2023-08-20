@@ -86,4 +86,8 @@ Changelog of Argentum Sans, v3.11 (in no particular order):
   to version 3.0)
 - Re-adjusted spacing and kerning to tabular figures
 - Fixed dieresis on i (for Ukrainian language), later undone
+
+Changelog of Argentum Sans, v3.13 (in no particular order):
 - Added ligature for double I/idieresis
+- Widened G crossbar (both Roman and Italic)
+- Fixes in wonsign, naira, and peso

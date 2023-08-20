@@ -4,24 +4,19 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="126" y="517" type="line"/>
-      <point x="358" y="517" type="line"/>
-      <point x="277" y="618" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="388" y="0" type="line"/>
-      <point x="524" y="700" type="line"/>
-      <point x="161" y="700" type="line"/>
+      <point x="107" y="517" type="line"/>
+      <point x="330" y="517" type="line"/>
+      <point x="249" y="618" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="498" y="700" type="line"/>
+      <point x="144" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>RMXScaler</key>
-  <dict>
-    <key>monoWidth</key>
-    <integer>617</integer>
-  </dict>
   <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
+  <string>1,0.821,0.6,1</string>
   </dict>
   </lib>
 </glyph>
