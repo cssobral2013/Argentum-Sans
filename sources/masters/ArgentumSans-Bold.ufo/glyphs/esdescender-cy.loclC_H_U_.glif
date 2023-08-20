@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="esdescender-cy.loclCHU" format="2">
-  <advance width="618"/>
+  <advance width="561"/>
   <outline>
-    <component base="es-cy"/>
-    <component base="cedillacomb" xOffset="126"/>
+    <component base="ccedilla"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>c</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>c</string>
+  </dict>
+  </lib>
 </glyph>

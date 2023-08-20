@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="818"/>
+  <advance width="819"/>
   <unicode hex="0051"/>
   <anchor x="410" y="0" name="bottom"/>
   <anchor x="410" y="351" name="center"/>
@@ -10,10 +10,10 @@
   <anchor x="503" y="687" name="topright"/>
   <outline>
     <contour>
-      <point x="743" y="-6" type="line"/>
-      <point x="484" y="238" type="line"/>
-      <point x="506" y="244" type="line"/>
-      <point x="765" y="0" type="line"/>
+      <point x="748" y="-6" type="line"/>
+      <point x="489" y="238" type="line"/>
+      <point x="511" y="244" type="line"/>
+      <point x="770" y="0" type="line"/>
     </contour>
     <contour>
       <point x="410" y="704" type="curve" smooth="yes"/>
@@ -46,10 +46,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
   <key>public.markColor</key>
   <string>0.784,0.784,0.784,0</string>
   </dict>

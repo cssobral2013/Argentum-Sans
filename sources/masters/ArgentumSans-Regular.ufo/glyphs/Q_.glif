@@ -10,10 +10,10 @@
   <anchor x="470" y="712" name="topright"/>
   <outline>
     <contour>
-      <point x="687" y="-20" type="line"/>
-      <point x="424" y="246" type="line"/>
-      <point x="523" y="266" type="line"/>
-      <point x="786" y="0" type="line"/>
+      <point x="681" y="-20" type="line"/>
+      <point x="418" y="246" type="line"/>
+      <point x="533" y="266" type="line"/>
+      <point x="796" y="0" type="line"/>
     </contour>
     <contour>
       <point x="405" y="707" type="curve" smooth="yes"/>
@@ -46,10 +46,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>O</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>O</string>
   <key>public.markColor</key>
   <string>0.784,0.784,0.784,0</string>
   </dict>

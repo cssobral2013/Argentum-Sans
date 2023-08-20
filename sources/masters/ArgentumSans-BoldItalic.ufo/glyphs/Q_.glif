@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="850"/>
+  <advance width="796"/>
   <unicode hex="0051"/>
   <anchor x="383" y="0" name="bottom"/>
   <anchor x="414" y="351" name="center"/>

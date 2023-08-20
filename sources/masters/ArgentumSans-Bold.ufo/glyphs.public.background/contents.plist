@@ -8,6 +8,8 @@
   <string>Z_hedescender-cy.glif</string>
   <key>acutecomb.loclVIET</key>
   <string>acutecomb.loclV_I_E_T_.glif</string>
+  <key>cedillacomb</key>
+  <string>cedillacomb.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>f</key>
