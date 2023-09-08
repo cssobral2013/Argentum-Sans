@@ -2,8 +2,12 @@
 <glyph name="ushort-cy" format="2">
   <advance width="529"/>
   <unicode hex="045E"/>
+  <anchor x="217" y="592" name="top"/>
+  <anchor x="217" y="-269" name="bottom"/>
+  <anchor x="-136" y="162" name="left"/>
   <outline>
     <component base="u-cy"/>
+    <component base="brevecomb" xOffset="-5" yOffset="-70"/>
   </outline>
   <lib>
   <dict>

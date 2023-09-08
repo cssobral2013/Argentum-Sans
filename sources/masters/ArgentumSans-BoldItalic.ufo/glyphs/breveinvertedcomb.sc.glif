@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedcomb.sc" format="2">
   <advance width="578"/>
-  <anchor x="292" y="547" name="_top"/>
   <anchor x="314" y="769" name="top"/>
   <outline>
     <component base="breveinvertedcomb"/>

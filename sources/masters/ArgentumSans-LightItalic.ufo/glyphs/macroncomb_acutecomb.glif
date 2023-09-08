@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb_acutecomb" format="2">
   <advance width="448"/>
-  <anchor x="261" y="517" name="_top"/>
   <anchor x="321" y="824" name="top"/>
   <outline>
     <component base="macroncomb.loclVIET" xOffset="-46" yOffset="-1"/>

@@ -2,7 +2,6 @@
 <glyph name="dblgravecomb" format="2">
   <advance width="422"/>
   <unicode hex="030F"/>
-  <anchor x="294" y="517" name="_top"/>
   <anchor x="334" y="661" name="top"/>
   <outline>
     <contour>

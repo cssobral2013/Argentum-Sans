@@ -2,7 +2,6 @@
 <glyph name="dieresisbelowcomb" format="2">
   <advance width="445"/>
   <unicode hex="0324"/>
-  <anchor x="153" y="0" name="_bottom"/>
   <anchor x="117" y="-190" name="bottom"/>
   <outline>
     <component base="dieresiscomb" xOffset="-164" yOffset="-812"/>

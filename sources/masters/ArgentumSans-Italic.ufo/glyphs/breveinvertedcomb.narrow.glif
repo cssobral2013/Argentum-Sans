@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedcomb.narrow" format="2">
   <advance width="348"/>
-  <anchor x="245" y="531" name="_top"/>
   <anchor x="278" y="700" name="top"/>
   <outline>
     <contour>

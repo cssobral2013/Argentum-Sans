@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb_gravecomb" format="2">
   <advance width="404"/>
-  <anchor x="273" y="517" name="_top"/>
   <anchor x="312" y="705" name="top"/>
   <outline>
     <component base="dieresiscomb.loclVIET" xOffset="-12"/>

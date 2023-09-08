@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_acutecomb.sc" format="2">
   <advance width="578"/>
-  <anchor x="263" y="542" name="_top"/>
   <anchor x="321" y="832" name="top"/>
   <outline>
     <component base="brevecomb_acutecomb"/>

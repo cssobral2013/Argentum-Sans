@@ -4,6 +4,15 @@
   <unicode hex="0449"/>
   <outline>
     <component base="sha-cy"/>
+    <contour>
+      <point x="768" y="-141" type="line"/>
+      <point x="800" y="18" type="line"/>
+      <point x="691" y="18" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="778" y="8" type="line"/>
+      <point x="748" y="-141" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

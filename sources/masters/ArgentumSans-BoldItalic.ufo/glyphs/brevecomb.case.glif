@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.case" format="2">
   <advance width="432"/>
-  <anchor x="289" y="701" name="_top"/>
   <anchor x="325" y="911" name="top"/>
   <outline>
     <component base="brevecomb" xOffset="30" yOffset="152"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Esdescender-cy.loclBSH" format="2">
   <advance width="737"/>
-  <anchor x="387" y="0" name="_bottom"/>
   <outline>
     <component base="Es-cy"/>
     <contour>

@@ -152,6 +152,8 @@
   <string>ge-cy.loclB_G_R_.glif</string>
   <key>ghemiddlehook-cy</key>
   <string>ghemiddlehook-cy.glif</string>
+  <key>gravecomb.case</key>
+  <string>gravecomb.case.glif</string>
   <key>haabkhasian-cy</key>
   <string>haabkhasian-cy.glif</string>
   <key>hahook-cy</key>
@@ -164,6 +166,8 @@
   <string>ia-cy.glif</string>
   <key>ii-cy</key>
   <string>ii-cy.glif</string>
+  <key>iishort-cy</key>
+  <string>iishort-cy.glif</string>
   <key>iishorttail-cy</key>
   <string>iishorttail-cy.glif</string>
   <key>iu-cy</key>

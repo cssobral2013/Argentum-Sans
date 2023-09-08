@@ -2,8 +2,6 @@
 <glyph name="El-cy" format="2">
   <advance width="807"/>
   <unicode hex="041B"/>
-  <anchor x="513" y="0" name="#exit"/>
-  <anchor x="513" y="0" name="bottomleft"/>
   <outline>
     <contour>
       <point x="114" y="-13" type="curve" smooth="yes"/>

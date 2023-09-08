@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dblgravecomb.sc" format="2">
   <advance width="578"/>
-  <anchor x="314" y="551" name="_top"/>
   <anchor x="306" y="762" name="top"/>
   <outline>
     <component base="dblgravecomb"/>

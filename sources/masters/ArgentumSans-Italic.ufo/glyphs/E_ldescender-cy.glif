@@ -2,7 +2,6 @@
 <glyph name="Eldescender-cy" format="2">
   <advance width="815"/>
   <unicode hex="052E"/>
-  <anchor x="522" y="0" name="#exit"/>
   <anchor x="522" y="0" name="bottomleft"/>
   <outline>
     <contour>

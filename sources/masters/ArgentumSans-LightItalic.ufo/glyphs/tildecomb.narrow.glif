@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.narrow" format="2">
   <advance width="427"/>
-  <anchor x="276" y="517" name="_top"/>
   <anchor x="301" y="640" name="top"/>
   <outline>
     <contour>

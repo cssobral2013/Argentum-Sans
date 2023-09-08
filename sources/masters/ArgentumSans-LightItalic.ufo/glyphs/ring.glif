@@ -2,7 +2,6 @@
 <glyph name="ring" format="2">
   <advance width="473"/>
   <unicode hex="02DA"/>
-  <anchor x="290" y="517" name="_top"/>
   <anchor x="325" y="698" name="top"/>
   <outline>
     <component base="ringcomb"/>

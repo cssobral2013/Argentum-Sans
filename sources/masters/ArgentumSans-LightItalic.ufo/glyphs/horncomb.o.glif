@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="horncomb.o" format="2">
   <advance width="377"/>
-  <anchor x="95" y="517" name="_topright"/>
   <outline>
     <contour>
       <point x="223" y="624" type="line"/>

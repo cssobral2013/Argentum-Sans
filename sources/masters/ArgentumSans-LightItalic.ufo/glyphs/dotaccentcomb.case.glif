@@ -2,7 +2,6 @@
 <glyph name="dotaccentcomb.case" format="2">
   <advance width="332"/>
   <anchor x="274" y="802" name="_center"/>
-  <anchor x="254" y="699" name="_top"/>
   <anchor x="289" y="879" name="top"/>
   <outline>
     <component base="dotaccentcomb" xOffset="27" yOffset="136"/>

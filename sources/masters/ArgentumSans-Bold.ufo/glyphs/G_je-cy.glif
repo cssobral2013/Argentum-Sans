@@ -2,7 +2,6 @@
 <glyph name="Gje-cy" format="2">
   <advance width="611"/>
   <unicode hex="0403"/>
-  <anchor x="62" y="0" name="_bottomleft"/>
   <anchor x="62" y="0" name="bottomleft"/>
   <anchor x="536" y="0" name="bottomright"/>
   <anchor x="358" y="910" name="top"/>

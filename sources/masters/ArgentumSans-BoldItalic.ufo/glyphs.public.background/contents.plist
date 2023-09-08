@@ -8,8 +8,14 @@
   <string>E_f-cy.glif</string>
   <key>Enghe-cy</key>
   <string>E_nghe-cy.glif</string>
+  <key>Ereversed-cy</key>
+  <string>E_reversed-cy.glif</string>
   <key>Ghestroke-cy</key>
   <string>G_hestroke-cy.glif</string>
+  <key>Ia-cy</key>
+  <string>I_a-cy.glif</string>
+  <key>Iu-cy</key>
+  <string>I_u-cy.glif</string>
   <key>K</key>
   <string>K_.glif</string>
   <key>Kadescender-cy</key>
@@ -26,6 +32,8 @@
   <string>acutecomb.glif</string>
   <key>acutecomb.case</key>
   <string>acutecomb.case.glif</string>
+  <key>brevecomb</key>
+  <string>brevecomb.glif</string>
   <key>caroncomb.alt</key>
   <string>caroncomb.alt.glif</string>
   <key>comma</key>
@@ -40,6 +48,14 @@
   <string>five.osf.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>gravecomb.case</key>
+  <string>gravecomb.case.glif</string>
+  <key>ia-cy</key>
+  <string>ia-cy.glif</string>
+  <key>ii-cy</key>
+  <string>ii-cy.glif</string>
+  <key>iu-cy</key>
+  <string>iu-cy.glif</string>
   <key>naira</key>
   <string>naira.glif</string>
   <key>nine</key>
@@ -62,6 +78,8 @@
   <string>s.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>shcha-cy</key>
+  <string>shcha-cy.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>three</key>

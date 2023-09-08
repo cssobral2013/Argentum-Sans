@@ -4,6 +4,7 @@
   <unicode hex="045E"/>
   <outline>
     <component base="u-cy"/>
+    <component base="brevecomb" xOffset="113"/>
   </outline>
   <lib>
   <dict>

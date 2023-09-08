@@ -2,7 +2,6 @@
 <glyph name="Enghe-cy" format="2">
   <advance width="958"/>
   <unicode hex="04A4"/>
-  <anchor x="493" y="0" name="#exit"/>
   <anchor x="493" y="0" name="bottomleft"/>
   <anchor x="813" y="0" name="bottomright"/>
   <anchor x="834" y="700" name="top"/>

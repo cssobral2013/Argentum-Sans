@@ -2,7 +2,6 @@
 <glyph name="Zhebreve-cy" format="2">
   <advance width="974"/>
   <unicode hex="04C1"/>
-  <anchor x="488" y="700" name="_top"/>
   <outline>
     <component base="Zhe-cy"/>
     <contour>

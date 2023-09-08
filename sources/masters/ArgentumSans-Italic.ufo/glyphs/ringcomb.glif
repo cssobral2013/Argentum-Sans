@@ -2,7 +2,6 @@
 <glyph name="ringcomb" format="2">
   <advance width="344"/>
   <unicode hex="030A"/>
-  <anchor x="228" y="533" name="_top"/>
   <anchor x="270" y="750" name="top"/>
   <outline>
     <contour>

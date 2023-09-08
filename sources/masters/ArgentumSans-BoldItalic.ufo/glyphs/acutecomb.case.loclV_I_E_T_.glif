@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.case.loclVIET" format="2">
   <advance width="334"/>
-  <anchor x="221" y="701" name="_top"/>
   <anchor x="292" y="911" name="top"/>
   <outline>
     <component base="acutecomb.loclVIET" xOffset="29" yOffset="141"/>

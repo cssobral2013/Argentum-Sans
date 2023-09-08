@@ -2,7 +2,6 @@
 <glyph name="dotbelowcomb" format="2">
   <advance width="318"/>
   <unicode hex="0323"/>
-  <anchor x="103" y="0" name="_bottom"/>
   <anchor x="48" y="-283" name="bottom"/>
   <anchor x="186" y="547" name="top"/>
   <outline>

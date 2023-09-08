@@ -2,7 +2,6 @@
 <glyph name="entail-cy" format="2">
   <advance width="743"/>
   <unicode hex="04CA"/>
-  <anchor x="377" y="0" name="_bottomleft"/>
   <outline>
     <component base="en-cy"/>
     <contour>

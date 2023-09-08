@@ -2,7 +2,6 @@
 <glyph name="tildecomb" format="2">
   <advance width="486"/>
   <unicode hex="0303"/>
-  <anchor x="297" y="531" name="_top"/>
   <anchor x="332" y="710" name="top"/>
   <outline>
     <contour>

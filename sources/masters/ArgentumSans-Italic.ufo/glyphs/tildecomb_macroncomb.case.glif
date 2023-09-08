@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb_macroncomb.case" format="2">
   <advance width="334"/>
-  <anchor x="243" y="700" name="_top"/>
   <anchor x="300" y="984" name="top"/>
   <outline>
     <component base="tildecomb_macroncomb" xOffset="3" yOffset="163"/>

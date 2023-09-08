@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zedescender-cy.loclBSH" format="2">
   <advance width="646"/>
-  <anchor x="304" y="0" name="_bottom"/>
   <outline>
     <component base="Ze-cy"/>
     <contour>

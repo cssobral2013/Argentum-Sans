@@ -2,7 +2,6 @@
 <glyph name="esdescender-cy" format="2">
   <advance width="575"/>
   <unicode hex="04AB"/>
-  <anchor x="314" y="0" name="_bottom"/>
   <outline>
     <component base="es-cy"/>
     <contour>

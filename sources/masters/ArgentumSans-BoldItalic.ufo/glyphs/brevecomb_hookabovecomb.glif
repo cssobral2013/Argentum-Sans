@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb" format="2">
   <advance width="434"/>
-  <anchor x="256" y="547" name="_top"/>
   <anchor x="335" y="955" name="top"/>
   <outline>
     <component base="brevecomb.loclVIET" xOffset="-6"/>

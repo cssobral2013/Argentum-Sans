@@ -2,7 +2,6 @@
 <glyph name="hungarumlautcomb" format="2">
   <advance width="538"/>
   <unicode hex="030B"/>
-  <anchor x="294" y="547" name="_top"/>
   <anchor x="339" y="780" name="top"/>
   <outline>
     <contour>

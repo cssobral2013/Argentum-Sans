@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.loclVIET" format="2">
   <advance width="282"/>
-  <anchor x="188" y="531" name="_top"/>
   <anchor x="232" y="758" name="top"/>
   <outline>
     <contour>

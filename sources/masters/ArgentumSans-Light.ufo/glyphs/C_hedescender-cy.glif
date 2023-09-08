@@ -2,7 +2,6 @@
 <glyph name="Chedescender-cy" format="2">
   <advance width="737"/>
   <unicode hex="04B6"/>
-  <anchor x="563" y="0" name="_bottomleft"/>
   <outline>
     <component base="Che-cy"/>
     <contour>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.sc" format="2">
   <advance width="359"/>
-  <anchor x="235" y="542" name="_top"/>
   <anchor x="263" y="751" name="top"/>
   <outline>
     <component base="hookabovecomb"/>

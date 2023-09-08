@@ -2,7 +2,6 @@
 <glyph name="Abreve-cy" format="2">
   <advance width="766"/>
   <unicode hex="04D0"/>
-  <anchor x="470" y="700" name="_top"/>
   <outline>
     <component base="A-cy"/>
     <contour>

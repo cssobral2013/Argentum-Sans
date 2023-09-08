@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb_dotaccentcomb.sc" format="2">
   <advance width="578"/>
-  <anchor x="197" y="547" name="_top"/>
   <anchor x="287" y="997" name="top"/>
   <outline>
     <component base="acutecomb_dotaccentcomb"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb.sc" format="2">
   <advance width="314"/>
-  <anchor x="111" y="0" name="_bottom"/>
   <anchor x="53" y="-222" name="bottom"/>
   <anchor x="220" y="574" name="top"/>
   <outline>

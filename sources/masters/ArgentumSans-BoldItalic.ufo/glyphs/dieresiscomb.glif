@@ -2,7 +2,6 @@
 <glyph name="dieresiscomb" format="2">
   <advance width="476"/>
   <unicode hex="0308"/>
-  <anchor x="294" y="547" name="_top"/>
   <anchor x="337" y="770" name="top"/>
   <outline>
     <contour>

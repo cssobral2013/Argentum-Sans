@@ -2,7 +2,6 @@
 <glyph name="iishorttail-cy" format="2">
   <advance width="688"/>
   <unicode hex="048B"/>
-  <anchor x="484" y="0" name="_bottomleft"/>
   <outline>
     <component base="ii-cy"/>
     <component base="brevecomb" xOffset="117"/>

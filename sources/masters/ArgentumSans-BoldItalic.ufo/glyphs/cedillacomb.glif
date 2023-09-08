@@ -2,7 +2,6 @@
 <glyph name="cedillacomb" format="2">
   <advance width="348"/>
   <unicode hex="0327"/>
-  <anchor x="117" y="0" name="_bottom"/>
   <anchor x="37" y="-265" name="bottom"/>
   <anchor x="217" y="547" name="top"/>
   <outline>

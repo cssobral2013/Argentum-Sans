@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb.loclVIET" format="2">
   <advance width="285"/>
-  <anchor x="230" y="547" name="_top"/>
   <anchor x="239" y="752" name="top"/>
   <outline>
     <contour>

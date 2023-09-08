@@ -2,7 +2,6 @@
 <glyph name="gedescender-cy" format="2">
   <advance width="449"/>
   <unicode hex="04F7"/>
-  <anchor x="117" y="0" name="_bottomleft"/>
   <outline>
     <component base="ge-cy"/>
     <contour>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.case.loclVIET" format="2">
   <advance width="410"/>
-  <anchor x="284" y="700" name="_top"/>
   <anchor x="321" y="890" name="top"/>
   <outline>
     <component base="caroncomb.loclVIET" xOffset="33" yOffset="162"/>

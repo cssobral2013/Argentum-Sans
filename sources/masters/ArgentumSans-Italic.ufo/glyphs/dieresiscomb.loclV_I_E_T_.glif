@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb.loclVIET" format="2">
   <advance width="436"/>
-  <anchor x="272" y="532" name="_top"/>
   <anchor x="296" y="660" name="top"/>
   <outline>
     <contour>

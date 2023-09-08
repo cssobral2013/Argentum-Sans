@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb.loclVIET" format="2">
   <advance width="332"/>
-  <anchor x="219" y="517" name="_top"/>
   <anchor x="236" y="604" name="top"/>
   <outline>
     <contour>

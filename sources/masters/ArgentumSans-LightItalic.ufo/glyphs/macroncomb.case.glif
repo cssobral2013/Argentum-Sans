@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb.case" format="2">
   <advance width="509"/>
-  <anchor x="343" y="699" name="_top"/>
   <anchor x="382" y="879" name="top"/>
   <outline>
     <contour>

@@ -2,7 +2,6 @@
 <glyph name="En-cy" format="2">
   <advance width="819"/>
   <unicode hex="041D"/>
-  <anchor x="605" y="0" name="#exit"/>
   <anchor x="605" y="0" name="bottomleft"/>
   <outline>
     <component base="H" xOffset="4"/>

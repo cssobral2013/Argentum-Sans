@@ -2,7 +2,6 @@
 <glyph name="horncomb" format="2">
   <advance width="373"/>
   <unicode hex="031B"/>
-  <anchor x="159" y="517" name="_topright"/>
   <outline>
     <contour>
       <point x="227" y="626" type="line"/>

@@ -2,7 +2,6 @@
 <glyph name="El-cy" format="2">
   <advance width="793"/>
   <unicode hex="041B"/>
-  <anchor x="523" y="0" name="#exit"/>
   <anchor x="523" y="0" name="bottomleft"/>
   <outline>
     <contour>

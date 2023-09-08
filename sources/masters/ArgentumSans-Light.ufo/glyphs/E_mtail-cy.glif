@@ -2,7 +2,6 @@
 <glyph name="Emtail-cy" format="2">
   <advance width="978"/>
   <unicode hex="04CD"/>
-  <anchor x="807" y="0" name="_bottomleft"/>
   <outline>
     <component base="Em-cy"/>
     <contour>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.loclVIET" format="2">
   <advance width="467"/>
-  <anchor x="298" y="547" name="_top"/>
   <anchor x="324" y="736" name="top"/>
   <outline>
     <contour>

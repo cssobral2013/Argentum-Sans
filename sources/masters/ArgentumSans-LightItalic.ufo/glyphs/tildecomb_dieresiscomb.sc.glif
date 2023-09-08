@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb_dieresiscomb.sc" format="2">
   <advance width="284"/>
-  <anchor x="219" y="542" name="_top"/>
   <anchor x="238" y="789" name="top"/>
   <outline>
     <component base="tildecomb_dieresiscomb" xOffset="-40"/>

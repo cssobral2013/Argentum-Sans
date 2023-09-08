@@ -2,7 +2,6 @@
 <glyph name="eldescender-cy" format="2">
   <advance width="627"/>
   <unicode hex="052F"/>
-  <anchor x="476" y="0" name="_bottomleft"/>
   <outline>
     <component base="el-cy"/>
     <contour>

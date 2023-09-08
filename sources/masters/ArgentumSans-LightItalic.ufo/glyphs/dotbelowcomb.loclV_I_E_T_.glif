@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotbelowcomb.loclVIET" format="2">
   <advance width="332"/>
-  <anchor x="114" y="0" name="_bottom"/>
   <anchor x="88" y="-132" name="bottom"/>
   <outline>
     <component base="dotaccentcomb" xOffset="-154" yOffset="-772"/>

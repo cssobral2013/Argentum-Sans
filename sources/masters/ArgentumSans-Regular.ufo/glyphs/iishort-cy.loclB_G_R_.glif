@@ -3,5 +3,6 @@
   <advance width="672"/>
   <outline>
     <component base="ii-cy.loclBGR"/>
+    <component base="brevecomb" xOffset="131" yOffset="-30"/>
   </outline>
 </glyph>

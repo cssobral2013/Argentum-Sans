@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb.case" format="2">
   <advance width="439"/>
-  <anchor x="315" y="701" name="_top"/>
   <anchor x="354" y="911" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="29" yOffset="145"/>

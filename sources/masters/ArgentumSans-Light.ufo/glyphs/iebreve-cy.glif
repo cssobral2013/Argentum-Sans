@@ -2,7 +2,6 @@
 <glyph name="iebreve-cy" format="2">
   <advance width="613"/>
   <unicode hex="04D7"/>
-  <anchor x="301" y="517" name="_top"/>
   <outline>
     <component base="ie-cy"/>
     <contour>

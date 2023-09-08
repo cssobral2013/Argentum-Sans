@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.alt" format="2">
   <advance width="344"/>
-  <anchor x="250" y="700" name="_topright"/>
   <outline>
     <contour>
       <point x="215.301" y="520.728" type="line"/>

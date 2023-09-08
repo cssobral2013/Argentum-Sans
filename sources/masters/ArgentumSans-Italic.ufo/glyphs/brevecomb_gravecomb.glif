@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_gravecomb" format="2">
   <advance width="383"/>
-  <anchor x="255" y="531" name="_top"/>
   <anchor x="320" y="867" name="top"/>
   <outline>
     <component base="brevecomb.loclVIET" xOffset="11"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb_acutecomb" format="2">
   <advance width="376"/>
-  <anchor x="228" y="547" name="_top"/>
   <anchor x="345" y="994" name="top"/>
   <outline>
     <component base="ringcomb" xOffset="7"/>

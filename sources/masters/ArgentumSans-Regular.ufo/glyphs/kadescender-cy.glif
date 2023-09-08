@@ -2,7 +2,6 @@
 <glyph name="kadescender-cy" format="2">
   <advance width="607"/>
   <unicode hex="049B"/>
-  <anchor x="472" y="0" name="_bottomleft"/>
   <outline>
     <component base="ka-cy"/>
     <contour>

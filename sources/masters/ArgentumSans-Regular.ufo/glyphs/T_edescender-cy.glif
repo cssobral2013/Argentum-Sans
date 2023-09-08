@@ -2,7 +2,6 @@
 <glyph name="Tedescender-cy" format="2">
   <advance width="612"/>
   <unicode hex="04AC"/>
-  <anchor x="249" y="0" name="_bottomleft"/>
   <outline>
     <component base="Te-cy"/>
     <contour>

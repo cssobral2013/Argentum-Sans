@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb_acutecomb.case" format="2">
   <advance width="433"/>
-  <anchor x="285" y="699" name="_top"/>
   <anchor x="344" y="964" name="top"/>
   <outline>
     <component base="dieresiscomb_acutecomb" xOffset="31" yOffset="152"/>

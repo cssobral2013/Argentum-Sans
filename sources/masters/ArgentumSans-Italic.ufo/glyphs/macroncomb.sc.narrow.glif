@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb.sc.narrow" format="2">
   <advance width="578"/>
-  <anchor x="286" y="551" name="_top"/>
   <anchor x="314" y="695" name="top"/>
   <outline>
     <component base="macroncomb.narrow" xOffset="-4" yOffset="-20"/>

@@ -2,7 +2,6 @@
 <glyph name="Softsign-cy" format="2">
   <advance width="734"/>
   <unicode hex="042C"/>
-  <anchor x="7" y="0" name="#entry"/>
   <anchor x="251" y="580" name="center"/>
   <outline>
     <contour>

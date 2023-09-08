@@ -2,7 +2,6 @@
 <glyph name="Chedescenderabkhasian-cy" format="2">
   <advance width="1049"/>
   <unicode hex="04BE"/>
-  <anchor x="660" y="0" name="_bottom"/>
   <outline>
     <component base="Cheabkhasian-cy"/>
     <contour>

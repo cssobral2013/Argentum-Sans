@@ -2,7 +2,6 @@
 <glyph name="brevecomb" format="2">
   <advance width="457"/>
   <unicode hex="0306"/>
-  <anchor x="271" y="517" name="_top"/>
   <anchor x="295" y="640" name="top"/>
   <outline>
     <contour>

@@ -2,7 +2,6 @@
 <glyph name="eltail-cy" format="2">
   <advance width="669"/>
   <unicode hex="04C6"/>
-  <anchor x="447" y="0" name="_bottomleft"/>
   <outline>
     <component base="el-cy"/>
     <contour>

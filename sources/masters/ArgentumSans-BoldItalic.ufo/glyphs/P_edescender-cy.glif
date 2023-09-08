@@ -2,7 +2,6 @@
 <glyph name="Pedescender-cy" format="2">
   <advance width="845"/>
   <unicode hex="0524"/>
-  <anchor x="452" y="0" name="_bottomleft"/>
   <outline>
     <component base="Pe-cy"/>
     <contour>

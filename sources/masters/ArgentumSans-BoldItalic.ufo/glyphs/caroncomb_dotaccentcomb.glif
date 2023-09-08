@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb_dotaccentcomb" format="2">
   <advance width="430"/>
-  <anchor x="269" y="547" name="_top"/>
   <anchor x="348" y="956" name="top"/>
   <outline>
     <component base="caroncomb.loclVIET" xOffset="-6"/>

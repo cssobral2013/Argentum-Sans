@@ -2,9 +2,10 @@
 <glyph name="io-cy" format="2">
   <advance width="623"/>
   <unicode hex="0451"/>
+  <anchor x="374" y="666" name="top"/>
   <outline>
     <component base="ie-cy"/>
-    <component base="dieresiscomb" xOffset="11"/>
+    <component base="dieresiscomb" xOffset="51"/>
   </outline>
   <lib>
   <dict>

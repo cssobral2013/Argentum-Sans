@@ -2,7 +2,6 @@
 <glyph name="commaaccentcomb" format="2">
   <advance width="306"/>
   <unicode hex="0326"/>
-  <anchor x="129" y="0" name="_bottom"/>
   <anchor x="84" y="-224" name="bottom"/>
   <outline>
     <contour>

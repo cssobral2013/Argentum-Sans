@@ -2,8 +2,6 @@
 <glyph name="ve-cy" format="2">
   <advance width="594"/>
   <unicode hex="0432"/>
-  <anchor x="298" y="0" name="bottom"/>
-  <anchor x="298" y="517" name="top"/>
   <outline>
     <contour>
       <point x="324" y="0" type="line" smooth="yes"/>

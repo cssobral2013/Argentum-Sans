@@ -29,26 +29,6 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   </dict>
   <dict>
     <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f2</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>333</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f4</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-244</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>90</integer>
     <key>name</key>
     <string>f1</string>
@@ -59,6 +39,16 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   </dict>
   <dict>
     <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f2</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>333</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
     <integer>90</integer>
     <key>name</key>
     <string>f3</string>
@@ -66,6 +56,16 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
     <integer>143</integer>
     <key>y</key>
     <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f4</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-244</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -261,6 +261,6 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>versionMinor</key>
   <integer>14</integer>
   <key>xHeight</key>
-  <integer>517</integer>
+  <integer>531</integer>
 </dict>
 </plist>

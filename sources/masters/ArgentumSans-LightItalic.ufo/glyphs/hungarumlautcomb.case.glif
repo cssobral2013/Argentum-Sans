@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb.case" format="2">
   <advance width="453"/>
-  <anchor x="279" y="699" name="_top"/>
   <anchor x="357" y="879" name="top"/>
   <outline>
     <contour>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_tildecomb.case" format="2">
   <advance width="480"/>
-  <anchor x="341" y="700" name="_top"/>
   <anchor x="408" y="1031" name="top"/>
   <outline>
     <component base="brevecomb_tildecomb" xOffset="97" yOffset="143"/>

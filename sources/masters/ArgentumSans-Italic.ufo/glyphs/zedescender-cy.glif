@@ -2,7 +2,6 @@
 <glyph name="zedescender-cy" format="2">
   <advance width="537"/>
   <unicode hex="0499"/>
-  <anchor x="203" y="0" name="_bottom"/>
   <outline>
     <component base="ze-cy"/>
     <contour>

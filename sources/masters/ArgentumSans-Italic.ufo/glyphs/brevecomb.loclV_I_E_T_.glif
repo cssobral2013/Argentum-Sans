@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.loclVIET" format="2">
   <advance width="401"/>
-  <anchor x="244" y="531" name="_top"/>
   <anchor x="270" y="665" name="top"/>
   <outline>
     <contour>

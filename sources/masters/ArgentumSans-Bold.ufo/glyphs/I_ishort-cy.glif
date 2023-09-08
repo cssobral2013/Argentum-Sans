@@ -2,8 +2,6 @@
 <glyph name="Iishort-cy" format="2">
   <advance width="819"/>
   <unicode hex="0419"/>
-  <anchor x="525" y="0" name="bottomleft"/>
-  <anchor x="410" y="700" name="_top"/>
   <outline>
     <component base="Ii-cy"/>
     <contour>
