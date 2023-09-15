@@ -14,7 +14,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>descender</key>
   <integer>-225</integer>
   <key>familyName</key>
-  <string>Argentum Sans</string>
+  <string>Argentum Sans VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -29,16 +29,6 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   </dict>
   <dict>
     <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>1184</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>0</integer>
     <key>name</key>
     <string>f2</string>
@@ -49,16 +39,6 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   </dict>
   <dict>
     <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f3</string>
-    <key>x</key>
-    <integer>143</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>0</integer>
     <key>name</key>
     <string>f4</string>
@@ -66,6 +46,26 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
     <integer>0</integer>
     <key>y</key>
     <integer>-244</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>1184</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f3</string>
+    <key>x</key>
+    <integer>143</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -110,7 +110,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>openTypeNameManufacturerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Argentum Sans</string>
+  <string>Argentum Sans VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold Italic</string>
   <key>openTypeNameVersion</key>
@@ -216,11 +216,11 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
     <integer>711</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>ArgentumSans-BoldItalic</string>
+  <string>ArgentumSansVF-BoldItalic</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Argentum Sans Bold Italic</string>
+  <string>Argentum Sans VF Bold Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -249,7 +249,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>Argentum Sans</string>
+  <string>Argentum Sans VF</string>
   <key>styleMapStyleName</key>
   <string>bold italic</string>
   <key>styleName</key>

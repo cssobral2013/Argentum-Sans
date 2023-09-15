@@ -10,10 +10,10 @@
   <anchor x="613" y="700" name="topright"/>
   <outline>
     <contour>
-      <point x="640" y="-20" type="line"/>
-      <point x="430" y="246" type="line"/>
-      <point x="537" y="266" type="line"/>
-      <point x="747" y="0" type="line"/>
+      <point x="642" y="-20" type="line"/>
+      <point x="432" y="246" type="line"/>
+      <point x="539" y="266" type="line"/>
+      <point x="749" y="0" type="line"/>
     </contour>
     <contour>
       <point x="451" y="707" type="curve" smooth="yes"/>
