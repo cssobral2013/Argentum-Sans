@@ -95,3 +95,8 @@ Changelog of Argentum Sans, v3.13 (in no particular order):
 Changelog of Argentum Sans, v3.14 (in no particular order):
 - Added mark and mkmk features
 - Some fixes in 1 and Q
+
+Changelog of Argentum Sans, v3.16 (in no particular order):
+- Some fixes on Q
+- Standalone otf files
+- Ported webfonts script to Python
