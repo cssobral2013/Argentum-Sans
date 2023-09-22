@@ -3,7 +3,7 @@
   <advance width="260"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="jdotless"/>
+    <component base="dotlessj"/>
     <component base="dotaccentcomb" xOffset="-17"/>
   </outline>
   <lib>

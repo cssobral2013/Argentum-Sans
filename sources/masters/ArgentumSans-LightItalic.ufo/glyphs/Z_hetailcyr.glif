@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhetailcyr" format="2">
+  <advance width="1021"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="Zhecyr"/>
+    <contour>
+      <point x="922" y="-165" type="line"/>
+      <point x="958" y="19" type="line"/>
+      <point x="869" y="19" type="line"/>
+      <point x="866" y="0" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="936" y="9" type="line"/>
+      <point x="902" y="-165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

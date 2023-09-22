@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Engecyr" format="2">
+  <advance width="1114"/>
+  <unicode hex="04A4"/>
+  <anchor x="372" y="0" name="bottom"/>
+  <anchor x="442" y="350" name="center"/>
+  <anchor x="1257" y="700" name="top"/>
+  <anchor x="142" y="700" name="topleft"/>
+  <anchor x="861" y="0" name="bottomleft"/>
+  <anchor x="1335" y="0" name="bottomright"/>
+  <outline>
+    <component base="Encyr"/>
+    <component base="Gecyr" xOffset="435"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Encyr_Gecyr</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

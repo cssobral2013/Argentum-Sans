@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ljecyr" format="2">
+  <advance width="897"/>
+  <unicode hex="0459"/>
+  <outline>
+    <component base="elcyr"/>
+    <component base="softcyr" xOffset="359"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

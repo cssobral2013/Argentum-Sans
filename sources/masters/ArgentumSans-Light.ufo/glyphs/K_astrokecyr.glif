@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kastrokecyr" format="2">
+  <advance width="706"/>
+  <unicode hex="049E"/>
+  <outline>
+    <component base="Kacyr" xOffset="22"/>
+    <contour>
+      <point x="390" y="575" type="line"/>
+      <point x="390" y="594" type="line"/>
+      <point x="40" y="594" type="line"/>
+      <point x="40" y="575" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

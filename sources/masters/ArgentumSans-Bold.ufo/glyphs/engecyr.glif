@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engecyr" format="2">
+  <advance width="922"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <component base="encyr"/>
+    <component base="gecyr" xOffset="379"/>
+  </outline>
+</glyph>

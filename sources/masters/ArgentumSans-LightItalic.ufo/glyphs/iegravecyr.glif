@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iegravecyr" format="2">
+  <advance width="623"/>
+  <unicode hex="0450"/>
+  <outline>
+    <component base="iecyr"/>
+    <component base="gravecomb" xOffset="11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

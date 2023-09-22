@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igravecyr.loclBGR" format="2">
+  <advance width="693"/>
+  <anchor x="372" y="0" name="bottomleft"/>
+  <anchor x="631" y="0" name="bottomright"/>
+  <anchor x="540" y="770" name="top"/>
+  <outline>
+    <component base="icyr.loclBGR"/>
+    <component base="gravecomb" xOffset="141"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>icyr.loclBGR+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

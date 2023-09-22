@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kastrokecyr" format="2">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="263" y="649" type="line"/>
+      <point x="263" y="665" type="line"/>
+      <point x="-11" y="665" type="line"/>
+      <point x="-11" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="517" type="line"/>
+      <point x="464" y="517" type="line"/>
+      <point x="120" y="164" type="line"/>
+      <point x="120" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="742" type="line"/>
+      <point x="104" y="742" type="line"/>
+      <point x="104" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="0" type="line"/>
+      <point x="259" y="293" type="line"/>
+      <point x="247" y="275" type="line"/>
+      <point x="482" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Kastroke-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -4,6 +4,8 @@
 <dict>
   <key>Eth</key>
   <string>E_th.glif</string>
+  <key>Euro</key>
+  <string>E_uro.glif</string>
   <key>H</key>
   <string>H_.glif</string>
   <key>Hbar</key>
@@ -40,6 +42,10 @@
   <string>ae.glif</string>
   <key>apostrophemod</key>
   <string>apostrophemod.glif</string>
+  <key>arrowup</key>
+  <string>arrowup.glif</string>
+  <key>arrowup.case</key>
+  <string>arrowup.case.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
   <key>bracketleft</key>
@@ -116,6 +122,8 @@
   <string>dotaccentcomb.glif</string>
   <key>dotaccentcomb.case.loclVIET</key>
   <string>dotaccentcomb.case.loclV_I_E_T_.glif</string>
+  <key>dotlessj</key>
+  <string>dotlessj.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>eight.osf</key>
@@ -124,8 +132,6 @@
   <string>eogonek.glif</string>
   <key>eth</key>
   <string>eth.glif</string>
-  <key>euro</key>
-  <string>euro.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>fi</key>
@@ -170,12 +176,8 @@
   <string>ij.glif</string>
   <key>j</key>
   <string>j.glif</string>
-  <key>jdotless</key>
-  <string>jdotless.glif</string>
   <key>kip</key>
   <string>kip.glif</string>
-  <key>liraTurkish</key>
-  <string>liraT_urkish.glif</string>
   <key>lslash</key>
   <string>lslash.glif</string>
   <key>m</key>
@@ -250,14 +252,12 @@
   <string>tildecomb.loclV_I_E_T_.glif</string>
   <key>tildecomb.narrow</key>
   <string>tildecomb.narrow.glif</string>
+  <key>turkishlira</key>
+  <string>turkishlira.glif</string>
   <key>two</key>
   <string>two.glif</string>
   <key>two.osf</key>
   <string>two.osf.glif</string>
-  <key>upArrow</key>
-  <string>upA_rrow.glif</string>
-  <key>upArrow.case</key>
-  <string>upA_rrow.case.glif</string>
   <key>won</key>
   <string>won.glif</string>
   <key>yen</key>

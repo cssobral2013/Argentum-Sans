@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="498" type="line"/>
+      <point x="463" y="498" type="line"/>
+      <point x="463" y="517" type="line"/>
+      <point x="117" y="517" type="line"/>
+      <point x="117" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="232" type="line"/>
+      <point x="357" y="251" type="line"/>
+      <point x="127" y="251" type="line"/>
+      <point x="127" y="232" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Ge-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chetailcyr" format="2">
+  <advance width="694"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <component base="checyr"/>
+    <contour>
+      <point x="607" y="-101" type="line"/>
+      <point x="663" y="177" type="line"/>
+      <point x="364" y="177" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="428" y="48" type="line"/>
+      <point x="398" y="-101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

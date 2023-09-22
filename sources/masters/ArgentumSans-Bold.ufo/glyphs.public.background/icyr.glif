@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr" format="2">
+  <advance width="698"/>
+  <outline>
+    <contour>
+      <point x="214" y="0" type="line"/>
+      <point x="450" y="232" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="651" y="547" type="line"/>
+      <point x="495" y="547" type="line"/>
+      <point x="257" y="315" type="line"/>
+      <point x="257" y="547" type="line"/>
+      <point x="57" y="547" type="line"/>
+      <point x="57" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Ii-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

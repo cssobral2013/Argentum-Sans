@@ -33,7 +33,7 @@
     <key>public.kern2.R_j</key>
     <integer>30</integer>
   </dict>
-  <key>hahook-cy</key>
+  <key>hahookcyr</key>
   <dict>
     <key>public.kern2.R_j</key>
     <integer>50</integer>
@@ -75,7 +75,7 @@
     <key>public.kern2.R_j</key>
     <integer>50</integer>
   </dict>
-  <key>reversedze-cy</key>
+  <key>reversedzecyr</key>
   <dict>
     <key>public.kern2.R_hyphen</key>
     <integer>-22</integer>
@@ -2220,7 +2220,7 @@
   </dict>
   <key>public.kern1.L_braceleft</key>
   <dict>
-    <key>De-cy</key>
+    <key>Decyr</key>
     <integer>8</integer>
     <key>public.kern2.R_Che-cy</key>
     <integer>-8</integer>
@@ -2853,7 +2853,7 @@
   </dict>
   <key>public.kern1.L_hyphen</key>
   <dict>
-    <key>De-cy</key>
+    <key>Decyr</key>
     <integer>-5</integer>
     <key>public.kern2.R_A</key>
     <integer>-19</integer>
@@ -3243,7 +3243,7 @@
   </dict>
   <key>public.kern1.L_parenleft</key>
   <dict>
-    <key>De-cy</key>
+    <key>Decyr</key>
     <integer>3</integer>
     <key>public.kern2.R_Che-cy</key>
     <integer>-12</integer>

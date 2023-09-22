@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hacyr" format="2">
+  <advance width="614"/>
+  <unicode hex="0425"/>
+  <anchor x="506" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="315" y="363" type="line"/>
+      <point x="-19" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="324" y="346" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="339" y="363" type="line"/>
+      <point x="650" y="700" type="line"/>
+      <point x="626" y="700" type="line"/>
+      <point x="330" y="380" type="line"/>
+      <point x="164" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gestrokecyr.loclBSH" format="2">
+  <advance width="570"/>
+  <outline>
+    <component base="Gecyr"/>
+    <contour>
+      <point x="484" y="319" type="line"/>
+      <point x="488" y="338" type="line"/>
+      <point x="159" y="338" type="line"/>
+      <point x="155" y="319" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

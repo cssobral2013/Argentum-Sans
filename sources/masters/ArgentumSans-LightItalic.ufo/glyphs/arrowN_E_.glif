@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowNE" format="2">
+  <advance width="592"/>
+  <unicode hex="2197"/>
+  <outline>
+    <contour>
+      <point x="477" y="412" type="line"/>
+      <point x="270" y="447" type="line"/>
+      <point x="247" y="428" type="line"/>
+      <point x="453" y="392" type="line"/>
+      <point x="450" y="176" type="line"/>
+      <point x="473" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="404" type="line"/>
+      <point x="144" y="144" type="line"/>
+      <point x="156" y="129" type="line"/>
+      <point x="467" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

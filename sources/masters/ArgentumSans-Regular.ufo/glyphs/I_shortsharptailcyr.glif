@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ishortsharptailcyr" format="2">
+  <advance width="854"/>
+  <unicode hex="048A"/>
+  <outline>
+    <component base="Ishortcyr"/>
+    <contour>
+      <point x="747" y="-151" type="line"/>
+      <point x="820" y="99" type="line"/>
+      <point x="606" y="99" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="741" y="0" type="line"/>
+      <point x="698" y="29" type="line"/>
+      <point x="656" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xatailcyr" format="2">
+  <advance width="809"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <component base="Hacyr"/>
+    <contour>
+      <point x="791" y="-137" type="line"/>
+      <point x="791" y="183" type="line"/>
+      <point x="508" y="183" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="575" y="51" type="line"/>
+      <point x="575" y="-137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

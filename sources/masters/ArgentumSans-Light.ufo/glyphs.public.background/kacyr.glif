@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr" format="2">
+  <advance width="607"/>
+  <outline>
+    <contour>
+      <point x="337" y="267" type="line"/>
+      <point x="349" y="278" type="line"/>
+      <point x="588" y="517" type="line"/>
+      <point x="563" y="517" type="line"/>
+      <point x="204" y="160" type="line"/>
+      <point x="204" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="207" y="517" type="line"/>
+      <point x="187" y="517" type="line"/>
+      <point x="187" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="0" type="line"/>
+      <point x="344" y="289" type="line"/>
+      <point x="329" y="275" type="line"/>
+      <point x="579" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Ka-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

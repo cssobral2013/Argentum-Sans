@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zetailcyr" format="2">
+  <advance width="623"/>
+  <unicode hex="0498"/>
+  <outline>
+    <component base="Zecyr"/>
+    <contour>
+      <point x="237" y="10" type="line"/>
+      <point x="202" y="-165" type="line"/>
+      <point x="222" y="-165" type="line"/>
+      <point x="257" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

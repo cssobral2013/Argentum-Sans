@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="679"/>
+  <outline>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="202" y="690" type="line"/>
+      <point x="193" y="681" type="line"/>
+      <point x="708" y="681" type="line"/>
+      <point x="699" y="690" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="719" y="0" type="line"/>
+      <point x="719" y="700" type="line"/>
+      <point x="182" y="700" type="line"/>
+      <point x="182" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Pe-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

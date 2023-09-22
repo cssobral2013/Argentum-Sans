@@ -3,7 +3,7 @@
   <advance width="240"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi"/>
     <component base="macroncomb.narrow" xOffset="-9"/>
   </outline>
   <lib>

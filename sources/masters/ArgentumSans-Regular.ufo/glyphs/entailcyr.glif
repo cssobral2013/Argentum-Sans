@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="entailcyr" format="2">
+  <advance width="706"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <component base="encyr"/>
+    <contour>
+      <point x="677" y="-111" type="line"/>
+      <point x="677" y="96" type="line"/>
+      <point x="485" y="96" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="574" y="28" type="line"/>
+      <point x="574" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Endescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eltailcyr" format="2">
+  <advance width="668"/>
+  <unicode hex="052F"/>
+  <outline>
+    <component base="elcyr"/>
+    <contour>
+      <point x="639" y="-111" type="line"/>
+      <point x="639" y="96" type="line"/>
+      <point x="447" y="96" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="536" y="28" type="line"/>
+      <point x="536" y="-111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

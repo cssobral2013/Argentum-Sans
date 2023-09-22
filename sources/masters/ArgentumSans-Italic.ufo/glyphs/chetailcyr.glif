@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chetailcyr" format="2">
+  <advance width="636"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <component base="checyr"/>
+    <contour>
+      <point x="532" y="-111" type="line"/>
+      <point x="574" y="96" type="line"/>
+      <point x="382" y="96" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="457" y="28" type="line"/>
+      <point x="429" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Chedescender-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

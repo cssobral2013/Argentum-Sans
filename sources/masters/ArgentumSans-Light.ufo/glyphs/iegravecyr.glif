@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iegravecyr" format="2">
+  <advance width="597"/>
+  <unicode hex="0450"/>
+  <anchor x="350" y="660" name="top"/>
+  <outline>
+    <component base="iecyr"/>
+    <component base="gravecomb" xOffset="121"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iecyr+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

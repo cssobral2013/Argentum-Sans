@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chevertcyr" format="2">
+  <advance width="719"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <component base="Checyr"/>
+    <contour>
+      <point x="298" y="86" type="line"/>
+      <point x="370" y="446" type="line"/>
+      <point x="350" y="446" type="line"/>
+      <point x="278" y="86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

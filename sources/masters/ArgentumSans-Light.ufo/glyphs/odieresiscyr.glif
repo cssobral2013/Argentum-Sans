@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresiscyr" format="2">
+  <advance width="627"/>
+  <unicode hex="04E7"/>
+  <anchor x="313.5" y="630" name="top"/>
+  <outline>
+    <component base="ocyr"/>
+    <component base="dieresiscomb" xOffset="162"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ocyr+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

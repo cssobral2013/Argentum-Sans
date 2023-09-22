@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gecyr" format="2">
+  <advance width="585"/>
+  <outline>
+    <contour>
+      <point x="518" y="680" type="line"/>
+      <point x="518" y="699" type="line"/>
+      <point x="157" y="699" type="line"/>
+      <point x="157" y="1380" type="line"/>
+      <point x="137" y="1380" type="line"/>
+      <point x="137" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

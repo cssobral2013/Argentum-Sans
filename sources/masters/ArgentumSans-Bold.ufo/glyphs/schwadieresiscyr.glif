@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwadieresiscyr" format="2">
+  <advance width="657"/>
+  <unicode hex="04DB"/>
+  <anchor x="328.5" y="770" name="top"/>
+  <outline>
+    <component base="schwacyr"/>
+    <component base="dieresiscomb" xOffset="94"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>schwacyr+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

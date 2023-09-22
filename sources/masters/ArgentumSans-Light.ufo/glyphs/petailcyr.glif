@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="petailcyr" format="2">
+  <advance width="668"/>
+  <unicode hex="0525"/>
+  <outline>
+    <component base="pecyr"/>
+    <contour>
+      <point x="638" y="-121" type="line"/>
+      <point x="638" y="18" type="line"/>
+      <point x="531" y="18" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="618" y="8" type="line"/>
+      <point x="618" y="-121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

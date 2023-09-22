@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshecyr" format="2">
+  <advance width="660"/>
+  <unicode hex="045B"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="267" y="630" name="center"/>
+  <anchor x="225" y="742" name="top"/>
+  <anchor x="283" y="517" name="topright"/>
+  <outline>
+    <component base="h" xOffset="26"/>
+    <contour>
+      <point x="484" y="621" type="line"/>
+      <point x="488" y="640" type="line"/>
+      <point x="51" y="640" type="line"/>
+      <point x="47" y="621" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

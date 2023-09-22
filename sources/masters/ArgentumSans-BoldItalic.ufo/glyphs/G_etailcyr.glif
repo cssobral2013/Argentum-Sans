@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Getailcyr" format="2">
+  <advance width="611"/>
+  <unicode hex="04F6"/>
+  <anchor x="62" y="0" name="bottomleft"/>
+  <outline>
+    <component base="Gecyr"/>
+    <contour>
+      <point x="301" y="-137" type="line"/>
+      <point x="365" y="183" type="line"/>
+      <point x="45" y="183" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="123" y="51" type="line"/>
+      <point x="85" y="-137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

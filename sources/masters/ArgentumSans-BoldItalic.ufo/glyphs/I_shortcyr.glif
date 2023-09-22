@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ishortcyr" format="2">
+  <advance width="819"/>
+  <unicode hex="0419"/>
+  <outline>
+    <component base="Icyr"/>
+    <contour>
+      <point x="504" y="736" type="curve" smooth="yes"/>
+      <point x="650" y="736"/>
+      <point x="722" y="788"/>
+      <point x="741" y="911" type="curve"/>
+      <point x="591" y="911" type="line"/>
+      <point x="584" y="864"/>
+      <point x="560" y="845"/>
+      <point x="515" y="845" type="curve" smooth="yes"/>
+      <point x="469" y="845"/>
+      <point x="448" y="866"/>
+      <point x="455" y="911" type="curve"/>
+      <point x="309" y="911" type="line"/>
+      <point x="291" y="792"/>
+      <point x="354" y="736"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="748"/>
+  <guideline angle="0" x="0" y="917"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

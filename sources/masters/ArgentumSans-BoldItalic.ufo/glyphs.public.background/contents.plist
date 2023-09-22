@@ -4,28 +4,28 @@
 <dict>
   <key>A</key>
   <string>A_.glif</string>
-  <key>Ef-cy</key>
-  <string>E_f-cy.glif</string>
-  <key>Enghe-cy</key>
-  <string>E_nghe-cy.glif</string>
-  <key>Ereversed-cy</key>
-  <string>E_reversed-cy.glif</string>
-  <key>Ghestroke-cy</key>
-  <string>G_hestroke-cy.glif</string>
-  <key>Ia-cy</key>
-  <string>I_a-cy.glif</string>
-  <key>Iu-cy</key>
-  <string>I_u-cy.glif</string>
+  <key>Efcyr</key>
+  <string>E_fcyr.glif</string>
+  <key>Engecyr</key>
+  <string>E_ngecyr.glif</string>
+  <key>Ereversedcyr</key>
+  <string>E_reversedcyr.glif</string>
+  <key>Gestrokecyr</key>
+  <string>G_estrokecyr.glif</string>
   <key>K</key>
   <string>K_.glif</string>
-  <key>Kadescender-cy</key>
-  <string>K_adescender-cy.glif</string>
+  <key>Katailcyr</key>
+  <string>K_atailcyr.glif</string>
   <key>M</key>
   <string>M_.glif</string>
   <key>Q</key>
   <string>Q_.glif</string>
   <key>U</key>
   <string>U_.glif</string>
+  <key>Yacyr</key>
+  <string>Y_acyr.glif</string>
+  <key>Yucyr</key>
+  <string>Y_ucyr.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>acutecomb</key>
@@ -40,8 +40,8 @@
   <string>comma.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
-  <key>enghe-cy</key>
-  <string>enghe-cy.glif</string>
+  <key>engecyr</key>
+  <string>engecyr.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>five.osf</key>
@@ -50,12 +50,8 @@
   <string>four.glif</string>
   <key>gravecomb.case</key>
   <string>gravecomb.case.glif</string>
-  <key>ia-cy</key>
-  <string>ia-cy.glif</string>
-  <key>ii-cy</key>
-  <string>ii-cy.glif</string>
-  <key>iu-cy</key>
-  <string>iu-cy.glif</string>
+  <key>icyr</key>
+  <string>icyr.glif</string>
   <key>naira</key>
   <string>naira.glif</string>
   <key>nine</key>
@@ -78,8 +74,8 @@
   <string>s.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
-  <key>shcha-cy</key>
-  <string>shcha-cy.glif</string>
+  <key>shchacyr</key>
+  <string>shchacyr.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>three</key>
@@ -94,6 +90,10 @@
   <string>verticallinelowmod.glif</string>
   <key>won</key>
   <string>won.glif</string>
+  <key>yacyr</key>
+  <string>yacyr.glif</string>
+  <key>yucyr</key>
+  <string>yucyr.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
   <key>zero</key>
@@ -102,7 +102,7 @@
   <string>zero.glif</string>
   <key>zero.osf</key>
   <string>zero.osf.glif</string>
-  <key>zhedescender-cy</key>
-  <string>zhedescender-cy.glif</string>
+  <key>zhetailcyr</key>
+  <string>zhetailcyr.glif</string>
 </dict>
 </plist>

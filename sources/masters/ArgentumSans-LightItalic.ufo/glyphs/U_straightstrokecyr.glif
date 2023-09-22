@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightstrokecyr" format="2">
+  <advance width="620"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <component base="Ustraightcyr"/>
+    <component base="strokeshortcomb" xScale="1.0808" xOffset="-41" yOffset="-200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

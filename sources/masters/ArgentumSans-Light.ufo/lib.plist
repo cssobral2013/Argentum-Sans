@@ -24,19 +24,19 @@
     <string>Abreveacute</string>
     <string>Abrevedotbelow</string>
     <string>Abrevegrave</string>
-    <string>Abrevehookabove</string>
+    <string>Abrevehoi</string>
     <string>Abrevetilde</string>
     <string>Acircumflex</string>
     <string>Acircumflexacute</string>
     <string>Acircumflexdotbelow</string>
     <string>Acircumflexgrave</string>
-    <string>Acircumflexhookabove</string>
+    <string>Acircumflexhoi</string>
     <string>Acircumflextilde</string>
     <string>Adblgrave</string>
     <string>Adieresis</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
-    <string>Ahookabove</string>
+    <string>Ahoi</string>
     <string>Ainvertedbreve</string>
     <string>Amacron</string>
     <string>Aogonek</string>
@@ -70,14 +70,14 @@
     <string>Ecircumflexacute</string>
     <string>Ecircumflexdotbelow</string>
     <string>Ecircumflexgrave</string>
-    <string>Ecircumflexhookabove</string>
+    <string>Ecircumflexhoi</string>
     <string>Ecircumflextilde</string>
     <string>Edblgrave</string>
     <string>Edieresis</string>
     <string>Edotaccent</string>
     <string>Edotbelow</string>
     <string>Egrave</string>
-    <string>Ehookabove</string>
+    <string>Ehoi</string>
     <string>Einvertedbreve</string>
     <string>Emacron</string>
     <string>Emacronacute</string>
@@ -109,7 +109,7 @@
     <string>Idotaccent</string>
     <string>Idotbelow</string>
     <string>Igrave</string>
-    <string>Ihookabove</string>
+    <string>Ihoi</string>
     <string>Iinvertedbreve</string>
     <string>Imacron</string>
     <string>Iogonek</string>
@@ -136,7 +136,7 @@
     <string>Nacute</string>
     <string>Ncaron</string>
     <string>Ncommaaccent</string>
-    <string>Ndotaccent</string>
+    <string>Ndot</string>
     <string>Ndotbelow</string>
     <string>Eng</string>
     <string>Nj</string>
@@ -149,7 +149,7 @@
     <string>Ocircumflexacute</string>
     <string>Ocircumflexdotbelow</string>
     <string>Ocircumflexgrave</string>
-    <string>Ocircumflexhookabove</string>
+    <string>Ocircumflexhoi</string>
     <string>Ocircumflextilde</string>
     <string>Odblgrave</string>
     <string>Odieresis</string>
@@ -157,12 +157,12 @@
     <string>Odotaccentmacron</string>
     <string>Odotbelow</string>
     <string>Ograve</string>
-    <string>Ohookabove</string>
+    <string>Ohoi</string>
     <string>Ohorn</string>
     <string>Ohornacute</string>
     <string>Ohorndotbelow</string>
     <string>Ohorngrave</string>
-    <string>Ohornhookabove</string>
+    <string>Ohornhoi</string>
     <string>Ohorntilde</string>
     <string>Ohungarumlaut</string>
     <string>Oinvertedbreve</string>
@@ -193,13 +193,13 @@
     <string>Sacutedotaccent</string>
     <string>Saltillo</string>
     <string>Scaron</string>
-    <string>Scarondotaccent</string>
+    <string>Scarondot</string>
     <string>Scedilla</string>
     <string>Scircumflex</string>
     <string>Scommaaccent</string>
-    <string>Sdotaccent</string>
+    <string>Sdot</string>
     <string>Sdotbelow</string>
-    <string>Sdotbelowdotaccent</string>
+    <string>Sdotbelowdotabove</string>
     <string>Germandbls</string>
     <string>Schwa</string>
     <string>T</string>
@@ -217,12 +217,12 @@
     <string>Udieresis</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
-    <string>Uhookabove</string>
+    <string>Uhoi</string>
     <string>Uhorn</string>
     <string>Uhornacute</string>
     <string>Uhorndotbelow</string>
     <string>Uhorngrave</string>
-    <string>Uhornhookabove</string>
+    <string>Uhornhoi</string>
     <string>Uhorntilde</string>
     <string>Uhungarumlaut</string>
     <string>Uinvertedbreve</string>
@@ -243,10 +243,10 @@
     <string>Yacute</string>
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
-    <string>Ydotaccent</string>
+    <string>Ydot</string>
     <string>Ydotbelow</string>
     <string>Ygrave</string>
-    <string>Yhookabove</string>
+    <string>Yhoi</string>
     <string>Ymacron</string>
     <string>Ytilde</string>
     <string>Z</string>
@@ -260,19 +260,19 @@
     <string>abreveacute</string>
     <string>abrevedotbelow</string>
     <string>abrevegrave</string>
-    <string>abrevehookabove</string>
+    <string>abrevehoi</string>
     <string>abrevetilde</string>
     <string>acircumflex</string>
     <string>acircumflexacute</string>
     <string>acircumflexdotbelow</string>
     <string>acircumflexgrave</string>
-    <string>acircumflexhookabove</string>
+    <string>acircumflexhoi</string>
     <string>acircumflextilde</string>
     <string>adblgrave</string>
     <string>adieresis</string>
     <string>adotbelow</string>
     <string>agrave</string>
-    <string>ahookabove</string>
+    <string>ahoi</string>
     <string>ainvertedbreve</string>
     <string>amacron</string>
     <string>aogonek</string>
@@ -305,14 +305,14 @@
     <string>ecircumflexacute</string>
     <string>ecircumflexdotbelow</string>
     <string>ecircumflexgrave</string>
-    <string>ecircumflexhookabove</string>
+    <string>ecircumflexhoi</string>
     <string>ecircumflextilde</string>
     <string>edblgrave</string>
     <string>edieresis</string>
     <string>edotaccent</string>
     <string>edotbelow</string>
     <string>egrave</string>
-    <string>ehookabove</string>
+    <string>ehoi</string>
     <string>einvertedbreve</string>
     <string>emacron</string>
     <string>emacronacute</string>
@@ -334,7 +334,7 @@
     <string>hcircumflex</string>
     <string>hdotbelow</string>
     <string>i</string>
-    <string>idotless</string>
+    <string>dotlessi</string>
     <string>iacute</string>
     <string>iacute_j.loclNLD</string>
     <string>ibreve</string>
@@ -345,14 +345,14 @@
     <string>idotaccent</string>
     <string>idotbelow</string>
     <string>igrave</string>
-    <string>ihookabove</string>
+    <string>ihoi</string>
     <string>iinvertedbreve</string>
     <string>ij</string>
     <string>imacron</string>
     <string>iogonek</string>
     <string>itilde</string>
     <string>j</string>
-    <string>jdotless</string>
+    <string>dotlessj</string>
     <string>jacute</string>
     <string>jcircumflex</string>
     <string>k</string>
@@ -374,7 +374,7 @@
     <string>napostrophe</string>
     <string>ncaron</string>
     <string>ncommaaccent</string>
-    <string>ndotaccent</string>
+    <string>ndot</string>
     <string>ndotbelow</string>
     <string>eng</string>
     <string>nj</string>
@@ -387,7 +387,7 @@
     <string>ocircumflexacute</string>
     <string>ocircumflexdotbelow</string>
     <string>ocircumflexgrave</string>
-    <string>ocircumflexhookabove</string>
+    <string>ocircumflexhoi</string>
     <string>ocircumflextilde</string>
     <string>odblgrave</string>
     <string>odieresis</string>
@@ -395,12 +395,12 @@
     <string>odotaccentmacron</string>
     <string>odotbelow</string>
     <string>ograve</string>
-    <string>ohookabove</string>
+    <string>ohoi</string>
     <string>ohorn</string>
     <string>ohornacute</string>
     <string>ohorndotbelow</string>
     <string>ohorngrave</string>
-    <string>ohornhookabove</string>
+    <string>ohornhoi</string>
     <string>ohorntilde</string>
     <string>ohungarumlaut</string>
     <string>oinvertedbreve</string>
@@ -431,13 +431,13 @@
     <string>sacutedotaccent</string>
     <string>saltillo</string>
     <string>scaron</string>
-    <string>scarondotaccent</string>
+    <string>scarondot</string>
     <string>scedilla</string>
     <string>scircumflex</string>
     <string>scommaaccent</string>
-    <string>sdotaccent</string>
+    <string>sdot</string>
     <string>sdotbelow</string>
-    <string>sdotbelowdotaccent</string>
+    <string>sdotbelowdotabove</string>
     <string>germandbls</string>
     <string>t</string>
     <string>tbar</string>
@@ -455,12 +455,12 @@
     <string>udieresis</string>
     <string>udotbelow</string>
     <string>ugrave</string>
-    <string>uhookabove</string>
+    <string>uhoi</string>
     <string>uhorn</string>
     <string>uhornacute</string>
     <string>uhorndotbelow</string>
     <string>uhorngrave</string>
-    <string>uhornhookabove</string>
+    <string>uhornhoi</string>
     <string>uhorntilde</string>
     <string>uhungarumlaut</string>
     <string>uinvertedbreve</string>
@@ -481,10 +481,10 @@
     <string>yacute</string>
     <string>ycircumflex</string>
     <string>ydieresis</string>
-    <string>ydotaccent</string>
+    <string>ydot</string>
     <string>ydotbelow</string>
     <string>ygrave</string>
-    <string>yhookabove</string>
+    <string>yhoi</string>
     <string>ymacron</string>
     <string>ytilde</string>
     <string>z</string>
@@ -534,16 +534,16 @@
     <string>zero.subs</string>
     <string>one.subs</string>
     <string>two.subs</string>
-    <string>zeroinferior</string>
-    <string>oneinferior</string>
-    <string>twoinferior</string>
-    <string>threeinferior</string>
-    <string>fourinferior</string>
-    <string>fiveinferior</string>
-    <string>sixinferior</string>
-    <string>seveninferior</string>
-    <string>eightinferior</string>
-    <string>nineinferior</string>
+    <string>zero.inferior</string>
+    <string>one.inferior</string>
+    <string>two.inferior</string>
+    <string>three.inferior</string>
+    <string>four.inferior</string>
+    <string>five.inferior</string>
+    <string>six.inferior</string>
+    <string>seven.inferior</string>
+    <string>eight.inferior</string>
+    <string>nine.inferior</string>
     <string>three.subs</string>
     <string>four.subs</string>
     <string>five.subs</string>
@@ -571,16 +571,16 @@
     <string>seven.numr</string>
     <string>eight.numr</string>
     <string>nine.numr</string>
-    <string>zerosuperior</string>
+    <string>zero.superior</string>
     <string>onesuperior</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
-    <string>foursuperior</string>
-    <string>fivesuperior</string>
-    <string>sixsuperior</string>
-    <string>sevensuperior</string>
-    <string>eightsuperior</string>
-    <string>ninesuperior</string>
+    <string>four.superior</string>
+    <string>five.superior</string>
+    <string>six.superior</string>
+    <string>seven.superior</string>
+    <string>eight.superior</string>
+    <string>nine.superior</string>
     <string>zero.sups</string>
     <string>one.sups</string>
     <string>two.sups</string>
@@ -645,14 +645,14 @@
     <string>figuredash</string>
     <string>horizontalbar</string>
     <string>hyphen</string>
-    <string>hyphentwo</string>
+    <string>hyphen-gnrl</string>
     <string>softhyphen</string>
-    <string>guillemetleft.case</string>
-    <string>guillemetright.case</string>
+    <string>guillemotleft.case</string>
+    <string>guillemotright.case</string>
     <string>guilsinglleft.case</string>
     <string>guilsinglright.case</string>
-    <string>guillemetleft</string>
-    <string>guillemetright</string>
+    <string>guillemotleft</string>
+    <string>guillemotright</string>
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>quotedblbase</string>
@@ -661,8 +661,8 @@
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>quotesinglbase</string>
-    <string>guillemetleft.sc</string>
-    <string>guillemetright.sc</string>
+    <string>guillemotleft.sc</string>
+    <string>guillemotright.sc</string>
     <string>guilsinglleft.sc</string>
     <string>guilsinglright.sc</string>
     <string>figurespace</string>
@@ -676,23 +676,23 @@
     <string>CR</string>
     <string>cedi</string>
     <string>cent</string>
-    <string>colonsign</string>
+    <string>colonmonetary</string>
     <string>currency</string>
     <string>dollar</string>
     <string>dong</string>
-    <string>euro</string>
+    <string>Euro</string>
     <string>florin</string>
     <string>franc</string>
     <string>guarani</string>
     <string>kip</string>
     <string>lira</string>
-    <string>liraTurkish</string>
+    <string>turkishlira</string>
     <string>manat</string>
     <string>naira</string>
     <string>peseta</string>
     <string>peso</string>
     <string>ruble</string>
-    <string>rupeeIndian</string>
+    <string>indianrupee</string>
     <string>sterling</string>
     <string>won</string>
     <string>yen</string>
@@ -724,33 +724,33 @@
     <string>partialdiff</string>
     <string>percent</string>
     <string>perthousand</string>
-    <string>upArrow</string>
-    <string>northEastArrow</string>
-    <string>rightArrow</string>
-    <string>southEastArrow</string>
-    <string>downArrow</string>
-    <string>southWestArrow</string>
-    <string>leftArrow</string>
-    <string>northWestArrow</string>
-    <string>leftRightArrow</string>
-    <string>upDownArrow</string>
-    <string>upArrow.case</string>
-    <string>rightArrow.case</string>
-    <string>downArrow.case</string>
-    <string>leftArrow.case</string>
-    <string>blackDiamond</string>
-    <string>whiteDiamond</string>
+    <string>arrowup</string>
+    <string>arrowNE</string>
+    <string>arrowright</string>
+    <string>arrowSE</string>
+    <string>arrowdown</string>
+    <string>arrowSW</string>
+    <string>arrowleft</string>
+    <string>arrowNW</string>
+    <string>arrowboth</string>
+    <string>arrowupdn</string>
+    <string>arrowup.case</string>
+    <string>arrowright.case</string>
+    <string>arrowdown.case</string>
+    <string>arrowleft.case</string>
+    <string>diamondblack-gmtr</string>
+    <string>diamondwhite-gmtr</string>
     <string>lozenge</string>
-    <string>blackSquare</string>
-    <string>whiteSquare</string>
-    <string>upBlackTriangle</string>
-    <string>rightBlackTriangle</string>
-    <string>downBlackTriangle</string>
-    <string>leftBlackTriangle</string>
-    <string>upWhiteTriangle</string>
-    <string>rightWhiteTriangle</string>
-    <string>downWhiteTriangle</string>
-    <string>leftWhiteTriangle</string>
+    <string>filledbox</string>
+    <string>squarewhite</string>
+    <string>triagup</string>
+    <string>trianglerightblack</string>
+    <string>triagdn</string>
+    <string>triangleleftblack</string>
+    <string>triangleupwhite</string>
+    <string>trianglerightwhite</string>
+    <string>triangledownwhite</string>
+    <string>triangleleftwhite</string>
     <string>at</string>
     <string>ampersand</string>
     <string>paragraph</string>
@@ -761,7 +761,7 @@
     <string>degree</string>
     <string>bar</string>
     <string>brokenbar</string>
-    <string>literSign</string>
+    <string>litre</string>
     <string>dagger</string>
     <string>daggerdbl</string>
     <string>estimated</string>
@@ -875,11 +875,11 @@
     <string>caroncomb.alt.short</string>
     <string>apostrophemod</string>
     <string>commaturnedmod</string>
-    <string>firsttonechinese</string>
-    <string>fourthtonechinese</string>
-    <string>ringhalfleft</string>
-    <string>ringhalfright</string>
-    <string>secondtonechinese</string>
+    <string>macronmod</string>
+    <string>gravemod</string>
+    <string>ringhalfleftmod</string>
+    <string>ringhalfrightmod</string>
+    <string>acutemod</string>
     <string>verticallinelowmod</string>
     <string>verticallinemod</string>
     <string>acute</string>
@@ -950,279 +950,279 @@
     <string>verticallinelowmodcomb</string>
     <string>prime</string>
     <string>Tdieresis</string>
-    <string>Iegrave-cy</string>
-    <string>Io-cy</string>
-    <string>Dje-cy</string>
-    <string>Gje-cy</string>
-    <string>E-cy</string>
-    <string>Dze-cy</string>
-    <string>I-cy</string>
-    <string>Yi-cy</string>
-    <string>Je-cy</string>
-    <string>Lje-cy</string>
-    <string>Nje-cy</string>
-    <string>Tshe-cy</string>
-    <string>Kje-cy</string>
-    <string>Iigrave-cy</string>
-    <string>Ushort-cy</string>
-    <string>Dzhe-cy</string>
-    <string>A-cy</string>
-    <string>Be-cy</string>
-    <string>Ve-cy</string>
-    <string>Ge-cy</string>
-    <string>De-cy</string>
-    <string>Ie-cy</string>
-    <string>Zhe-cy</string>
-    <string>Ze-cy</string>
-    <string>Ii-cy</string>
-    <string>Iishort-cy</string>
-    <string>Ka-cy</string>
-    <string>El-cy</string>
-    <string>Em-cy</string>
-    <string>En-cy</string>
-    <string>O-cy</string>
-    <string>Pe-cy</string>
-    <string>Er-cy</string>
-    <string>Es-cy</string>
-    <string>Te-cy</string>
-    <string>U-cy</string>
-    <string>Ef-cy</string>
-    <string>Ha-cy</string>
-    <string>Tse-cy</string>
-    <string>Che-cy</string>
-    <string>Sha-cy</string>
-    <string>Shcha-cy</string>
-    <string>Hardsign-cy</string>
-    <string>Yeru-cy</string>
-    <string>Softsign-cy</string>
-    <string>Ereversed-cy</string>
-    <string>Iu-cy</string>
-    <string>Ia-cy</string>
-    <string>a-cy</string>
-    <string>be-cy</string>
-    <string>ve-cy</string>
-    <string>ge-cy</string>
-    <string>de-cy</string>
-    <string>ie-cy</string>
-    <string>zhe-cy</string>
-    <string>ze-cy</string>
-    <string>ii-cy</string>
-    <string>iishort-cy</string>
-    <string>ka-cy</string>
-    <string>el-cy</string>
-    <string>em-cy</string>
-    <string>en-cy</string>
-    <string>o-cy</string>
-    <string>pe-cy</string>
-    <string>er-cy</string>
-    <string>es-cy</string>
-    <string>te-cy</string>
-    <string>u-cy</string>
-    <string>ef-cy</string>
-    <string>ha-cy</string>
-    <string>tse-cy</string>
-    <string>che-cy</string>
-    <string>sha-cy</string>
-    <string>shcha-cy</string>
-    <string>hardsign-cy</string>
-    <string>yeru-cy</string>
-    <string>softsign-cy</string>
-    <string>ereversed-cy</string>
-    <string>iu-cy</string>
-    <string>ia-cy</string>
-    <string>iegrave-cy</string>
-    <string>io-cy</string>
-    <string>dje-cy</string>
-    <string>gje-cy</string>
-    <string>e-cy</string>
-    <string>dze-cy</string>
-    <string>i-cy</string>
-    <string>yi-cy</string>
-    <string>je-cy</string>
-    <string>lje-cy</string>
-    <string>nje-cy</string>
-    <string>tshe-cy</string>
-    <string>kje-cy</string>
-    <string>iigrave-cy</string>
-    <string>ushort-cy</string>
-    <string>dzhe-cy</string>
-    <string>Yat-cy</string>
-    <string>yat-cy</string>
-    <string>Yusbig-cy</string>
-    <string>yusbig-cy</string>
-    <string>Fita-cy</string>
-    <string>fita-cy</string>
-    <string>Izhitsa-cy</string>
-    <string>izhitsa-cy</string>
-    <string>Iishorttail-cy</string>
-    <string>iishorttail-cy</string>
-    <string>Semisoftsign-cy</string>
-    <string>semisoftsign-cy</string>
-    <string>Ertick-cy</string>
-    <string>ertick-cy</string>
-    <string>Gheupturn-cy</string>
-    <string>gheupturn-cy</string>
-    <string>Ghestroke-cy</string>
-    <string>ghestroke-cy</string>
-    <string>Ghemiddlehook-cy</string>
-    <string>ghemiddlehook-cy</string>
-    <string>Kaverticalstroke-cy</string>
-    <string>kaverticalstroke-cy</string>
-    <string>Kastroke-cy</string>
-    <string>kastroke-cy</string>
-    <string>Kabashkir-cy</string>
-    <string>kabashkir-cy</string>
-    <string>Endescender-cy</string>
-    <string>endescender-cy</string>
-    <string>Enghe-cy</string>
-    <string>enghe-cy</string>
-    <string>Pemiddlehook-cy</string>
-    <string>pemiddlehook-cy</string>
-    <string>Haabkhasian-cy</string>
-    <string>haabkhasian-cy</string>
-    <string>Esdescender-cy</string>
-    <string>esdescender-cy</string>
-    <string>Tedescender-cy</string>
-    <string>tedescender-cy</string>
-    <string>Ustrait-cy</string>
-    <string>ustrait-cy</string>
-    <string>Ustraitstroke-cy</string>
-    <string>ustraitstroke-cy</string>
-    <string>Hadescender-cy</string>
-    <string>hadescender-cy</string>
-    <string>Tetse-cy</string>
-    <string>tetse-cy</string>
-    <string>Chedescender-cy</string>
-    <string>chedescender-cy</string>
-    <string>Cheverticalstroke-cy</string>
-    <string>cheverticalstroke-cy</string>
-    <string>Shha-cy</string>
-    <string>shha-cy</string>
-    <string>Cheabkhasian-cy</string>
-    <string>cheabkhasian-cy</string>
-    <string>Chedescenderabkhasian-cy</string>
-    <string>chedescenderabkhasian-cy</string>
-    <string>Palochka-cy</string>
-    <string>Zhebreve-cy</string>
-    <string>zhebreve-cy</string>
-    <string>Kahook-cy</string>
-    <string>kahook-cy</string>
-    <string>eltail-cy</string>
-    <string>Enhook-cy</string>
-    <string>enhook-cy</string>
-    <string>Entail-cy</string>
-    <string>entail-cy</string>
-    <string>Chekhakassian-cy</string>
-    <string>chekhakassian-cy</string>
-    <string>Emtail-cy</string>
-    <string>emtail-cy</string>
-    <string>palochka-cy</string>
-    <string>Abreve-cy</string>
-    <string>abreve-cy</string>
-    <string>Adieresis-cy</string>
-    <string>adieresis-cy</string>
-    <string>Aie-cy</string>
-    <string>aie-cy</string>
-    <string>Iebreve-cy</string>
-    <string>iebreve-cy</string>
-    <string>Schwa-cy</string>
-    <string>schwa-cy</string>
-    <string>Schwadieresis-cy</string>
-    <string>schwadieresis-cy</string>
-    <string>Zhedieresis-cy</string>
-    <string>zhedieresis-cy</string>
-    <string>Zedieresis-cy</string>
-    <string>zedieresis-cy</string>
-    <string>Dzeabkhasian-cy</string>
-    <string>dzeabkhasian-cy</string>
-    <string>Imacron-cy</string>
-    <string>imacron-cy</string>
-    <string>Idieresis-cy</string>
-    <string>idieresis-cy</string>
-    <string>Odieresis-cy</string>
-    <string>odieresis-cy</string>
-    <string>Obarred-cy</string>
-    <string>obarred-cy</string>
-    <string>Obarreddieresis-cy</string>
-    <string>obarreddieresis-cy</string>
-    <string>Edieresis-cy</string>
-    <string>edieresis-cy</string>
-    <string>Umacron-cy</string>
-    <string>umacron-cy</string>
-    <string>Udieresis-cy</string>
-    <string>udieresis-cy</string>
-    <string>Uhungarumlaut-cy</string>
-    <string>uhungarumlaut-cy</string>
-    <string>Chedieresis-cy</string>
-    <string>chedieresis-cy</string>
-    <string>Gedescender-cy</string>
-    <string>gedescender-cy</string>
-    <string>Yerudieresis-cy</string>
-    <string>yerudieresis-cy</string>
-    <string>Gestrokehook-cy</string>
-    <string>gestrokehook-cy</string>
-    <string>Hahook-cy</string>
-    <string>hahook-cy</string>
-    <string>Hastroke-cy</string>
-    <string>hastroke-cy</string>
-    <string>Reversedze-cy</string>
-    <string>reversedze-cy</string>
-    <string>Elhook-cy</string>
-    <string>elhook-cy</string>
-    <string>Qa-cy</string>
-    <string>qa-cy</string>
-    <string>We-cy</string>
-    <string>we-cy</string>
-    <string>Pedescender-cy</string>
-    <string>pedescender-cy</string>
-    <string>Shhadescender-cy</string>
-    <string>shhadescender-cy</string>
-    <string>EnLeftHook-cy</string>
-    <string>enlefthook-cy</string>
-    <string>Eldescender-cy</string>
-    <string>eldescender-cy</string>
-    <string>De-cy.loclBGR</string>
-    <string>Ef-cy.loclBGR</string>
-    <string>El-cy.loclBGR</string>
-    <string>che-cy.loclBGR</string>
-    <string>de-cy.loclBGR</string>
-    <string>el-cy.loclBGR</string>
-    <string>en-cy.loclBGR</string>
-    <string>ge-cy.loclBGR</string>
-    <string>hardsign-cy.loclBGR</string>
-    <string>ii-cy.loclBGR</string>
-    <string>iigrave-cy.loclBGR</string>
-    <string>iishort-cy.loclBGR</string>
-    <string>iu-cy.loclBGR</string>
-    <string>ka-cy.loclBGR</string>
-    <string>pe-cy.loclBGR</string>
-    <string>sha-cy.loclBGR</string>
-    <string>shcha-cy.loclBGR</string>
-    <string>softsign-cy.loclBGR</string>
-    <string>te-cy.loclBGR</string>
-    <string>tse-cy.loclBGR</string>
-    <string>ve-cy.loclBGR</string>
-    <string>ze-cy.loclBGR</string>
-    <string>zhe-cy.loclBGR</string>
-    <string>Esdescender-cy.loclBSH</string>
-    <string>Ghestroke-cy.loclBSH</string>
-    <string>Zedescender-cy.loclBSH</string>
-    <string>ghestroke-cy.loclBSH</string>
-    <string>zedescender-cy.loclBSH</string>
-    <string>Esdescender-cy.loclCHU</string>
-    <string>esdescender-cy.loclCHU</string>
-    <string>gje-cy.loclMKD</string>
-    <string>be-cy.loclSRB</string>
-    <string>de-cy.loclSRB</string>
-    <string>ge-cy.loclSRB</string>
-    <string>pe-cy.loclSRB</string>
-    <string>te-cy.loclSRB</string>
-    <string>Zhedescender-cy</string>
-    <string>zhedescender-cy</string>
-    <string>Zedescender-cy</string>
-    <string>zedescender-cy</string>
-    <string>Kadescender-cy</string>
-    <string>kadescender-cy</string>
+    <string>Iegravecyr</string>
+    <string>Iocyr</string>
+    <string>Djecyr</string>
+    <string>Gjecyr</string>
+    <string>Eukrcyr</string>
+    <string>Dzecyr</string>
+    <string>Iukrcyr</string>
+    <string>Yukrcyr</string>
+    <string>Jecyr</string>
+    <string>Ljecyr</string>
+    <string>Njecyr</string>
+    <string>Tshecyr</string>
+    <string>Kjecyr</string>
+    <string>Igravecyr</string>
+    <string>Ushortcyr</string>
+    <string>Dzhecyr</string>
+    <string>Acyr</string>
+    <string>Becyr</string>
+    <string>Vecyr</string>
+    <string>Gecyr</string>
+    <string>Decyr</string>
+    <string>Iecyr</string>
+    <string>Zhecyr</string>
+    <string>Zecyr</string>
+    <string>Icyr</string>
+    <string>Ishortcyr</string>
+    <string>Kacyr</string>
+    <string>Elcyr</string>
+    <string>Emcyr</string>
+    <string>Encyr</string>
+    <string>Ocyr</string>
+    <string>Pecyr</string>
+    <string>Ercyr</string>
+    <string>Escyr</string>
+    <string>Tecyr</string>
+    <string>Ucyr</string>
+    <string>Efcyr</string>
+    <string>Hacyr</string>
+    <string>Tsecyr</string>
+    <string>Checyr</string>
+    <string>Shacyr</string>
+    <string>Shchacyr</string>
+    <string>Hardcyr</string>
+    <string>Ylongcyr</string>
+    <string>Softcyr</string>
+    <string>Ereversedcyr</string>
+    <string>Yucyr</string>
+    <string>Yacyr</string>
+    <string>acyr</string>
+    <string>becyr</string>
+    <string>vecyr</string>
+    <string>gecyr</string>
+    <string>decyr</string>
+    <string>iecyr</string>
+    <string>zhecyr</string>
+    <string>zecyr</string>
+    <string>icyr</string>
+    <string>ishortcyr</string>
+    <string>kacyr</string>
+    <string>elcyr</string>
+    <string>emcyr</string>
+    <string>encyr</string>
+    <string>ocyr</string>
+    <string>pecyr</string>
+    <string>ercyr</string>
+    <string>escyr</string>
+    <string>tecyr</string>
+    <string>ucyr</string>
+    <string>efcyr</string>
+    <string>hacyr</string>
+    <string>tsecyr</string>
+    <string>checyr</string>
+    <string>shacyr</string>
+    <string>shchacyr</string>
+    <string>hardcyr</string>
+    <string>ylongcyr</string>
+    <string>softcyr</string>
+    <string>ereversedcyr</string>
+    <string>yucyr</string>
+    <string>yacyr</string>
+    <string>iegravecyr</string>
+    <string>iocyr</string>
+    <string>djecyr</string>
+    <string>gjecyr</string>
+    <string>eukrcyr</string>
+    <string>dzecyr</string>
+    <string>iukrcyr</string>
+    <string>yukrcyr</string>
+    <string>jecyr</string>
+    <string>ljecyr</string>
+    <string>njecyr</string>
+    <string>tshecyr</string>
+    <string>kjecyr</string>
+    <string>igravecyr</string>
+    <string>ushortcyr</string>
+    <string>dzhecyr</string>
+    <string>Yatcyr</string>
+    <string>yatcyr</string>
+    <string>Yusbigcyr</string>
+    <string>yusbigcyr</string>
+    <string>Fitacyr</string>
+    <string>fitacyr</string>
+    <string>Izhitsacyr</string>
+    <string>izhitsacyr</string>
+    <string>Ishortsharptailcyr</string>
+    <string>ishortsharptailcyr</string>
+    <string>Semisoftcyr</string>
+    <string>semisoftcyr</string>
+    <string>Ertickcyr</string>
+    <string>ertickcyr</string>
+    <string>Geupcyr</string>
+    <string>geupcyr</string>
+    <string>Gestrokecyr</string>
+    <string>gestrokecyr</string>
+    <string>Gehookcyr</string>
+    <string>gehookcyr</string>
+    <string>Kaverticalstrokecyr</string>
+    <string>kaverticalstrokecyr</string>
+    <string>Kastrokecyr</string>
+    <string>kastrokecyr</string>
+    <string>Kabashkcyr</string>
+    <string>kabashkcyr</string>
+    <string>Entailcyr</string>
+    <string>entailcyr</string>
+    <string>Engecyr</string>
+    <string>engecyr</string>
+    <string>Pehookcyr</string>
+    <string>pehookcyr</string>
+    <string>Haabkhcyr</string>
+    <string>haabkhcyr</string>
+    <string>Estailcyr</string>
+    <string>estailcyr</string>
+    <string>Tetailcyr</string>
+    <string>tetailcyr</string>
+    <string>Ustraightcyr</string>
+    <string>ustraightcyr</string>
+    <string>Ustraightstrokecyr</string>
+    <string>ustraightstrokecyr</string>
+    <string>Xatailcyr</string>
+    <string>xatailcyr</string>
+    <string>Tetsecyr</string>
+    <string>tetsecyr</string>
+    <string>Chetailcyr</string>
+    <string>chetailcyr</string>
+    <string>Chevertcyr</string>
+    <string>chevertcyr</string>
+    <string>Shhacyr</string>
+    <string>shhacyr</string>
+    <string>Cheabkhcyr</string>
+    <string>cheabkhcyr</string>
+    <string>Cheabkhtailcyr</string>
+    <string>cheabkhtailcyr</string>
+    <string>Palochkacyr</string>
+    <string>Zhebrevecyr</string>
+    <string>zhebrevecyr</string>
+    <string>Kahookcyr</string>
+    <string>kahookcyr</string>
+    <string>elsharptailcyr</string>
+    <string>Enhookcyr</string>
+    <string>enhookcyr</string>
+    <string>Ensharptailcyr</string>
+    <string>ensharptailcyr</string>
+    <string>Chekhakascyr</string>
+    <string>chekhakascyr</string>
+    <string>Emsharptailcyr</string>
+    <string>emsharptailcyr</string>
+    <string>palochkacyr</string>
+    <string>Abrevecyr</string>
+    <string>abrevecyr</string>
+    <string>Adieresiscyr</string>
+    <string>adieresiscyr</string>
+    <string>Aiecyr</string>
+    <string>aiecyr</string>
+    <string>Iebrevecyr</string>
+    <string>iebrevecyr</string>
+    <string>Schwacyr</string>
+    <string>schwacyr</string>
+    <string>Schwadieresiscyr</string>
+    <string>schwadieresiscyr</string>
+    <string>Zhedieresiscyr</string>
+    <string>zhedieresiscyr</string>
+    <string>Zedieresiscyr</string>
+    <string>zedieresiscyr</string>
+    <string>Dzeabkhcyr</string>
+    <string>dzeabkhcyr</string>
+    <string>Imacroncyr</string>
+    <string>imacroncyr</string>
+    <string>Idieresiscyr</string>
+    <string>idieresiscyr</string>
+    <string>Odieresiscyr</string>
+    <string>odieresiscyr</string>
+    <string>Obarcyr</string>
+    <string>obarcyr</string>
+    <string>Obardieresiscyr</string>
+    <string>obardieresiscyr</string>
+    <string>Ereverseddieresiscyr</string>
+    <string>ereverseddieresiscyr</string>
+    <string>Umacroncyr</string>
+    <string>umacroncyr</string>
+    <string>Udieresiscyr</string>
+    <string>udieresiscyr</string>
+    <string>Uacutedblcyr</string>
+    <string>uacutedblcyr</string>
+    <string>Chedieresiscyr</string>
+    <string>chedieresiscyr</string>
+    <string>Getailcyr</string>
+    <string>getailcyr</string>
+    <string>Ylongdieresiscyr</string>
+    <string>ylongdieresiscyr</string>
+    <string>Gehookstrokecyr</string>
+    <string>gehookstrokecyr</string>
+    <string>Hahookcyr</string>
+    <string>hahookcyr</string>
+    <string>Hastrokecyr</string>
+    <string>hastrokecyr</string>
+    <string>Reversedzecyr</string>
+    <string>reversedzecyr</string>
+    <string>Elhookcyr</string>
+    <string>elhookcyr</string>
+    <string>Qacyr</string>
+    <string>qacyr</string>
+    <string>Wecyr</string>
+    <string>wecyr</string>
+    <string>Petailcyr</string>
+    <string>petailcyr</string>
+    <string>Shhatailcyr</string>
+    <string>shhatailcyr</string>
+    <string>Enhookleftcyr</string>
+    <string>enhookleftcyr</string>
+    <string>Eltailcyr</string>
+    <string>eltailcyr</string>
+    <string>Decyr.loclBGR</string>
+    <string>Efcyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>checyr.loclBGR</string>
+    <string>decyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>encyr.loclBGR</string>
+    <string>gecyr.loclBGR</string>
+    <string>hardcyr.loclBGR</string>
+    <string>icyr.loclBGR</string>
+    <string>igravecyr.loclBGR</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>pecyr.loclBGR</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr.loclBGR</string>
+    <string>softcyr.loclBGR</string>
+    <string>tecyr.loclBGR</string>
+    <string>tsecyr.loclBGR</string>
+    <string>vecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+    <string>Estailcyr.loclBSH</string>
+    <string>Gestrokecyr.loclBSH</string>
+    <string>Zetailcyr.loclBSH</string>
+    <string>gestrokecyr.loclBSH</string>
+    <string>zetailcyr.loclBSH</string>
+    <string>Estailcyr.loclCHU</string>
+    <string>estailcyr.loclCHU</string>
+    <string>gjecyr.loclMKD</string>
+    <string>becyr.loclSRB</string>
+    <string>decyr.loclSRB</string>
+    <string>gecyr.loclSRB</string>
+    <string>pecyr.loclSRB</string>
+    <string>tecyr.loclSRB</string>
+    <string>Zhetailcyr</string>
+    <string>zhetailcyr</string>
+    <string>Zetailcyr</string>
+    <string>zetailcyr</string>
+    <string>Katailcyr</string>
+    <string>katailcyr</string>
     <string>Idieresis.double</string>
     <string>idieresis.double</string>
   </array>

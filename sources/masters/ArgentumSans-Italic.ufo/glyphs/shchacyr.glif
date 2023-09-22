@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr" format="2">
+  <advance width="969"/>
+  <unicode hex="0449"/>
+  <outline>
+    <component base="shacyr"/>
+    <contour>
+      <point x="876" y="-125" type="line"/>
+      <point x="920" y="96" type="line"/>
+      <point x="728" y="96" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="799" y="4" type="line"/>
+      <point x="773" y="-125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Shcha-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
