@@ -100,3 +100,7 @@ Changelog of Argentum Sans, v3.16 (in no particular order):
 - Some fixes on Q
 - Standalone otf files
 - Ported webfonts script to Python
+
+Changelog of Argentum Sans, v3.17 (in no particular order):
+- Some fixes on Q
+- Fixes overlapping characters in Cyrillic
