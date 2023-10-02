@@ -34,12 +34,12 @@
       <point x="581.127" y="446.329" type="curve"/>
     </contour>
     <contour>
-      <point x="510.233" y="204.692" type="line"/>
+      <point x="483.274" y="184.722" type="line"/>
       <point x="700.947" y="75.886" type="line"/>
       <point x="700.947" y="402.395" type="line"/>
       <point x="380.428" y="402.395" type="line"/>
-      <point x="380.428" y="248.626" type="line"/>
-      <point x="510.233" y="248.626" type="line"/>
+      <point x="380.428" y="236.644" type="line"/>
+      <point x="483.274" y="236.644" type="line"/>
     </contour>
   </outline>
   <lib>
