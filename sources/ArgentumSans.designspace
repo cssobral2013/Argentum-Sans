@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" tag="wght" name="weight" default="400" maximum="900">
+  <axis maximum="900" minimum="100" tag="wght" name="weight" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="200" output="200"/>
@@ -15,12 +15,12 @@
   </axis>
  </axes>
  <sources>
-  <source filename="masters/ArgentumSans-Light.ufo" name="Light" familyname="Argentum Sans VF" stylename="Light">
+  <source stylename="Light" familyname="Argentum Sans VF" name="Light" filename="masters/ArgentumSans-Light.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
-  <source filename="masters/ArgentumSans-Regular.ufo" name="Regular" familyname="Argentum Sans VF" stylename="Regular">
+  <source stylename="Regular" familyname="Argentum Sans VF" name="Regular" filename="masters/ArgentumSans-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -29,7 +29,7 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-    <source filename="masters/ArgentumSans-Bold.ufo" name="Bold" familyname="Argentum Sans VF" stylename="Bold">
+   <source stylename="Bold" familyname="Argentum Sans VF" name="Bold" filename="masters/ArgentumSans-Bold.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
@@ -106,47 +106,47 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/ArgentumSansVF-Thin.ufo" name="Thin" familyname="Argentum Sans" stylename="Thin">
+  <instance stylename="Thin" familyname="Argentum Sans" name="Thin" filename="instances/ArgentumSansVF-Thin.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-ExtraLight.ufo" name="ExtraLight" familyname="Argentum Sans" stylename="ExtraLight">
+  <instance stylename="ExtraLight" familyname="Argentum Sans" name="ExtraLight" filename="instances/ArgentumSansVF-ExtraLight.ufo">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Light.ufo" name="Light" familyname="Argentum Sans" stylename="Light">
+  <instance stylename="Light" familyname="Argentum Sans" name="Light" filename="instances/ArgentumSansVF-Light.ufo">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Regular.ufo" name="Regular" familyname="Argentum Sans" stylename="Regular">
+  <instance stylename="Regular" familyname="Argentum Sans" name="Regular" filename="instances/ArgentumSansVF-Regular.ufo">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Medium.ufo" name="Medium" familyname="Argentum Sans" stylename="Medium">
+  <instance stylename="Medium" familyname="Argentum Sans" name="Medium" filename="instances/ArgentumSansVF-Medium.ufo">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-SemiBold.ufo" name="SemiBold" familyname="Argentum Sans" stylename="SemiBold">
+  <instance stylename="SemiBold" familyname="Argentum Sans" name="SemiBold" filename="instances/ArgentumSansVF-SemiBold.ufo">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Bold.ufo" name="Bold" familyname="Argentum Sans" stylename="Bold">
+  <instance stylename="Bold" familyname="Argentum Sans" name="Bold" filename="instances/ArgentumSansVF-Bold.ufo">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-ExtraBold.ufo" name="ExtraBold" familyname="Argentum Sans" stylename="ExtraBold">
+  <instance stylename="ExtraBold" familyname="Argentum Sans" name="ExtraBold" filename="instances/ArgentumSansVF-ExtraBold.ufo">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Black.ufo" name="Black" familyname="Argentum Sans" stylename="Black">
+  <instance stylename="Black" familyname="Argentum Sans" name="Black" filename="instances/ArgentumSansVF-Black.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>

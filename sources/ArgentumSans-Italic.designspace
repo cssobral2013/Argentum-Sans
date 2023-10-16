@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" tag="wght" name="weight" default="400" maximum="900">
+  <axis maximum="900" minimum="100" tag="wght" name="weight" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
    <map input="200" output="200"/>
@@ -15,12 +15,12 @@
   </axis>
  </axes>
  <sources>
-    <source filename="masters/ArgentumSans-LightItalic.ufo" name="LightItalic" familyname="Argentum Sans VF" stylename="Light Italic">
+  <source stylename="Light Italic" familyname="Argentum Sans VF" name="LightItalic" filename="masters/ArgentumSans-LightItalic.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
-  <source filename="masters/ArgentumSans-Italic.ufo" name="Italic" familyname="Argentum Sans VF" stylename="Italic">
+  <source stylename="Italic" familyname="Argentum Sans VF" name="Italic" filename="masters/ArgentumSans-Italic.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -29,7 +29,7 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source filename="masters/ArgentumSans-BoldItalic.ufo" name="BoldItalic" familyname="Argentum Sans VF" stylename="Bold Italic">
+  <source stylename="Bold Italic" familyname="Argentum Sans VF" name="BoldItalic" filename="masters/ArgentumSans-BoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
@@ -106,47 +106,47 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/ArgentumSansVF-ThinItalic.ufo" name="ThinItalic" familyname="Argentum Sans" stylename="Thin Italic">
+  <instance stylename="Thin Italic" familyname="Argentum Sans" name="ThinItalic" filename="instances/ArgentumSansVF-ThinItalic.ufo">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-ExtraLightItalic.ufo" name="ExtraLightItalic" familyname="Argentum Sans" stylename="ExtraLight Italic">
+  <instance stylename="ExtraLight Italic" familyname="Argentum Sans" name="ExtraLightItalic" filename="instances/ArgentumSansVF-ExtraLightItalic.ufo">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-LightItalic.ufo" name="LightItalic" familyname="Argentum Sans" stylename="Light Italic">
+  <instance stylename="Light Italic" familyname="Argentum Sans" name="LightItalic" filename="instances/ArgentumSansVF-LightItalic.ufo">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-Italic.ufo" name="Italic" familyname="Argentum Sans" stylename="Italic">
+  <instance stylename="Italic" familyname="Argentum Sans" name="Italic" filename="instances/ArgentumSansVF-Italic.ufo">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-MediumItalic.ufo" name="MediumItalic" familyname="Argentum Sans" stylename="Medium Italic">
+  <instance stylename="Medium Italic" familyname="Argentum Sans" name="MediumItalic" filename="instances/ArgentumSansVF-MediumItalic.ufo">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-SemiBoldItalic.ufo" name="SemiBoldItalic" familyname="Argentum Sans" stylename="SemiBold Italic">
+  <instance stylename="SemiBold Italic" familyname="Argentum Sans" name="SemiBoldItalic" filename="instances/ArgentumSansVF-SemiBoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-BoldItalic.ufo" name="BoldItalic" familyname="Argentum Sans" stylename="Bold Italic">
+  <instance stylename="Bold Italic" familyname="Argentum Sans" name="BoldItalic" filename="instances/ArgentumSansVF-BoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-ExtraBoldItalic.ufo" name="ExtraBoldItalic" familyname="Argentum Sans" stylename="ExtraBold Italic">
+  <instance stylename="ExtraBold Italic" familyname="Argentum Sans" name="ExtraBoldItalic" filename="instances/ArgentumSansVF-ExtraBoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance filename="instances/ArgentumSansVF-BlackItalic.ufo" name="BlackItalic" familyname="Argentum Sans" stylename="Black Italic">
+  <instance stylename="Black Italic" familyname="Argentum Sans" name="BlackItalic" filename="instances/ArgentumSansVF-BlackItalic.ufo">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
