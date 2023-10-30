@@ -3,8 +3,8 @@
   <advance width="574"/>
   <unicode hex="03B5"/>
   <anchor x="395" y="593" name="t.uni0308"/>
-  <anchor x="276" y="0" name="b.uni0324_3"/>
-  <anchor x="531" y="0" name="m.uni0328_4"/>
+  <anchor x="276" y="-0" name="b.uni0324_3"/>
+  <anchor x="531" y="-0" name="m.uni0328_4"/>
   <outline>
     <component base="reversedzecyr"/>
   </outline>

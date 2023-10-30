@@ -5,7 +5,7 @@
   <anchor x="329" y="626" name="t.uni0308"/>
   <anchor x="263" y="239" name="t.uni0307_1"/>
   <anchor x="521" y="679" name="t.uni031B_2"/>
-  <anchor x="280" y="0" name="b.uni0324_3"/>
+  <anchor x="280" y="-0" name="b.uni0324_3"/>
   <outline>
     <contour>
       <point x="56" y="532" type="line"/>

@@ -3,6 +3,6 @@
   <advance width="693"/>
   <outline>
     <component base="icyr.loclBGR"/>
-    <component base="gravecomb" xOffset="-14"/>
+    <component base="gravecomb" xOffset="106"/>
   </outline>
 </glyph>

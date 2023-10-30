@@ -6,7 +6,7 @@
   <anchor x="503" y="660" name="top"/>
   <outline>
     <component base="icyr.loclBGR"/>
-    <component base="gravecomb" xOffset="-32"/>
+    <component base="gravecomb" xOffset="88"/>
   </outline>
   <lib>
   <dict>

@@ -3,8 +3,8 @@
   <advance width="696"/>
   <unicode hex="03B1"/>
   <anchor x="391" y="547" name="t.uni0308"/>
-  <anchor x="282" y="0" name="b.uni0324_3"/>
-  <anchor x="566" y="0" name="m.uni0328_4"/>
+  <anchor x="282" y="-0" name="b.uni0324_3"/>
+  <anchor x="566" y="-0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="242" y="-10" type="qcurve" smooth="yes"/>

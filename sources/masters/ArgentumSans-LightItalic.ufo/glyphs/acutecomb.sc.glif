@@ -3,7 +3,7 @@
   <advance width="578"/>
   <anchor x="255" y="739" name="top"/>
   <outline>
-    <component base="acutecomb" xOffset="-120"/>
+    <component base="acutecomb"/>
   </outline>
   <lib>
   <dict>

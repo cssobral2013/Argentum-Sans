@@ -5,8 +5,8 @@
   <anchor x="441" y="700" name="t.uni0308"/>
   <anchor x="371" y="350" name="t.uni0307_1"/>
   <anchor x="570" y="700" name="t.uni031B_2"/>
-  <anchor x="301" y="0" name="b.uni0324_3"/>
-  <anchor x="455" y="0" name="m.uni0328_4"/>
+  <anchor x="301" y="-0" name="b.uni0324_3"/>
+  <anchor x="455" y="-0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="328" y="-9" type="qcurve" smooth="yes"/>

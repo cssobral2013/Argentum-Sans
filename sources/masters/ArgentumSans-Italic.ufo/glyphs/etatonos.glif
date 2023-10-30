@@ -3,7 +3,7 @@
   <advance width="683"/>
   <unicode hex="03AE"/>
   <anchor x="406" y="562" name="t.uni0308"/>
-  <anchor x="294" y="0" name="b.uni0324_3"/>
+  <anchor x="294" y="-0" name="b.uni0324_3"/>
   <outline>
     <contour>
       <point x="416" y="538" type="qcurve" smooth="yes"/>
