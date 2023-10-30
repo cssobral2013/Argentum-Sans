@@ -3,17 +3,6 @@
   <advance width="801"/>
   <unicode hex="03A0"/>
   <outline>
-    <contour>
-      <point x="62" y="0" type="line"/>
-      <point x="62" y="700" type="line"/>
-      <point x="739" y="700" type="line"/>
-      <point x="739" y="0" type="line"/>
-      <point x="507" y="0" type="line"/>
-      <point x="507" y="567" type="line"/>
-      <point x="558" y="517" type="line"/>
-      <point x="243" y="517" type="line"/>
-      <point x="294" y="567" type="line"/>
-      <point x="294" y="0" type="line"/>
-    </contour>
+    <component base="Pecyr"/>
   </outline>
 </glyph>

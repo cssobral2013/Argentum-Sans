@@ -2,7 +2,7 @@
 <glyph name="acutecomb" format="2">
   <advance width="264"/>
   <unicode hex="0301"/>
-  <anchor x="86" y="531" name="_top"/>
+  <anchor x="86" y="560" name="_top"/>
   <anchor x="136" y="755" name="top"/>
   <outline>
     <contour>

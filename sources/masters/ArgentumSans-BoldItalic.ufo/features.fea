@@ -14,6 +14,54 @@
 #/< otclasses
 #/< classes
 
+#/> classes
+#/> otclasses
+@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Ishortsharptailcyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Shhatailcyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Semisoftcyr Ertickcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU Delta Omega];
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
+@ccmp = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_macroncomb dotaccentcomb dotaccentcomb_macroncomb gravecomb gravecomb_macroncomb acutecomb acutecomb_dotaccentcomb acutecomb_macroncomb hungarumlautcomb circumflexcomb caroncomb caroncomb_dotaccentcomb brevecomb tildecomb tildecomb_dieresiscomb tildecomb_acutecomb tildecomb_macroncomb macroncomb macroncomb_dieresiscomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb strokeshortcomb slashshortcomb slashlongcomb macroncomb.narrow brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+@ccmp2 = [gravecomb acutecomb tildecomb hookabovecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
+@ccmp3 = [dotbelowcomb cedillacomb dieresisbelowcomb ogonekcomb horncomb brevebelowcomb macronbelowcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb];
+@ccmp4 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Delta Omega Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve IJ Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adotbelow Ahoi Ainvertedbreve Ccedillaacute DZcaron Ddotbelow Dlinebelow Dzcaron Ecedillabreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edotbelow Ehoi Einvertedbreve Emacronacute Emacrongrave Etilde Gmacron Hbrevebelow Hdotbelow Iacute_J.loclNLD Idblgrave Idieresisacute Idotbelow Ihoi Iinvertedbreve Jacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohoi Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Oinvertedbreve Omacronacute Omacrongrave Oogonek Otildeacute Otildedieresis Otildemacron Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow Sacutedotaccent Saltillo Scarondot Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa Tdotbelow Tlinebelow Udblgrave Udotbelow Uhoi Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uinvertedbreve Umacrondieresis Utildeacute Ydot Ydotbelow Yhoi Ymacron Ytilde Zdotbelow Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Ishortsharptailcyr Semisoftcyr Ertickcyr Geupcyr Gestrokecyr Gehookcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Petailcyr Shhatailcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Efcyr.loclBGR Elcyr.loclBGR Estailcyr.loclBSH Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclCHU Zhetailcyr Zetailcyr Katailcyr];
+@ccmp5 = [hookabovecomb.case dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_macroncomb.case dotaccentcomb.case dotaccentcomb_macroncomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_dotaccentcomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case caroncomb_dotaccentcomb.case brevecomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_dieresiscomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case dblgravecomb.case breveinvertedcomb.case macroncomb.narrow.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+@frac = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac2 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@ordn = [zero one two three four five six seven eight nine];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Ishortsharptailcyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Shhatailcyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Semisoftcyr Ertickcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU Delta Omega];
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
+@ccmp = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_macroncomb dotaccentcomb dotaccentcomb_macroncomb gravecomb gravecomb_macroncomb acutecomb acutecomb_dotaccentcomb acutecomb_macroncomb hungarumlautcomb circumflexcomb caroncomb caroncomb_dotaccentcomb brevecomb tildecomb tildecomb_dieresiscomb tildecomb_acutecomb tildecomb_macroncomb macroncomb macroncomb_dieresiscomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb strokeshortcomb slashshortcomb slashlongcomb macroncomb.narrow brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+@ccmp2 = [gravecomb acutecomb tildecomb hookabovecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
+@ccmp3 = [dotbelowcomb cedillacomb dieresisbelowcomb ogonekcomb horncomb brevebelowcomb macronbelowcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb];
+@ccmp4 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Delta Omega Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve IJ Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adotbelow Ahoi Ainvertedbreve Ccedillaacute DZcaron Ddotbelow Dlinebelow Dzcaron Ecedillabreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edotbelow Ehoi Einvertedbreve Emacronacute Emacrongrave Etilde Gmacron Hbrevebelow Hdotbelow Iacute_J.loclNLD Idblgrave Idieresisacute Idotbelow Ihoi Iinvertedbreve Jacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohoi Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Oinvertedbreve Omacronacute Omacrongrave Oogonek Otildeacute Otildedieresis Otildemacron Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow Sacutedotaccent Saltillo Scarondot Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa Tdotbelow Tlinebelow Udblgrave Udotbelow Uhoi Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uinvertedbreve Umacrondieresis Utildeacute Ydot Ydotbelow Yhoi Ymacron Ytilde Zdotbelow Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Ishortsharptailcyr Semisoftcyr Ertickcyr Geupcyr Gestrokecyr Gehookcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Petailcyr Shhatailcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Efcyr.loclBGR Elcyr.loclBGR Estailcyr.loclBSH Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclCHU Zhetailcyr Zetailcyr Katailcyr];
+@ccmp5 = [hookabovecomb.case dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_macroncomb.case dotaccentcomb.case dotaccentcomb_macroncomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_dotaccentcomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case caroncomb_dotaccentcomb.case brevecomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_dieresiscomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case dblgravecomb.case breveinvertedcomb.case macroncomb.narrow.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+@frac = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac2 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@ordn = [zero one two three four five six seven eight nine];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Ishortsharptailcyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Shhatailcyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Semisoftcyr Ertickcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU Delta Omega];
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
+@ccmp = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_macroncomb dotaccentcomb dotaccentcomb_macroncomb gravecomb gravecomb_macroncomb acutecomb acutecomb_dotaccentcomb acutecomb_macroncomb hungarumlautcomb circumflexcomb caroncomb caroncomb_dotaccentcomb brevecomb tildecomb tildecomb_dieresiscomb tildecomb_acutecomb tildecomb_macroncomb macroncomb macroncomb_dieresiscomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb strokeshortcomb slashshortcomb slashlongcomb macroncomb.narrow brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+@ccmp2 = [gravecomb acutecomb tildecomb hookabovecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
+@ccmp3 = [dotbelowcomb cedillacomb dieresisbelowcomb ogonekcomb horncomb brevebelowcomb macronbelowcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb];
+@ccmp4 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Delta Omega Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve IJ Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adotbelow Ahoi Ainvertedbreve Ccedillaacute DZcaron Ddotbelow Dlinebelow Dzcaron Ecedillabreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edotbelow Ehoi Einvertedbreve Emacronacute Emacrongrave Etilde Gmacron Hbrevebelow Hdotbelow Iacute_J.loclNLD Idblgrave Idieresisacute Idotbelow Ihoi Iinvertedbreve Jacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohoi Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Oinvertedbreve Omacronacute Omacrongrave Oogonek Otildeacute Otildedieresis Otildemacron Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow Sacutedotaccent Saltillo Scarondot Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa Tdotbelow Tlinebelow Udblgrave Udotbelow Uhoi Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uinvertedbreve Umacrondieresis Utildeacute Ydot Ydotbelow Yhoi Ymacron Ytilde Zdotbelow Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Ishortsharptailcyr Semisoftcyr Ertickcyr Geupcyr Gestrokecyr Gehookcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Petailcyr Shhatailcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Efcyr.loclBGR Elcyr.loclBGR Estailcyr.loclBSH Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclCHU Zhetailcyr Zetailcyr Katailcyr];
+@ccmp5 = [hookabovecomb.case dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_macroncomb.case dotaccentcomb.case dotaccentcomb_macroncomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_dotaccentcomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case caroncomb_dotaccentcomb.case brevecomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_dieresiscomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case dblgravecomb.case breveinvertedcomb.case macroncomb.narrow.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+@frac = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac2 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@ordn = [zero one two three four five six seven eight nine];
+#/< otclasses
+#/< classes
+
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
@@ -699,914 +747,543 @@ feature liga {
 } liga;
 
 feature mark {
-# GPOS feature: Mark Positioning
-# Lookups: 5
+#> feature
+# GPOS feature : Mark Positioning
+    markClass periodcentered.case <anchor 105 354> @center;
+    markClass periodcentered.loclCAT <anchor 91 391> @center;
+    markClass dotaccentcomb <anchor 247 666> @center;
+    markClass gravecomb <anchor 298 531> @top;
+    markClass acutecomb <anchor 192 531> @top;
+    markClass ogonekcomb <anchor 212 0> @ogonek;
+    markClass strokeshortcomb <anchor 321 441> @center;
+    markClass strokelongcomb <anchor 360 441> @center;
+    markClass dotaccentcomb.case <anchor 274 802> @center;
+    markClass ogonekcomb.curve <anchor 224 0> @ogonek;
+    markClass strokeshortcomb.narrow <anchor 281 441> @center;
+    markClass ogonekcomb.a.u <anchor 136 22> @ogonek;
+    markClass ogonek <anchor 212 0> @ogonek;
+    markClass ogonekcomb.curve.sc <anchor 231 37> @ogonek;
 
+  lookup markLTR {
+      pos base A
+          <anchor 614 0> mark @ogonek
+          <anchor 397 700> mark @top;
+      pos base AE
+          <anchor 863 10> mark @ogonek
+          <anchor 676 700> mark @top;
+      pos base C
+          <anchor 448 700> mark @top;
+      pos base Ccedilla
+          <anchor 437 518> mark @top;
+      pos base D
+          <anchor 213 351> mark @center
+          <anchor 464 700> mark @top;
+      pos base E
+          <anchor 517 0> mark @ogonek
+          <anchor 430 700> mark @top;
+      pos base Ecedillabreve
+          <anchor 517 0> mark @ogonek
+          <anchor 401 700> mark @top;
+      pos base G
+          <anchor 445 700> mark @top;
+      pos base H
+          <anchor 474 351> mark @center
+          <anchor 544 700> mark @top;
+      pos base Hbar
+          <anchor 418 351> mark @center
+          <anchor 488 700> mark @top;
+      pos base I
+          <anchor 84 0> mark @ogonek
+          <anchor 215 700> mark @top;
+      pos base J
+          <anchor 281 700> mark @top;
+      pos base K
+          <anchor 413 700> mark @top;
+      pos base L
+          <anchor 372 391> mark @center
+          <anchor 225 700> mark @top;
+      pos base Lslash
+          <anchor 388 391> mark @center
+          <anchor 241 700> mark @top;
+      pos base M
+          <anchor 548 700> mark @top;
+      pos base N
+          <anchor 478 700> mark @top;
+      pos base Eng
+          <anchor 478 700> mark @top;
+      pos base Nj
+          <anchor 478 700> mark @top;
+      pos base O
+          <anchor 420 352> mark @center
+          <anchor 567 0> mark @ogonek
+          <anchor 453 700> mark @top;
+      pos base Oslash
+          <anchor 420 352> mark @center
+          <anchor 567 0> mark @ogonek
+          <anchor 469 700> mark @top;
+      pos base OE
+          <anchor 969 10> mark @ogonek
+          <anchor 626 700> mark @top;
+      pos base R
+          <anchor 419 700> mark @top;
+      pos base S
+          <anchor 356 695> mark @top;
+      pos base Scedilla
+          <anchor 309 523> mark @top;
+      pos base T
+          <anchor 270 351> mark @center
+          <anchor 346 700> mark @top;
+      pos base Tcedilla
+          <anchor 270 351> mark @center
+          <anchor 280 518> mark @top;
+      pos base U
+          <anchor 506 0> mark @ogonek
+          <anchor 465 700> mark @top;
+      pos base W
+          <anchor 472 700> mark @top;
+      pos base Y
+          <anchor 381 700> mark @top;
+      pos base Z
+          <anchor 390 700> mark @top;
+      pos base a
+          <anchor 498 0> mark @ogonek
+          <anchor 360 517> mark @top;
+      pos base ae
+          <anchor 483 517> mark @top;
+      pos base b
+          <anchor 379 517> mark @top;
+      pos base c
+          <anchor 316 517> mark @top;
+      pos base ccedilla
+          <anchor 336 517> mark @top;
+      pos base d
+          <anchor 568 609> mark @center;
+      pos base e
+          <anchor 422 0> mark @ogonek
+          <anchor 312 517> mark @top;
+      pos base g
+          <anchor 356 517> mark @top;
+      pos base h
+          <anchor 223 609> mark @center
+          <anchor 211 742> mark @top;
+      pos base dotlessi
+          <anchor 68 0> mark @ogonek
+          <anchor 161 517> mark @top;
+      pos base dotlessj
+          <anchor 155 517> mark @top;
+      pos base k
+          <anchor 211 742> mark @top;
+      pos base kgreenlandic
+          <anchor 173 10> mark @ogonek
+          <anchor 104 517> mark @top;
+      pos base m
+          <anchor 575 517> mark @top;
+      pos base n
+          <anchor 359 517> mark @top;
+      pos base eng
+          <anchor 373 517> mark @top;
+      pos base o
+          <anchor 295 259> mark @center
+          <anchor 419 0> mark @ogonek
+          <anchor 320 517> mark @top;
+      pos base oslash
+          <anchor 332 517> mark @top;
+      pos base thorn
+          <anchor 114 742> mark @top;
+      pos base r
+          <anchor 207 517> mark @top;
+      pos base s
+          <anchor 254 517> mark @top;
+      pos base scedilla
+          <anchor 260 517> mark @top;
+      pos base t
+          <anchor 187 308> mark @center
+          <anchor 199 628> mark @top;
+      pos base tcedilla
+          <anchor 187 308> mark @center
+          <anchor 239 517> mark @top;
+      pos base u
+          <anchor 473 0> mark @ogonek
+          <anchor 363 517> mark @top;
+      pos base w
+          <anchor 450 517> mark @top;
+      pos base y
+          <anchor 269 517> mark @top;
+      pos base z
+          <anchor 296 517> mark @top;
+      pos base l
+          <anchor 247 397> mark @center
+          <anchor 197 742> mark @top;
+      pos base fl
+          <anchor 543 397> mark @center
+          <anchor 493 742> mark @top;
+      pos base cedi
+          <anchor 426 699> mark @top;
+      pos base cent
+          <anchor 316 517> mark @top;
+      pos base colonmonetary
+          <anchor 426 699> mark @top;
+      pos base dollar
+          <anchor 325 699> mark @top;
+      pos base guarani
+          <anchor 423 699> mark @top;
+      pos base dieresiscomb
+          <anchor 315 630> mark @top;
+      pos base hungarumlautcomb
+          <anchor 316 739> mark @top;
+      pos base circumflexcomb
+          <anchor 302 670> mark @top;
+      pos base caroncomb
+          <anchor 274 635> mark @top;
+      pos base brevecomb
+          <anchor 295 640> mark @top;
+      pos base ringcomb
+          <anchor 307 698> mark @top;
+      pos base tildecomb
+          <anchor 348 640> mark @top;
+      pos base macroncomb
+          <anchor 328 620> mark @top;
+      pos base hookabovecomb
+          <anchor 258 715> mark @top;
+      pos base dblgravecomb
+          <anchor 334 661> mark @top;
+      pos base breveinvertedcomb
+          <anchor 315 640> mark @top;
+      pos base dotbelowcomb
+          <anchor 180 517> mark @top;
+      pos base cedillacomb
+          <anchor 224 517> mark @top;
+      pos base dieresiscomb.case
+          <anchor 366 879> mark @top;
+      pos base gravecomb.case
+          <anchor 315 879> mark @top;
+      pos base acutecomb.case
+          <anchor 266 879> mark @top;
+      pos base hungarumlautcomb.case
+          <anchor 357 879> mark @top;
+      pos base circumflexcomb.case
+          <anchor 351 879> mark @top;
+      pos base caroncomb.case
+          <anchor 320 879> mark @top;
+      pos base brevecomb.case
+          <anchor 341 879> mark @top;
+      pos base tildecomb.case
+          <anchor 390 879> mark @top;
+      pos base macroncomb.case
+          <anchor 382 879> mark @top;
+      pos base hookabovecomb.case
+          <anchor 292 879> mark @top;
+      pos base dblgravecomb.case
+          <anchor 350 879> mark @top;
+      pos base breveinvertedcomb.case
+          <anchor 363 879> mark @top;
+      pos base dotbelowcomb.case
+          <anchor 220 699> mark @top;
+      pos base dieresisbelowcomb.case
+          <anchor 326 700> mark @top;
+      pos base cedillacomb.case
+          <anchor 249 699> mark @top;
+      pos base macroncomb.narrow.case
+          <anchor 381 879> mark @top;
+      pos base dieresiscomb.loclVIET
+          <anchor 300 599> mark @top;
+      pos base dotaccentcomb.loclVIET
+          <anchor 236 604> mark @top;
+      pos base gravecomb.loclVIET
+          <anchor 306 650> mark @top;
+      pos base acutecomb.loclVIET
+          <anchor 240 650> mark @top;
+      pos base circumflexcomb.loclVIET
+          <anchor 293 632> mark @top;
+      pos base caroncomb.loclVIET
+          <anchor 272 627> mark @top;
+      pos base brevecomb.loclVIET
+          <anchor 297 631> mark @top;
+      pos base tildecomb.loclVIET
+          <anchor 248 630> mark @top;
+      pos base macroncomb.loclVIET
+          <anchor 324 603> mark @top;
+      pos base hookabovecomb.loclVIET
+          <anchor 260 741> mark @top;
+      pos base dieresiscomb.case.loclVIET
+          <anchor 357 879> mark @top;
+      pos base dotaccentcomb.case.loclVIET
+          <anchor 291 879> mark @top;
+      pos base gravecomb.case.loclVIET
+          <anchor 325 879> mark @top;
+      pos base acutecomb.case.loclVIET
+          <anchor 316 879> mark @top;
+      pos base circumflexcomb.case.loclVIET
+          <anchor 342 879> mark @top;
+      pos base caroncomb.case.loclVIET
+          <anchor 325 879> mark @top;
+      pos base brevecomb.case.loclVIET
+          <anchor 347 879> mark @top;
+      pos base tildecomb.case.loclVIET
+          <anchor 399 879> mark @top;
+      pos base macroncomb.case.loclVIET
+          <anchor 378 879> mark @top;
+      pos base dieresiscomb.narrow
+          <anchor 315 630> mark @top;
+      pos base tildecomb.narrow
+          <anchor 301 640> mark @top;
+      pos base macroncomb.narrow
+          <anchor 328 620> mark @top;
+      pos base breveinvertedcomb.narrow
+          <anchor 272 640> mark @top;
+      pos base macronmod
+          <anchor 328 620> mark @top;
+      pos base gravemod
+          <anchor 285 660> mark @top;
+      pos base acutemod
+          <anchor 265 739> mark @top;
+      pos base acute
+          <anchor 265 739> mark @top;
+      pos base breve
+          <anchor 295 640> mark @top;
+      pos base caron
+          <anchor 274 635> mark @top;
+      pos base circumflex
+          <anchor 302 670> mark @top;
+      pos base dieresis
+          <anchor 315 630> mark @top;
+      pos base dotaccent
+          <anchor 247 666> mark @top;
+      pos base grave
+          <anchor 285 660> mark @top;
+      pos base hungarumlaut
+          <anchor 316 739> mark @top;
+      pos base macron
+          <anchor 328 620> mark @top;
+      pos base ring
+          <anchor 325 698> mark @top;
+      pos base tilde
+          <anchor 348 640> mark @top;
+      pos base macroncomb.sc.narrow
+          <anchor 341 652> mark @top;
+      pos base dieresiscomb.sc
+          <anchor 328 692> mark @top;
+      pos base dotaccentcomb.sc
+          <anchor 252 692> mark @top;
+      pos base gravecomb.sc
+          <anchor 258 739> mark @top;
+      pos base acutecomb.sc
+          <anchor 255 739> mark @top;
+      pos base hungarumlautcomb.sc
+          <anchor 310 739> mark @top;
+      pos base circumflexcomb.sc
+          <anchor 324 734> mark @top;
+      pos base caroncomb.sc
+          <anchor 304 734> mark @top;
+      pos base brevecomb.sc
+          <anchor 322 726> mark @top;
+      pos base tildecomb.sc
+          <anchor 362 714> mark @top;
+      pos base macroncomb.sc
+          <anchor 341 652> mark @top;
+      pos base hookabovecomb.sc
+          <anchor 263 751> mark @top;
+      pos base dblgravecomb.sc
+          <anchor 307 739> mark @top;
+      pos base breveinvertedcomb.sc
+          <anchor 322 726> mark @top;
+      pos base dotbelowcomb.sc
+          <anchor 209 559> mark @top;
+      pos base dieresisbelowcomb.sc
+          <anchor 300 559> mark @top;
+      pos base cedillacomb.sc
+          <anchor 240 559> mark @top;
+      pos base Acyr
+          <anchor 419 700> mark @top;
+      pos base Gecyr
+          <anchor 426 700> mark @top;
+      pos base Gjecyr
+          <anchor 484 880> mark @top;
+      pos base Iocyr
+          <anchor 498 820> mark @top;
+      pos base Zhecyr
+          <anchor 576 700> mark @top;
+      pos base Zecyr
+          <anchor 397 700> mark @top;
+      pos base Icyr
+          <anchor 498 700> mark @top;
+      pos base Kacyr
+          <anchor 426 700> mark @top;
+      pos base Emcyr
+          <anchor 570 700> mark @top;
+      pos base Encyr
+          <anchor 474 351> mark @center
+          <anchor 544 700> mark @top;
+      pos base Ocyr
+          <anchor 480 700> mark @top;
+      pos base Tecyr
+          <anchor 297 356> mark @center
+          <anchor 366 700> mark @top;
+      pos base Ucyr
+          <anchor 407 700> mark @top;
+      pos base Ushortcyr
+          <anchor 407 700> mark @top;
+      pos base Checyr
+          <anchor 416 700> mark @top;
+      pos base Softcyr
+          <anchor 231 590> mark @center;
+      pos base Ylongcyr
+          <anchor 543 700> mark @top;
+      pos base Ereversedcyr
+          <anchor 400 700> mark @top;
+      pos base Iukrcyr
+          <anchor 101 0> mark @ogonek
+          <anchor 231 700> mark @top;
+      pos base Yucyr
+          <anchor 559 700> mark @top;
+      pos base Yacyr
+          <anchor 433 700> mark @top;
+      pos base Yatcyr
+          <anchor 290 590> mark @center;
+      pos base Kabashkcyr
+          <anchor 565 701> mark @top;
+      pos base Engecyr
+          <anchor 834 700> mark @top;
+      pos base Ustraightcyr
+          <anchor 306 241> mark @center
+          <anchor 398 700> mark @top;
+      pos base Tetsecyr
+          <anchor 297 356> mark @center
+          <anchor 366 700> mark @top;
+      pos base Cheabkhcyr
+          <anchor 643 703> mark @top;
+      pos base Palochkacyr
+          <anchor 105 0> mark @ogonek
+          <anchor 235 700> mark @top;
+      pos base Schwacyr
+          <anchor 499 700> mark @top;
+      pos base Obarcyr
+          <anchor 435 350> mark @center
+          <anchor 417 0> mark @ogonek
+          <anchor 506 700> mark @top;
+      pos base Gehookstrokecyr
+          <anchor 445 700> mark @top;
+      pos base acyr
+          <anchor 467 531> mark @top;
+      pos base vecyr
+          <anchor 349 517> mark @top;
+      pos base gecyr
+          <anchor 340 517> mark @top;
+      pos base iecyr
+          <anchor 363 531> mark @top;
+      pos base iocyr
+          <anchor 374 666> mark @top;
+      pos base zhecyr
+          <anchor 441 517> mark @top;
+      pos base zecyr
+          <anchor 277 517> mark @top;
+      pos base icyr
+          <anchor 388 517> mark @top;
+      pos base kacyr
+          <anchor 332 517> mark @top;
+      pos base emcyr
+          <anchor 439 517> mark @top;
+      pos base encyr
+          <anchor 355 398> mark @center
+          <anchor 379 517> mark @top;
+      pos base ocyr
+          <anchor 350 530> mark @top;
+      pos base tecyr
+          <anchor 217 262> mark @center
+          <anchor 268 517> mark @top;
+      pos base ucyr
+          <anchor 301 517> mark @top;
+      pos base ushortcyr
+          <anchor 217 592> mark @top;
+      pos base checyr
+          <anchor 307 517> mark @top;
+      pos base ylongcyr
+          <anchor 442 517> mark @top;
+      pos base eukrcyr
+          <anchor 380 520> mark @top;
+      pos base ereversedcyr
+          <anchor 303 517> mark @top;
+      pos base iukrcyr
+          <anchor 222 692> mark @top;
+      pos base tshecyr
+          <anchor 267 630> mark @center
+          <anchor 225 742> mark @top;
+      pos base yucyr
+          <anchor 428 530> mark @top;
+      pos base yacyr
+          <anchor 331 530> mark @top;
+      pos base djecyr
+          <anchor 266 630> mark @center
+          <anchor 224 742> mark @top;
+      pos base kastrokecyr
+          <anchor 358 517> mark @top;
+      pos base kabashkcyr
+          <anchor 407 517> mark @top;
+      pos base tetailcyr
+          <anchor 217 262> mark @center
+          <anchor 268 517> mark @top;
+      pos base ustraightcyr
+          <anchor 215 5> mark @center;
+      pos base cheabkhcyr
+          <anchor 458 517> mark @top;
+      pos base palochkacyr
+          <anchor 146 350> mark @center
+          <anchor 224 742> mark @top;
+      pos base obarcyr
+          <anchor 374 517> mark @top;
+      pos base wecyr
+          <anchor 454 517> mark @top;
+      pos base icyr.loclBGR
+          <anchor 350 517> mark @top;
+      pos base igravecyr.loclBGR
+          <anchor 503 660> mark @top;
+      pos base kacyr.loclBGR
+          <anchor 333 517> mark @top;
+      pos base elcyr.loclBGR
+          <anchor 315 517> mark @top;
+      pos base tsecyr.loclBGR
+          <anchor 487 0> mark @ogonek
+          <anchor 370 517> mark @top;
+      pos base shacyr.loclBGR
+          <anchor 572 517> mark @top;
+      pos base shchacyr.loclBGR
+          <anchor 572 517> mark @top;
+      pos base yucyr.loclBGR
+          <anchor 428 531> mark @top;
+      pos base estailcyr.loclCHU
+          <anchor 375 517> mark @top;
+      pos base tecyr.loclSRB
+          <anchor 591 620> mark @top;
+      pos base Idieresis.double
+          <anchor 96 0> mark @ogonek
+          <anchor 226 700> mark @top;
+      pos base idieresis.double
+          <anchor 78 0> mark @ogonek
+          <anchor 201 666> mark @top;
+  } markLTR;
 
-  lookup mark_1 {
-  # GPOS lookup 1, type 4 (MarkToBase attachment)
-    markClass dotbelowcomb <anchor 247 0> @m.cedillacomb;
-    markClass dieresisbelowcomb <anchor 247 0> @m.cedillacomb;
-    markClass commaaccentcomb <anchor 247 0> @m.cedillacomb;
-    markClass cedillacomb <anchor 247 0> @m.cedillacomb;
-    markClass brevebelowcomb <anchor 247 0> @m.cedillacomb;
-    markClass macronbelowcomb <anchor 247 0> @m.cedillacomb;
-    markClass verticallinelowmodcomb <anchor 2 0> @m.cedillacomb;
-    markClass ogonekcomb <anchor 248 0> @m.ogonekcomb_1;
-    markClass dieresiscomb <anchor 353 532> @t.ringcomb_2;
-    markClass dieresiscomb_gravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass dieresiscomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass dieresiscomb_macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass dotaccentcomb <anchor 353 532> @t.ringcomb_2;
-    markClass dotaccentcomb_macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass gravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass gravecomb_macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass acutecomb_dotaccentcomb <anchor 353 532> @t.ringcomb_2;
-    markClass acutecomb_macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass hungarumlautcomb <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb <anchor 353 532> @t.ringcomb_2;
-    markClass caroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass caroncomb_dotaccentcomb <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb <anchor 353 532> @t.ringcomb_2;
-    markClass ringcomb <anchor 353 532> @t.ringcomb_2;
-    markClass ringcomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb_dieresiscomb <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb_macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb_dieresiscomb <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb_gravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass hookabovecomb <anchor 353 532> @t.ringcomb_2;
-    markClass dblgravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass breveinvertedcomb <anchor 353 532> @t.ringcomb_2;
-    markClass commaturnedabovecomb <anchor 353 532> @t.ringcomb_2;
-    markClass commaaccentcomb.alt <anchor 353 532> @t.ringcomb_2;
-    markClass dieresiscomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dieresiscomb_gravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dieresiscomb_acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dieresiscomb_macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dotaccentcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dotaccentcomb_macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass gravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass gravecomb_macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass acutecomb_dotaccentcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass acutecomb_macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass hungarumlautcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass circumflexcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass caroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass caroncomb_dotaccentcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass brevecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass tildecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass tildecomb_dieresiscomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass tildecomb_acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass tildecomb_macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass macroncomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass macroncomb_dieresiscomb.case <anchor 387 699> @t.ringcomb_2;
-    markClass macroncomb_gravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass macroncomb_acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass hookabovecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass dblgravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass breveinvertedcomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass macroncomb.narrow.case <anchor 387 700> @t.ringcomb_2;
-    markClass dieresiscomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass dotaccentcomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass gravecomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass acutecomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass caroncomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass hookabovecomb.loclVIET <anchor 353 532> @t.ringcomb_2;
-    markClass dieresiscomb.narrow <anchor 353 532> @t.ringcomb_2;
-    markClass tildecomb.narrow <anchor 353 532> @t.ringcomb_2;
-    markClass macroncomb.narrow <anchor 353 532> @t.ringcomb_2;
-    markClass breveinvertedcomb.narrow <anchor 353 532> @t.ringcomb_2;
-    markClass macronmod <anchor 353 532> @t.ringcomb_2;
-    markClass gravemod <anchor 353 532> @t.ringcomb_2;
-    markClass acutemod <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb_gravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb_hookabovecomb <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb_tildecomb <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb_acutecomb <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb_gravecomb <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb_hookabovecomb <anchor 353 532> @t.ringcomb_2;
-    markClass circumflexcomb_tildecomb <anchor 353 532> @t.ringcomb_2;
-    markClass brevecomb_acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass brevecomb_gravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass brevecomb_hookabovecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass brevecomb_tildecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass circumflexcomb_acutecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass circumflexcomb_gravecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass circumflexcomb_hookabovecomb.case <anchor 387 700> @t.ringcomb_2;
-    markClass circumflexcomb_tildecomb.case <anchor 387 700> @t.ringcomb_2;
-    pos base A
-        <anchor 317 0> mark @m.cedillacomb
-        <anchor 690 0> mark @m.ogonekcomb_1
-        <anchor 457 700> mark @t.ringcomb_2;
-    pos base AE
-        <anchor 490 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 630 700> mark @t.ringcomb_2;
-    pos base B
-        <anchor 324 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 464 700> mark @t.ringcomb_2;
-    pos base C
-        <anchor 358 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 498 700> mark @t.ringcomb_2;
-    pos base D
-        <anchor 326 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 462 699> mark @t.ringcomb_2;
-    pos base Dcroat
-        <anchor 343 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 458 700> mark @t.ringcomb_2;
-    pos base E
-        <anchor 308 0> mark @m.cedillacomb
-        <anchor 563 0> mark @m.ogonekcomb_1
-        <anchor 438 700> mark @t.ringcomb_2;
-    pos base G
-        <anchor 352 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 498 700> mark @t.ringcomb_2;
-    pos base H
-        <anchor 352 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 492 700> mark @t.ringcomb_2;
-    pos base I
-        <anchor 104 0> mark @m.cedillacomb
-        <anchor 161 0> mark @m.ogonekcomb_1
-        <anchor 244 700> mark @t.ringcomb_2;
-    pos base IJ
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 256 700> mark @t.ringcomb_2;
-    pos base J
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 331 700> mark @t.ringcomb_2;
-    pos base K
-        <anchor 323 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 463 700> mark @t.ringcomb_2;
-    pos base L
-        <anchor 302 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 245 700> mark @t.ringcomb_2;
-    pos base M
-        <anchor 425 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 565 700> mark @t.ringcomb_2;
-    pos base N
-        <anchor 353 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 493 700> mark @t.ringcomb_2;
-    pos base O
-        <anchor 367 0> mark @m.cedillacomb
-        <anchor 450 0> mark @m.ogonekcomb_1
-        <anchor 507 700> mark @t.ringcomb_2;
-    pos base Ohorn
-        <anchor 367 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 507 700> mark @t.ringcomb_2;
-    pos base Oogonek
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 507 700> mark @t.ringcomb_2;
-    pos base Oslash
-        <anchor 367 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 507 700> mark @t.ringcomb_2;
-    pos base OE
-        <anchor 561 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 701 700> mark @t.ringcomb_2;
-    pos base Thorn
-        <anchor 309 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 449 700> mark @t.ringcomb_2;
-    pos base Q
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 508 700> mark @t.ringcomb_2;
-    pos base R
-        <anchor 318 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 458 700> mark @t.ringcomb_2;
-    pos base S
-        <anchor 268 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 408 700> mark @t.ringcomb_2;
-    pos base Germandbls
-        <anchor 350 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 490 700> mark @t.ringcomb_2;
-    pos base Schwa
-        <anchor 357 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 497 700> mark @t.ringcomb_2;
-    pos base T
-        <anchor 244 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 384 700> mark @t.ringcomb_2;
-    pos base U
-        <anchor 342 0> mark @m.cedillacomb
-        <anchor 546 0> mark @m.ogonekcomb_1
-        <anchor 482 700> mark @t.ringcomb_2;
-    pos base W
-        <anchor 514 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 654 700> mark @t.ringcomb_2;
-    pos base Y
-        <anchor 273 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 414 700> mark @t.ringcomb_2;
-    pos base Z
-        <anchor 289 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 424 700> mark @t.ringcomb_2;
-    pos base a
-        <anchor 286 0> mark @m.cedillacomb
-        <anchor 544 0> mark @m.ogonekcomb_1
-        <anchor 391 532> mark @t.ringcomb_2;
-    pos base ae
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 514 531> mark @t.ringcomb_2;
-    pos base c
-        <anchor 276 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 357 532> mark @t.ringcomb_2;
-    pos base d
-        <anchor 295 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 0 0> mark @t.ringcomb_2;
-    pos base e
-        <anchor 253 0> mark @m.cedillacomb
-        <anchor 455 0> mark @m.ogonekcomb_1
-        <anchor 356 531> mark @t.ringcomb_2;
-    pos base eogonek
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 356 531> mark @t.ringcomb_2;
-    pos base g
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 385 532> mark @t.ringcomb_2;
-    pos base h
-        <anchor 290 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 237 742> mark @t.ringcomb_2;
-    pos base i
-        <anchor 88 0> mark @m.cedillacomb
-        <anchor 143 0> mark @m.ogonekcomb_1
-        <anchor 0 0> mark @t.ringcomb_2;
-    pos base dotlessi
-        <anchor 89 0> mark @m.cedillacomb
-        <anchor 144 0> mark @m.ogonekcomb_1
-        <anchor 195 532> mark @t.ringcomb_2;
-    pos base dotlessj
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 199 532> mark @t.ringcomb_2;
-    pos base k
-        <anchor 262 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 237 742> mark @t.ringcomb_2;
-    pos base kgreenlandic
-        <anchor 239 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 344 532> mark @t.ringcomb_2;
-    pos base m
-        <anchor 477 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 0 0> mark @t.ringcomb_2;
-    pos base n
-        <anchor 291 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 397 532> mark @t.ringcomb_2;
-    pos base o
-        <anchor 265 0> mark @m.cedillacomb
-        <anchor 366 0> mark @m.ogonekcomb_1
-        <anchor 370 532> mark @t.ringcomb_2;
-    pos base ohorn
-        <anchor 265 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 370 532> mark @t.ringcomb_2;
-    pos base oogonek
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 370 532> mark @t.ringcomb_2;
-    pos base oslash
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 370 532> mark @t.ringcomb_2;
-    pos base oe
-        <anchor 487 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 592 531> mark @t.ringcomb_2;
-    pos base p
-        <anchor 335 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 418 532> mark @t.ringcomb_2;
-    pos base thorn
-        <anchor 334 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 439 532> mark @t.ringcomb_2;
-    pos base q
-        <anchor 245 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 373 532> mark @t.ringcomb_2;
-    pos base r
-        <anchor 89 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 288 532> mark @t.ringcomb_2;
-    pos base s
-        <anchor 198 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 304 532> mark @t.ringcomb_2;
-    pos base t
-        <anchor 202 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 233 649> mark @t.ringcomb_2;
-    pos base u
-        <anchor 284 0> mark @m.cedillacomb
-        <anchor 539 0> mark @m.ogonekcomb_1
-        <anchor 390 532> mark @t.ringcomb_2;
-    pos base v
-        <anchor 231 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 337 532> mark @t.ringcomb_2;
-    pos base w
-        <anchor 410 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 509 532> mark @t.ringcomb_2;
-    pos base y
-        <anchor 370 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 324 532> mark @t.ringcomb_2;
-    pos base z
-        <anchor 217 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 317 532> mark @t.ringcomb_2;
-    pos base l
-        <anchor 89 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 237 742> mark @t.ringcomb_2;
-    pos base Zhecyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 609 700> mark @t.ringcomb_2;
-    pos base Zecyr
-        <anchor 262 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 406 700> mark @t.ringcomb_2;
-    pos base Icyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 497 700> mark @t.ringcomb_2;
-    pos base Kacyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 451 700> mark @t.ringcomb_2;
-    pos base Emcyr
-        <anchor 429 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 569 700> mark @t.ringcomb_2;
-    pos base Tecyr
-        <anchor 255 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 395 700> mark @t.ringcomb_2;
-    pos base Ucyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 431 700> mark @t.ringcomb_2;
-    pos base Checyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 430 700> mark @t.ringcomb_2;
-    pos base Ylongcyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 567 700> mark @t.ringcomb_2;
-    pos base Ereversedcyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 408 700> mark @t.ringcomb_2;
-    pos base Iukrcyr
-        <anchor 104 0> mark @m.cedillacomb
-        <anchor 161 0> mark @m.ogonekcomb_1
-        <anchor 244 700> mark @t.ringcomb_2;
-    pos base Kabashkcyr
-        <anchor 447 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 587 701> mark @t.ringcomb_2;
-    pos base Tetsecyr
-        <anchor 253 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 393 700> mark @t.ringcomb_2;
-    pos base Cheabkhcyr
-        <anchor 564 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 687 703> mark @t.ringcomb_2;
-    pos base Palochkacyr
-        <anchor 108 0> mark @m.cedillacomb
-        <anchor 165 0> mark @m.ogonekcomb_1
-        <anchor 248 700> mark @t.ringcomb_2;
-    pos base Schwacyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 497 700> mark @t.ringcomb_2;
-    pos base Obarcyr
-        <anchor 367 0> mark @m.cedillacomb
-        <anchor 450 0> mark @m.ogonekcomb_1
-        <anchor 507 700> mark @t.ringcomb_2;
-    pos base Gehookstrokecyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 445 700> mark @t.ringcomb_2;
-    pos base vecyr
-        <anchor 263 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 369 532> mark @t.ringcomb_2;
-    pos base zhecyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 486 532> mark @t.ringcomb_2;
-    pos base zecyr
-        <anchor 203 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 291 531> mark @t.ringcomb_2;
-    pos base icyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 397 532> mark @t.ringcomb_2;
-    pos base kacyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 367 532> mark @t.ringcomb_2;
-    pos base emcyr
-        <anchor 348 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 454 532> mark @t.ringcomb_2;
-    pos base encyr
-        <anchor 287 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 393 532> mark @t.ringcomb_2;
-    pos base tecyr
-        <anchor 201 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 307 532> mark @t.ringcomb_2;
-    pos base checyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 332 532> mark @t.ringcomb_2;
-    pos base ylongcyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 463 532> mark @t.ringcomb_2;
-    pos base ereversedcyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 322 530> mark @t.ringcomb_2;
-    pos base tshecyr
-        <anchor 295 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 241 742> mark @t.ringcomb_2;
-    pos base djecyr
-        <anchor 291 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 238 742> mark @t.ringcomb_2;
-    pos base kastrokecyr
-        <anchor 269 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 375 532> mark @t.ringcomb_2;
-    pos base kabashkcyr
-        <anchor 345 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 451 532> mark @t.ringcomb_2;
-    pos base tetailcyr
-        <anchor 201 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 307 532> mark @t.ringcomb_2;
-    pos base cheabkhcyr
-        <anchor 426 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 517 530> mark @t.ringcomb_2;
-    pos base palochkacyr
-        <anchor 90 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 238 742> mark @t.ringcomb_2;
-    pos base obarcyr
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 380 532> mark @t.ringcomb_2;
-    pos base wecyr
-        <anchor 476 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 476 532> mark @t.ringcomb_2;
-    pos base kacyr.loclBGR
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 362 532> mark @t.ringcomb_2;
-    pos base elcyr.loclBGR
-        <anchor 237 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 343 532> mark @t.ringcomb_2;
-    pos base shacyr.loclBGR
-        <anchor 0 0> mark @m.cedillacomb
-        <anchor 0 0> mark @m.ogonekcomb_1
-        <anchor 562 532> mark @t.ringcomb_2;
-  } mark_1;
-
-
-  lookup mark_2 {
-  # GPOS lookup 2, type 4 (MarkToBase attachment)
-    markClass dotaccentcomb <anchor 384 687> @t.dotaccentcomb;
-    markClass strokeshortcomb <anchor 335 437> @t.dotaccentcomb;
-    markClass strokelongcomb <anchor 478 437> @t.dotaccentcomb;
-    markClass slashshortcomb <anchor 242 389> @t.dotaccentcomb;
-    markClass slashlongcomb <anchor 313 266> @t.dotaccentcomb;
-    pos base D
-        <anchor 220 356> mark @t.dotaccentcomb;
-    pos base Dcroat
-        <anchor 212 350> mark @t.dotaccentcomb;
-    pos base H
-        <anchor 463 556> mark @t.dotaccentcomb;
-    pos base L
-        <anchor 180 379> mark @t.dotaccentcomb;
-    pos base O
-        <anchor 437 350> mark @t.dotaccentcomb;
-    pos base T
-        <anchor 311 336> mark @t.dotaccentcomb;
-    pos base Y
-        <anchor 319 235> mark @t.dotaccentcomb;
-    pos base d
-        <anchor 557 635> mark @t.dotaccentcomb;
-    pos base h
-        <anchor 274 635> mark @t.dotaccentcomb;
-    pos base o
-        <anchor 318 266> mark @t.dotaccentcomb;
-    pos base t
-        <anchor 191 284> mark @t.dotaccentcomb;
-    pos base l
-        <anchor 161 360> mark @t.dotaccentcomb;
-    pos base Tecyr
-        <anchor 322 336> mark @t.dotaccentcomb;
-    pos base Softcyr
-        <anchor 240 585> mark @t.dotaccentcomb;
-    pos base Yatcyr
-        <anchor 339 585> mark @t.dotaccentcomb;
-    pos base Tetsecyr
-        <anchor 320 336> mark @t.dotaccentcomb;
-    pos base Obarcyr
-        <anchor 437 350> mark @t.dotaccentcomb;
-    pos base encyr
-        <anchor 372 427> mark @t.dotaccentcomb;
-    pos base tecyr
-        <anchor 251 250> mark @t.dotaccentcomb;
-    pos base tshecyr
-        <anchor 269 634> mark @t.dotaccentcomb;
-    pos base djecyr
-        <anchor 275 635> mark @t.dotaccentcomb;
-    pos base tetailcyr
-        <anchor 251 250> mark @t.dotaccentcomb;
-    pos base palochkacyr
-        <anchor 162 360> mark @t.dotaccentcomb;
-  } mark_2;
-
-
-  lookup mark_3 {
-  # GPOS lookup 3, type 4 (MarkToBase attachment)
-    markClass periodcentered.loclCAT.case <anchor 221 428> @t.periodcentered.sc;
-    markClass periodcentered.loclCAT <anchor 108 280> @t.periodcentered.sc;
-    pos base L
-        <anchor 482 399> mark @t.periodcentered.sc;
-    pos base l
-        <anchor 343 360> mark @t.periodcentered.sc;
-    pos base palochkacyr
-        <anchor 344 360> mark @t.periodcentered.sc;
-  } mark_3;
-
-
-  lookup mark_4 {
-  # GPOS lookup 4, type 4 (MarkToBase attachment)
-    markClass caroncomb.alt <anchor 387 700> @t.horncomb;
-    markClass horncomb <anchor 353 532> @t.horncomb;
-    markClass caroncomb.alt.short <anchor 395 742> @t.horncomb;
-    pos base L
-        <anchor 524 700> mark @t.horncomb;
-    pos base O
-        <anchor 720 700> mark @t.horncomb;
-    pos base U
-        <anchor 745 700> mark @t.horncomb;
-    pos base d
-        <anchor 779 742> mark @t.horncomb;
-    pos base h
-        <anchor 316 532> mark @t.horncomb;
-    pos base k
-        <anchor 312 532> mark @t.horncomb;
-    pos base o
-        <anchor 504 532> mark @t.horncomb;
-    pos base t
-        <anchor 387 742> mark @t.horncomb;
-    pos base u
-        <anchor 590 532> mark @t.horncomb;
-    pos base l
-        <anchor 379 742> mark @t.horncomb;
-    pos base Obarcyr
-        <anchor 720 700> mark @t.horncomb;
-    pos base tshecyr
-        <anchor 321 532> mark @t.horncomb;
-    pos base djecyr
-        <anchor 317 532> mark @t.horncomb;
-    pos base palochkacyr
-        <anchor 380 742> mark @t.horncomb;
-  } mark_4;
-
-
+  lookup markLTR;
+#< feature
 } mark;
 
 feature mkmk {
-# GPOS feature: Mark to Mark Positioning
-# Lookups: 1
+#> feature
+# GPOS feature : Mark to Mark Positioning
+#    markClass gravecomb <anchor 298 531> @top;
+#    markClass acutecomb <anchor 192 531> @top;
 
+  lookup mkmkLTR {
+      pos mark dotaccentcomb
+          <anchor 247 666> mark @top;
+      pos mark gravecomb
+          <anchor 285 660> mark @top;
+      pos mark acutecomb
+          <anchor 265 739> mark @top;
+      pos mark dotaccentcomb.case
+          <anchor 289 879> mark @top;
+  } mkmkLTR;
 
-  lookup mkmk {
-  # GPOS lookup 6, type 6 (MarkToMark attachment)
-    markClass Gecyr <anchor 51 0> @m.Gecyr_2;
-    markClass Tsecyr <anchor 529 0> @m.Gecyr_2;
-    markClass gecyr <anchor 36 0> @m.Gecyr_2;
-    markClass tsecyr <anchor 402 0> @m.Gecyr_2;
-    markClass dieresiscomb <anchor 353 532> @t.ringcomb_1;
-    markClass dieresiscomb_gravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass dieresiscomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass dieresiscomb_macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass dotaccentcomb <anchor 353 532> @t.ringcomb_1;
-    markClass dotaccentcomb_macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass gravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass gravecomb_macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass acutecomb_dotaccentcomb <anchor 353 532> @t.ringcomb_1;
-    markClass acutecomb_macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass hungarumlautcomb <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb <anchor 353 532> @t.ringcomb_1;
-    markClass caroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass caroncomb_dotaccentcomb <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb <anchor 353 532> @t.ringcomb_1;
-    markClass ringcomb <anchor 353 532> @t.ringcomb_1;
-    markClass ringcomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb_dieresiscomb <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb_macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb_dieresiscomb <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb_gravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass hookabovecomb <anchor 353 532> @t.ringcomb_1;
-    markClass dblgravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass breveinvertedcomb <anchor 353 532> @t.ringcomb_1;
-    markClass commaturnedabovecomb <anchor 353 532> @t.ringcomb_1;
-    markClass commaaccentcomb.alt <anchor 353 532> @t.ringcomb_1;
-    markClass dieresiscomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dieresiscomb_gravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dieresiscomb_acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dieresiscomb_macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dotaccentcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dotaccentcomb_macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass gravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass gravecomb_macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass acutecomb_dotaccentcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass acutecomb_macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass hungarumlautcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass circumflexcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass caroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass caroncomb_dotaccentcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass brevecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass tildecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass tildecomb_dieresiscomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass tildecomb_acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass tildecomb_macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass macroncomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass macroncomb_dieresiscomb.case <anchor 387 699> @t.ringcomb_1;
-    markClass macroncomb_gravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass macroncomb_acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass hookabovecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dblgravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass breveinvertedcomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass macroncomb.narrow.case <anchor 387 700> @t.ringcomb_1;
-    markClass dieresiscomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass dotaccentcomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass gravecomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass acutecomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass caroncomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass hookabovecomb.loclVIET <anchor 353 532> @t.ringcomb_1;
-    markClass dieresiscomb.narrow <anchor 353 532> @t.ringcomb_1;
-    markClass tildecomb.narrow <anchor 353 532> @t.ringcomb_1;
-    markClass macroncomb.narrow <anchor 353 532> @t.ringcomb_1;
-    markClass breveinvertedcomb.narrow <anchor 353 532> @t.ringcomb_1;
-    markClass macronmod <anchor 353 532> @t.ringcomb_1;
-    markClass gravemod <anchor 353 532> @t.ringcomb_1;
-    markClass acutemod <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb_gravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb_hookabovecomb <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb_tildecomb <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb_acutecomb <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb_gravecomb <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb_hookabovecomb <anchor 353 532> @t.ringcomb_1;
-    markClass circumflexcomb_tildecomb <anchor 353 532> @t.ringcomb_1;
-    markClass brevecomb_acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass brevecomb_gravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass brevecomb_hookabovecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass brevecomb_tildecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass circumflexcomb_acutecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass circumflexcomb_gravecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass circumflexcomb_hookabovecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass circumflexcomb_tildecomb.case <anchor 387 700> @t.ringcomb_1;
-    markClass dotbelowcomb <anchor 247 0> @b.cedillacomb_2;
-    markClass dieresisbelowcomb <anchor 247 0> @b.cedillacomb_2;
-    markClass commaaccentcomb <anchor 247 0> @b.cedillacomb_2;
-    markClass cedillacomb <anchor 247 0> @b.cedillacomb_2;
-    markClass brevebelowcomb <anchor 247 0> @b.cedillacomb_2;
-    markClass macronbelowcomb <anchor 247 0> @b.cedillacomb_2;
-    markClass verticallinelowmodcomb <anchor 2 0> @b.cedillacomb_2;
-    pos mark dieresiscomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 383 683> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark dotaccentcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 713> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark gravecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark acutecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark hungarumlautcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark circumflexcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark caroncomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark brevecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark ringcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 401 773> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark ringcomb_acutecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 401 773> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark tildecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark macroncomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark hookabovecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 402 779> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark dblgravecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark breveinvertedcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark commaturnedabovecomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 395 743> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark dotbelowcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 0 0> mark @t.ringcomb_1
-        <anchor 218 -151> mark @b.cedillacomb_2;
-    pos mark dieresisbelowcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 0 0> mark @t.ringcomb_1
-        <anchor 217 -154> mark @b.cedillacomb_2;
-    pos mark commaaccentcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 0 0> mark @t.ringcomb_1
-        <anchor 218 -151> mark @b.cedillacomb_2;
-    pos mark brevebelowcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 0 0> mark @t.ringcomb_1
-        <anchor 215 -162> mark @b.cedillacomb_2;
-    pos mark macronbelowcomb
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 0 0> mark @t.ringcomb_1
-        <anchor 218 -146> mark @b.cedillacomb_2;
-    pos mark dieresiscomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark dotaccentcomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 383 683> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark gravecomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark acutecomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark circumflexcomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 379 667> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark caroncomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 377 656> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark brevecomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 378 661> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark tildecomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark macroncomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark hookabovecomb.loclVIET
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark dieresiscomb.narrow
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 383 683> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark tildecomb.narrow
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark macroncomb.narrow
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark breveinvertedcomb.narrow
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 386 699> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark macronmod
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 382 679> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark gravemod
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark acutemod
-        <anchor 0 0> mark @m.Gecyr_2
-        <anchor 388 709> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark Gecyr
-        <anchor NULL> mark @m.Gecyr_2
-        <anchor 416 700> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-    pos mark gecyr
-        <anchor 36 0> mark @m.Gecyr_2
-        <anchor 344 530> mark @t.ringcomb_1
-        <anchor 0 0> mark @b.cedillacomb_2;
-  } mkmk;
-
-
+  lookup mkmkLTR;
+#< feature
 } mkmk;
 

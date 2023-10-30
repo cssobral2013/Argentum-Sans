@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-  <advance width="548"/>
+  <advance width="527"/>
   <unicode hex="03A4"/>
   <anchor x="350" y="700" name="t.uni0308"/>
   <anchor x="350" y="295" name="t.uni0307_1"/>
   <anchor x="350" y="0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="264" y="0" type="line"/>
-      <point x="264" y="681" type="line"/>
-      <point x="4" y="681" type="line"/>
-      <point x="4" y="700" type="line"/>
-      <point x="544" y="700" type="line"/>
-      <point x="544" y="681" type="line"/>
-      <point x="284" y="681" type="line"/>
-      <point x="284" y="0" type="line"/>
-    </contour>
+    <component base="T"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>T</string>
+  </dict>
+  </lib>
 </glyph>

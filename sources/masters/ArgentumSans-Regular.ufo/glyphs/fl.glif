@@ -3,7 +3,6 @@
   <advance width="678"/>
   <unicode hex="FB02"/>
   <anchor x="566" y="0" name="bottom"/>
-  <anchor x="669" y="398" name="center"/>
   <anchor x="502" y="742" name="top"/>
   <anchor x="634" y="742" name="topright"/>
   <outline>

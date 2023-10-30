@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nu" format="2">
-  <advance width="811"/>
+  <advance width="770"/>
   <unicode hex="039D"/>
-  <anchor x="469" y="700" name="t.uni0308"/>
-  <anchor x="329" y="-0" name="b.uni0324_3"/>
+  <anchor x="399" y="700" name="t.uni0308"/>
+  <anchor x="399" y="0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="170" y="700" type="line"/>
-      <point x="264" y="700" type="line"/>
-      <point x="604" y="144" type="line"/>
-      <point x="556" y="144" type="line"/>
-      <point x="667" y="700" type="line"/>
-      <point x="781" y="700" type="line"/>
-      <point x="641" y="0" type="line"/>
-      <point x="547" y="0" type="line"/>
-      <point x="207" y="556" type="line"/>
-      <point x="255" y="556" type="line"/>
-      <point x="144" y="0" type="line"/>
-    </contour>
+    <component base="N"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>N</string>
+  </dict>
+  </lib>
 </glyph>

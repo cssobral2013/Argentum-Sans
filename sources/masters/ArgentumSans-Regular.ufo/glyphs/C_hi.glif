@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="683"/>
+  <advance width="692"/>
   <unicode hex="03A7"/>
+  <anchor x="-0" y="75" name="top"/>
   <outline>
-    <contour>
-      <point x="11" y="0" type="line"/>
-      <point x="304" y="402" type="line"/>
-      <point x="304" y="314" type="line"/>
-      <point x="26" y="700" type="line"/>
-      <point x="156" y="700" type="line"/>
-      <point x="370" y="406" type="line"/>
-      <point x="317" y="405" type="line"/>
-      <point x="530" y="700" type="line"/>
-      <point x="654" y="700" type="line"/>
-      <point x="378" y="320" type="line"/>
-      <point x="378" y="404" type="line"/>
-      <point x="672" y="0" type="line"/>
-      <point x="540" y="0" type="line"/>
-      <point x="314" y="313" type="line"/>
-      <point x="365" y="313" type="line"/>
-      <point x="142" y="0" type="line"/>
-    </contour>
+    <component base="X"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>X</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>X</string>
+  </dict>
+  </lib>
 </glyph>

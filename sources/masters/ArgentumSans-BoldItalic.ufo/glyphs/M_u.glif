@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mu" format="2">
-  <advance width="954"/>
+  <advance width="931"/>
   <unicode hex="039C"/>
-  <anchor x="546" y="700" name="t.uni0308"/>
-  <anchor x="406" y="-0" name="b.uni0324_3"/>
+  <anchor x="476" y="700" name="t.uni0308"/>
+  <anchor x="476" y="0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="-13" y="0" type="line"/>
-      <point x="127" y="700" type="line"/>
-      <point x="321" y="700" type="line"/>
-      <point x="510" y="243" type="line"/>
-      <point x="408" y="243" type="line"/>
-      <point x="771" y="700" type="line"/>
-      <point x="965" y="700" type="line"/>
-      <point x="827" y="0" type="line"/>
-      <point x="612" y="0" type="line"/>
-      <point x="685" y="376" type="line"/>
-      <point x="719" y="376" type="line"/>
-      <point x="471" y="63" type="line"/>
-      <point x="367" y="63" type="line"/>
-      <point x="235" y="376" type="line"/>
-      <point x="277" y="376" type="line"/>
-      <point x="202" y="0" type="line"/>
-    </contour>
+    <component base="M"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>M</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>M</string>
+  </dict>
+  </lib>
 </glyph>

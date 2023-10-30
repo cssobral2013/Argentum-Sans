@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
-  <advance width="710"/>
+  <advance width="718"/>
   <unicode hex="03A5"/>
-  <anchor x="355" y="700" name="t.uni0308"/>
-  <anchor x="349" y="266" name="t.uni0307_1"/>
-  <anchor x="355" y="0" name="b.uni0324_3"/>
+  <anchor x="372" y="700" name="t.uni0308"/>
+  <anchor x="366" y="266" name="t.uni0307_1"/>
+  <anchor x="372" y="-0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="237" y="0" type="line"/>
-      <point x="237" y="307" type="line"/>
-      <point x="291" y="166" type="line"/>
-      <point x="-27" y="700" type="line"/>
-      <point x="222" y="700" type="line"/>
-      <point x="437" y="335" type="line"/>
-      <point x="292" y="335" type="line"/>
-      <point x="509" y="700" type="line"/>
-      <point x="737" y="700" type="line"/>
-      <point x="421" y="166" type="line"/>
-      <point x="473" y="307" type="line"/>
-      <point x="473" y="0" type="line"/>
-    </contour>
+    <component base="Y"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Y</string>
+  </dict>
+  </lib>
 </glyph>

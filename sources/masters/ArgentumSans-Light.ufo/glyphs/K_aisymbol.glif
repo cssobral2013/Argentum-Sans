@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kaisymbol" format="2">
+  <advance width="677"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <component base="Kahookcyr"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Kahookcyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Kahookcyr</string>
+  </dict>
+  </lib>
+</glyph>

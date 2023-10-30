@@ -3,59 +3,10 @@
   <advance width="686"/>
   <unicode hex="03AC"/>
   <anchor x="427" y="562" name="t.uni0308"/>
-  <anchor x="315" y="-0" name="b.uni0324_3"/>
-  <anchor x="619" y="-0" name="m.uni0328_4"/>
+  <anchor x="315" y="0" name="b.uni0324_3"/>
+  <anchor x="619" y="0" name="m.uni0328_4"/>
   <outline>
-    <contour>
-      <point x="247" y="-6" type="qcurve" smooth="yes"/>
-      <point x="169" y="-6"/>
-      <point x="59" y="62"/>
-      <point x="14" y="184"/>
-      <point x="30" y="266" type="qcurve" smooth="yes"/>
-      <point x="47" y="348"/>
-      <point x="141" y="470"/>
-      <point x="278" y="538"/>
-      <point x="356" y="538" type="qcurve" smooth="yes"/>
-      <point x="422" y="538"/>
-      <point x="518" y="479"/>
-      <point x="559" y="359"/>
-      <point x="540" y="266" type="qcurve" smooth="yes"/>
-      <point x="522" y="174"/>
-      <point x="435" y="53"/>
-      <point x="315" y="-6"/>
-    </contour>
-    <contour>
-      <point x="275" y="90" type="qcurve" smooth="yes"/>
-      <point x="323" y="90"/>
-      <point x="408" y="133"/>
-      <point x="469" y="213"/>
-      <point x="479" y="266" type="qcurve" smooth="yes"/>
-      <point x="490" y="320"/>
-      <point x="461" y="399"/>
-      <point x="393" y="442"/>
-      <point x="345" y="442" type="qcurve" smooth="yes"/>
-      <point x="297" y="442"/>
-      <point x="213" y="399"/>
-      <point x="152" y="320"/>
-      <point x="141" y="266" type="qcurve" smooth="yes"/>
-      <point x="131" y="213"/>
-      <point x="160" y="133"/>
-      <point x="227" y="90"/>
-    </contour>
-    <contour>
-      <point x="429" y="0" type="line"/>
-      <point x="456" y="134" type="line"/>
-      <point x="487" y="267" type="line"/>
-      <point x="504" y="400" type="line"/>
-      <point x="530" y="532" type="line"/>
-      <point x="640" y="532" type="line"/>
-      <point x="534" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="383" y="607" type="line"/>
-      <point x="453" y="741" type="line"/>
-      <point x="575" y="741" type="line"/>
-      <point x="470" y="607" type="line"/>
-    </contour>
+    <component base="alpha"/>
+    <component base="tonos" xOffset="273"/>
   </outline>
 </glyph>

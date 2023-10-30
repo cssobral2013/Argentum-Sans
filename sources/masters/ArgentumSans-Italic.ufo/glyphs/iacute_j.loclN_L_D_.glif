@@ -3,9 +3,9 @@
   <advance width="544"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acutecomb" xOffset="21"/>
+    <component base="acutecomb" xOffset="-32"/>
     <component base="dotlessj" xOffset="284"/>
-    <component base="acutecomb" xOffset="298"/>
+    <component base="acutecomb" xOffset="245"/>
   </outline>
   <lib>
   <dict>

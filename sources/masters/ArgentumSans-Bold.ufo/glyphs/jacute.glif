@@ -3,7 +3,7 @@
   <advance width="340"/>
   <outline>
     <component base="dotlessj"/>
-    <component base="acutecomb" xOffset="49"/>
+    <component base="acutecomb" xOffset="49" yOffset="-13"/>
   </outline>
   <lib>
   <dict>

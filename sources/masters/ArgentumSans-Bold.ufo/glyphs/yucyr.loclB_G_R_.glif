@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yucyr.loclBGR" format="2">
   <advance width="928"/>
+  <anchor x="482" y="817" name="top"/>
   <outline>
     <contour>
       <point x="278" y="0" type="line"/>

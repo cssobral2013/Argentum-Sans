@@ -3,7 +3,6 @@
   <advance width="648"/>
   <unicode hex="006F"/>
   <anchor x="324" y="0" name="bottom"/>
-  <anchor x="324" y="274" name="center"/>
   <anchor x="547" y="0" name="ogonek"/>
   <anchor x="324" y="547" name="top"/>
   <anchor x="464" y="547" name="topright"/>

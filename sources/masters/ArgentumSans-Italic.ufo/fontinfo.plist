@@ -25,7 +25,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>243</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -144,12 +144,13 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.100</string>
+  <string>Version 3.101</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>1</integer>
     <integer>2</integer>
+    <integer>3</integer>
     <integer>4</integer>
     <integer>7</integer>
     <integer>8</integer>
@@ -209,6 +210,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
     <integer>3</integer>
     <integer>5</integer>
     <integer>6</integer>
+    <integer>7</integer>
     <integer>9</integer>
     <integer>29</integer>
     <integer>31</integer>
@@ -289,7 +291,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>100</integer>
+  <integer>101</integer>
   <key>xHeight</key>
   <integer>531</integer>
 </dict>

@@ -382,6 +382,8 @@
   <string>K_acyr.glif</string>
   <key>Kahookcyr</key>
   <string>K_ahookcyr.glif</string>
+  <key>Kaisymbol</key>
+  <string>K_aisymbol.glif</string>
   <key>Kappa</key>
   <string>K_appa.glif</string>
   <key>Kastrokecyr</key>
@@ -1704,6 +1706,8 @@
   <string>kacyr.loclB_G_R_.glif</string>
   <key>kahookcyr</key>
   <string>kahookcyr.glif</string>
+  <key>kaisymbol</key>
+  <string>kaisymbol.glif</string>
   <key>kappa</key>
   <string>kappa.glif</string>
   <key>kastrokecyr</key>
@@ -2186,10 +2190,10 @@
   <string>shacyr.glif</string>
   <key>shacyr.loclBGR</key>
   <string>shacyr.loclB_G_R_.glif</string>
+  <key>shcha-cy.loclBGR</key>
+  <string>shcha-cy.loclB_G_R_.glif</string>
   <key>shchacyr</key>
   <string>shchacyr.glif</string>
-  <key>shchacyr.loclBGR</key>
-  <string>shchacyr.loclB_G_R_.glif</string>
   <key>shhacyr</key>
   <string>shhacyr.glif</string>
   <key>shhatailcyr</key>
@@ -2352,10 +2356,10 @@
   <string>trianglerightwhite.glif</string>
   <key>triangleupwhite</key>
   <string>triangleupwhite.glif</string>
+  <key>tse-cy.loclBGR</key>
+  <string>tse-cy.loclB_G_R_.glif</string>
   <key>tsecyr</key>
   <string>tsecyr.glif</string>
-  <key>tsecyr.loclBGR</key>
-  <string>tsecyr.loclB_G_R_.glif</string>
   <key>tshecyr</key>
   <string>tshecyr.glif</string>
   <key>turkishlira</key>

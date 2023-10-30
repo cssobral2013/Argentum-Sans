@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zeta" format="2">
-  <advance width="639"/>
+  <advance width="651"/>
   <unicode hex="0396"/>
   <anchor x="367" y="700" name="t.uni0308"/>
   <anchor x="362" y="0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="15" type="line"/>
-      <point x="567" y="688" type="line"/>
-      <point x="568" y="681" type="line"/>
-      <point x="55" y="681" type="line"/>
-      <point x="55" y="700" type="line"/>
-      <point x="590" y="700" type="line"/>
-      <point x="590" y="685" type="line"/>
-      <point x="73" y="12" type="line"/>
-      <point x="72" y="19" type="line"/>
-      <point x="600" y="19" type="line"/>
-      <point x="600" y="0" type="line"/>
-    </contour>
+    <component base="Z"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Z</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Z</string>
+  </dict>
+  </lib>
 </glyph>

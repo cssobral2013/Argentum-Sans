@@ -110,8 +110,12 @@
   <string>Z_hecyr.glif</string>
   <key>Zhetailcyr</key>
   <string>Z_hetailcyr.glif</string>
+  <key>acutecomb</key>
+  <string>acutecomb.glif</string>
   <key>acutecomb.loclVIET</key>
   <string>acutecomb.loclV_I_E_T_.glif</string>
+  <key>acutecomb_dotaccentcomb</key>
+  <string>acutecomb_dotaccentcomb.glif</string>
   <key>becyr</key>
   <string>becyr.glif</string>
   <key>becyr.loclSRB</key>
@@ -152,6 +156,8 @@
   <string>gecyr.loclB_G_R_.glif</string>
   <key>gehookcyr</key>
   <string>gehookcyr.glif</string>
+  <key>gravecomb</key>
+  <string>gravecomb.glif</string>
   <key>gravecomb.case</key>
   <string>gravecomb.case.glif</string>
   <key>haabkhcyr</key>

@@ -1,48 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
-  <advance width="678"/>
+  <advance width="642"/>
   <unicode hex="03BF"/>
-  <anchor x="348" y="547" name="t.uni0308"/>
-  <anchor x="321" y="274" name="t.uni0307_1"/>
-  <anchor x="444" y="547" name="t.uni031B_2"/>
-  <anchor x="294" y="-0" name="b.uni0324_3"/>
-  <anchor x="417" y="-0" name="m.uni0328_4"/>
+  <anchor x="336" y="547" name="t.uni0308"/>
+  <anchor x="336" y="274" name="t.uni0307_1"/>
+  <anchor x="432" y="547" name="t.uni031B_2"/>
+  <anchor x="336" y="0" name="b.uni0324_3"/>
+  <anchor x="459" y="0" name="m.uni0328_4"/>
   <outline>
-    <contour>
-      <point x="296" y="-10" type="qcurve" smooth="yes"/>
-      <point x="203" y="-10"/>
-      <point x="67" y="63"/>
-      <point x="-2" y="191"/>
-      <point x="6" y="274" type="qcurve" smooth="yes"/>
-      <point x="14" y="357"/>
-      <point x="110" y="485"/>
-      <point x="259" y="557"/>
-      <point x="352" y="557" type="qcurve" smooth="yes"/>
-      <point x="445" y="557"/>
-      <point x="583" y="485"/>
-      <point x="650" y="357"/>
-      <point x="642" y="274" type="qcurve" smooth="yes"/>
-      <point x="634" y="191"/>
-      <point x="540" y="63"/>
-      <point x="389" y="-10"/>
-    </contour>
-    <contour>
-      <point x="313" y="166" type="qcurve" smooth="yes"/>
-      <point x="338" y="166"/>
-      <point x="381" y="190"/>
-      <point x="410" y="239"/>
-      <point x="413" y="274" type="qcurve" smooth="yes"/>
-      <point x="417" y="310"/>
-      <point x="397" y="357"/>
-      <point x="360" y="381"/>
-      <point x="335" y="381" type="qcurve" smooth="yes"/>
-      <point x="310" y="381"/>
-      <point x="267" y="357"/>
-      <point x="239" y="310"/>
-      <point x="235" y="274" type="qcurve" smooth="yes"/>
-      <point x="232" y="239"/>
-      <point x="251" y="190"/>
-      <point x="288" y="166"/>
-    </contour>
+    <component base="o"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>o</string>
+  </dict>
+  </lib>
 </glyph>

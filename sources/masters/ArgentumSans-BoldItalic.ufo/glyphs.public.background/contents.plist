@@ -12,6 +12,8 @@
   <string>E_reversedcyr.glif</string>
   <key>Gestrokecyr</key>
   <string>G_estrokecyr.glif</string>
+  <key>Icyr</key>
+  <string>I_cyr.glif</string>
   <key>K</key>
   <string>K_.glif</string>
   <key>Katailcyr</key>
@@ -48,6 +50,8 @@
   <string>five.osf.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>gravecomb</key>
+  <string>gravecomb.glif</string>
   <key>gravecomb.case</key>
   <string>gravecomb.case.glif</string>
   <key>icyr</key>
@@ -64,6 +68,8 @@
   <string>one.glif</string>
   <key>one.osf</key>
   <string>one.osf.glif</string>
+  <key>p</key>
+  <string>p.glif</string>
   <key>peso</key>
   <string>peso.glif</string>
   <key>question</key>
@@ -82,6 +88,8 @@
   <string>three.glif</string>
   <key>three.osf</key>
   <string>three.osf.glif</string>
+  <key>tshecyr</key>
+  <string>tshecyr.glif</string>
   <key>two</key>
   <string>two.glif</string>
   <key>u</key>
@@ -94,6 +102,8 @@
   <string>yacyr.glif</string>
   <key>yucyr</key>
   <string>yucyr.glif</string>
+  <key>yucyr.loclBGR</key>
+  <string>yucyr.loclB_G_R_.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
   <key>zero</key>

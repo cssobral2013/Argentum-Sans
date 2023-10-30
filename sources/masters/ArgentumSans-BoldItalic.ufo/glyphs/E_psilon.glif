@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
-  <advance width="673"/>
+  <advance width="679"/>
   <unicode hex="0395"/>
-  <anchor x="412" y="700" name="t.uni0308"/>
-  <anchor x="272" y="-0" name="b.uni0324_3"/>
-  <anchor x="569" y="-0" name="m.uni0328_4"/>
+  <anchor x="342" y="700" name="t.uni0308"/>
+  <anchor x="342" y="0" name="b.uni0324_3"/>
+  <anchor x="639" y="0" name="m.uni0328_4"/>
   <outline>
-    <contour>
-      <point x="291" y="440" type="line"/>
-      <point x="603" y="440" type="line"/>
-      <point x="569" y="270" type="line"/>
-      <point x="257" y="270" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="178" type="line"/>
-      <point x="605" y="178" type="line"/>
-      <point x="569" y="0" type="line"/>
-      <point x="-13" y="0" type="line"/>
-      <point x="127" y="700" type="line"/>
-      <point x="696" y="700" type="line"/>
-      <point x="660" y="522" type="line"/>
-      <point x="323" y="522" type="line"/>
-    </contour>
+    <component base="E"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>E</string>
+  </dict>
+  </lib>
 </glyph>

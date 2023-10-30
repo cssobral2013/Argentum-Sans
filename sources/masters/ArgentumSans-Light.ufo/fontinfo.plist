@@ -26,7 +26,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>163</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -115,7 +115,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.100</string>
+  <string>Version 3.101</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -262,7 +262,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>100</integer>
+  <integer>101</integer>
   <key>xHeight</key>
   <integer>531</integer>
 </dict>

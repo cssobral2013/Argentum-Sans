@@ -2,7 +2,7 @@
 <glyph name="ylongcyr" format="2">
   <advance width="739"/>
   <unicode hex="044B"/>
-  <anchor x="422" y="517" name="top"/>
+  <anchor x="442" y="517" name="top"/>
   <outline>
     <contour>
       <point x="571" y="0" type="line"/>

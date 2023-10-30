@@ -2,6 +2,7 @@
 <glyph name="eukrcyr" format="2">
   <advance width="565"/>
   <unicode hex="0454"/>
+  <anchor x="380" y="520" name="top"/>
   <outline>
     <component base="ereversedcyr" xScale="-1" yScale="-1" xOffset="563" yOffset="517"/>
   </outline>

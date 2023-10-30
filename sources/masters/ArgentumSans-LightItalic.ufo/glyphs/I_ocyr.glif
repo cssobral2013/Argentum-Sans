@@ -2,7 +2,7 @@
 <glyph name="Iocyr" format="2">
   <advance width="645"/>
   <unicode hex="0401"/>
-  <anchor x="498" y="879" name="top"/>
+  <anchor x="498" y="820" name="top"/>
   <outline>
     <component base="Iecyr"/>
     <component base="dieresiscomb.case" xOffset="102"/>

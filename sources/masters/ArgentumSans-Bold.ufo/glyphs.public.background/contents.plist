@@ -12,6 +12,8 @@
   <string>Y_ucyr.glif</string>
   <key>Zhetailcyr</key>
   <string>Z_hetailcyr.glif</string>
+  <key>acutecomb.case</key>
+  <string>acutecomb.case.glif</string>
   <key>acutecomb.loclVIET</key>
   <string>acutecomb.loclV_I_E_T_.glif</string>
   <key>cedillacomb</key>
@@ -22,6 +24,8 @@
   <string>eight.glif</string>
   <key>f</key>
   <string>f.glif</string>
+  <key>fl</key>
+  <string>fl.glif</string>
   <key>four</key>
   <string>four.glif</string>
   <key>four.osf</key>

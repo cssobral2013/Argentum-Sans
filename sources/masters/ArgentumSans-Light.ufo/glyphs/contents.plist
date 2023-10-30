@@ -382,6 +382,8 @@
   <string>K_acyr.glif</string>
   <key>Kahookcyr</key>
   <string>K_ahookcyr.glif</string>
+  <key>Kaisymbol</key>
+  <string>K_aisymbol.glif</string>
   <key>Kappa</key>
   <string>K_appa.glif</string>
   <key>Kastrokecyr</key>
@@ -1706,6 +1708,8 @@
   <string>kacyr.loclB_G_R_.glif</string>
   <key>kahookcyr</key>
   <string>kahookcyr.glif</string>
+  <key>kaisymbol</key>
+  <string>kaisymbol.glif</string>
   <key>kappa</key>
   <string>kappa.glif</string>
   <key>kastrokecyr</key>

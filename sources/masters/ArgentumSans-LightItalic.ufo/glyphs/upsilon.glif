@@ -4,8 +4,8 @@
   <unicode hex="03C5"/>
   <anchor x="397" y="593" name="t.uni0308"/>
   <anchor x="592" y="593" name="t.uni031B_2"/>
-  <anchor x="278" y="-0" name="b.uni0324_3"/>
-  <anchor x="495" y="-0" name="m.uni0328_4"/>
+  <anchor x="278" y="0" name="b.uni0324_3"/>
+  <anchor x="495" y="0" name="m.uni0328_4"/>
   <outline>
     <contour>
       <point x="259" y="-3" type="qcurve" smooth="yes"/>

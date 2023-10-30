@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha" format="2">
-  <advance width="688"/>
+  <advance width="687"/>
   <unicode hex="0391"/>
   <anchor x="429" y="700" name="t.uni0308"/>
   <anchor x="429" y="0" name="b.uni0324_3"/>
   <anchor x="889" y="0" name="m.uni0328_4"/>
   <outline>
-    <contour>
-      <point x="9" y="0" type="line"/>
-      <point x="334" y="700" type="line"/>
-      <point x="354" y="700" type="line"/>
-      <point x="679" y="0" type="line"/>
-      <point x="656" y="0" type="line"/>
-      <point x="339" y="684" type="line"/>
-      <point x="349" y="684" type="line"/>
-      <point x="32" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="211" type="line"/>
-      <point x="126" y="230" type="line"/>
-      <point x="561" y="230" type="line"/>
-      <point x="571" y="211" type="line"/>
-    </contour>
+    <component base="A"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>A</string>
+  </dict>
+  </lib>
 </glyph>

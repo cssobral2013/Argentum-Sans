@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
-  <advance width="625"/>
+  <advance width="595"/>
   <unicode hex="03BA"/>
-  <anchor x="180" y="540" name="t.uni0308"/>
-  <anchor x="341" y="562" name="t.uni031B_2"/>
-  <anchor x="330" y="0" name="b.uni0324_3"/>
+  <anchor x="185" y="540" name="t.uni0308"/>
+  <anchor x="346" y="562" name="t.uni031B_2"/>
+  <anchor x="335" y="-0" name="b.uni0324_3"/>
   <outline>
-    <contour>
-      <point x="176" y="123" type="line"/>
-      <point x="179" y="264" type="line"/>
-      <point x="471" y="532" type="line"/>
-      <point x="604" y="532" type="line"/>
-      <point x="368" y="298" type="line"/>
-      <point x="309" y="248" type="line"/>
-    </contour>
-    <contour>
-      <point x="87" y="0" type="line"/>
-      <point x="87" y="540" type="line"/>
-      <point x="197" y="540" type="line"/>
-      <point x="197" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="491" y="0" type="line"/>
-      <point x="289" y="249" type="line"/>
-      <point x="359" y="338" type="line"/>
-      <point x="625" y="0" type="line"/>
-    </contour>
+    <component base="kgreenlandic" xOffset="5"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>k</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>k</string>
+  </dict>
+  </lib>
 </glyph>

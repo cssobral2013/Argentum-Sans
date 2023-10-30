@@ -4,7 +4,6 @@
   <anchor x="287" y="0" name="bottom_1"/>
   <anchor x="861" y="0" name="bottom_2"/>
   <anchor x="574" y="0" name="caret_1"/>
-  <anchor x="0" y="0" name="center_1"/>
   <anchor x="0" y="0" name="center_2"/>
   <anchor x="287" y="531" name="top_1"/>
   <anchor x="861" y="531" name="top_2"/>

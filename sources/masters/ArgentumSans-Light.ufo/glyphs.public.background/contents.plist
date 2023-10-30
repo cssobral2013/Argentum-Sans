@@ -104,6 +104,10 @@
   <string>Z_hecyr.glif</string>
   <key>Zhetailcyr</key>
   <string>Z_hetailcyr.glif</string>
+  <key>a</key>
+  <string>a.glif</string>
+  <key>acutecomb.case</key>
+  <string>acutecomb.case.glif</string>
   <key>acutecomb.loclVIET</key>
   <string>acutecomb.loclV_I_E_T_.glif</string>
   <key>becyr</key>

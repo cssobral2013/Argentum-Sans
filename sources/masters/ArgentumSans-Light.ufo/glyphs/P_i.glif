@@ -3,17 +3,14 @@
   <advance width="833"/>
   <unicode hex="03A0"/>
   <outline>
-    <contour>
-      <point x="137" y="0" type="line"/>
-      <point x="137" y="700" type="line"/>
-      <point x="696" y="700" type="line"/>
-      <point x="696" y="0" type="line"/>
-      <point x="676" y="0" type="line"/>
-      <point x="676" y="690" type="line"/>
-      <point x="685" y="681" type="line"/>
-      <point x="148" y="681" type="line"/>
-      <point x="157" y="690" type="line"/>
-      <point x="157" y="0" type="line"/>
-    </contour>
+    <component base="Pecyr"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Pecyr</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>Pecyr</string>
+  </dict>
+  </lib>
 </glyph>

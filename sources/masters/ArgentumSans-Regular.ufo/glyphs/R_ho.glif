@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rho" format="2">
-  <advance width="724"/>
+  <advance width="673"/>
   <unicode hex="03A1"/>
   <outline>
-    <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="700" type="line"/>
-      <point x="380" y="700" type="line" smooth="yes"/>
-      <point x="472" y="700"/>
-      <point x="604" y="641"/>
-      <point x="675" y="530"/>
-      <point x="675" y="453" type="qcurve" smooth="yes"/>
-      <point x="675" y="377"/>
-      <point x="604" y="266"/>
-      <point x="472" y="207"/>
-      <point x="380" y="207" type="qcurve" smooth="yes"/>
-      <point x="163" y="207" type="line"/>
-      <point x="214" y="261" type="line"/>
-      <point x="214" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="214" y="249" type="line"/>
-      <point x="163" y="306" type="line"/>
-      <point x="376" y="306" type="line" smooth="yes"/>
-      <point x="467" y="306"/>
-      <point x="560" y="383"/>
-      <point x="560" y="453" type="qcurve" smooth="yes"/>
-      <point x="560" y="524"/>
-      <point x="467" y="601"/>
-      <point x="376" y="601" type="qcurve" smooth="yes"/>
-      <point x="163" y="601" type="line"/>
-      <point x="214" y="658" type="line"/>
-    </contour>
+    <component base="P"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>P</string>
+  </dict>
+  </lib>
 </glyph>

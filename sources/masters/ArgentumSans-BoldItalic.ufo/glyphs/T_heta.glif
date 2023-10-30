@@ -1,62 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Theta" format="2">
-  <advance width="848"/>
+  <advance width="796"/>
   <unicode hex="0398"/>
   <anchor x="494" y="700" name="t.uni0308"/>
   <anchor x="424" y="350" name="t.uni0307_1"/>
   <anchor x="660" y="700" name="t.uni031B_2"/>
-  <anchor x="354" y="-0" name="b.uni0324_3"/>
-  <anchor x="477" y="-0" name="m.uni0328_4"/>
+  <anchor x="354" y="0" name="b.uni0324_3"/>
+  <anchor x="477" y="0" name="m.uni0328_4"/>
+  <anchor x="383" y="0" name="bottom"/>
+  <anchor x="414" y="351" name="center"/>
+  <anchor x="626" y="0" name="ogonek"/>
+  <anchor x="447" y="700" name="top"/>
+  <anchor x="103" y="700" name="topleft"/>
+  <anchor x="615" y="700" name="topright"/>
   <outline>
     <contour>
-      <point x="352" y="-16" type="qcurve" smooth="yes"/>
-      <point x="266" y="-16"/>
-      <point x="132" y="38"/>
-      <point x="45" y="137"/>
-      <point x="13" y="271"/>
-      <point x="29" y="350" type="qcurve" smooth="yes"/>
-      <point x="45" y="430"/>
-      <point x="130" y="563"/>
-      <point x="256" y="662"/>
-      <point x="412" y="716"/>
-      <point x="497" y="716" type="qcurve" smooth="yes"/>
-      <point x="583" y="716"/>
-      <point x="716" y="662"/>
-      <point x="802" y="563"/>
-      <point x="835" y="430"/>
-      <point x="819" y="350" type="qcurve" smooth="yes"/>
-      <point x="803" y="271"/>
-      <point x="717" y="137"/>
-      <point x="592" y="38"/>
-      <point x="437" y="-16"/>
+      <point x="333" y="426" type="line"/>
+      <point x="526" y="426" type="line"/>
+      <point x="496" y="274" type="line"/>
+      <point x="303" y="274" type="line"/>
     </contour>
     <contour>
-      <point x="389" y="175" type="qcurve" smooth="yes"/>
-      <point x="422" y="175"/>
-      <point x="484" y="199"/>
-      <point x="536" y="244"/>
-      <point x="573" y="309"/>
-      <point x="581" y="350" type="qcurve" smooth="yes"/>
-      <point x="589" y="391"/>
-      <point x="578" y="456"/>
-      <point x="544" y="501"/>
-      <point x="492" y="525"/>
-      <point x="459" y="525" type="qcurve" smooth="yes"/>
-      <point x="426" y="525"/>
-      <point x="364" y="501"/>
-      <point x="312" y="456"/>
-      <point x="275" y="391"/>
-      <point x="267" y="350" type="qcurve" smooth="yes"/>
-      <point x="259" y="309"/>
-      <point x="270" y="244"/>
-      <point x="304" y="199"/>
-      <point x="356" y="175"/>
+      <point x="451" y="715" type="curve" smooth="yes"/>
+      <point x="659" y="715"/>
+      <point x="801" y="577"/>
+      <point x="801" y="384" type="curve" smooth="yes"/>
+      <point x="801" y="156"/>
+      <point x="615" y="-16"/>
+      <point x="377" y="-16" type="curve" smooth="yes"/>
+      <point x="169" y="-16"/>
+      <point x="28" y="124"/>
+      <point x="28" y="317" type="curve" smooth="yes"/>
+      <point x="28" y="547"/>
+      <point x="214" y="715"/>
     </contour>
     <contour>
-      <point x="346" y="426" type="line"/>
-      <point x="539" y="426" type="line"/>
-      <point x="509" y="274" type="line"/>
-      <point x="316" y="274" type="line"/>
+      <point x="434" y="522" type="curve" smooth="yes"/>
+      <point x="348" y="522"/>
+      <point x="267" y="441"/>
+      <point x="267" y="333" type="curve" smooth="yes"/>
+      <point x="267" y="244"/>
+      <point x="326" y="177"/>
+      <point x="399" y="177" type="curve" smooth="yes"/>
+      <point x="486" y="177"/>
+      <point x="562" y="260"/>
+      <point x="562" y="368" type="curve" smooth="yes"/>
+      <point x="562" y="457"/>
+      <point x="508" y="522"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
 </glyph>
