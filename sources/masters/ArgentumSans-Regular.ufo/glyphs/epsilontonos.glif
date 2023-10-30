@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="2">
+  <advance width="564"/>
+  <unicode hex="03AD"/>
+  <anchor x="346" y="593" name="t.uni0308"/>
+  <anchor x="346" y="0" name="b.uni0324_3"/>
+  <anchor x="601" y="0" name="m.uni0328_4"/>
+  <outline>
+    <component base="reversedzecyr"/>
+    <contour>
+      <point x="258" y="607" type="line"/>
+      <point x="301" y="741" type="line"/>
+      <point x="423" y="741" type="line"/>
+      <point x="345" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

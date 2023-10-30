@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="502"/>
+  <unicode hex="0390"/>
+  <anchor x="321" y="547" name="t.uni0308"/>
+  <anchor x="212" y="-0" name="b.uni0324_3"/>
+  <anchor x="325" y="-0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="179" y="547" type="line"/>
+      <point x="405" y="547" type="line"/>
+      <point x="296" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="838" type="line"/>
+      <point x="376" y="998" type="line"/>
+      <point x="568" y="998" type="line"/>
+      <point x="409" y="838" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="612" type="qcurve" smooth="yes"/>
+      <point x="376" y="612"/>
+      <point x="334" y="660"/>
+      <point x="342" y="700" type="qcurve" smooth="yes"/>
+      <point x="350" y="740"/>
+      <point x="412" y="789"/>
+      <point x="450" y="789" type="qcurve" smooth="yes"/>
+      <point x="488" y="789"/>
+      <point x="530" y="740"/>
+      <point x="522" y="700" type="qcurve" smooth="yes"/>
+      <point x="514" y="660"/>
+      <point x="452" y="612"/>
+    </contour>
+    <contour>
+      <point x="192" y="612" type="qcurve" smooth="yes"/>
+      <point x="154" y="612"/>
+      <point x="112" y="660"/>
+      <point x="120" y="700" type="qcurve" smooth="yes"/>
+      <point x="128" y="740"/>
+      <point x="190" y="789"/>
+      <point x="228" y="789" type="qcurve" smooth="yes"/>
+      <point x="266" y="789"/>
+      <point x="308" y="740"/>
+      <point x="300" y="700" type="qcurve" smooth="yes"/>
+      <point x="292" y="660"/>
+      <point x="230" y="612"/>
+    </contour>
+  </outline>
+</glyph>

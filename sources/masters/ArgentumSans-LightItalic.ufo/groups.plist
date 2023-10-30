@@ -918,7 +918,6 @@
     <string>Acyr</string>
     <string>Adblgrave</string>
     <string>Adieresis</string>
-    <string>Adieresis.alt</string>
     <string>Adieresiscyr</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
@@ -1239,7 +1238,6 @@
   </array>
   <key>public.kern1.L_Shha-cy</key>
   <array>
-    <string>Pemiddlehook-cy</string>
     <string>Shhacyr</string>
   </array>
   <key>public.kern1.L_Softsign-cy</key>
@@ -1290,7 +1288,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhoi</string>
@@ -2156,10 +2153,6 @@
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
   </array>
-  <key>public.kern1.L_pi</key>
-  <array>
-    <string>pi</string>
-  </array>
   <key>public.kern1.L_plus</key>
   <array>
     <string>plusminus</string>
@@ -2480,7 +2473,6 @@
     <string>micro</string>
     <string>pecyr</string>
     <string>pecyr.loclSRB</string>
-    <string>pemiddlehook-cy</string>
     <string>petailcyr</string>
     <string>q</string>
     <string>qacyr</string>
@@ -2685,7 +2677,6 @@
     <string>Acyr</string>
     <string>Adblgrave</string>
     <string>Adieresis</string>
-    <string>Adieresis.alt</string>
     <string>Adieresiscyr</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
@@ -2870,7 +2861,6 @@
     <string>P</string>
     <string>Palochkacyr</string>
     <string>Pecyr</string>
-    <string>Pemiddlehook-cy</string>
     <string>Petailcyr</string>
     <string>R</string>
     <string>Racute</string>
@@ -3033,7 +3023,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhoi</string>
@@ -3819,7 +3808,6 @@
     <string>p</string>
     <string>pecyr</string>
     <string>pecyr.loclBGR</string>
-    <string>pemiddlehook-cy</string>
     <string>petailcyr</string>
     <string>r</string>
     <string>racute</string>
@@ -4043,10 +4031,6 @@
     <string>period</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
-  </array>
-  <key>public.kern2.R_pi</key>
-  <array>
-    <string>pi</string>
   </array>
   <key>public.kern2.R_plus</key>
   <array>

@@ -2153,10 +2153,6 @@
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
   </array>
-  <key>public.kern1.L_pi</key>
-  <array>
-    <string>pi</string>
-  </array>
   <key>public.kern1.L_plus</key>
   <array>
     <string>plusminus</string>
@@ -4035,10 +4031,6 @@
     <string>period</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
-  </array>
-  <key>public.kern2.R_pi</key>
-  <array>
-    <string>pi</string>
   </array>
   <key>public.kern2.R_plus</key>
   <array>

@@ -920,7 +920,6 @@
     <string>Acyr</string>
     <string>Adblgrave</string>
     <string>Adieresis</string>
-    <string>Adieresis.alt</string>
     <string>Adieresiscyr</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
@@ -1292,7 +1291,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhoi</string>
@@ -2158,10 +2156,6 @@
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
   </array>
-  <key>public.kern1.L_pi</key>
-  <array>
-    <string>pi</string>
-  </array>
   <key>public.kern1.L_plus</key>
   <array>
     <string>plusminus</string>
@@ -2687,7 +2681,6 @@
     <string>Acyr</string>
     <string>Adblgrave</string>
     <string>Adieresis</string>
-    <string>Adieresis.alt</string>
     <string>Adieresiscyr</string>
     <string>Adotbelow</string>
     <string>Agrave</string>
@@ -3035,7 +3028,6 @@
     <string>Ucircumflex</string>
     <string>Udblgrave</string>
     <string>Udieresis</string>
-    <string>Udieresis.alt</string>
     <string>Udotbelow</string>
     <string>Ugrave</string>
     <string>Uhoi</string>
@@ -4045,10 +4037,6 @@
     <string>period</string>
     <string>quotedblbase</string>
     <string>quotesinglbase</string>
-  </array>
-  <key>public.kern2.R_pi</key>
-  <array>
-    <string>pi</string>
   </array>
   <key>public.kern2.R_plus</key>
   <array>

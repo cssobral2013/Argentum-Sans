@@ -1,7 +1,8 @@
-#> classes
+#/> classes
 #/> otclasses
-@Idieresis = [Idieresis Yukrcyr];
 @Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Ishortsharptailcyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Shhatailcyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Semisoftcyr Ertickcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU Delta Omega];
+@Idieresis = [Idieresis Yukrcyr];
+@idieresis = [idieresis yukrcyr];
 @ccmp = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_macroncomb dotaccentcomb dotaccentcomb_macroncomb gravecomb gravecomb_macroncomb acutecomb acutecomb_dotaccentcomb acutecomb_macroncomb hungarumlautcomb circumflexcomb caroncomb caroncomb_dotaccentcomb brevecomb tildecomb tildecomb_dieresiscomb tildecomb_acutecomb tildecomb_macroncomb macroncomb macroncomb_dieresiscomb macroncomb_gravecomb macroncomb_acutecomb hookabovecomb dblgravecomb breveinvertedcomb strokeshortcomb slashshortcomb slashlongcomb macroncomb.narrow brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
 @ccmp2 = [gravecomb acutecomb tildecomb hookabovecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb hungarumlautcomb macroncomb ringcomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
 @ccmp3 = [dotbelowcomb cedillacomb dieresisbelowcomb ogonekcomb horncomb brevebelowcomb macronbelowcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb];
@@ -9,10 +10,9 @@
 @ccmp5 = [hookabovecomb.case dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_macroncomb.case dotaccentcomb.case dotaccentcomb_macroncomb.case gravecomb.case gravecomb_macroncomb.case acutecomb.case acutecomb_dotaccentcomb.case acutecomb_macroncomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case caroncomb_dotaccentcomb.case brevecomb.case tildecomb.case tildecomb_dieresiscomb.case tildecomb_acutecomb.case tildecomb_macroncomb.case macroncomb.case macroncomb_dieresiscomb.case macroncomb_gravecomb.case macroncomb_acutecomb.case dblgravecomb.case breveinvertedcomb.case macroncomb.narrow.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
 @frac = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 @frac2 = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@idieresis = [idieresis yukrcyr];
 @ordn = [zero one two three four five six seven eight nine];
 #/< otclasses
-#< classes
+#/< classes
 
 ###
 # OpenType Layout feature definitions
@@ -102,6 +102,7 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
+
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -212,6 +213,7 @@ feature aalt useExtension {
   sub pecyr from [pecyr.loclBGR pecyr.loclSRB];
   sub tecyr from [tecyr.loclBGR tecyr.loclSRB];
 } aalt;
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 5
@@ -381,6 +383,7 @@ feature ccmp {
     language CHU ; # Chuvash
 
 } ccmp;
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 14
@@ -471,6 +474,7 @@ feature locl {
 
 
 } locl;
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -487,6 +491,7 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -503,6 +508,7 @@ feature sinf {
   sub nine by nine.sinf;
 
 } sinf;
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -519,6 +525,7 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
+
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -535,6 +542,7 @@ feature numr {
   sub nine by nine.numr;
 
 } numr;
+
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -551,6 +559,7 @@ feature dnom {
   sub nine by nine.dnom;
 
 } dnom;
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 2
@@ -570,6 +579,7 @@ feature frac {
   sub @frac2 @frac' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 } frac;
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -579,6 +589,7 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
+
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -595,6 +606,7 @@ feature onum {
   sub nine by nine.osf;
 
 } onum;
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -660,6 +672,7 @@ feature case {
   sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;
 
 } case;
+
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -667,6 +680,7 @@ feature dlig {
   sub T h by T_h;
 
 } dlig;
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -683,6 +697,7 @@ feature liga {
   sub yukrcyr yukrcyr by idieresis.double;
 
 } liga;
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 5
@@ -1319,6 +1334,7 @@ feature mark {
 
 
 } mark;
+
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -1593,3 +1609,4 @@ feature mkmk {
 
 
 } mkmk;
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="2">
+  <advance width="836"/>
+  <unicode hex="039F"/>
+  <anchor x="497" y="700" name="t.uni0308"/>
+  <anchor x="427" y="350" name="t.uni0307_1"/>
+  <anchor x="626" y="700" name="t.uni031B_2"/>
+  <anchor x="357" y="-0" name="b.uni0324_3"/>
+  <anchor x="511" y="-0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="347" y="-3" type="qcurve" smooth="yes"/>
+      <point x="270" y="-3"/>
+      <point x="150" y="50"/>
+      <point x="72" y="146"/>
+      <point x="44" y="274"/>
+      <point x="59" y="350" type="qcurve" smooth="yes"/>
+      <point x="74" y="426"/>
+      <point x="154" y="554"/>
+      <point x="270" y="650"/>
+      <point x="411" y="703"/>
+      <point x="488" y="703" type="qcurve" smooth="yes"/>
+      <point x="565" y="703"/>
+      <point x="686" y="650"/>
+      <point x="764" y="554"/>
+      <point x="792" y="426"/>
+      <point x="777" y="350" type="qcurve" smooth="yes"/>
+      <point x="762" y="274"/>
+      <point x="682" y="146"/>
+      <point x="566" y="50"/>
+      <point x="424" y="-3"/>
+    </contour>
+    <contour>
+      <point x="351" y="16" type="qcurve" smooth="yes"/>
+      <point x="423" y="16"/>
+      <point x="557" y="66"/>
+      <point x="667" y="157"/>
+      <point x="743" y="278"/>
+      <point x="757" y="350" type="qcurve" smooth="yes"/>
+      <point x="771" y="422"/>
+      <point x="745" y="543"/>
+      <point x="671" y="634"/>
+      <point x="557" y="684"/>
+      <point x="485" y="684" type="qcurve" smooth="yes"/>
+      <point x="413" y="684"/>
+      <point x="279" y="634"/>
+      <point x="169" y="543"/>
+      <point x="93" y="422"/>
+      <point x="79" y="350" type="qcurve" smooth="yes"/>
+      <point x="65" y="278"/>
+      <point x="91" y="157"/>
+      <point x="165" y="66"/>
+      <point x="279" y="16"/>
+    </contour>
+  </outline>
+</glyph>

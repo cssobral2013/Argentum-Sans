@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+  <advance width="804"/>
+  <unicode hex="0397"/>
+  <anchor x="402" y="700" name="t.uni0308"/>
+  <anchor x="402" y="576" name="t.uni0307_1"/>
+  <anchor x="402" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="511" y="700" type="line"/>
+      <point x="747" y="700" type="line"/>
+      <point x="747" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="57" y="700" type="line"/>
+      <point x="293" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="258" type="line"/>
+      <point x="277" y="258" type="line"/>
+      <point x="277" y="452" type="line"/>
+      <point x="527" y="452" type="line"/>
+    </contour>
+  </outline>
+</glyph>

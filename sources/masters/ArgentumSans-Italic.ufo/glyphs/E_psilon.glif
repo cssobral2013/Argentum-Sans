@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+  <advance width="670"/>
+  <unicode hex="0395"/>
+  <anchor x="405" y="700" name="t.uni0308"/>
+  <anchor x="257" y="-0" name="b.uni0324_3"/>
+  <anchor x="586" y="-0" name="m.uni0328_4"/>
+  <outline>
+    <contour>
+      <point x="216" y="404" type="line"/>
+      <point x="570" y="404" type="line"/>
+      <point x="550" y="307" type="line"/>
+      <point x="196" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="99" type="line"/>
+      <point x="566" y="99" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="170" y="700" type="line"/>
+      <point x="672" y="700" type="line"/>
+      <point x="652" y="601" type="line"/>
+      <point x="264" y="601" type="line"/>
+    </contour>
+  </outline>
+</glyph>
