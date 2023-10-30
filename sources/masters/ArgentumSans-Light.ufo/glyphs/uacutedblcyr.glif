@@ -5,7 +5,7 @@
   <anchor x="261.5" y="739" name="top"/>
   <outline>
     <component base="ucyr"/>
-    <component base="hungarumlautcomb" xOffset="92"/>
+    <component base="hungarumlautcomb" xOffset="92" yOffset="13"/>
   </outline>
   <lib>
   <dict>
