@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gjecyr.loclMKD" format="2">
-  <advance width="495"/>
-  <outline>
-    <component base="gecyr"/>
-    <component base="acutecomb" xOffset="205" yOffset="-30"/>
-  </outline>
-</glyph>

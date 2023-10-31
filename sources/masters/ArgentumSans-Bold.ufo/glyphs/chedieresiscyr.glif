@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="chedieresiscyr" format="2">
-  <advance width="662"/>
-  <unicode hex="04F5"/>
-  <outline>
-    <component base="checyr"/>
-    <component base="dieresiscomb" xOffset="77"/>
-  </outline>
-</glyph>
