@@ -109,3 +109,6 @@ Changelog of Argentum Sans, v3.17 (in no particular order):
 Changelog of Argentum Sans, v3.100 (in no particular order):
 - Imported Greek support from Montserrat-Z-Remix
   (https://github.com/AndreasZorpidis/Montserrat-Z-Remix)
+
+Changelog of Argentum Sans, v3.101 (in no particular order):
+- Changed question mark
