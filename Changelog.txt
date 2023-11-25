@@ -113,8 +113,7 @@ Changelog of Argentum Sans, v3.100 (in no particular order):
 Changelog of Argentum Sans, v3.101 to v3.103 (in no particular order):
 - Changed question mark
 
-Changelog of Argentum Sans, v3.110 (in no particular order):
-- Slightly narrowed 'S' in BlackItalic master
+Changelog of Argentum Sans, v3.110 to v3.111 (in no particular order):
 - Some adjusts in spaces
 - MAJOR 1: Upscaled eM size to 2000
 - MAJOR 2: Changed 'a' to double-storey in Italic only
