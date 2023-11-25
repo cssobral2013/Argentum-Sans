@@ -110,5 +110,12 @@ Changelog of Argentum Sans, v3.100 (in no particular order):
 - Imported Greek support from Montserrat-Z-Remix
   (https://github.com/AndreasZorpidis/Montserrat-Z-Remix)
 
-Changelog of Argentum Sans, v3.101 (in no particular order):
+Changelog of Argentum Sans, v3.101 to v3.103 (in no particular order):
 - Changed question mark
+
+Changelog of Argentum Sans, v3.110 (in no particular order):
+- MAJOR 1: Upscaled eM size to 2000
+- MAJOR 2: Changed 'a' to double-storey in Italic only
+- MAJOR 3: Synced horizontal metrics from Roman to Italic.
+  As a result, Argentum Sans now has multiplexed posture,
+  but Roman and Italic sources are still independent
