@@ -120,3 +120,7 @@ Changelog of Argentum Sans, v3.110 to v3.111 (in no particular order):
 - MAJOR 3: Synced horizontal metrics from Roman to Italic.
   As a result, Argentum Sans now has multiplexed posture,
   but Roman and Italic sources are still independent
+  
+  Changelog of Argentum Sans, v3.112 (in no particular order):
+ - Cojoined Aring
+ - Some fixes in question mark
