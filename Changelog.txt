@@ -134,3 +134,4 @@ Changelog of Argentum Sans, v3.115 (in no particular order):
  - Fixed some uncentered diacritics
  - Reinstated proportional lining & old-style figures
    (also respaced to match Roman)
+ - Some adjusts on Italic 'a'
