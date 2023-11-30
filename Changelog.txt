@@ -129,3 +129,8 @@ Changelog of Argentum Sans, v3.114 (in no particular order):
  - Imported question mark from Jones (https://github.com/indestructible-type/Jones/)
  - Also, modified exclam to match the new default question mark
  - Update copyright notes to include Montserrat Z Remix & Jones
+
+Changelog of Argentum Sans, v3.115 (in no particular order):
+ - Fixed some uncentered diacritics
+ - Reinstated proportional lining & old-style figures
+   (also respaced to match Roman)
