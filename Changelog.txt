@@ -121,6 +121,11 @@ Changelog of Argentum Sans, v3.110 to v3.111 (in no particular order):
   As a result, Argentum Sans now has multiplexed posture,
   but Roman and Italic sources are still independent
   
-  Changelog of Argentum Sans, v3.112 to v3.113 (in no particular order):
+Changelog of Argentum Sans, v3.112 to v3.113 (in no particular order):
  - Cojoined Aring
  - Some fixes in question mark
+
+Changelog of Argentum Sans, v3.114 (in no particular order):
+ - Imported question mark from Jones (https://github.com/indestructible-type/Jones/)
+ - Also, modified exclam to match the new default question mark
+ - Update copyright notes to include Montserrat Z Remix & Jones
