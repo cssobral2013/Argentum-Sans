@@ -139,3 +139,8 @@ Changelog of Argentum Sans, v3.115 (in no particular order):
 Changelog of Argentum Sans, v3.117 (in no particular order):
  - Re-imported anchors from Montserrat in Italic
  - Decomposed components in some Cyrillic glyphs
+ 
+ Changelog of Argentum Sans, v3.118 (in no particular order):
+ - Re-imported question mark from Montserrat, then modified it
+   and exclam
+ - Centered layer in periodcentered in Italic
