@@ -144,3 +144,5 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  - Re-imported question mark from Montserrat, then modified it
    and exclam
  - Centered layer in periodcentered in Italic
+ - Some fixes in Greek
+ - Added centered colon for time display
