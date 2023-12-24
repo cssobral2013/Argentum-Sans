@@ -146,3 +146,8 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  - Centered layer in periodcentered in Italic
  - Some fixes in Greek
  - Added centered colon for time display
+
+ Changelog of Argentum Sans, v3.119 (in no particular order):
+ - New peseta sign
+ - Fixed some off-center accents
+ - Fixed 'a' in Italic
