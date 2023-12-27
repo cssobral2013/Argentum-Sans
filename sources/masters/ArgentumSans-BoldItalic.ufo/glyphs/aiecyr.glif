@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiecyr" format="2">
+  <advance width="1982"/>
+  <unicode hex="04D5"/>
+  <outline>
+    <component base="ae" xOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

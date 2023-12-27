@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr.loclBGR" format="2">
+  <advance width="2098"/>
+  <anchor x="1710" y="0" name="bottomleft"/>
+  <anchor x="1034" y="1060" name="top"/>
+  <outline>
+    <contour>
+      <point x="588" y="-16" type="curve" smooth="yes"/>
+      <point x="798" y="-16"/>
+      <point x="972" y="88"/>
+      <point x="1038" y="246" type="curve"/>
+      <point x="946" y="282" type="line"/>
+      <point x="994" y="82"/>
+      <point x="1154" y="-16"/>
+      <point x="1354" y="-16" type="curve" smooth="yes"/>
+      <point x="1532" y="-16"/>
+      <point x="1676" y="58"/>
+      <point x="1746" y="192" type="curve"/>
+      <point x="1710" y="276" type="line"/>
+      <point x="1710" y="-4" type="line"/>
+      <point x="1920" y="-4" type="line"/>
+      <point x="1920" y="1060" type="line"/>
+      <point x="1700" y="1060" type="line"/>
+      <point x="1700" y="516" type="line" smooth="yes"/>
+      <point x="1700" y="294"/>
+      <point x="1580" y="180"/>
+      <point x="1402" y="180" type="curve" smooth="yes"/>
+      <point x="1238" y="180"/>
+      <point x="1144" y="278"/>
+      <point x="1144" y="476" type="curve" smooth="yes"/>
+      <point x="1144" y="1060" type="line"/>
+      <point x="924" y="1060" type="line"/>
+      <point x="924" y="516" type="line" smooth="yes"/>
+      <point x="924" y="294"/>
+      <point x="804" y="180"/>
+      <point x="626" y="180" type="curve" smooth="yes"/>
+      <point x="462" y="180"/>
+      <point x="368" y="278"/>
+      <point x="368" y="476" type="curve" smooth="yes"/>
+      <point x="368" y="1060" type="line"/>
+      <point x="148" y="1060" type="line"/>
+      <point x="148" y="450" type="line" smooth="yes"/>
+      <point x="148" y="132"/>
+      <point x="328" y="-16"/>
+    </contour>
+  </outline>
+</glyph>

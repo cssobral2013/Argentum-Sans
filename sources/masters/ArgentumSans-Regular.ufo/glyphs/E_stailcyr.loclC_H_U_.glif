@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estailcyr.loclCHU" format="2">
+  <advance width="1438"/>
+  <anchor x="678" y="-444" name="bottom"/>
+  <anchor x="682" y="1062" name="top"/>
+  <outline>
+    <component base="Escyr"/>
+    <component base="cedillacomb" xOffset="384"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Escyr+cedillacomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

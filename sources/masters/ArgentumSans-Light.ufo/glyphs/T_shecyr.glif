@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="1646"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="1380" type="line"/>
+      <point x="558" y="1362" type="line"/>
+      <point x="1126" y="1362" type="line"/>
+      <point x="1126" y="1400" type="line"/>
+      <point x="16" y="1400" type="line"/>
+      <point x="16" y="1362" type="line"/>
+      <point x="554" y="1362" type="line"/>
+      <point x="536" y="1380" type="line"/>
+      <point x="536" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="662" type="line"/>
+      <point x="742" y="752"/>
+      <point x="904" y="794"/>
+      <point x="1052" y="794" type="curve" smooth="yes"/>
+      <point x="1316" y="794"/>
+      <point x="1476" y="660"/>
+      <point x="1476" y="418" type="curve" smooth="yes"/>
+      <point x="1476" y="0" type="line"/>
+      <point x="1516" y="0" type="line"/>
+      <point x="1516" y="418" type="line" smooth="yes"/>
+      <point x="1516" y="692"/>
+      <point x="1330" y="832"/>
+      <point x="1052" y="832" type="curve" smooth="yes"/>
+      <point x="898" y="832"/>
+      <point x="738" y="790"/>
+      <point x="554" y="704" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

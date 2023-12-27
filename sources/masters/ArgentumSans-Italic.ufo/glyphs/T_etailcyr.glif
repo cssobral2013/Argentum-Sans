@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetailcyr" format="2">
+  <advance width="1224"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <component base="Tecyr"/>
+    <contour>
+      <point x="768" y="-302" type="line"/>
+      <point x="866" y="198" type="line"/>
+      <point x="434" y="198" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="626" y="58" type="line"/>
+      <point x="556" y="-302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

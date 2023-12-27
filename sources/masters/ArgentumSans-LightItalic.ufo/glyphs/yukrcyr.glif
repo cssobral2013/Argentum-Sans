@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yukrcyr" format="2">
+  <advance width="500"/>
+  <unicode hex="0457"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresiscomb.narrow" xOffset="-84"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

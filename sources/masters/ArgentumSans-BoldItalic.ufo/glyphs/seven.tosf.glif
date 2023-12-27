@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tosf" format="2">
+  <advance width="1268"/>
+  <outline>
+    <contour>
+      <point x="84" y="650" type="line"/>
+      <point x="492" y="650" type="line"/>
+      <point x="568" y="1050" type="line"/>
+      <point x="328" y="846" type="line"/>
+      <point x="972" y="846" type="line"/>
+      <point x="888" y="1034" type="line"/>
+      <point x="104" y="-200" type="line"/>
+      <point x="594" y="-200" type="line"/>
+      <point x="1288" y="894" type="line"/>
+      <point x="1348" y="1202" type="line"/>
+      <point x="190" y="1202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

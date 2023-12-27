@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="getailcyr" format="2">
+  <advance width="898"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <component base="gecyr"/>
+    <contour>
+      <point x="448" y="-242" type="line"/>
+      <point x="448" y="36" type="line"/>
+      <point x="234" y="36" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="408" y="16" type="line"/>
+      <point x="408" y="-242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

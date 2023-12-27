@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_gravecomb.sc" format="2">
+  <advance width="802"/>
+  <anchor x="507" y="1886" name="top"/>
+  <outline>
+    <component base="brevecomb_gravecomb" xOffset="-193"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

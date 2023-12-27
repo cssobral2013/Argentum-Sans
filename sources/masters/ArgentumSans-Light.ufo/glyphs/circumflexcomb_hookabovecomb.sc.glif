@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb.sc" format="2">
+  <advance width="612"/>
+  <anchor x="294" y="1084" name="_top"/>
+  <anchor x="294" y="1752" name="top"/>
+  <outline>
+    <component base="circumflexcomb_hookabovecomb" xOffset="6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

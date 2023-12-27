@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdn" format="2">
+  <advance width="1200"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="715" y="1322" type="line"/>
+      <point x="253" y="1044" type="line"/>
+      <point x="215" y="850" type="line"/>
+      <point x="673" y="1108" type="line"/>
+      <point x="1035" y="850" type="line"/>
+      <point x="1073" y="1044" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="1144" type="line"/>
+      <point x="425" y="282" type="line"/>
+      <point x="607" y="282" type="line"/>
+      <point x="773" y="1144" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="122" type="line"/>
+      <point x="949" y="400" type="line"/>
+      <point x="987" y="594" type="line"/>
+      <point x="529" y="336" type="line"/>
+      <point x="167" y="594" type="line"/>
+      <point x="129" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

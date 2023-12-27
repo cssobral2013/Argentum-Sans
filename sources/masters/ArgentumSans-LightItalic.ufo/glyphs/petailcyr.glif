@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="petailcyr" format="2">
+  <advance width="1336"/>
+  <unicode hex="0525"/>
+  <outline>
+    <component base="pecyr"/>
+    <contour>
+      <point x="1109" y="-242" type="line"/>
+      <point x="1165" y="36" type="line"/>
+      <point x="951" y="36" type="line"/>
+      <point x="943" y="0" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="1121" y="16" type="line"/>
+      <point x="1069" y="-242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

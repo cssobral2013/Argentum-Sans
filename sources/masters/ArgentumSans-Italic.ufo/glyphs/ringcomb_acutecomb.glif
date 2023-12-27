@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb_acutecomb" format="2">
+  <advance width="698"/>
+  <anchor x="625" y="1804" name="top"/>
+  <outline>
+    <component base="ringcomb" xOffset="-49"/>
+    <component base="acutecomb.loclVIET" xOffset="229" yOffset="254"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

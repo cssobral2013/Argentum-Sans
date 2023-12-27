@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vecyr" format="2">
+  <advance width="1188"/>
+  <unicode hex="0432"/>
+  <anchor x="490" y="0" name="bottom"/>
+  <anchor x="698" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="544" y="0" type="line" smooth="yes"/>
+      <point x="822" y="0"/>
+      <point x="988" y="122"/>
+      <point x="988" y="324" type="curve" smooth="yes"/>
+      <point x="988" y="472"/>
+      <point x="898" y="536"/>
+      <point x="686" y="536" type="curve"/>
+      <point x="660" y="518" type="line"/>
+      <point x="890" y="518"/>
+      <point x="1048" y="638"/>
+      <point x="1048" y="816" type="curve" smooth="yes"/>
+      <point x="1048" y="960"/>
+      <point x="944" y="1034"/>
+      <point x="740" y="1034" type="curve" smooth="yes"/>
+      <point x="336" y="1034" type="line"/>
+      <point x="128" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="506" type="line"/>
+      <point x="672" y="506" type="line" smooth="yes"/>
+      <point x="870" y="506"/>
+      <point x="948" y="454"/>
+      <point x="948" y="322" type="curve" smooth="yes"/>
+      <point x="948" y="144"/>
+      <point x="802" y="38"/>
+      <point x="554" y="38" type="curve" smooth="yes"/>
+      <point x="176" y="38" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="996" type="line"/>
+      <point x="738" y="996" type="line" smooth="yes"/>
+      <point x="920" y="996"/>
+      <point x="1008" y="938"/>
+      <point x="1008" y="814" type="curve" smooth="yes"/>
+      <point x="1008" y="652"/>
+      <point x="862" y="544"/>
+      <point x="644" y="544" type="curve" smooth="yes"/>
+      <point x="278" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Petailcyr" format="2">
+  <advance width="1700"/>
+  <unicode hex="0524"/>
+  <outline>
+    <component base="Pecyr"/>
+    <contour>
+      <point x="1626" y="-330" type="line"/>
+      <point x="1626" y="38" type="line"/>
+      <point x="1352" y="38" type="line"/>
+      <point x="1352" y="0" type="line"/>
+      <point x="1604" y="0" type="line"/>
+      <point x="1586" y="18" type="line"/>
+      <point x="1586" y="-330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

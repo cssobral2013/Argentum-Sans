@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacutedblcyr" format="2">
+  <advance width="1394"/>
+  <unicode hex="04F2"/>
+  <outline>
+    <component base="Ucyr"/>
+    <component base="hungarumlautcomb.case" xOffset="280"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

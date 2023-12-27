@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Entailcyr" format="2">
+  <advance width="1682"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <component base="Encyr"/>
+    <contour>
+      <point x="1608" y="-330" type="line"/>
+      <point x="1608" y="38" type="line"/>
+      <point x="1334" y="38" type="line"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="1586" y="0" type="line"/>
+      <point x="1568" y="18" type="line"/>
+      <point x="1568" y="-330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.814,1</string>
+  </dict>
+  </lib>
+</glyph>

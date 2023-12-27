@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravemod" format="2">
+  <advance width="700"/>
+  <unicode hex="02CB"/>
+  <anchor x="597" y="1320" name="top"/>
+  <outline>
+    <contour>
+      <point x="365" y="1458" type="line"/>
+      <point x="583" y="1248" type="line"/>
+      <point x="637" y="1258" type="line"/>
+      <point x="407" y="1478" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

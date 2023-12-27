@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wecyr" format="2">
+  <advance width="2356"/>
+  <unicode hex="051C"/>
+  <outline>
+    <contour>
+      <point x="846" y="0" type="line"/>
+      <point x="1338" y="968" type="line"/>
+      <point x="1202" y="968" type="line"/>
+      <point x="1290" y="0" type="line"/>
+      <point x="1786" y="0" type="line"/>
+      <point x="2514" y="1400" type="line"/>
+      <point x="2058" y="1400" type="line"/>
+      <point x="1444" y="218" type="line"/>
+      <point x="1688" y="218" type="line"/>
+      <point x="1576" y="1400" type="line"/>
+      <point x="1142" y="1400" type="line"/>
+      <point x="532" y="218" type="line"/>
+      <point x="786" y="218" type="line"/>
+      <point x="660" y="1400" type="line"/>
+      <point x="182" y="1400" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

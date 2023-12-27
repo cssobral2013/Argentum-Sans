@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_acutecomb.sc" format="2">
+  <advance width="822"/>
+  <anchor x="394" y="1094" name="_top"/>
+  <anchor x="394" y="1960" name="top"/>
+  <outline>
+    <component base="dieresiscomb_acutecomb" xOffset="-76"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

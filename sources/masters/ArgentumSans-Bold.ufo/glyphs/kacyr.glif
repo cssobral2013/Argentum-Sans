@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr" format="2">
+  <advance width="1388"/>
+  <unicode hex="043A"/>
+  <anchor x="862" y="0" name="bottomleft"/>
+  <anchor x="1340" y="0" name="bottomright"/>
+  <anchor x="710" y="1094" name="top"/>
+  <outline>
+    <contour>
+      <point x="1394" y="0" type="line"/>
+      <point x="926" y="714" type="line"/>
+      <point x="562" y="502" type="line"/>
+      <point x="862" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="0" type="line"/>
+      <point x="558" y="1094" type="line"/>
+      <point x="106" y="1094" type="line"/>
+      <point x="106" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="834" y="364" type="line"/>
+      <point x="834" y="710" type="line"/>
+      <point x="426" y="710" type="line"/>
+      <point x="426" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="1372" y="1094" type="line"/>
+      <point x="896" y="1094" type="line"/>
+      <point x="548" y="538" type="line"/>
+      <point x="972" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

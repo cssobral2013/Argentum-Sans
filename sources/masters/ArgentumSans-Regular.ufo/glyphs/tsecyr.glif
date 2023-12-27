@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr" format="2">
+  <advance width="1386"/>
+  <unicode hex="0446"/>
+  <outline>
+    <contour>
+      <point x="1164" y="0" type="line"/>
+      <point x="1164" y="1064" type="line"/>
+      <point x="944" y="1064" type="line"/>
+      <point x="944" y="192" type="line"/>
+      <point x="398" y="192" type="line"/>
+      <point x="398" y="1064" type="line"/>
+      <point x="178" y="1064" type="line"/>
+      <point x="178" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1328" y="-250" type="line"/>
+      <point x="1328" y="192" type="line"/>
+      <point x="944" y="192" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1122" y="8" type="line"/>
+      <point x="1122" y="-250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Tse-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="1328"/>
+  <unicode hex="03C4"/>
+  <anchor x="696" y="1194" name="t.uni0308"/>
+  <anchor x="600" y="522" name="t.uni0307_1"/>
+  <anchor x="1048" y="1338" name="t.uni031B_2"/>
+  <anchor x="630" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="138" y="1094" type="line"/>
+      <point x="1346" y="1094" type="line"/>
+      <point x="1272" y="722" type="line"/>
+      <point x="64" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="0" type="line"/>
+      <point x="436" y="814" type="line"/>
+      <point x="938" y="814" type="line"/>
+      <point x="776" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

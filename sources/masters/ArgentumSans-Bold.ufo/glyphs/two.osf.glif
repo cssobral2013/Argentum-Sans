@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="2">
+  <advance width="1152"/>
+  <outline>
+    <contour>
+      <point x="40" y="286" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="1018" y="0" type="line"/>
+      <point x="1018" y="350" type="line"/>
+      <point x="430" y="350" type="line"/>
+      <point x="480" y="220" type="line"/>
+      <point x="772" y="480" type="line" smooth="yes"/>
+      <point x="910" y="604"/>
+      <point x="1012" y="744"/>
+      <point x="1012" y="890" type="curve" smooth="yes"/>
+      <point x="1012" y="1088"/>
+      <point x="814" y="1222"/>
+      <point x="558" y="1222" type="curve" smooth="yes"/>
+      <point x="354" y="1222"/>
+      <point x="170" y="1150"/>
+      <point x="-16" y="1028" type="curve"/>
+      <point x="154" y="694" type="line"/>
+      <point x="278" y="788"/>
+      <point x="396" y="850"/>
+      <point x="484" y="850" type="curve" smooth="yes"/>
+      <point x="512" y="850"/>
+      <point x="526" y="840"/>
+      <point x="526" y="820" type="curve" smooth="yes"/>
+      <point x="526" y="790"/>
+      <point x="492" y="744"/>
+      <point x="456" y="706" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Engecyr" format="2">
+  <advance width="2182"/>
+  <unicode hex="04A4"/>
+  <anchor x="2672" y="0" name="bottomleft"/>
+  <anchor x="1622" y="0" name="bottom"/>
+  <anchor x="1622" y="2155" name="center"/>
+  <anchor x="3476" y="2803" name="top"/>
+  <outline>
+    <contour>
+      <point x="273" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="687" type="line"/>
+      <point x="1319" y="687" type="line"/>
+      <point x="1319" y="0" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1360" y="1362" type="line"/>
+      <point x="2151" y="1362" type="line"/>
+      <point x="2151" y="1400" type="line"/>
+      <point x="1319" y="1400" type="line"/>
+      <point x="1319" y="727" type="line"/>
+      <point x="313" y="727" type="line"/>
+      <point x="313" y="1400" type="line"/>
+      <point x="273" y="1400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

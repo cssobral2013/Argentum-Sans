@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightcyr" format="2">
+  <advance width="1240"/>
+  <unicode hex="04AE"/>
+  <anchor x="620" y="0" name="bottom"/>
+  <anchor x="620" y="480" name="center"/>
+  <anchor x="620" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="490" type="line"/>
+      <point x="630" y="460" type="line"/>
+      <point x="1210" y="1400" type="line"/>
+      <point x="1164" y="1400" type="line"/>
+      <point x="612" y="506" type="line"/>
+      <point x="628" y="506" type="line"/>
+      <point x="76" y="1400" type="line"/>
+      <point x="30" y="1400" type="line"/>
+      <point x="610" y="460" type="line"/>
+      <point x="600" y="490" type="line"/>
+      <point x="600" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

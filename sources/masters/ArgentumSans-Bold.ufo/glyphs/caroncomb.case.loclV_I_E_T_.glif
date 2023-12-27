@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case.loclVIET" format="2">
+  <advance width="934"/>
+  <anchor x="508" y="1402" name="_top"/>
+  <anchor x="508" y="1744" name="top"/>
+  <outline>
+    <component base="circumflexcomb.loclVIET" xScale="-1" yScale="-1" xOffset="974" yOffset="2982"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

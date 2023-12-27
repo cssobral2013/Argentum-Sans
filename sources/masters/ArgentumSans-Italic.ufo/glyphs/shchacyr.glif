@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr" format="2">
+  <advance width="1896"/>
+  <unicode hex="0449"/>
+  <anchor x="1363" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="261" y="192" type="line"/>
+      <point x="301" y="136" type="line"/>
+      <point x="483" y="1064" type="line"/>
+      <point x="263" y="1064" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="1591" y="0" type="line"/>
+      <point x="1803" y="1064" type="line"/>
+      <point x="1583" y="1064" type="line"/>
+      <point x="1401" y="136" type="line"/>
+      <point x="1465" y="192" type="line"/>
+      <point x="921" y="192" type="line"/>
+      <point x="963" y="136" type="line"/>
+      <point x="1145" y="1064" type="line"/>
+      <point x="925" y="1064" type="line"/>
+      <point x="743" y="136" type="line"/>
+      <point x="803" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="1703" y="-222" type="line"/>
+      <point x="1787" y="192" type="line"/>
+      <point x="1403" y="192" type="line"/>
+      <point x="1363" y="0" type="line"/>
+      <point x="1593" y="0" type="line"/>
+      <point x="1553" y="56" type="line"/>
+      <point x="1497" y="-222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Shcha-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

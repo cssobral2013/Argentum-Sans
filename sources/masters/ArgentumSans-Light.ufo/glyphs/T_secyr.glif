@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="1642"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="1334" y="0" type="line"/>
+      <point x="1334" y="1400" type="line"/>
+      <point x="1294" y="1400" type="line"/>
+      <point x="1294" y="38" type="line"/>
+      <point x="314" y="38" type="line"/>
+      <point x="314" y="1400" type="line"/>
+      <point x="274" y="1400" type="line"/>
+      <point x="274" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1568" y="-350" type="line"/>
+      <point x="1568" y="38" type="line"/>
+      <point x="1294" y="38" type="line"/>
+      <point x="1294" y="0" type="line"/>
+      <point x="1546" y="0" type="line"/>
+      <point x="1528" y="18" type="line"/>
+      <point x="1528" y="-350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

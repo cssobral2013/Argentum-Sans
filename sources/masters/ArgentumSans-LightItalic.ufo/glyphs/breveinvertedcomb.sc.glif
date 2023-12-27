@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb.sc" format="2">
+  <advance width="764"/>
+  <anchor x="567" y="1452" name="top"/>
+  <outline>
+    <component base="breveinvertedcomb" xOffset="132"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="1124"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="483" y="1362" type="line"/>
+      <point x="1275" y="1362" type="line"/>
+      <point x="1341" y="1690" type="line"/>
+      <point x="1301" y="1690" type="line"/>
+      <point x="1243" y="1400" type="line"/>
+      <point x="451" y="1400" type="line"/>
+      <point x="171" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

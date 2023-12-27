@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chetailcyr" format="2">
+  <advance width="1620"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <component base="Checyr"/>
+    <contour>
+      <point x="1420" y="-274" type="line"/>
+      <point x="1548" y="366" type="line"/>
+      <point x="908" y="366" type="line"/>
+      <point x="832" y="0" type="line"/>
+      <point x="1146" y="0" type="line"/>
+      <point x="1064" y="102" type="line"/>
+      <point x="988" y="-274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

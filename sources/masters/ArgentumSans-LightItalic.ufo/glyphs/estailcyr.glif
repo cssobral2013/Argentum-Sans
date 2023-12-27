@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estailcyr" format="2">
+  <advance width="1096"/>
+  <unicode hex="04AB"/>
+  <outline>
+    <component base="escyr"/>
+    <contour>
+      <point x="564" y="14" type="line"/>
+      <point x="512" y="-248" type="line"/>
+      <point x="552" y="-248" type="line"/>
+      <point x="604" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case.loclVIET" format="2">
+  <advance width="758"/>
+  <anchor x="378" y="1400" name="_top"/>
+  <anchor x="378" y="1668" name="top"/>
+  <outline>
+    <component base="dieresiscomb.loclVIET" yOffset="318"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gecyr" format="2">
+  <advance width="1122"/>
+  <unicode hex="0413"/>
+  <anchor x="170" y="0" name="bottomleft"/>
+  <anchor x="810" y="0" name="bottomright"/>
+  <anchor x="852" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="line"/>
+      <point x="486" y="1380" type="line"/>
+      <point x="464" y="1362" type="line"/>
+      <point x="1274" y="1362" type="line"/>
+      <point x="1282" y="1400" type="line"/>
+      <point x="450" y="1400" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

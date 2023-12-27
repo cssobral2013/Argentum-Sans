@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="1200"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="458" y="918" type="line"/>
+      <point x="790" y="918" type="line"/>
+      <point x="790" y="1428" type="line"/>
+      <point x="458" y="1428" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="-330" type="line"/>
+      <point x="790" y="-330" type="line"/>
+      <point x="790" y="196" type="line"/>
+      <point x="458" y="196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1200m458,918l790,918l790,1428l458,1428m458,-330l790,-330l790,196l458,196</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 458 332</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

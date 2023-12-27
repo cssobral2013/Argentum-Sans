@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondwhite-gmtr" format="2">
+  <advance width="1200"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <component base="squarewhite" xScale="0.7071" xyScale="-0.7071" yxScale="0.7071" yScale="0.7071" xOffset="-200" yOffset="580"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
+</glyph>

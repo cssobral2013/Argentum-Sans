@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palochkacyr" format="2">
+  <advance width="618"/>
+  <unicode hex="04CF"/>
+  <anchor x="199" y="0" name="bottom"/>
+  <anchor x="343" y="720" name="center"/>
+  <anchor x="707" y="720" name="dot"/>
+  <anchor x="495" y="1484" name="top"/>
+  <anchor x="779" y="1484" name="topright"/>
+  <outline>
+    <component base="l"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

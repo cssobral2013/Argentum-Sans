@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="entailcyr" format="2">
+  <advance width="1486"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <component base="encyr"/>
+    <contour>
+      <point x="1312" y="-202" type="line"/>
+      <point x="1424" y="354" type="line"/>
+      <point x="826" y="354" type="line"/>
+      <point x="754" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="954" y="96" type="line"/>
+      <point x="894" y="-202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

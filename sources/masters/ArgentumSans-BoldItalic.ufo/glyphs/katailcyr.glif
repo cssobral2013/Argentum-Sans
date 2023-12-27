@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="1388"/>
+  <unicode hex="049B"/>
+  <outline>
+    <component base="kacyr"/>
+    <contour>
+      <point x="1231" y="-204" type="line"/>
+      <point x="1339" y="346" type="line"/>
+      <point x="799" y="346" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="961" y="0" type="line"/>
+      <point x="883" y="94" type="line"/>
+      <point x="825" y="-204" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-12</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

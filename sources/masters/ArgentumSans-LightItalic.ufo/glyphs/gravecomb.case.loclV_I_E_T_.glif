@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case.loclVIET" format="2">
+  <advance width="522"/>
+  <anchor x="614" y="1398" name="_top"/>
+  <anchor x="672" y="1758" name="top"/>
+  <outline>
+    <component base="gravecomb.loclVIET" xOffset="47" yOffset="304"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>gravecomb</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

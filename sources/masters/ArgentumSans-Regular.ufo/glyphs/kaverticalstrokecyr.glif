@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaverticalstrokecyr" format="2">
+  <advance width="1246"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="1228" y="0" type="line"/>
+      <point x="810" y="624" type="line"/>
+      <point x="634" y="514" type="line"/>
+      <point x="970" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="1064" type="line"/>
+      <point x="172" y="1064" type="line"/>
+      <point x="172" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="438" type="line"/>
+      <point x="764" y="624" type="line"/>
+      <point x="328" y="624" type="line"/>
+      <point x="328" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="1198" y="1064" type="line"/>
+      <point x="968" y="1064" type="line"/>
+      <point x="628" y="532" type="line"/>
+      <point x="830" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="250" type="line"/>
+      <point x="638" y="814" type="line"/>
+      <point x="478" y="814" type="line"/>
+      <point x="478" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Kaverticalstroke-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

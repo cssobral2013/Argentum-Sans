@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <advance width="620"/>
+  <anchor x="612" y="1398" name="_top"/>
+  <anchor x="716" y="1928" name="top"/>
+  <outline>
+    <component base="brevecomb_acutecomb" xOffset="58" yOffset="290"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

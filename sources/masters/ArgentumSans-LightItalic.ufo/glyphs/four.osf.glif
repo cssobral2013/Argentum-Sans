@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="2">
+  <advance width="1074"/>
+  <outline>
+    <contour>
+      <point x="950" y="216" type="line"/>
+      <point x="958" y="256" type="line"/>
+      <point x="58" y="256" type="line"/>
+      <point x="782" y="1198" type="line"/>
+      <point x="736" y="1198" type="line"/>
+      <point x="20" y="266" type="line"/>
+      <point x="10" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="820" y="702" type="line"/>
+      <point x="780" y="702" type="line"/>
+      <point x="606" y="-200" type="line"/>
+      <point x="646" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

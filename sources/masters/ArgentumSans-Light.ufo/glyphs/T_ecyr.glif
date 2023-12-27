@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tecyr" format="2">
+  <advance width="1112"/>
+  <unicode hex="0422"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="536" y="0" name="bottomleft"/>
+  <anchor x="556" y="712" name="center"/>
+  <anchor x="556" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="1380" type="line"/>
+      <point x="558" y="1362" type="line"/>
+      <point x="1096" y="1362" type="line"/>
+      <point x="1096" y="1400" type="line"/>
+      <point x="16" y="1400" type="line"/>
+      <point x="16" y="1362" type="line"/>
+      <point x="554" y="1362" type="line"/>
+      <point x="536" y="1380" type="line"/>
+      <point x="536" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

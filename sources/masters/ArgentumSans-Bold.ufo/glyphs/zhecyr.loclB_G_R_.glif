@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="1980"/>
+  <outline>
+    <contour>
+      <point x="1982" y="0" type="line"/>
+      <point x="1584" y="714" type="line"/>
+      <point x="1220" y="502" type="line"/>
+      <point x="1448" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1488" y="364" type="line"/>
+      <point x="1488" y="710" type="line"/>
+      <point x="1082" y="710" type="line"/>
+      <point x="1082" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="1960" y="1094" type="line"/>
+      <point x="1484" y="1094" type="line"/>
+      <point x="1206" y="538" type="line"/>
+      <point x="1630" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="502" type="line"/>
+      <point x="394" y="714" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1214" y="1484" type="line"/>
+      <point x="768" y="1484" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="1214" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="898" y="710" type="line"/>
+      <point x="492" y="710" type="line"/>
+      <point x="492" y="364" type="line"/>
+      <point x="898" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="538" type="line"/>
+      <point x="496" y="1094" type="line"/>
+      <point x="20" y="1094" type="line"/>
+      <point x="348" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

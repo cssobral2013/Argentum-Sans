@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yukrcyr.ss05" format="2">
+  <advance width="844"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="314" y="0" name="ogonek"/>
+  <anchor x="90" y="1398" name="topleft"/>
+  <anchor x="294" y="1626" name="top"/>
+  <outline>
+    <component base="Idieresis.ss05"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Yukrcyr</string>
+  </dict>
+  </lib>
+</glyph>

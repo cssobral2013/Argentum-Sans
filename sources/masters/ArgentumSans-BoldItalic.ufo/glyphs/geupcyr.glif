@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="geupcyr" format="2">
+  <advance width="1086"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="447" y="0" type="line"/>
+      <point x="595" y="742" type="line"/>
+      <point x="1101" y="742" type="line"/>
+      <point x="1217" y="1318" type="line"/>
+      <point x="797" y="1318" type="line"/>
+      <point x="753" y="1094" type="line"/>
+      <point x="217" y="1094" type="line"/>
+      <point x="-3" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

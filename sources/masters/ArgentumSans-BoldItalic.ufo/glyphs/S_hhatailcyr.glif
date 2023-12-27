@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shhatailcyr" format="2">
+  <advance width="1686"/>
+  <unicode hex="0526"/>
+  <outline>
+    <component base="Shhacyr"/>
+    <contour>
+      <point x="1487" y="-274" type="line"/>
+      <point x="1615" y="366" type="line"/>
+      <point x="975" y="366" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="1213" y="0" type="line"/>
+      <point x="1131" y="102" type="line"/>
+      <point x="1055" y="-274" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

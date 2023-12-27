@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="1948"/>
+  <unicode hex="0416"/>
+  <anchor x="976" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="1884" y="0" type="line"/>
+      <point x="1348" y="730" type="line"/>
+      <point x="1312" y="714" type="line"/>
+      <point x="1834" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1356" y="694" type="line"/>
+      <point x="1356" y="732" type="line"/>
+      <point x="978" y="732" type="line"/>
+      <point x="978" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="1842" y="1400" type="line"/>
+      <point x="1792" y="1400" type="line"/>
+      <point x="1312" y="714" type="line"/>
+      <point x="1348" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="714" type="line"/>
+      <point x="600" y="730" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="994" y="1400" type="line"/>
+      <point x="954" y="1400" type="line"/>
+      <point x="954" y="0" type="line"/>
+      <point x="994" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="970" y="732" type="line"/>
+      <point x="592" y="732" type="line"/>
+      <point x="592" y="694" type="line"/>
+      <point x="970" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="714" type="line"/>
+      <point x="156" y="1400" type="line"/>
+      <point x="106" y="1400" type="line"/>
+      <point x="600" y="698" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="364"/>
+  <guideline angle="90" x="14" y="0"/>
+  <guideline angle="90" x="1990" y="0"/>
+</glyph>

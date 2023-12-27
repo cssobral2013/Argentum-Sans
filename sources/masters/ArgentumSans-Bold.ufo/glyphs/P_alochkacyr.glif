@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Palochkacyr" format="2">
+  <advance width="720"/>
+  <unicode hex="04C0"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="596" y="0" name="ogonek"/>
+  <anchor x="360" y="1400" name="top"/>
+  <anchor x="-8" y="1400" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="596" y="0" type="line"/>
+      <point x="596" y="1400" type="line"/>
+      <point x="124" y="1400" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

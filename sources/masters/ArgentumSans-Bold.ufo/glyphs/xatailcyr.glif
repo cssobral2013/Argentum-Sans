@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="xatailcyr" format="2">
+  <advance width="1314"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <component base="hacyr"/>
+    <contour>
+      <point x="1354" y="-204" type="line"/>
+      <point x="1354" y="346" type="line"/>
+      <point x="814" y="346" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="948" y="94" type="line"/>
+      <point x="948" y="-204" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-12</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

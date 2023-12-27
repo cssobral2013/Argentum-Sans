@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kappa" format="2">
+  <advance width="1436"/>
+  <unicode hex="039A"/>
+  <anchor x="764" y="1400" name="t.uni0308"/>
+  <anchor x="764" y="0" name="b.uni0324_3"/>
+  <outline>
+    <contour>
+      <point x="386" y="334" type="line"/>
+      <point x="374" y="612" type="line"/>
+      <point x="1138" y="1400" type="line"/>
+      <point x="1398" y="1400" type="line"/>
+      <point x="786" y="752" type="line"/>
+      <point x="658" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="1400" type="line"/>
+      <point x="412" y="1400" type="line"/>
+      <point x="412" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1168" y="0" type="line"/>
+      <point x="612" y="652" type="line"/>
+      <point x="764" y="822" type="line"/>
+      <point x="1436" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>K</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>K</string>
+  </dict>
+  </lib>
+</glyph>

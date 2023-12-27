@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Getailcyr" format="2">
+  <advance width="1122"/>
+  <unicode hex="04F6"/>
+  <anchor x="274" y="0" name="bottomleft"/>
+  <outline>
+    <component base="Gecyr"/>
+    <contour>
+      <point x="548" y="-330" type="line"/>
+      <point x="548" y="38" type="line"/>
+      <point x="274" y="38" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="508" y="18" type="line"/>
+      <point x="508" y="-330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

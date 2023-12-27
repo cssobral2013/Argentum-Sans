@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevecyr" format="2">
+  <advance width="1124"/>
+  <unicode hex="04D1"/>
+  <anchor x="1742" y="1028" name="top"/>
+  <anchor x="1592" y="6" name="bottom"/>
+  <anchor x="1958" y="-30" name="ogonek"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecyrcomb" xOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>a</string>
+  <key>com.fontlab.recipe</key>
+  <string>acyr_a</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enhookleftcyr" format="2">
+  <advance width="1422"/>
+  <unicode hex="0529"/>
+  <outline>
+    <contour>
+      <point x="866" y="720" type="line"/>
+      <point x="556" y="720" type="line"/>
+      <point x="556" y="1094" type="line"/>
+      <point x="106" y="1094" type="line"/>
+      <point x="106" y="60" type="line" smooth="yes"/>
+      <point x="106" y="-30"/>
+      <point x="66" y="-68"/>
+      <point x="12" y="-68" type="curve" smooth="yes"/>
+      <point x="-24" y="-68"/>
+      <point x="-60" y="-58"/>
+      <point x="-90" y="-42" type="curve"/>
+      <point x="-198" y="-354" type="line"/>
+      <point x="-128" y="-390"/>
+      <point x="-26" y="-408"/>
+      <point x="80" y="-408" type="curve" smooth="yes"/>
+      <point x="382" y="-408"/>
+      <point x="556" y="-226"/>
+      <point x="556" y="56" type="curve" smooth="yes"/>
+      <point x="556" y="366" type="line"/>
+      <point x="866" y="366" type="line"/>
+      <point x="866" y="0" type="line"/>
+      <point x="1316" y="0" type="line"/>
+      <point x="1316" y="1094" type="line"/>
+      <point x="866" y="1094" type="line"/>
+    </contour>
+  </outline>
+</glyph>

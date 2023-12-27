@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checyr" format="2">
+  <advance width="1324"/>
+  <unicode hex="0447"/>
+  <anchor x="768" y="0" name="bottomleft"/>
+  <anchor x="1284" y="0" name="bottomright"/>
+  <anchor x="624" y="1094" name="top"/>
+  <outline>
+    <contour>
+      <point x="796" y="692" type="line"/>
+      <point x="756" y="662"/>
+      <point x="698" y="644"/>
+      <point x="624" y="644" type="curve" smooth="yes"/>
+      <point x="538" y="644"/>
+      <point x="496" y="678"/>
+      <point x="496" y="790" type="curve" smooth="yes"/>
+      <point x="496" y="1094" type="line"/>
+      <point x="46" y="1094" type="line"/>
+      <point x="46" y="760" type="line" smooth="yes"/>
+      <point x="46" y="446"/>
+      <point x="202" y="314"/>
+      <point x="516" y="314" type="curve" smooth="yes"/>
+      <point x="648" y="314"/>
+      <point x="738" y="346"/>
+      <point x="798" y="388" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1218" y="0" type="line"/>
+      <point x="1218" y="1094" type="line"/>
+      <point x="768" y="1094" type="line"/>
+      <point x="768" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

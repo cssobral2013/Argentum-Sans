@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheabkhtailcyr" format="2">
+  <advance width="2098"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <component base="Cheabkhcyr"/>
+    <contour>
+      <point x="1031" y="80" type="line"/>
+      <point x="961" y="-274" type="line"/>
+      <point x="1393" y="-274" type="line"/>
+      <point x="1463" y="80" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="1377" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

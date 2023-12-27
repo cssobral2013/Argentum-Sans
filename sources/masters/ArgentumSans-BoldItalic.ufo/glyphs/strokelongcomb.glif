@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongcomb" format="2">
+  <advance width="1200"/>
+  <unicode hex="0336"/>
+  <anchor x="694" y="866" name="_center"/>
+  <outline>
+    <contour>
+      <point x="187" y="746" type="line"/>
+      <point x="1097" y="746" type="line"/>
+      <point x="1143" y="984" type="line"/>
+      <point x="233" y="984" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

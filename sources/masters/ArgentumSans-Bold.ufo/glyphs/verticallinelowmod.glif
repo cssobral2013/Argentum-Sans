@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="376"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="336" y="-468" type="line"/>
+      <point x="336" y="-60" type="line"/>
+      <point x="40" y="-60" type="line"/>
+      <point x="40" y="-468" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
+  </lib>
+</glyph>

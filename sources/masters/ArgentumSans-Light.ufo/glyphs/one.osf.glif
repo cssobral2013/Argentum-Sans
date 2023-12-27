@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="2">
+  <advance width="644"/>
+  <outline>
+    <contour>
+      <point x="48" y="1158" type="line"/>
+      <point x="366" y="1158" type="line"/>
+      <point x="348" y="1176" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="1198" type="line"/>
+      <point x="48" y="1198" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

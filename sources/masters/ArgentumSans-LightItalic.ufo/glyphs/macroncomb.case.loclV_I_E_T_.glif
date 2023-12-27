@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case.loclVIET" format="2">
+  <advance width="634"/>
+  <anchor x="708" y="1398" name="_top"/>
+  <anchor x="778" y="1758" name="top"/>
+  <outline>
+    <component base="macroncomb.loclVIET" xOffset="60" yOffset="304"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.674,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

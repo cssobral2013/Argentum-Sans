@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr.loclBGR" format="2">
+  <advance width="1608"/>
+  <outline>
+    <contour>
+      <point x="75" y="-302" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="1259" y="0" type="line"/>
+      <point x="1199" y="-302" type="line"/>
+      <point x="1411" y="-302" type="line"/>
+      <point x="1511" y="198" type="line"/>
+      <point x="-37" y="198" type="line"/>
+      <point x="-137" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="861" y="1400" type="line"/>
+      <point x="29" y="68" type="line"/>
+      <point x="265" y="68" type="line"/>
+      <point x="1019" y="1310" type="line"/>
+      <point x="893" y="1310" type="line"/>
+      <point x="1135" y="68" type="line"/>
+      <point x="1377" y="68" type="line"/>
+      <point x="1087" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

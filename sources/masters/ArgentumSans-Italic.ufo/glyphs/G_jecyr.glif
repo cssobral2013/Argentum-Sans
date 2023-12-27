@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gjecyr" format="2">
+  <advance width="1162"/>
+  <unicode hex="0403"/>
+  <anchor x="98" y="0" name="bottomleft"/>
+  <anchor x="874" y="0" name="bottomright"/>
+  <anchor x="978" y="1780" name="top"/>
+  <outline>
+    <component base="Gecyr"/>
+    <component base="acutecomb.case" xOffset="447"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Gecyr+acutecomb.case</string>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

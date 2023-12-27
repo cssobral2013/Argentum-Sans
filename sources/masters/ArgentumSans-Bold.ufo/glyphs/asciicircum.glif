@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+  <advance width="1216"/>
+  <unicode hex="005E"/>
+  <outline>
+    <component base="less" xScale="0" xyScale="-0.826" yxScale="1" yScale="0" xOffset="-38" yOffset="1096"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>

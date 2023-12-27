@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresiscyr" format="2">
+  <advance width="1432"/>
+  <unicode hex="04D2"/>
+  <anchor x="716" y="1758" name="top"/>
+  <outline>
+    <component base="Acyr"/>
+    <component base="dieresiscomb.case" xOffset="306" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Acyr+dieresiscomb.case</string>
+  </dict>
+  </lib>
+</glyph>

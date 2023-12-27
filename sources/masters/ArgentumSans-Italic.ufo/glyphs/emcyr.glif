@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emcyr" format="2">
+  <advance width="1604"/>
+  <unicode hex="043C"/>
+  <anchor x="696" y="0" name="bottom"/>
+  <anchor x="1120" y="0" name="bottomleft"/>
+  <anchor x="908" y="1064" name="top"/>
+  <outline>
+    <contour>
+      <point x="272" y="0" type="line"/>
+      <point x="436" y="824" type="line"/>
+      <point x="396" y="814" type="line"/>
+      <point x="672" y="116" type="line"/>
+      <point x="768" y="116" type="line"/>
+      <point x="1316" y="798" type="line"/>
+      <point x="1282" y="820" type="line"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="1320" y="0" type="line"/>
+      <point x="1530" y="1064" type="line"/>
+      <point x="1322" y="1064" type="line"/>
+      <point x="708" y="294" type="line"/>
+      <point x="800" y="294" type="line"/>
+      <point x="510" y="1064" type="line"/>
+      <point x="284" y="1064" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Em-cy</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhecyr" format="2">
+  <advance width="1614"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="1178" y="1400" type="line"/>
+      <point x="1178" y="198" type="line"/>
+      <point x="434" y="198" type="line"/>
+      <point x="434" y="1400" type="line"/>
+      <point x="208" y="1400" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="-312" type="line"/>
+      <point x="912" y="-312" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="1406" y="0" type="line"/>
+      <point x="1406" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

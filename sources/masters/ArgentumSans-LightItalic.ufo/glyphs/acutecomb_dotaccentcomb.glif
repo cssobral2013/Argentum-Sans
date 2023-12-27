@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb_dotaccentcomb" format="2">
+  <advance width="430"/>
+  <anchor x="294" y="1034" name="_top"/>
+  <anchor x="568" y="1588" name="top"/>
+  <outline>
+    <component base="acutecomb.loclVIET" xOffset="13"/>
+    <component base="dotaccentcomb.loclVIET" xOffset="-146" yOffset="236"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
+</glyph>
