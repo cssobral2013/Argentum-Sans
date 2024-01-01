@@ -4,13 +4,34 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="340" y="1360" type="line"/>
-      <point x="742" y="1360" type="line"/>
-      <point x="718" y="1384" type="line"/>
-      <point x="718" y="0" type="line"/>
-      <point x="756" y="0" type="line"/>
-      <point x="756" y="1400" type="line"/>
-      <point x="340" y="1400" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="846" y="1398" type="line"/>
+      <point x="826" y="1398" type="line"/>
+      <point x="330" y="1237" type="line"/>
+      <point x="330" y="1197" type="line"/>
+      <point x="803" y="1349" type="line"/>
+      <point x="803" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1268m846,0l846,1398l826,1398l330,1237l330,1197l803,1349l803,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9.5 39.5</string>
+          <string>vstem 728 11</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

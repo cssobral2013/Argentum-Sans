@@ -3,23 +3,33 @@
   <advance width="1268"/>
   <outline>
     <contour>
-      <point x="280" y="1160" type="line"/>
-      <point x="678" y="1160" type="line"/>
-      <point x="654" y="1184" type="line"/>
-      <point x="654" y="0" type="line"/>
-      <point x="692" y="0" type="line"/>
-      <point x="692" y="1200" type="line"/>
-      <point x="280" y="1200" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="846" y="1198" type="line"/>
+      <point x="826" y="1198" type="line"/>
+      <point x="330" y="1037" type="line"/>
+      <point x="330" y="995" type="line"/>
+      <point x="803" y="1147" type="line"/>
+      <point x="803" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>RMXScaler</key>
+  <key>public.postscript.hints</key>
   <dict>
-    <key>monoWidth</key>
-    <integer>617</integer>
-    <key>useSpacing</key>
-    <integer>50</integer>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1268m846,0l846,1198l826,1198l330,1037l330,995l803,1147l803,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9.5 39.5</string>
+          <string>vstem 728 11</string>
+        </array>
+      </dict>
+    </array>
   </dict>
   </dict>
   </lib>

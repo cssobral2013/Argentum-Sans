@@ -3,24 +3,13 @@
   <advance width="1268"/>
   <outline>
     <contour>
-      <point x="180" y="836" type="line"/>
-      <point x="448" y="836" type="line"/>
-      <point x="424" y="860" type="line"/>
-      <point x="424" y="0" type="line"/>
-      <point x="888" y="0" type="line"/>
-      <point x="888" y="1202" type="line"/>
-      <point x="180" y="1202" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="942" y="1202" type="line"/>
+      <point x="802" y="1202" type="line"/>
+      <point x="214" y="1052" type="line"/>
+      <point x="214" y="652" type="line"/>
+      <point x="506" y="728" type="line"/>
+      <point x="506" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>RMXScaler</key>
-  <dict>
-    <key>monoWidth</key>
-    <integer>617</integer>
-    <key>useSpacing</key>
-    <integer>50</integer>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

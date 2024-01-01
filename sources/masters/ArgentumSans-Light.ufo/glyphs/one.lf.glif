@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.lf" format="2">
-  <advance width="732"/>
+  <advance width="892"/>
   <outline>
     <contour>
-      <point x="48" y="1360" type="line"/>
-      <point x="440" y="1360" type="line"/>
-      <point x="422" y="1378" type="line"/>
-      <point x="422" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="460" y="1400" type="line"/>
-      <point x="48" y="1400" type="line"/>
+      <point x="681" y="0" type="line"/>
+      <point x="681" y="1398" type="line"/>
+      <point x="661" y="1398" type="line"/>
+      <point x="165" y="1237" type="line"/>
+      <point x="165" y="1195" type="line"/>
+      <point x="638" y="1347" type="line"/>
+      <point x="638" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.821,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w892m681,0l681,1398l661,1398l165,1237l165,1195l638,1347l638,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9.5 39.5</string>
+          <string>vstem 563 11</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

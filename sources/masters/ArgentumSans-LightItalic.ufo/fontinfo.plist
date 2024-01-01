@@ -7,10 +7,12 @@
   <key>capHeight</key>
   <integer>1400</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2018-2023 The Argentum Sans Project Authors (cssobral2013@gmail.com - https://github.com/cssobral2013/Argentum-Sans)
+  <string>Copyright (c) 2018-2024 The Argentum Sans Project Authors (cssobral2013@gmail.com - https://github.com/cssobral2013/Argentum-Sans)
 Portions are:
 Copyright (c) 2011-2017 The Montserrat Project Authors (julieta.ulanovsky@gmail.com - https://github.com/JulietaUla/Montserrat)
-Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/Montserrat-G)</string>
+Copyright (c) 2016 The Jones Project Authors (https://github.com/indestructible-type/jones)
+Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/Montserrat-G)
+Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/AndreasZorpidis/Montserrat-Z-Remix/)</string>
   <key>descender</key>
   <integer>-450</integer>
   <key>familyName</key>
@@ -58,7 +60,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDesigner</key>
-  <string>Julieta Ulanovsky (font), Cristiano Sobral (main changes and remaster)</string>
+  <string>Julieta Ulanovsky (font), Owen Earl (Jones font), Cristiano Sobral (main changes and remaster)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNameLicense</key>
@@ -66,7 +68,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Julieta Ulanovsky (font), Cristiano Sobral (main changes and remaster)</string>
+  <string>Julieta Ulanovsky (font), Owen Earl (Jones font), Cristiano Sobral (main changes and remaster)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNamePreferredFamilyName</key>
