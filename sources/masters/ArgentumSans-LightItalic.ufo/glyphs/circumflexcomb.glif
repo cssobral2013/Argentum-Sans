@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb" format="2">
   <advance width="536"/>
   <unicode hex="0302"/>
-  <anchor x="416" y="1034" name="_top"/>
+  <anchor x="406" y="1034" name="_top"/>
   <anchor x="626" y="1340" name="top"/>
   <outline>
     <contour>

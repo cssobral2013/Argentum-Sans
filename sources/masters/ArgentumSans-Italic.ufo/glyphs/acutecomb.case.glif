@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.case" format="2">
   <advance width="596"/>
-  <anchor x="476" y="1400" name="_top"/>
+  <anchor x="456" y="1400" name="_top"/>
   <anchor x="566" y="1780" name="top"/>
   <outline>
     <contour>

@@ -2,12 +2,17 @@
 <glyph name="ihoi" format="2">
   <advance width="480"/>
   <unicode hex="1EC9"/>
+  <anchor x="137" y="0" name="bottom"/>
+  <anchor x="157" y="0" name="ogonek"/>
+  <anchor x="579" y="1430" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="hookabovecomb" xOffset="41"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+hookabovecomb</string>
   <key>public.markColor</key>
   <string>0.604,1,0.6,1</string>
   </dict>

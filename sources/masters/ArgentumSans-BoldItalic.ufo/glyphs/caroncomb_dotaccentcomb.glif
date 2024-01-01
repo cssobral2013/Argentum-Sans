@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb_dotaccentcomb" format="2">
   <advance width="934"/>
-  <anchor x="560" y="1094" name="_top"/>
+  <anchor x="640" y="1094" name="_top"/>
   <anchor x="718" y="1912" name="top"/>
   <outline>
     <contour>

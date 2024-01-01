@@ -7,10 +7,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>Q</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>Q</string>
   <key>public.markColor</key>
   <string>0.812,1,0.6,1</string>
   </dict>

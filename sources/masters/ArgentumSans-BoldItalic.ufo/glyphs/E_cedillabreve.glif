@@ -7,7 +7,7 @@
   <anchor x="820" y="1400" name="top"/>
   <anchor x="210" y="1400" name="topleft"/>
   <outline>
-    <component base="brevecomb.case" xScale="0.9984" yScale="0.9984" xOffset="221"/>
+    <component base="brevecomb.case" xScale="0.9984" yScale="0.9984" xOffset="291"/>
     <contour>
       <point x="410" y="-182" type="line"/>
       <point x="450" y="-182" type="line" smooth="yes"/>

@@ -5,7 +5,7 @@
   <anchor x="769" y="0" name="bottom"/>
   <anchor x="831" y="702" name="center"/>
   <anchor x="1255" y="0" name="ogonek"/>
-  <anchor x="937" y="1400" name="top"/>
+  <anchor x="887" y="1400" name="top"/>
   <anchor x="209" y="1400" name="topleft"/>
   <anchor x="1233" y="1400" name="topright"/>
   <outline>

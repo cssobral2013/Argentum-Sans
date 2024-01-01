@@ -74,7 +74,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.120</string>
+  <string>Version 3.121</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -206,7 +206,7 @@ Copyright (c) 2016 The Montserrat-G Project Authors (https://github.com/green-s/
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>120</integer>
+  <integer>121</integer>
   <key>xHeight</key>
   <integer>1094</integer>
 </dict>

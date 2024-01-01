@@ -4,8 +4,9 @@
   <unicode hex="0179"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb.case" xScale="1.0016" yScale="1.0016" xOffset="283"/>
+    <component base="acutecomb.case" xScale="1.0016" yScale="1.0016" xOffset="441"/>
   </outline>
+  <guideline angle="0" x="0" y="1948"/>
   <lib>
   <dict>
   <key>public.markColor</key>

@@ -2,13 +2,19 @@
 <glyph name="Ecircumflexdotbelow" format="2">
   <advance width="1290"/>
   <unicode hex="1EC6"/>
+  <anchor x="1056" y="0" name="ogonek"/>
+  <anchor x="216" y="1400" name="topleft"/>
+  <anchor x="790" y="-264" name="bottom"/>
+  <anchor x="1065" y="1760" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="dotbelowcomb.case" xScale="1.0016" yScale="1.0016" xOffset="592"/>
-    <component base="circumflexcomb.case" xScale="1.0016" yScale="1.0016" xOffset="483"/>
+    <component base="dotbelowcomb.case" xOffset="592"/>
+    <component base="circumflexcomb.case" xOffset="341" yOffset="2"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+dotbelowcomb.case+circumflexcomb.case</string>
   <key>public.markColor</key>
   <string>0.604,1,0.6,1</string>
   </dict>
