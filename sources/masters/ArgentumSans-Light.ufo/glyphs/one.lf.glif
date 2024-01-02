@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.lf" format="2">
-  <advance width="892"/>
+  <advance width="770"/>
   <outline>
     <contour>
-      <point x="681" y="0" type="line"/>
-      <point x="681" y="1398" type="line"/>
-      <point x="661" y="1398" type="line"/>
-      <point x="165" y="1237" type="line"/>
-      <point x="165" y="1195" type="line"/>
-      <point x="638" y="1347" type="line"/>
-      <point x="638" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="1398" type="line"/>
+      <point x="469" y="1398" type="line"/>
+      <point x="69" y="1267" type="line"/>
+      <point x="69" y="1227" type="line"/>
+      <point x="446" y="1349" type="line"/>
+      <point x="446" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,14 +19,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w892m681,0l681,1398l661,1398l165,1237l165,1195l638,1347l638,0</string>
+    <string>w770m489,0l489,1398l469,1398l69,1267l69,1227l446,1349l446,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -9.5 39.5</string>
-          <string>vstem 563 11</string>
+          <string>vstem 302 11</string>
         </array>
       </dict>
     </array>

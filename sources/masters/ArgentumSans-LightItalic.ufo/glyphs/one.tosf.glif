@@ -3,13 +3,13 @@
   <advance width="1268"/>
   <outline>
     <contour>
-      <point x="726" y="0" type="line"/>
-      <point x="965" y="1198" type="line"/>
-      <point x="945" y="1198" type="line"/>
-      <point x="417" y="1037" type="line"/>
-      <point x="409" y="995" type="line"/>
-      <point x="912" y="1147" type="line"/>
-      <point x="683" y="0" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="979" y="1198" type="line"/>
+      <point x="959" y="1198" type="line"/>
+      <point x="431" y="1037" type="line"/>
+      <point x="423" y="993" type="line"/>
+      <point x="926" y="1145" type="line"/>
+      <point x="697" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1268m726,0l965,1198l945,1198l417,1037l409,995l912,1147l683,0</string>
+    <string>w1268m740,0l979,1198l959,1198l431,1037l423,993l926,1145l697,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
