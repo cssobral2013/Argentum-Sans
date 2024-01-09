@@ -396,6 +396,54 @@
     <string>eight.lf</string>
     <string>nine.lf</string>
   </array>
+  <key>case</key>
+  <array>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>hyphen</string>
+    <string>slash</string>
+    <string>at</string>
+    <string>bracketleft</string>
+    <string>backslash</string>
+    <string>bracketright</string>
+    <string>braceleft</string>
+    <string>braceright</string>
+    <string>guillemotleft</string>
+    <string>guillemotright</string>
+    <string>endash</string>
+    <string>emdash</string>
+    <string>bullet</string>
+    <string>guilsinglleft</string>
+    <string>guilsinglright</string>
+    <string>arrowleft</string>
+    <string>arrowup</string>
+    <string>arrowright</string>
+    <string>arrowdown</string>
+  </array>
+  <key>case1</key>
+  <array>
+    <string>parenleft.case</string>
+    <string>parenright.case</string>
+    <string>hyphen.case</string>
+    <string>slash.case</string>
+    <string>at.case</string>
+    <string>bracketleft.case</string>
+    <string>backslash.case</string>
+    <string>bracketright.case</string>
+    <string>braceleft.case</string>
+    <string>braceright.case</string>
+    <string>guillemotleft.case</string>
+    <string>guillemotright.case</string>
+    <string>endash.case</string>
+    <string>emdash.case</string>
+    <string>bullet.case</string>
+    <string>guilsinglleft.case</string>
+    <string>guilsinglright.case</string>
+    <string>arrowleft.case</string>
+    <string>arrowup.case</string>
+    <string>arrowright.case</string>
+    <string>arrowdown.case</string>
+  </array>
   <key>ccmp</key>
   <array>
     <string>dieresiscomb</string>

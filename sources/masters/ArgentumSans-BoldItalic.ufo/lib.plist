@@ -146,7 +146,6 @@
     <string>onequarter</string>
     <string>onehalf</string>
     <string>threequarters</string>
-    <string>questiondown</string>
     <string>Agrave</string>
     <string>Aacute</string>
     <string>Acircumflex</string>
@@ -929,7 +928,6 @@
     <string>quotedblleft</string>
     <string>quotedblright</string>
     <string>quotedblbase</string>
-    <string>dagger</string>
     <string>daggerdbl</string>
     <string>bullet</string>
     <string>ellipsis</string>
@@ -1344,6 +1342,7 @@
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
     <string>brevecyrcomb</string>
+    <string>questiondown</string>
   </array>
 </dict>
 </plist>

@@ -3,7 +3,6 @@
   <advance width="588"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="period" xScale="-0.9986" yScale="-0.9986" xOffset="568" yOffset="1062"/>
     <contour>
       <point x="508" y="30" type="line"/>
       <point x="428" y="546" type="line"/>
@@ -11,6 +10,20 @@
       <point x="80" y="30" type="line"/>
       <point x="80" y="-338" type="line"/>
       <point x="508" y="-338" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="669" type="curve" smooth="yes"/>
+      <point x="420" y="669"/>
+      <point x="504" y="752"/>
+      <point x="504" y="872" type="curve" smooth="yes"/>
+      <point x="504" y="994"/>
+      <point x="420" y="1078"/>
+      <point x="300" y="1078" type="curve" smooth="yes"/>
+      <point x="179" y="1078"/>
+      <point x="95" y="994"/>
+      <point x="95" y="872" type="curve" smooth="yes"/>
+      <point x="95" y="752"/>
+      <point x="179" y="669"/>
     </contour>
   </outline>
   <lib>

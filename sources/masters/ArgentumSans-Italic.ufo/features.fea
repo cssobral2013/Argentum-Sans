@@ -1,6 +1,8 @@
 #> classes
 #/> otclasses
 @calt = [zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf];
+@case = [parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guillemotleft guillemotright endash emdash bullet guilsinglleft guilsinglright arrowleft arrowup arrowright arrowdown];
+@case1 = [parenleft.case parenright.case hyphen.case slash.case at.case bracketleft.case backslash.case bracketright.case braceleft.case braceright.case guillemotleft.case guillemotright.case endash.case emdash.case bullet.case guilsinglleft.case guilsinglright.case arrowleft.case arrowup.case arrowright.case arrowdown.case];
 #/< otclasses
 #< classes
 
@@ -798,65 +800,7 @@ feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
 
-  sub backslash by backslash.case;
-  sub periodcentered by periodcentered.case;
-  sub bullet by bullet.case;
-  sub slash by slash.case;
-  sub periodcentered.loclCAT by periodcentered.loclCAT.case;
-  sub braceleft by braceleft.case;
-  sub braceright by braceright.case;
-  sub bracketleft by bracketleft.case;
-  sub bracketright by bracketright.case;
-  sub parenleft by parenleft.case;
-  sub parenright by parenright.case;
-  sub emdash by emdash.case;
-  sub endash by endash.case;
-  sub hyphen by hyphen.case;
-  sub guillemotleft by guillemotleft.case;
-  sub guillemotright by guillemotright.case;
-  sub guilsinglleft by guilsinglleft.case;
-  sub guilsinglright by guilsinglright.case;
-  sub arrowup by arrowup.case;
-  sub arrowright by arrowright.case;
-  sub arrowdown by arrowdown.case;
-  sub arrowleft by arrowleft.case;
-  sub at by at.case;
-  sub dieresiscomb by dieresiscomb.case;
-  sub dieresiscomb_gravecomb by dieresiscomb_gravecomb.case;
-  sub dieresiscomb_acutecomb by dieresiscomb_acutecomb.case;
-  sub dieresiscomb_macroncomb by dieresiscomb_macroncomb.case;
-  sub dotaccentcomb by dotaccentcomb.case;
-  sub dotaccentcomb_macroncomb by dotaccentcomb_macroncomb.case;
-  sub gravecomb by gravecomb.case;
-  sub gravecomb_macroncomb by gravecomb_macroncomb.case;
-  sub acutecomb by acutecomb.case;
-  sub acutecomb_dotaccentcomb by acutecomb_dotaccentcomb.case;
-  sub acutecomb_macroncomb by acutecomb_macroncomb.case;
-  sub hungarumlautcomb by hungarumlautcomb.case;
-  sub circumflexcomb by circumflexcomb.case;
-  sub caroncomb by caroncomb.case;
-  sub caroncomb_dotaccentcomb by caroncomb_dotaccentcomb.case;
-  sub brevecomb by brevecomb.case;
-  sub tildecomb by tildecomb.case;
-  sub tildecomb_dieresiscomb by tildecomb_dieresiscomb.case;
-  sub tildecomb_acutecomb by tildecomb_acutecomb.case;
-  sub tildecomb_macroncomb by tildecomb_macroncomb.case;
-  sub macroncomb by macroncomb.case;
-  sub macroncomb_dieresiscomb by macroncomb_dieresiscomb.case;
-  sub macroncomb_gravecomb by macroncomb_gravecomb.case;
-  sub macroncomb_acutecomb by macroncomb_acutecomb.case;
-  sub hookabovecomb by hookabovecomb.case;
-  sub dblgravecomb by dblgravecomb.case;
-  sub breveinvertedcomb by breveinvertedcomb.case;
-  sub macroncomb.narrow by macroncomb.narrow.case;
-  sub brevecomb_acutecomb by brevecomb_acutecomb.case;
-  sub brevecomb_gravecomb by brevecomb_gravecomb.case;
-  sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;
-  sub brevecomb_tildecomb by brevecomb_tildecomb.case;
-  sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;
-  sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;
-  sub circumflexcomb_hookabovecomb by circumflexcomb_hookabovecomb.case;
-  sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;
+sub @case by @case1;
 
 } case;
 feature dlig {

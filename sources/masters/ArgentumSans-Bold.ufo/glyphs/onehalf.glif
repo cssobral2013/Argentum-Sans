@@ -3,7 +3,7 @@
   <advance width="1906"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="one.numr" xOffset="140"/>
+    <component base="one.numr" xOffset="223"/>
     <component base="fraction" xOffset="696"/>
     <component base="two.dnom" xScale="0.9986" yScale="0.9986" xOffset="1114"/>
   </outline>
