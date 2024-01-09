@@ -76,7 +76,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.121</string>
+  <string>Version 3.122</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -223,7 +223,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>121</integer>
+  <integer>122</integer>
   <key>xHeight</key>
   <integer>1034</integer>
 </dict>
