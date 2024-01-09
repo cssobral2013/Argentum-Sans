@@ -146,6 +146,7 @@
     <string>onequarter</string>
     <string>onehalf</string>
     <string>threequarters</string>
+    <string>questiondown</string>
     <string>Agrave</string>
     <string>Aacute</string>
     <string>Acircumflex</string>
@@ -1337,12 +1338,11 @@
     <string>arrowdown.case</string>
     <string>Jacute</string>
     <string>Tdieresis</string>
+    <string>brevecyrcomb</string>
     <string>idotaccent</string>
     <string>jacute</string>
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
-    <string>brevecyrcomb</string>
-    <string>questiondown</string>
   </array>
 </dict>
 </plist>
