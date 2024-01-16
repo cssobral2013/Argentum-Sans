@@ -6,10 +6,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>one.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>one.dnom</string>
   <key>public.markColor</key>
   <string>0.784,0.784,0.784,0</string>
   </dict>

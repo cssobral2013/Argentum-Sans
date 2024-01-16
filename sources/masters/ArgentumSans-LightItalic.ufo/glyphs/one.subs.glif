@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.subs" format="2">
-  <advance width="426"/>
+  <advance width="477"/>
   <outline>
     <component base="one.dnom" xOffset="-80" yOffset="-400"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>one.dnom</string>
-  <key>com.fontlab.metricsWidth</key>
-  <string>one.dnom</string>
   <key>public.markColor</key>
   <string>0.784,0.784,0.784,0</string>
   </dict>
