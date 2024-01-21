@@ -1,36 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.osf" format="2">
-  <advance width="770"/>
+  <advance width="684"/>
   <outline>
     <contour>
-      <point x="585" y="0" type="line"/>
-      <point x="585" y="1198" type="line"/>
-      <point x="565" y="1198" type="line"/>
-      <point x="69" y="1037" type="line"/>
-      <point x="69" y="995" type="line"/>
-      <point x="542" y="1147" type="line"/>
-      <point x="542" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="418" y="1220" type="line"/>
+      <point x="398" y="1220" type="line"/>
+      <point x="274" y="1120"/>
+      <point x="144" y="1080"/>
+      <point x="20" y="1080" type="curve"/>
+      <point x="20" y="1040" type="line"/>
+      <point x="144" y="1040"/>
+      <point x="274" y="1074"/>
+      <point x="398" y="1174" type="curve"/>
+      <point x="380" y="1198" type="line"/>
+      <point x="380" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w770m585,0l585,1198l565,1198l69,1037l69,995l542,1147l542,0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -9.5 39.5</string>
-          <string>vstem 146 11</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

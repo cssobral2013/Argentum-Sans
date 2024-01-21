@@ -3,40 +3,35 @@
   <advance width="1268"/>
   <outline>
     <contour>
-      <point x="549" y="0" type="line"/>
-      <point x="788" y="1198" type="line"/>
-      <point x="768" y="1198" type="line"/>
-      <point x="340" y="1068" type="line"/>
-      <point x="332" y="1025" type="line"/>
-      <point x="735" y="1147" type="line"/>
-      <point x="506" y="0" type="line"/>
+      <point x="136" y="38" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="966" y="0" type="line"/>
+      <point x="974" y="38" type="line"/>
     </contour>
     <contour>
-      <point x="127" y="0" type="line"/>
-      <point x="928" y="0" type="line"/>
-      <point x="936" y="40" type="line"/>
-      <point x="135" y="40" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="830" y="1220" type="line"/>
+      <point x="810" y="1220" type="line"/>
+      <point x="666" y="1120"/>
+      <point x="528" y="1080"/>
+      <point x="404" y="1080" type="curve"/>
+      <point x="396" y="1040" type="line"/>
+      <point x="520" y="1040"/>
+      <point x="657" y="1074"/>
+      <point x="801" y="1174" type="curve"/>
+      <point x="787" y="1198" type="line"/>
+      <point x="548" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
+  <key>RMXScaler</key>
   <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w1268m549,0l788,1198l768,1198l340,1068l332,1025l735,1147l506,0m127,0l928,0l936,40l135,40</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -9.5 39.5</string>
-          <string>vstem 728 11</string>
-        </array>
-      </dict>
-    </array>
+    <key>source</key>
+    <string>one.osf</string>
   </dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

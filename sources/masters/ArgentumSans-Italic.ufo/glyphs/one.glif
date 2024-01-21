@@ -4,19 +4,35 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="648" y="0" type="line"/>
-      <point x="927" y="1397" type="line"/>
-      <point x="807" y="1397" type="line"/>
-      <point x="338" y="1262" type="line"/>
-      <point x="296" y="1047" type="line"/>
-      <point x="646" y="1140" type="line"/>
-      <point x="418" y="0" type="line"/>
+      <point x="116" y="198" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="1020" y="198" type="line"/>
     </contour>
     <contour>
-      <point x="86" y="0" type="line"/>
-      <point x="970" y="0" type="line"/>
-      <point x="1007" y="186" type="line"/>
-      <point x="123" y="186" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="946" y="1400" type="line"/>
+      <point x="820" y="1400" type="line"/>
+      <point x="632" y="1300"/>
+      <point x="540" y="1260"/>
+      <point x="384" y="1260" type="curve"/>
+      <point x="344" y="1060" type="line"/>
+      <point x="464" y="1060"/>
+      <point x="618" y="1070"/>
+      <point x="776" y="1190" type="curve"/>
+      <point x="700" y="1310" type="line"/>
+      <point x="438" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>one</string>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>
