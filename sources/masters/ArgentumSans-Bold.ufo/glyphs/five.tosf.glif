@@ -3,11 +3,11 @@
   <advance width="1268"/>
   <outline>
     <contour>
-      <point x="566" y="1048" type="line"/>
-      <point x="364" y="846" type="line"/>
-      <point x="1124" y="846" type="line"/>
-      <point x="1124" y="1202" type="line"/>
-      <point x="142" y="1202" type="line"/>
+      <point x="566" y="1046" type="line"/>
+      <point x="364" y="844" type="line"/>
+      <point x="1124" y="844" type="line"/>
+      <point x="1124" y="1200" type="line"/>
+      <point x="142" y="1200" type="line"/>
       <point x="142" y="360" type="line"/>
       <point x="222" y="360"/>
       <point x="476" y="360"/>

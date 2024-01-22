@@ -68,7 +68,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Julieta Ulanovsky (font),  Cristiano Sobral (main changes and remaster)</string>
+  <string>Julieta Ulanovsky (font), Cristiano Sobral (main changes and remaster)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -76,7 +76,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.122</string>
+  <string>Version 3.123</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -223,7 +223,7 @@ Copyright (c) 2023 The Montserrat-Z-Remix Project Authors (https://github.com/An
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>122</integer>
+  <integer>123</integer>
   <key>xHeight</key>
   <integer>1034</integer>
 </dict>

@@ -5,12 +5,12 @@
     <contour>
       <point x="616" y="696" type="line"/>
       <point x="662" y="520" type="line"/>
-      <point x="1142" y="942" type="line"/>
-      <point x="1142" y="1204" type="line"/>
-      <point x="116" y="1204" type="line"/>
-      <point x="116" y="870" type="line"/>
-      <point x="796" y="870" type="line"/>
-      <point x="740" y="1006" type="line"/>
+      <point x="1142" y="938" type="line"/>
+      <point x="1142" y="1200" type="line"/>
+      <point x="116" y="1200" type="line"/>
+      <point x="116" y="866" type="line"/>
+      <point x="796" y="866" type="line"/>
+      <point x="740" y="1002" type="line"/>
       <point x="326" y="612" type="line"/>
       <point x="326" y="372" type="line"/>
       <point x="588" y="372" type="line" smooth="yes"/>
