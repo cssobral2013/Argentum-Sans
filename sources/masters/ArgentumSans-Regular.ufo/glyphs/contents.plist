@@ -2140,6 +2140,8 @@
   <string>qacyr.glif</string>
   <key>question</key>
   <string>question.glif</string>
+  <key>question.1</key>
+  <string>question.1.glif</string>
   <key>question.ss03</key>
   <string>question.ss03.glif</string>
   <key>questiondown</key>
