@@ -5,13 +5,9 @@
     <contour>
       <point x="419" y="812" type="line"/>
       <point x="399" y="812" type="line"/>
-      <point x="297" y="752"/>
-      <point x="200" y="718"/>
-      <point x="110" y="718" type="curve"/>
+      <point x="110" y="718" type="line"/>
       <point x="103" y="682" type="line"/>
-      <point x="193" y="682"/>
-      <point x="290" y="716"/>
-      <point x="392" y="776" type="curve"/>
+      <point x="392" y="776" type="line"/>
       <point x="378" y="794" type="line"/>
       <point x="219" y="0" type="line"/>
       <point x="257" y="0" type="line"/>

@@ -6,8 +6,8 @@
   <anchor x="1592" y="6" name="bottom"/>
   <anchor x="1958" y="-30" name="ogonek"/>
   <outline>
-    <component base="a"/>
-    <component base="brevecyrcomb" xOffset="-30"/>
+    <component base="a" xOffset="1574"/>
+    <component base="brevecyrcomb" xOffset="1617"/>
   </outline>
   <lib>
   <dict>

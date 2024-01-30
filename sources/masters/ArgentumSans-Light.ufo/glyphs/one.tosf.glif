@@ -12,13 +12,9 @@
       <point x="708" y="0" type="line"/>
       <point x="708" y="1220" type="line"/>
       <point x="688" y="1220" type="line"/>
-      <point x="564" y="1120"/>
-      <point x="434" y="1080"/>
-      <point x="310" y="1080" type="curve"/>
+      <point x="310" y="1080" type="line"/>
       <point x="310" y="1040" type="line"/>
-      <point x="434" y="1040"/>
-      <point x="564" y="1074"/>
-      <point x="688" y="1174" type="curve"/>
+      <point x="688" y="1174" type="line"/>
       <point x="670" y="1198" type="line"/>
       <point x="670" y="0" type="line"/>
     </contour>
