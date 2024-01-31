@@ -7,10 +7,4 @@
     <component base="tildecomb.loclVIET" xOffset="17"/>
     <component base="macroncomb.loclVIET" xOffset="104" yOffset="296"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

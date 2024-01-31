@@ -47,8 +47,6 @@
     <key>monoWidth</key>
     <integer>617</integer>
   </dict>
-  <key>public.markColor</key>
-  <string>1,0.821,0.6,1</string>
   </dict>
   </lib>
 </glyph>

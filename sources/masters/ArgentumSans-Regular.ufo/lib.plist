@@ -1115,6 +1115,7 @@
     <string>nine.subs</string>
     <string>nine.sups</string>
     <string>nine.tosf</string>
+    <string>question.1</string>
     <string>question.ss03</string>
     <string>at.case</string>
     <string>G.ss04</string>
@@ -1349,7 +1350,6 @@
     <string>jacute</string>
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
-    <string>question.1</string>
   </array>
 </dict>
 </plist>

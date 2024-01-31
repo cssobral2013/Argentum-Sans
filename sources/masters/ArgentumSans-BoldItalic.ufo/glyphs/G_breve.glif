@@ -6,10 +6,4 @@
     <component base="G"/>
     <component base="brevecomb.case" xScale="0.9984" yScale="0.9984" xOffset="364"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

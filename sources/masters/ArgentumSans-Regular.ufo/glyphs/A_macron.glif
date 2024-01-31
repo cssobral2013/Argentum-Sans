@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="macroncomb.case" xOffset="352" yOffset="-2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

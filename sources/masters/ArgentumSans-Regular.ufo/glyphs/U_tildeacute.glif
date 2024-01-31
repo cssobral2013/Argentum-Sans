@@ -6,10 +6,4 @@
     <component base="U"/>
     <component base="tildecomb_acutecomb.case" xOffset="394"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

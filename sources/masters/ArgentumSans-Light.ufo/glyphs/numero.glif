@@ -7,10 +7,4 @@
     <component base="ordmasculine" xOffset="1518" yOffset="-110"/>
     <component base="softhyphen" xOffset="1558" yOffset="-14"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

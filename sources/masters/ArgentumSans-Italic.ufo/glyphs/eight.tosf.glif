@@ -61,8 +61,6 @@
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>=1268</string>
-  <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
   </dict>
   </lib>
 </glyph>

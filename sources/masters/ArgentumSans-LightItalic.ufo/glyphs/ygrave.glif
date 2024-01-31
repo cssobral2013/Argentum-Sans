@@ -6,10 +6,4 @@
     <component base="y"/>
     <component base="gravecomb" xOffset="-204"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.834,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

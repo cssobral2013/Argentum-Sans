@@ -43,8 +43,6 @@
     <key>source</key>
     <string>Kastroke-cy</string>
   </dict>
-  <key>public.markColor</key>
-  <string>0.805,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

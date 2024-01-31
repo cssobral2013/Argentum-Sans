@@ -6,10 +6,4 @@
   <outline>
     <component base="circumflexcomb_gravecomb" xOffset="60" yOffset="302"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.674,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

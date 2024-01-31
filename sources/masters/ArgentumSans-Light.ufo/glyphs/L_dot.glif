@@ -6,10 +6,4 @@
     <component base="L"/>
     <component base="periodcentered.case" xScale="1.0014" yScale="1.0014" xOffset="592" yOffset="72"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

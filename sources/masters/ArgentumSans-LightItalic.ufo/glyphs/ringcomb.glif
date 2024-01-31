@@ -2,7 +2,7 @@
 <glyph name="ringcomb" format="2">
   <advance width="714"/>
   <unicode hex="030A"/>
-  <anchor x="456" y="1034" name="_top"/>
+  <anchor x="496" y="1034" name="_top"/>
   <anchor x="636" y="1396" name="top"/>
   <outline>
     <contour>
@@ -34,10 +34,4 @@
       <point x="456" y="1472"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

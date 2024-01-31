@@ -7,10 +7,4 @@
     <component base="caroncomb.loclVIET"/>
     <component base="dotaccentcomb.loclVIET" xOffset="-24" yOffset="220"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

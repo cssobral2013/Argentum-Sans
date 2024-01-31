@@ -4,10 +4,4 @@
   <outline>
     <component base="eight.dnom" xOffset="-80" yOffset="-400"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

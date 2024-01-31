@@ -7,10 +7,4 @@
   <outline>
     <component base="dieresiscomb" xOffset="-338" yOffset="-1692"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="W"/>
     <component base="acutecomb.case" xOffset="891"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.834,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

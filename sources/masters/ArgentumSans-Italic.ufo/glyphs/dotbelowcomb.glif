@@ -8,10 +8,4 @@
   <outline>
     <component base="dotaccentcomb" xOffset="-328" yOffset="-1644"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

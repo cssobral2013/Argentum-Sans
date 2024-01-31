@@ -5,10 +5,4 @@
     <component base="guilsinglright.case" xOffset="557"/>
     <component base="guilsinglright.case" xOffset="41"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.674,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

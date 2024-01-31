@@ -7,10 +7,4 @@
     <component base="fraction" xOffset="624"/>
     <component base="four.dnom" xScale="0.9986" yScale="0.9986" xOffset="1071"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

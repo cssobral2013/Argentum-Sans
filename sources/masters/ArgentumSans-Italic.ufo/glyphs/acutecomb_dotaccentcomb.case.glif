@@ -7,10 +7,4 @@
     <component base="acutecomb_dotaccentcomb" xOffset="68" yOffset="298"/>
   </outline>
   <guideline angle="0" x="0" y="2034"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.674,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

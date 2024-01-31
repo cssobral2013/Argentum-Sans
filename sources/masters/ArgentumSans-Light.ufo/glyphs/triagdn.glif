@@ -5,10 +5,4 @@
   <outline>
     <component base="triagup" yScale="-1" yOffset="1060"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,10 +2,4 @@
 <glyph name="thinspace" format="2">
   <advance width="400"/>
   <unicode hex="2009"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="circumflexcomb_hookabovecomb.case" xOffset="368" yOffset="-2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

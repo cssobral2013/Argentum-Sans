@@ -6,10 +6,4 @@
     <component base="I"/>
     <component base="brevecomb.case" xScale="0.9985" yScale="0.9985" xOffset="-55"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

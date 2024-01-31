@@ -6,10 +6,4 @@
   <outline>
     <component base="macroncomb" xOffset="60" yOffset="-1674"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

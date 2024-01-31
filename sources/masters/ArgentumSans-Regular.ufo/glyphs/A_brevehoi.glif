@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="brevecomb_hookabovecomb.case" xOffset="372" yOffset="-2"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

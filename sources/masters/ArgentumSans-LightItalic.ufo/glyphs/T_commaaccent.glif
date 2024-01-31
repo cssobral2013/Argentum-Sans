@@ -6,10 +6,4 @@
     <component base="T"/>
     <component base="commaaccentcomb" xScale="1.0016" yScale="1.0016" xOffset="330"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

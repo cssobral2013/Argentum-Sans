@@ -6,10 +6,4 @@
     <component base="five.dnom" xOffset="144" yOffset="720"/>
   </outline>
   <guideline angle="0" x="0" y="708"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

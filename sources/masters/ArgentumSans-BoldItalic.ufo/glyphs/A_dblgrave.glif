@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="dblgravecomb.case" xScale="0.9984" yScale="0.9984" xOffset="82"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.616,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="T"/>
     <component base="strokelongcomb" xOffset="-20" yOffset="-222"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.814,1</string>
-  </dict>
-  </lib>
 </glyph>

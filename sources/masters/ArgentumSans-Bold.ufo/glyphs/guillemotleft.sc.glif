@@ -5,10 +5,4 @@
     <component base="guilsinglleft.sc"/>
     <component base="guilsinglleft.sc" xOffset="518"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

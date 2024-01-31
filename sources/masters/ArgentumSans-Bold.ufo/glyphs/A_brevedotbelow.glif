@@ -7,10 +7,4 @@
     <component base="dotbelowcomb.case" xScale="0.9985" yScale="0.9985" xOffset="498"/>
     <component base="brevecomb.case" xScale="0.9985" yScale="0.9985" xOffset="392"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

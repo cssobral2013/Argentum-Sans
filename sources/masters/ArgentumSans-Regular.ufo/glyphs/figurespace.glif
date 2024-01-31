@@ -2,10 +2,4 @@
 <glyph name="figurespace" format="2">
   <advance width="1268"/>
   <unicode hex="2007"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

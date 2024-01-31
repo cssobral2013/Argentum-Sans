@@ -6,10 +6,4 @@
     <component base="L" xOffset="-11"/>
     <component base="j" xScale="1.0016" yScale="1.0016" xOffset="984"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.616,1,1</string>
-  </dict>
-  </lib>
 </glyph>

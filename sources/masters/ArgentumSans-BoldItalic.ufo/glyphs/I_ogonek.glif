@@ -6,10 +6,4 @@
     <component base="I"/>
     <component base="ogonekcomb" xScale="0.9984" yScale="0.9984" xOffset="45"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

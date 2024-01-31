@@ -8,10 +8,4 @@
     <component base="dieresiscomb" xOffset="-308" yOffset="-1542"/>
   </outline>
   <guideline angle="0" x="0" y="-130"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

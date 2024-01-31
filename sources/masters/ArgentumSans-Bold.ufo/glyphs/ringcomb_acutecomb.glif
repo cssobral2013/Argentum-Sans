@@ -5,10 +5,4 @@
     <component base="ringcomb" xOffset="-92"/>
     <component base="acutecomb.loclVIET" xOffset="80" yOffset="260"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

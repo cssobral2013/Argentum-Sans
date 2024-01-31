@@ -7,10 +7,4 @@
     <component base="circumflexcomb.loclVIET" xOffset="20"/>
     <component base="hookabovecomb.loclVIET" xOffset="248" yOffset="338"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="acutecomb.loclVIET" xOffset="158" yOffset="228"/>
   </outline>
   <guideline angle="90" x="455" y="0"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

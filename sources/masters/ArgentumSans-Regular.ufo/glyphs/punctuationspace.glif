@@ -2,10 +2,4 @@
 <glyph name="punctuationspace" format="2">
   <advance width="436"/>
   <unicode hex="2008"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

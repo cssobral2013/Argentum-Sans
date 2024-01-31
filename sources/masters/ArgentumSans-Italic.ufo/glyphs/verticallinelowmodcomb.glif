@@ -5,10 +5,4 @@
     <component base="verticallinelowmod" xOffset="123"/>
   </outline>
   <guideline angle="90" x="62" y="0"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

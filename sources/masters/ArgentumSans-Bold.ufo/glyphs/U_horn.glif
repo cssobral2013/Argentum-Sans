@@ -6,10 +6,4 @@
     <component base="U"/>
     <component base="horncomb" xScale="0.9985" yScale="0.9985" xOffset="1260" yOffset="308"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.814,1</string>
-  </dict>
-  </lib>
 </glyph>

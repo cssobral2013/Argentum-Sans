@@ -7,14 +7,12 @@
   <anchor x="1958" y="-30" name="ogonek"/>
   <outline>
     <component base="a" xOffset="1574"/>
-    <component base="brevecyrcomb" xOffset="1617"/>
+    <component base="brevecyrcomb" xOffset="1544"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>acyr_a</string>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

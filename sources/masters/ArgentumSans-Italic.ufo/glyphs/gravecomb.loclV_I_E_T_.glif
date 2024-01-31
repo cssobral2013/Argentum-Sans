@@ -17,8 +17,6 @@
     <key>weight</key>
     <integer>-10</integer>
   </dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
   </dict>
   </lib>
 </glyph>

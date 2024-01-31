@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="breveinvertedcomb.case" xScale="1.0014" yScale="1.0014" xOffset="436"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

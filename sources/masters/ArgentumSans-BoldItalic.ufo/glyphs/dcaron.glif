@@ -6,10 +6,4 @@
     <component base="d"/>
     <component base="caroncomb.alt" xOffset="1291" yOffset="82"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.834,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

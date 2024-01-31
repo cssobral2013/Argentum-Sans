@@ -6,10 +6,4 @@
     <component base="R"/>
     <component base="macronbelowcomb" xOffset="364"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.814,1</string>
-  </dict>
-  </lib>
 </glyph>

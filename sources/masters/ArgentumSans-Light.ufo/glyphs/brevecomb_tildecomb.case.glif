@@ -6,10 +6,4 @@
   <outline>
     <component base="brevecomb_tildecomb" xOffset="10" yOffset="292"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.674,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

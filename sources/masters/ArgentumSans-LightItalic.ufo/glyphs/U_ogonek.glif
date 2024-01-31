@@ -6,10 +6,4 @@
     <component base="U"/>
     <component base="ogonekcomb.curve" xScale="1.0016" yScale="1.0016" xOffset="752"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

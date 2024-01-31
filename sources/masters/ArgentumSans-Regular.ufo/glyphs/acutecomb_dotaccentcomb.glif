@@ -8,10 +8,4 @@
     <component base="dotaccentcomb.loclVIET" xOffset="-68" yOffset="308"/>
   </outline>
   <guideline angle="0" x="0" y="1682"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

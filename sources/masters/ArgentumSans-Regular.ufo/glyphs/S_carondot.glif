@@ -6,10 +6,4 @@
     <component base="S"/>
     <component base="caroncomb_dotaccentcomb.case" xOffset="230"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.392,0.392,0.392,0</string>
-  </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="ae"/>
     <component base="acutecomb" xOffset="518"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.616,1,1</string>
-  </dict>
-  </lib>
 </glyph>

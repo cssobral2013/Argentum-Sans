@@ -7,10 +7,4 @@
     <component base="circumflexcomb.loclVIET"/>
     <component base="gravecomb.loclVIET" xOffset="28" yOffset="230"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.89,1,1</string>
-  </dict>
-  </lib>
 </glyph>

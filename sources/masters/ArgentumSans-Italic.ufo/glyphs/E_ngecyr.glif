@@ -30,8 +30,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>Encyr_Gecyr</string>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

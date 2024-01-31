@@ -6,10 +6,4 @@
     <component base="ustraightcyr"/>
     <component base="strokeshortcomb" xScale="1.2345" xOffset="-79" yOffset="-856"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

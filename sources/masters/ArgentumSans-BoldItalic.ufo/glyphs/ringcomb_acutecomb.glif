@@ -6,10 +6,4 @@
     <component base="ringcomb" xOffset="41"/>
     <component base="acutecomb.loclVIET" xOffset="265" yOffset="260"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>

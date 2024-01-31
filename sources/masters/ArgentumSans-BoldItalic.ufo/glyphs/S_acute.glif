@@ -6,10 +6,4 @@
     <component base="S"/>
     <component base="acutecomb.case" xScale="0.9984" yScale="0.9984" xOffset="555" yOffset="-16"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="apostrophemod" xOffset="-52"/>
     <component base="n" xScale="1.0014" yScale="1.0014" xOffset="102"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.994,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

@@ -13,8 +13,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>Gecyr+acutecomb.case</string>
-  <key>public.markColor</key>
-  <string>0.812,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -7,10 +7,4 @@
     <component base="brevecomb.loclVIET" yOffset="282"/>
   </outline>
   <guideline angle="0" x="0" y="1410"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.821,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

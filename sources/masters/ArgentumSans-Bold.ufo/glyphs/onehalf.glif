@@ -3,14 +3,8 @@
   <advance width="1906"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="one.numr" xOffset="182"/>
+    <component base="one.numr" xOffset="394"/>
     <component base="fraction" xOffset="696"/>
     <component base="two.dnom" xScale="0.9986" yScale="0.9986" xOffset="1114"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.784,0.784,0.784,0</string>
-  </dict>
-  </lib>
 </glyph>
