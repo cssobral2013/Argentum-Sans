@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdot" format="2">
+  <advance width="1326"/>
+  <unicode hex="1E60"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotaccentcomb.case" xScale="0.9985" yScale="0.9985" xOffset="410"/>
+  </outline>
+</glyph>

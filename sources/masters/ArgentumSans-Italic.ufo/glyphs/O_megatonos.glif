@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="2">
+  <advance width="1792"/>
+  <unicode hex="038F"/>
+  <outline>
+    <component base="uni03A9" xOffset="-22"/>
+    <contour>
+      <point x="126" y="1214" type="line"/>
+      <point x="266" y="1482" type="line"/>
+      <point x="510" y="1482" type="line"/>
+      <point x="300" y="1214" type="line"/>
+    </contour>
+  </outline>
+</glyph>

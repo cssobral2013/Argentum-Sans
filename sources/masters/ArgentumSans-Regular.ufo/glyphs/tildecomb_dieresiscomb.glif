@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_dieresiscomb" format="2">
+  <advance width="748"/>
+  <anchor x="396" y="1062" name="_top"/>
+  <anchor x="396" y="1772" name="top"/>
+  <outline>
+    <component base="tildecomb.loclVIET"/>
+    <component base="dieresiscomb.loclVIET" xOffset="-12" yOffset="294"/>
+  </outline>
+</glyph>

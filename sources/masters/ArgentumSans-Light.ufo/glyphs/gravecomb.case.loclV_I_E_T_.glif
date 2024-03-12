@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case.loclVIET" format="2">
+  <advance width="522"/>
+  <anchor x="260" y="1398" name="_top"/>
+  <anchor x="214" y="1560" name="top"/>
+  <outline>
+    <component base="gravecomb.loclVIET" yOffset="304"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>gravecomb</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

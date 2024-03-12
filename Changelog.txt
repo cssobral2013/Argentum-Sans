@@ -156,7 +156,7 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  - New '1'
  - Fixed some more off-center accents
 
- Changelog of Argentum Sans, v3.123 (in no particular order):
+ Changelog of Argentum Sans, v3.123 to v3.125 (in no particular order):
  - Flattened height of old-style figures
  - Equalized sidebearings of tabular old-style figures
  - Imported '1' from Jones font

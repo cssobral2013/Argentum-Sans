@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="2">
+  <advance width="1476"/>
+  <unicode hex="0391"/>
+  <anchor x="880" y="1400" name="t.uni0308"/>
+  <anchor x="880" y="0" name="b.uni0324_3"/>
+  <anchor x="1800" y="0" name="m.uni0328_4"/>
+  <anchor x="664" y="0" name="bottom"/>
+  <anchor x="1368" y="0" name="ogonek"/>
+  <anchor x="862" y="1400" name="top"/>
+  <outline>
+    <component base="A"/>
+  </outline>
+</glyph>

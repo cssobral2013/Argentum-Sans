@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <advance width="750"/>
+  <anchor x="440" y="1094" name="_top"/>
+  <anchor x="380" y="1504" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="1388" type="line"/>
+      <point x="412" y="1202" type="line"/>
+      <point x="656" y="1264" type="line"/>
+      <point x="344" y="1550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>weight</key>
+    <integer>-20</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

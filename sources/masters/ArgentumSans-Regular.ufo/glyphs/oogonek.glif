@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonek" format="2">
+  <advance width="1250"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <component base="o"/>
+    <component base="ogonekcomb.curve" xOffset="524"/>
+  </outline>
+  <guideline angle="90" x="794" y="0"/>
+</glyph>

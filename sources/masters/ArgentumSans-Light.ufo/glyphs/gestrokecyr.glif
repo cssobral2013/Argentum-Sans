@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokecyr" format="2">
+  <advance width="950"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="gecyr"/>
+    <contour>
+      <point x="780" y="464" type="line"/>
+      <point x="780" y="502" type="line"/>
+      <point x="102" y="502" type="line"/>
+      <point x="102" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

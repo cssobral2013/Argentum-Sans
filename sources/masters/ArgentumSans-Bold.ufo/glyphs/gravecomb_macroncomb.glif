@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb_macroncomb" format="2">
+  <advance width="750"/>
+  <anchor x="380" y="1094" name="_top"/>
+  <anchor x="380" y="1850" name="top"/>
+  <outline>
+    <component base="gravecomb.loclVIET"/>
+    <component base="macroncomb.loclVIET" xOffset="-22" yOffset="410"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0401" format="2">
+  <advance width="1338"/>
+  <unicode hex="0401"/>
+  <anchor x="884" y="1660" name="top"/>
+  <outline>
+    <component base="uni0415"/>
+    <component base="uni0308.case" xOffset="212"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0415+uni0308.case</string>
+  </dict>
+  </lib>
+</glyph>

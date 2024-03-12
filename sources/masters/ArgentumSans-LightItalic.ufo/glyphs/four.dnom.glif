@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="2">
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="413" y="812" type="line"/>
+      <point x="-17" y="272" type="line"/>
+      <point x="-25" y="234" type="line"/>
+      <point x="405" y="234" type="line"/>
+      <point x="389" y="252" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="427" y="252" type="line"/>
+      <point x="407" y="234" type="line"/>
+      <point x="559" y="234" type="line"/>
+      <point x="567" y="270" type="line"/>
+      <point x="413" y="270" type="line"/>
+      <point x="427" y="252" type="line"/>
+      <point x="479" y="522" type="line"/>
+      <point x="441" y="522" type="line"/>
+      <point x="389" y="252" type="line"/>
+      <point x="411" y="270" type="line"/>
+      <point x="9" y="270" type="line"/>
+      <point x="15" y="256" type="line"/>
+      <point x="457" y="812" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>four</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

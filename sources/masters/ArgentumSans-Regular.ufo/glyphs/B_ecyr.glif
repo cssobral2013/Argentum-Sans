@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="1466"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="822" y="0" type="line" smooth="yes"/>
+      <point x="1174" y="0"/>
+      <point x="1372" y="154"/>
+      <point x="1372" y="430" type="curve" smooth="yes"/>
+      <point x="1372" y="694"/>
+      <point x="1194" y="836"/>
+      <point x="860" y="836" type="curve" smooth="yes"/>
+      <point x="434" y="836" type="line"/>
+      <point x="434" y="1206" type="line"/>
+      <point x="1280" y="1206" type="line"/>
+      <point x="1280" y="1400" type="line"/>
+      <point x="208" y="1400" type="line"/>
+      <point x="208" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="656" type="line"/>
+      <point x="812" y="656" type="line" smooth="yes"/>
+      <point x="1032" y="656"/>
+      <point x="1142" y="580"/>
+      <point x="1142" y="422" type="curve" smooth="yes"/>
+      <point x="1142" y="264"/>
+      <point x="1028" y="180"/>
+      <point x="812" y="180" type="curve" smooth="yes"/>
+      <point x="434" y="180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

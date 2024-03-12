@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="548"/>
+  <unicode hex="02DB"/>
+  <anchor x="351" y="0" name="_ogonek"/>
+  <outline>
+    <component base="uni0328"/>
+  </outline>
+  <guideline angle="90" x="269" y="0"/>
+</glyph>

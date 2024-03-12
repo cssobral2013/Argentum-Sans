@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0304.case.loclVIET" format="2">
+  <advance width="704"/>
+  <anchor x="632" y="1400" name="_top"/>
+  <anchor x="706" y="1780" name="top"/>
+  <outline>
+    <component base="uni0304.loclVIET" xOffset="66" yOffset="328"/>
+  </outline>
+  <guideline angle="0" x="0" y="1600"/>
+</glyph>

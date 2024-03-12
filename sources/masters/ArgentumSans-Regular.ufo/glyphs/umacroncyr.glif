@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacroncyr" format="2">
+  <advance width="1158"/>
+  <unicode hex="04EF"/>
+  <anchor x="580" y="1378" name="top"/>
+  <outline>
+    <component base="ucyr"/>
+    <component base="macroncomb" xOffset="284"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ucyr+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

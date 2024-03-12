@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shhatailcyr" format="2">
+  <advance width="1568"/>
+  <unicode hex="0526"/>
+  <outline>
+    <component base="Shhacyr"/>
+    <contour>
+      <point x="1534" y="-330" type="line"/>
+      <point x="1534" y="38" type="line"/>
+      <point x="1260" y="38" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="1512" y="0" type="line"/>
+      <point x="1494" y="18" type="line"/>
+      <point x="1494" y="-330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

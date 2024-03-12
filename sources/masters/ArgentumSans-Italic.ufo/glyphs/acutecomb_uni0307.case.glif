@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb_uni0307.case" format="2">
+  <advance width="514"/>
+  <anchor x="438" y="1400" name="_top"/>
+  <anchor x="616" y="2056" name="top"/>
+  <outline>
+    <component base="acutecomb_uni0307" xOffset="68" yOffset="298"/>
+  </outline>
+  <guideline angle="0" x="0" y="2034"/>
+</glyph>

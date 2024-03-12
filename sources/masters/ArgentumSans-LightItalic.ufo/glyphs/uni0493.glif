@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0493" format="2">
+  <advance width="950"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="uni0433"/>
+    <contour>
+      <point x="776" y="464" type="line"/>
+      <point x="784" y="502" type="line"/>
+      <point x="106" y="502" type="line"/>
+      <point x="98" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

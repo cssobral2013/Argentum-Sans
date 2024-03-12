@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0335.narrow" format="2">
+  <advance width="512"/>
+  <anchor x="326" y="874" name="_center"/>
+  <outline>
+    <contour>
+      <point x="570" y="808" type="line"/>
+      <point x="596" y="940" type="line"/>
+      <point x="80" y="940" type="line"/>
+      <point x="54" y="808" type="line"/>
+    </contour>
+  </outline>
+</glyph>

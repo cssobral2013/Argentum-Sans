@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ishortsharptailcyr" format="2">
+  <advance width="1742"/>
+  <unicode hex="048A"/>
+  <outline>
+    <component base="Ishortcyr"/>
+    <contour>
+      <point x="1542" y="-274" type="line"/>
+      <point x="1722" y="366" type="line"/>
+      <point x="1050" y="366" type="line"/>
+      <point x="1050" y="0" type="line"/>
+      <point x="1392" y="0" type="line"/>
+      <point x="1230" y="102" type="line"/>
+      <point x="1174" y="-274" type="line"/>
+    </contour>
+  </outline>
+</glyph>

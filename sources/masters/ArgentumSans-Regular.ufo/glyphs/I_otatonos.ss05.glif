@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotatonos.ss05" format="2">
+  <advance width="1199"/>
+  <anchor x="583" y="1400" name="t.uni0308"/>
+  <anchor x="583" y="0" name="b.uni0324_3"/>
+  <anchor x="913" y="0" name="m.uni0328_4"/>
+  <anchor x="520" y="1848" name="top"/>
+  <outline>
+    <component base="Iota.ss05" xOffset="275"/>
+    <component base="tonos" xOffset="48"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iotatonos</string>
+  </dict>
+  </lib>
+</glyph>

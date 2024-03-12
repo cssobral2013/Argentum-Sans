@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb_uni0304" format="2">
+  <advance width="522"/>
+  <anchor x="580" y="1034" name="_top"/>
+  <anchor x="680" y="1544" name="top"/>
+  <outline>
+    <component base="uni0304.loclVIET" xOffset="-56" yOffset="256"/>
+    <component base="gravecomb.loclVIET" xOffset="-109"/>
+  </outline>
+</glyph>

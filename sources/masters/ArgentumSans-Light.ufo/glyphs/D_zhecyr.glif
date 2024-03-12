@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhecyr" format="2">
+  <advance width="1608"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="1294" y="1400" type="line"/>
+      <point x="1294" y="38" type="line"/>
+      <point x="314" y="38" type="line"/>
+      <point x="314" y="1400" type="line"/>
+      <point x="274" y="1400" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="-350" type="line"/>
+      <point x="824" y="-350" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="1334" y="1400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

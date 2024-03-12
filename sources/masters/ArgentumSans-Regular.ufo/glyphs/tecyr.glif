@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="1008"/>
+  <unicode hex="0442"/>
+  <anchor x="508" y="0" name="bottom"/>
+  <anchor x="394" y="0" name="bottomleft"/>
+  <anchor x="508" y="500" name="center"/>
+  <anchor x="508" y="1064" name="top"/>
+  <outline>
+    <contour>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="928" type="line"/>
+      <point x="562" y="872" type="line"/>
+      <point x="996" y="872" type="line"/>
+      <point x="996" y="1064" type="line"/>
+      <point x="12" y="1064" type="line"/>
+      <point x="12" y="872" type="line"/>
+      <point x="446" y="872" type="line"/>
+      <point x="394" y="928" type="line"/>
+      <point x="394" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Te-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

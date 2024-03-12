@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checyr.loclBGR" format="2">
+  <advance width="1232"/>
+  <anchor x="820" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="834" y="710" type="line"/>
+      <point x="834" y="578"/>
+      <point x="710" y="506"/>
+      <point x="554" y="506" type="curve" smooth="yes"/>
+      <point x="400" y="506"/>
+      <point x="304" y="572"/>
+      <point x="304" y="716" type="curve" smooth="yes"/>
+      <point x="304" y="1064" type="line"/>
+      <point x="84" y="1064" type="line"/>
+      <point x="84" y="708" type="line" smooth="yes"/>
+      <point x="84" y="448"/>
+      <point x="240" y="330"/>
+      <point x="492" y="330" type="curve" smooth="yes"/>
+      <point x="674" y="330"/>
+      <point x="798" y="394"/>
+      <point x="840" y="498" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1054" y="0" type="line"/>
+      <point x="1054" y="1064" type="line"/>
+      <point x="834" y="1064" type="line"/>
+      <point x="834" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

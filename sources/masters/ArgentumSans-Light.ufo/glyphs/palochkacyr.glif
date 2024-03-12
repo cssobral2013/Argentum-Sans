@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palochkacyr" format="2">
+  <advance width="518"/>
+  <unicode hex="04CF"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="700" name="center"/>
+  <anchor x="508" y="700" name="dot"/>
+  <anchor x="256" y="1484" name="top"/>
+  <anchor x="476" y="1484" name="topright"/>
+  <outline>
+    <component base="l"/>
+  </outline>
+</glyph>

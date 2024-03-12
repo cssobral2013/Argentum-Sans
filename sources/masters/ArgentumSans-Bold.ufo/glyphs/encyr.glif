@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="encyr" format="2">
+  <advance width="1420"/>
+  <unicode hex="043D"/>
+  <anchor x="710" y="0" name="bottom"/>
+  <anchor x="864" y="0" name="bottomleft"/>
+  <anchor x="710" y="916" name="center"/>
+  <anchor x="710" y="1094" name="top"/>
+  <outline>
+    <contour>
+      <point x="556" y="0" type="line"/>
+      <point x="556" y="356" type="line"/>
+      <point x="864" y="356" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1314" y="1094" type="line"/>
+      <point x="864" y="1094" type="line"/>
+      <point x="864" y="710" type="line"/>
+      <point x="556" y="710" type="line"/>
+      <point x="556" y="1094" type="line"/>
+      <point x="106" y="1094" type="line"/>
+      <point x="106" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

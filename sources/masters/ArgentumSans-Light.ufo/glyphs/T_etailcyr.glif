@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetailcyr" format="2">
+  <advance width="1112"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <component base="Tecyr"/>
+    <contour>
+      <point x="810" y="-330" type="line"/>
+      <point x="810" y="38" type="line"/>
+      <point x="536" y="38" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="770" y="18" type="line"/>
+      <point x="770" y="-330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

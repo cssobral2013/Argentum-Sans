@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emcyr" format="2">
+  <advance width="1604"/>
+  <unicode hex="043C"/>
+  <anchor x="802" y="0" name="bottom"/>
+  <anchor x="1226" y="0" name="bottomleft"/>
+  <anchor x="802" y="1064" name="top"/>
+  <outline>
+    <contour>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="824" type="line"/>
+      <point x="336" y="814" type="line"/>
+      <point x="752" y="116" type="line"/>
+      <point x="848" y="116" type="line"/>
+      <point x="1262" y="798" type="line"/>
+      <point x="1226" y="820" type="line"/>
+      <point x="1226" y="0" type="line"/>
+      <point x="1426" y="0" type="line"/>
+      <point x="1424" y="1064" type="line"/>
+      <point x="1218" y="1064" type="line"/>
+      <point x="758" y="294" type="line"/>
+      <point x="850" y="294" type="line"/>
+      <point x="406" y="1064" type="line"/>
+      <point x="178" y="1064" type="line"/>
+      <point x="178" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Em-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

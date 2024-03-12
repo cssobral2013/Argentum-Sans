@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC6" format="2">
+  <advance width="1290"/>
+  <unicode hex="1EC6"/>
+  <anchor x="1056" y="0" name="ogonek"/>
+  <anchor x="216" y="1400" name="topleft"/>
+  <anchor x="790" y="-264" name="bottom"/>
+  <anchor x="1065" y="1760" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb.case" xOffset="592"/>
+    <component base="uni0302.case" xOffset="341" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+dotbelowcomb.case+uni0302.case</string>
+  </dict>
+  </lib>
+</glyph>

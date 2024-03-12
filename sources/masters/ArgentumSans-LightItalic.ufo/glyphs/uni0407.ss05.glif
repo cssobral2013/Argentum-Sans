@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0407.ss05" format="2">
+  <advance width="844"/>
+  <anchor x="-152" y="0" name="bottom"/>
+  <anchor x="-132" y="0" name="ogonek"/>
+  <anchor x="271" y="1598" name="top"/>
+  <anchor x="-76" y="1398" name="topleft"/>
+  <outline>
+    <component base="Idieresis.ss05"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0407</string>
+  </dict>
+  </lib>
+</glyph>

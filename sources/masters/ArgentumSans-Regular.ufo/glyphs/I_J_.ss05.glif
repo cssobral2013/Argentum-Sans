@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ.ss05" format="2">
+  <advance width="1905"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="420" y="0" name="ogonek"/>
+  <anchor x="1320" y="1400" name="top"/>
+  <anchor x="36" y="1400" name="topleft"/>
+  <outline>
+    <component base="I.ss05"/>
+    <component base="J" xOffset="907"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>IJ</string>
+  </dict>
+  </lib>
+</glyph>

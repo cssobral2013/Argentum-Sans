@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="304"/>
+  <unicode hex="0323"/>
+  <anchor x="152" y="0" name="_bottom"/>
+  <anchor x="152" y="-366" name="bottom"/>
+  <anchor x="152" y="1034" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="-1544"/>
+  </outline>
+</glyph>

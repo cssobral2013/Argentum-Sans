@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotbelowdotabove" format="2">
+  <advance width="1188"/>
+  <unicode hex="1E68"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotbelowcomb.case" xScale="1.0014" yScale="1.0014" xOffset="442"/>
+    <component base="dotaccentcomb.case" xScale="1.0014" yScale="1.0014" xOffset="338"/>
+  </outline>
+</glyph>

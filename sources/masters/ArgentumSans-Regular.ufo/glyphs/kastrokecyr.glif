@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kastrokecyr" format="2">
+  <advance width="1212"/>
+  <unicode hex="049F"/>
+  <anchor x="646" y="0" name="bottom"/>
+  <anchor x="646" y="1064" name="top"/>
+  <outline>
+    <contour>
+      <point x="698" y="1194" type="line"/>
+      <point x="698" y="1348" type="line"/>
+      <point x="-2" y="1352" type="line"/>
+      <point x="-2" y="1194" type="line"/>
+    </contour>
+    <contour>
+      <point x="1202" y="0" type="line"/>
+      <point x="724" y="626" type="line"/>
+      <point x="544" y="514" type="line"/>
+      <point x="942" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="1484" type="line"/>
+      <point x="178" y="1484" type="line"/>
+      <point x="178" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="686" y="438" type="line"/>
+      <point x="686" y="624" type="line"/>
+      <point x="332" y="624" type="line"/>
+      <point x="332" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="1176" y="1064" type="line"/>
+      <point x="940" y="1064" type="line"/>
+      <point x="538" y="532" type="line"/>
+      <point x="744" y="506" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Kastroke-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.case.loclVIET" format="2">
+  <advance width="698"/>
+  <anchor x="350" y="1398" name="_top"/>
+  <anchor x="350" y="1542" name="top"/>
+  <outline>
+    <component base="tildecomb.loclVIET" yOffset="304"/>
+  </outline>
+</glyph>

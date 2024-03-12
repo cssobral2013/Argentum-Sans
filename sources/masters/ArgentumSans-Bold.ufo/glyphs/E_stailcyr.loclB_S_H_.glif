@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estailcyr.loclBSH" format="2">
+  <advance width="1474"/>
+  <outline>
+    <contour>
+      <point x="1370" y="1170" type="line"/>
+      <point x="1226" y="1328"/>
+      <point x="992" y="1430"/>
+      <point x="779" y="1430" type="curve" smooth="yes"/>
+      <point x="339" y="1430"/>
+      <point x="20" y="1124"/>
+      <point x="20" y="705" type="curve" smooth="yes"/>
+      <point x="20" y="280"/>
+      <point x="331" y="-32"/>
+      <point x="761" y="-32" type="curve" smooth="yes"/>
+      <point x="977" y="-32"/>
+      <point x="1214" y="80"/>
+      <point x="1370" y="252" type="curve"/>
+      <point x="1102" y="537" type="line"/>
+      <point x="1010" y="437"/>
+      <point x="885" y="373"/>
+      <point x="785" y="373" type="curve" smooth="yes"/>
+      <point x="617" y="373"/>
+      <point x="495" y="515"/>
+      <point x="495" y="711" type="curve" smooth="yes"/>
+      <point x="495" y="905"/>
+      <point x="617" y="1044"/>
+      <point x="785" y="1044" type="curve" smooth="yes"/>
+      <point x="893" y="1044"/>
+      <point x="1018" y="969"/>
+      <point x="1102" y="853" type="curve"/>
+    </contour>
+    <contour>
+      <point x="560" y="80" type="line"/>
+      <point x="560" y="-274" type="line"/>
+      <point x="992" y="-274" type="line"/>
+      <point x="992" y="80" type="line"/>
+    </contour>
+  </outline>
+</glyph>

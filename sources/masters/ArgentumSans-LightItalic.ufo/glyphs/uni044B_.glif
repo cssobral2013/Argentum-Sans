@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044B" format="2">
+  <advance width="1480"/>
+  <unicode hex="044B"/>
+  <anchor x="845" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="1143" y="0" type="line"/>
+      <point x="1351" y="1034" type="line"/>
+      <point x="1311" y="1034" type="line"/>
+      <point x="1103" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="644" type="line"/>
+      <point x="377" y="1034" type="line"/>
+      <point x="337" y="1034" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="499" y="0" type="line" smooth="yes"/>
+      <point x="779" y="0"/>
+      <point x="961" y="150"/>
+      <point x="961" y="378" type="curve" smooth="yes"/>
+      <point x="961" y="556"/>
+      <point x="849" y="644"/>
+      <point x="621" y="644" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="177" y="36" type="line"/>
+      <point x="291" y="608" type="line"/>
+      <point x="611" y="608" type="line" smooth="yes"/>
+      <point x="823" y="608"/>
+      <point x="923" y="534"/>
+      <point x="923" y="378" type="curve" smooth="yes"/>
+      <point x="923" y="172"/>
+      <point x="753" y="36"/>
+      <point x="499" y="36" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

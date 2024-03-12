@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emcyr" format="2">
+  <advance width="1550"/>
+  <unicode hex="043C"/>
+  <anchor x="776" y="0" name="bottom"/>
+  <anchor x="1278" y="0" name="bottomleft"/>
+  <anchor x="776" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="976" type="line"/>
+      <point x="258" y="976" type="line"/>
+      <point x="764" y="144" type="line"/>
+      <point x="786" y="144" type="line"/>
+      <point x="1290" y="976" type="line"/>
+      <point x="1278" y="976" type="line"/>
+      <point x="1278" y="0" type="line"/>
+      <point x="1316" y="0" type="line"/>
+      <point x="1316" y="1034" type="line"/>
+      <point x="1282" y="1034" type="line"/>
+      <point x="768" y="180" type="line"/>
+      <point x="786" y="180" type="line"/>
+      <point x="268" y="1034" type="line"/>
+      <point x="234" y="1034" type="line"/>
+      <point x="234" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

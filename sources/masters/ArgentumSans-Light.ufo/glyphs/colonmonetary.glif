@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonmonetary" format="2">
+  <advance width="1410"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="694" y="1374" type="line"/>
+      <point x="734" y="1374" type="line"/>
+      <point x="774" y="1608" type="line"/>
+      <point x="734" y="1608" type="line"/>
+    </contour>
+    <contour>
+      <point x="914" y="1374" type="line"/>
+      <point x="954" y="1374" type="line"/>
+      <point x="994" y="1608" type="line"/>
+      <point x="954" y="1608" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="-238" type="line"/>
+      <point x="694" y="-238" type="line"/>
+      <point x="734" y="22" type="line"/>
+      <point x="694" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="874" y="-238" type="line"/>
+      <point x="914" y="-238" type="line"/>
+      <point x="954" y="22" type="line"/>
+      <point x="914" y="22" type="line"/>
+    </contour>
+  </outline>
+</glyph>

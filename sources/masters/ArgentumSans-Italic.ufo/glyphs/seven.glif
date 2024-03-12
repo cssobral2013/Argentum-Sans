@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+  <advance width="1268"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="156" y="1002" type="line"/>
+      <point x="366" y="1002" type="line"/>
+      <point x="430" y="1302" type="line"/>
+      <point x="304" y="1200" type="line"/>
+      <point x="1104" y="1200" type="line"/>
+      <point x="1062" y="1292" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="1268" y="1230" type="line"/>
+      <point x="1300" y="1400" type="line"/>
+      <point x="234" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>monoWidth</key>
+    <integer>617</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

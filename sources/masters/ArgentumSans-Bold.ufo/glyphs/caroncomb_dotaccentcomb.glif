@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb_dotaccentcomb" format="2">
+  <advance width="934"/>
+  <anchor x="488" y="1094" name="_top"/>
+  <anchor x="488" y="1912" name="top"/>
+  <outline>
+    <component base="caroncomb.loclVIET"/>
+    <component base="dotaccentcomb.loclVIET" xOffset="76" yOffset="388"/>
+  </outline>
+</glyph>

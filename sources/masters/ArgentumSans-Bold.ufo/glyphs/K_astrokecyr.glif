@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kastrokecyr" format="2">
+  <advance width="1578"/>
+  <unicode hex="049E"/>
+  <outline>
+    <component base="Kacyr"/>
+    <contour>
+      <point x="836" y="1084" type="line"/>
+      <point x="836" y="1284" type="line"/>
+      <point x="22" y="1284" type="line"/>
+      <point x="22" y="1084" type="line"/>
+    </contour>
+  </outline>
+</glyph>

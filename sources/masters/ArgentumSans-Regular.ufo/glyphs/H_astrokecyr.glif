@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hastrokecyr" format="2">
+  <advance width="1386"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="1192" y="626" type="line"/>
+      <point x="1192" y="796" type="line"/>
+      <point x="182" y="796" type="line"/>
+      <point x="182" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="718" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="690" y="532" type="line"/>
+      <point x="1074" y="0" type="line"/>
+      <point x="1346" y="0" type="line"/>
+      <point x="834" y="728" type="line"/>
+      <point x="1306" y="1400" type="line"/>
+      <point x="1040" y="1400" type="line"/>
+      <point x="690" y="912" type="line"/>
+      <point x="342" y="1400" type="line"/>
+      <point x="78" y="1400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

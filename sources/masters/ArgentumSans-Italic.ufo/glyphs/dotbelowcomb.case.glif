@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb.case" format="2">
+  <advance width="468"/>
+  <anchor x="144" y="0" name="_bottom"/>
+  <anchor x="118" y="-388" name="bottom"/>
+  <anchor x="426" y="1400" name="top"/>
+  <outline>
+    <component base="uni0307" xOffset="-328" yOffset="-1644"/>
+  </outline>
+</glyph>

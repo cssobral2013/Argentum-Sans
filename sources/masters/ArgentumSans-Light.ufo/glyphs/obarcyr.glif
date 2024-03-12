@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarcyr" format="2">
+  <advance width="1276"/>
+  <unicode hex="04E9"/>
+  <anchor x="638" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="638" y="-6" type="curve" smooth="yes"/>
+      <point x="932" y="-6"/>
+      <point x="1152" y="212"/>
+      <point x="1152" y="518" type="curve" smooth="yes"/>
+      <point x="1152" y="824"/>
+      <point x="932" y="1040"/>
+      <point x="638" y="1040" type="curve" smooth="yes"/>
+      <point x="342" y="1040"/>
+      <point x="122" y="824"/>
+      <point x="122" y="518" type="curve" smooth="yes"/>
+      <point x="122" y="212"/>
+      <point x="342" y="-6"/>
+    </contour>
+    <contour>
+      <point x="638" y="32" type="curve" smooth="yes"/>
+      <point x="366" y="32"/>
+      <point x="162" y="232"/>
+      <point x="162" y="518" type="curve" smooth="yes"/>
+      <point x="162" y="804"/>
+      <point x="366" y="1002"/>
+      <point x="638" y="1002" type="curve" smooth="yes"/>
+      <point x="908" y="1002"/>
+      <point x="1112" y="804"/>
+      <point x="1112" y="518" type="curve" smooth="yes"/>
+      <point x="1112" y="232"/>
+      <point x="908" y="32"/>
+    </contour>
+    <contour>
+      <point x="1138" y="500" type="line"/>
+      <point x="1138" y="538" type="line"/>
+      <point x="138" y="538" type="line"/>
+      <point x="138" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

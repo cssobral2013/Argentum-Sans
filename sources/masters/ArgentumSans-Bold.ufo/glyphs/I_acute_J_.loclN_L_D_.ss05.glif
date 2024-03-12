@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD.ss05" format="2">
+  <advance width="2140"/>
+  <anchor x="1246" y="1400" name="top"/>
+  <outline>
+    <component base="Iacute.ss05"/>
+    <component base="Jacute" xOffset="1010"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iacute_J.loclNLD.ss05</string>
+  </dict>
+  </lib>
+</glyph>

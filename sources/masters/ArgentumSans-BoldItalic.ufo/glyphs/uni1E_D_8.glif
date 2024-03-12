@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED8" format="2">
+  <advance width="1598"/>
+  <unicode hex="1ED8"/>
+  <anchor x="831" y="702" name="center"/>
+  <anchor x="1255" y="0" name="ogonek"/>
+  <anchor x="209" y="1400" name="topleft"/>
+  <anchor x="1233" y="1400" name="topright"/>
+  <anchor x="659" y="-566" name="bottom"/>
+  <anchor x="1035" y="1820" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb.case" xOffset="541"/>
+    <component base="uni0302.case" xOffset="305" yOffset="-2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+dotbelowcomb.case+uni0302.case</string>
+  </dict>
+  </lib>
+</glyph>

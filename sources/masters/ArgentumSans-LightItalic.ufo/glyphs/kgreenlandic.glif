@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1070"/>
+  <unicode hex="0138"/>
+  <anchor x="523" y="0" name="bottom"/>
+  <anchor x="369" y="20" name="ogonek"/>
+  <anchor x="231" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="1034" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="365" y="1034" type="line"/>
+    </contour>
+    <contour>
+      <point x="1023" y="1034" type="line"/>
+      <point x="217" y="356" type="line"/>
+      <point x="203" y="294" type="line"/>
+      <point x="1079" y="1034" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="628" type="line"/>
+      <point x="885" y="0" type="line"/>
+      <point x="933" y="0" type="line"/>
+      <point x="595" y="652" type="line"/>
+    </contour>
+  </outline>
+</glyph>

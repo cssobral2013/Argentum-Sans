@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ensharptailcyr" format="2">
+  <advance width="1700"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <component base="Encyr"/>
+    <contour>
+      <point x="1492" y="-302" type="line"/>
+      <point x="1638" y="198" type="line"/>
+      <point x="1210" y="198" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1480" y="0" type="line"/>
+      <point x="1394" y="58" type="line"/>
+      <point x="1310" y="-302" type="line"/>
+    </contour>
+  </outline>
+</glyph>

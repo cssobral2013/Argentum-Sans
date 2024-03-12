@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gmacron.ss04" format="2">
+  <advance width="1520"/>
+  <anchor x="760" y="0" name="bottom"/>
+  <anchor x="760" y="1604" name="top"/>
+  <outline>
+    <component base="G.ss04"/>
+    <component base="macroncomb" xOffset="502" yOffset="364"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Gmacron</string>
+  </dict>
+  </lib>
+</glyph>

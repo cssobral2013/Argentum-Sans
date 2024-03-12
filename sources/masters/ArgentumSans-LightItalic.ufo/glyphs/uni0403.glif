@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0403" format="2">
+  <advance width="1122"/>
+  <unicode hex="0403"/>
+  <anchor x="170" y="0" name="bottomleft"/>
+  <anchor x="810" y="0" name="bottomright"/>
+  <anchor x="968" y="1760" name="top"/>
+  <outline>
+    <component base="uni0413"/>
+    <component base="acutecomb.case" xOffset="510" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0413+acutecomb.case</string>
+  </dict>
+  </lib>
+</glyph>

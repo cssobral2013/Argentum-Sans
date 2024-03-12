@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tecyr" format="2">
+  <advance width="1348"/>
+  <unicode hex="0422"/>
+  <anchor x="682" y="0" name="bottom"/>
+  <anchor x="442" y="0" name="bottomleft"/>
+  <anchor x="682" y="630" name="center"/>
+  <anchor x="682" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="906" y="0" type="line"/>
+      <point x="906" y="1136" type="line"/>
+      <point x="804" y="1034" type="line"/>
+      <point x="1316" y="1034" type="line"/>
+      <point x="1316" y="1400" type="line"/>
+      <point x="32" y="1400" type="line"/>
+      <point x="32" y="1034" type="line"/>
+      <point x="544" y="1034" type="line"/>
+      <point x="442" y="1136" type="line"/>
+      <point x="442" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

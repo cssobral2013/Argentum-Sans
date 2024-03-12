@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AB" format="2">
+  <advance width="1150"/>
+  <unicode hex="04AB"/>
+  <outline>
+    <component base="uni0441"/>
+    <contour>
+      <point x="455" y="46" type="line"/>
+      <point x="403" y="-222" type="line"/>
+      <point x="611" y="-222" type="line"/>
+      <point x="663" y="46" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>Esdescender-cy</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

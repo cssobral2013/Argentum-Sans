@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case.loclVIET" format="2">
+  <advance width="604"/>
+  <anchor x="302" y="1398" name="_top"/>
+  <anchor x="302" y="1512" name="top"/>
+  <outline>
+    <component base="dieresiscomb.loclVIET" yOffset="304"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045D.loclBGR" format="2">
+  <advance width="1344"/>
+  <anchor x="848" y="0" name="bottomleft"/>
+  <anchor x="1158" y="0" name="bottomright"/>
+  <anchor x="1064" y="1420" name="top"/>
+  <outline>
+    <component base="uni0438.loclBGR"/>
+    <component base="gravecomb" xOffset="-41"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0438.loclBGR+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_acutecomb" format="2">
+  <advance width="772"/>
+  <anchor x="474" y="1062" name="_top"/>
+  <anchor x="604" y="1734" name="top"/>
+  <outline>
+    <component base="uni0306.loclVIET" xOffset="-19"/>
+    <component base="acutecomb.loclVIET" xOffset="210" yOffset="268"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E50" format="2">
+  <advance width="1638"/>
+  <unicode hex="1E50"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0304_gravecomb.case" xScale="1.0016" yScale="1.0016" xOffset="413"/>
+  </outline>
+</glyph>

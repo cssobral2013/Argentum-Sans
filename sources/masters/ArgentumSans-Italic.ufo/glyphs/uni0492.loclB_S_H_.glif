@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0492.loclBSH" format="2">
+  <advance width="1190"/>
+  <outline>
+    <component base="uni0413"/>
+    <contour>
+      <point x="1006" y="560" type="line"/>
+      <point x="1038" y="730" type="line"/>
+      <point x="346" y="730" type="line"/>
+      <point x="314" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

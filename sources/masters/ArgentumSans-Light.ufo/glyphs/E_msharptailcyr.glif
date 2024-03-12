@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emsharptailcyr" format="2">
+  <advance width="1956"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <component base="Emcyr"/>
+    <contour>
+      <point x="1730" y="-330" type="line"/>
+      <point x="1850" y="38" type="line"/>
+      <point x="1614" y="38" type="line"/>
+      <point x="1614" y="0" type="line"/>
+      <point x="1828" y="0" type="line"/>
+      <point x="1800" y="18" type="line"/>
+      <point x="1694" y="-330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

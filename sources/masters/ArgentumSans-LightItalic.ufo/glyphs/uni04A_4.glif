@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A4" format="2">
+  <advance width="2182"/>
+  <unicode hex="04A4"/>
+  <anchor x="1119" y="0" name="bottomleft"/>
+  <anchor x="1759" y="0" name="bottomright"/>
+  <anchor x="1801" y="1400" name="top"/>
+  <anchor x="695" y="0" name="bottom"/>
+  <anchor x="835" y="702" name="center"/>
+  <anchor x="213" y="1400" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1079" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1391" y="1362" type="line"/>
+      <point x="2183" y="1362" type="line"/>
+      <point x="2191" y="1400" type="line"/>
+      <point x="1359" y="1400" type="line"/>
+      <point x="1225" y="728" type="line"/>
+      <point x="217" y="728" type="line"/>
+      <point x="351" y="1400" type="line"/>
+      <point x="311" y="1400" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="209" y="688" type="line"/>
+      <point x="1217" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni041D_uni0413</string>
+  </dict>
+  </lib>
+</glyph>

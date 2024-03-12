@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmodcomb" format="2">
+  <advance width="80"/>
+  <outline>
+    <component base="uni02CC" xOffset="243"/>
+  </outline>
+</glyph>

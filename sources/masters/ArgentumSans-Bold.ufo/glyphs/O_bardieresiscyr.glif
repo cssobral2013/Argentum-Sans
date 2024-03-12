@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obardieresiscyr" format="2">
+  <advance width="1672"/>
+  <unicode hex="04EA"/>
+  <outline>
+    <component base="Obarcyr"/>
+    <component base="dieresiscomb.case" xOffset="372" yOffset="-2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetsecyr" format="2">
+  <advance width="1660"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="1502" y="0" type="line"/>
+      <point x="1502" y="1094" type="line"/>
+      <point x="1052" y="1094" type="line"/>
+      <point x="1052" y="354" type="line"/>
+      <point x="808" y="354" type="line"/>
+      <point x="808" y="1094" type="line"/>
+      <point x="358" y="1094" type="line"/>
+      <point x="358" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1636" y="-202" type="line"/>
+      <point x="1636" y="354" type="line"/>
+      <point x="1054" y="354" type="line"/>
+      <point x="1054" y="0" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1218" y="96" type="line"/>
+      <point x="1218" y="-202" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="1094" type="line"/>
+      <point x="24" y="742" type="line"/>
+      <point x="966" y="742" type="line"/>
+      <point x="966" y="1094" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

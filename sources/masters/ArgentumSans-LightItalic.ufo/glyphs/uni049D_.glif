@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049D" format="2">
+  <advance width="1126"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="641" y="508" type="line"/>
+      <point x="649" y="544" type="line"/>
+      <point x="275" y="544" type="line"/>
+      <point x="267" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="959" y="0" type="line"/>
+      <point x="639" y="542" type="line"/>
+      <point x="605" y="526" type="line"/>
+      <point x="915" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="387" y="1034" type="line"/>
+      <point x="347" y="1034" type="line"/>
+      <point x="139" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="264" type="line"/>
+      <point x="555" y="796" type="line"/>
+      <point x="523" y="796" type="line"/>
+      <point x="415" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="1137" y="1034" type="line"/>
+      <point x="1085" y="1034" type="line"/>
+      <point x="599" y="526" type="line"/>
+      <point x="639" y="514" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
