@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ereverseddieresiscyr" format="2">
-  <advance width="1408"/>
-  <unicode hex="04EC"/>
-  <outline>
-    <component base="Ereversedcyr"/>
-    <component base="dieresiscomb.case" xOffset="216" yOffset="2"/>
-  </outline>
-</glyph>

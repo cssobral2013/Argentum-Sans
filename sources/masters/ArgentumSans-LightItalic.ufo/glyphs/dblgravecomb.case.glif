@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb.case" format="2">
-  <advance width="680"/>
-  <anchor x="642" y="1398" name="_top"/>
-  <anchor x="722" y="1758" name="top"/>
-  <outline>
-    <component base="dblgravecomb" xOffset="68" yOffset="294"/>
-  </outline>
-</glyph>

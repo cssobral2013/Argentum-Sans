@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guillemotleft.sc" format="2">
-  <advance width="1088"/>
-  <outline>
-    <component base="guilsinglleft.sc" xOffset="52"/>
-    <component base="guilsinglleft.sc" xOffset="530"/>
-  </outline>
-</glyph>

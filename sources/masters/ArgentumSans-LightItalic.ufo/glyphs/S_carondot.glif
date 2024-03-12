@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scarondot" format="2">
-  <advance width="1188"/>
-  <unicode hex="1E66"/>
-  <outline>
-    <component base="S"/>
-    <component base="caroncomb_dotaccentcomb.case" xScale="1.0016" yScale="1.0016" xOffset="-168" yOffset="-10"/>
-  </outline>
-</glyph>

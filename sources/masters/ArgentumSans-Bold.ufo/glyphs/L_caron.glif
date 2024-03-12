@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lcaron" format="2">
-  <advance width="1166"/>
-  <unicode hex="013D"/>
-  <outline>
-    <component base="L"/>
-    <component base="caroncomb.alt" xScale="0.9985" yScale="0.9985" xOffset="830" yOffset="2"/>
-  </outline>
-</glyph>

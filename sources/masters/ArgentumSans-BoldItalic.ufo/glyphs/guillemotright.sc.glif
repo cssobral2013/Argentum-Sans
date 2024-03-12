@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guillemotright.sc" format="2">
-  <advance width="1088"/>
-  <outline>
-    <component base="guilsinglright.sc" xOffset="20"/>
-    <component base="guilsinglright.sc" xOffset="498"/>
-  </outline>
-</glyph>

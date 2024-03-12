@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildecomb_dieresiscomb.case" format="2">
-  <advance width="944"/>
-  <anchor x="444" y="1402" name="_top"/>
-  <anchor x="444" y="2250" name="top"/>
-  <outline>
-    <component base="tildecomb_dieresiscomb" xOffset="-24" yOffset="302"/>
-  </outline>
-</glyph>

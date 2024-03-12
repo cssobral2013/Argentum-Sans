@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ocircumflextilde" format="2">
-  <advance width="1598"/>
-  <unicode hex="1ED6"/>
-  <outline>
-    <component base="O"/>
-    <component base="circumflexcomb_tildecomb.case" xScale="0.9984" yScale="0.9984" xOffset="252"/>
-  </outline>
-</glyph>

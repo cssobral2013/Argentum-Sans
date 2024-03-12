@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="icyr.loclBGR" format="2">
-  <advance width="1312"/>
-  <anchor x="934" y="0" name="bottomleft"/>
-  <anchor x="1076" y="0" name="bottomright"/>
-  <outline>
-    <component base="u" xOffset="11"/>
-  </outline>
-</glyph>

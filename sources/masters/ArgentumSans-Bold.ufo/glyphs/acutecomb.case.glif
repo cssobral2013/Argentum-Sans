@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutecomb.case" format="2">
-  <advance width="624"/>
-  <anchor x="222" y="1402" name="_top"/>
-  <anchor x="302" y="1822" name="top"/>
-  <outline>
-    <component base="acutecomb" xOffset="-262" yOffset="308"/>
-  </outline>
-</glyph>

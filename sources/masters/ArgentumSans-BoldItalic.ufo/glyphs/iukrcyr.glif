@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iukrcyr" format="2">
-  <advance width="664"/>
-  <unicode hex="0456"/>
-  <anchor x="584" y="1634" name="top"/>
-  <outline>
-    <component base="i" xOffset="33"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="verticallinelowmodcomb" format="2">
-  <advance width="376"/>
-  <anchor x="188" y="0" name="_bottom"/>
-  <outline>
-    <component base="verticallinelowmod"/>
-  </outline>
-  <guideline angle="90" x="188" y="0"/>
-</glyph>
