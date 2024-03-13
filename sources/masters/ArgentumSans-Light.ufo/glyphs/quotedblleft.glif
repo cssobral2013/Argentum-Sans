@@ -6,4 +6,10 @@
     <component base="quoteleft"/>
     <component base="quoteleft" xOffset="180"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
 </glyph>

@@ -4,6 +4,14 @@
   <unicode hex="003A"/>
   <outline>
     <component base="period"/>
-    <component base="period"/>
+    <component base="period" xOffset="144" yOffset="720"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=59</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=540</string>
+  </dict>
+  </lib>
 </glyph>

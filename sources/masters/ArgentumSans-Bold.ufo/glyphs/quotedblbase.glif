@@ -6,4 +6,10 @@
     <component base="quotesinglbase"/>
     <component base="quotesinglbase" xOffset="436"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.784,0.784,0.784,0</string>
+  </dict>
+  </lib>
 </glyph>
