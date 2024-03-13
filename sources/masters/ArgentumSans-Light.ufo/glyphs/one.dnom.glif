@@ -5,11 +5,11 @@
     <contour>
       <point x="297.836" y="0.00110513" type="line"/>
       <point x="341.812" y="0.00110513" type="line"/>
-      <point x="341.812" y="814.1" type="line"/>
-      <point x="301.834" y="814.1" type="line"/>
-      <point x="57.9691" y="659.272" type="line"/>
-      <point x="79.9569" y="623.312" type="line"/>
-      <point x="297.836" y="759.161" type="line"/>
+      <point x="341.812" y="842.069" type="line"/>
+      <point x="301.834" y="842.069" type="line"/>
+      <point x="57.9691" y="687.241" type="line"/>
+      <point x="79.9569" y="651.281" type="line"/>
+      <point x="297.836" y="787.13" type="line"/>
     </contour>
   </outline>
 </glyph>
