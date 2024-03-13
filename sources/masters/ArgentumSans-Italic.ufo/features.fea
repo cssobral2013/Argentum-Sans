@@ -1501,3 +1501,10 @@ feature calt {
 sub @calt colon' @calt by uniEE01;
 #< feature
 } calt;
+feature ss06 {
+# Stylistic Set 01–20
+
+#> feature
+  sub ampersand by ampersand.ss06;
+#< feature
+} ss06;

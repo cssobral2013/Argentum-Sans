@@ -1555,7 +1555,7 @@
   </array>
   <key>public.kern1.L_ampersand</key>
   <array>
-    <string>ampersand</string>
+    <string>ampersand.ss06</string>
   </array>
   <key>public.kern1.L_apostrophemod</key>
   <array>
@@ -3323,7 +3323,7 @@
   </array>
   <key>public.kern2.R_ampersand</key>
   <array>
-    <string>ampersand</string>
+    <string>ampersand.ss06</string>
   </array>
   <key>public.kern2.R_apostrophemod</key>
   <array>

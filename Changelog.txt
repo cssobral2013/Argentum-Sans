@@ -160,3 +160,8 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  - Flattened height of old-style figures
  - Equalized sidebearings of tabular old-style figures
  - Imported '1' from Jones font
+
+ Changelog of Argentum Sans, v3.126 (in no particular order):
+ - New iota-grek
+ - New ampersand from https://github.com/TaniaChacana/Montserrat-Customization
+   As a result, old ampersand become ss06

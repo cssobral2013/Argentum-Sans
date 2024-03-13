@@ -6,7 +6,7 @@
   <anchor x="544" y="0" name="m.uni0328_4"/>
   <anchor x="546" y="1586" name="m.uni0308"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="iota"/>
     <contour>
       <point x="600" y="1242" type="qcurve" smooth="yes"/>
       <point x="554" y="1242"/>

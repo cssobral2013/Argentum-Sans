@@ -414,6 +414,8 @@
   <string>amacron.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
+  <key>ampersand.ss06</key>
+  <string>ampersand.ss06.glif</string>
   <key>aogonek</key>
   <string>aogonek.glif</string>
   <key>approxequal</key>
