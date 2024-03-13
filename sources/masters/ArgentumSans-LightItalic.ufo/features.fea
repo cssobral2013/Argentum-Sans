@@ -112,7 +112,6 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -223,7 +222,6 @@ feature aalt useExtension {
   sub tecyr from [tecyr.loclBGR tecyr.loclSRB];
   sub Estailcyr from [Estailcyr.loclCHU Estailcyr.loclBSH];
 } aalt;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 5
@@ -393,7 +391,6 @@ feature ccmp {
     language CHU ; # Chuvash
 
 } ccmp;
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 14
@@ -485,7 +482,6 @@ feature locl {
 
 
 } locl;
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -502,7 +498,6 @@ feature subs {
   sub nine by nine.inferior;
 
 } subs;
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -519,7 +514,6 @@ feature sinf {
   sub nine by nine.sinf;
 
 } sinf;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -536,7 +530,6 @@ feature sups {
   sub nine by nine.superior;
 
 } sups;
-
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -553,7 +546,6 @@ feature numr {
   sub nine by nine.numr;
 
 } numr;
-
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -570,7 +562,6 @@ feature dnom {
   sub nine by nine.dnom;
 
 } dnom;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 2
@@ -590,7 +581,6 @@ feature frac {
   sub @frac2 @frac' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 } frac;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -600,7 +590,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -617,7 +606,6 @@ feature onum {
   sub nine by nine.tosf;
 
 } onum;
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -645,7 +633,6 @@ feature case {
   sub arrowdown by arrowdown.case;
 
 } case;
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -653,7 +640,6 @@ feature dlig {
   sub T h by T_h;
 
 } dlig;
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 3
@@ -672,7 +658,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -702,7 +687,6 @@ feature ss01 {
   sub igravecyr by igravecyr.loclBGR;
 
 } ss01;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -714,7 +698,6 @@ feature ss02 {
   sub tecyr by tecyr.loclSRB;
 
 } ss02;
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -723,7 +706,6 @@ feature ss03 {
   sub questiondown by questiondown.ss03;
 
 } ss03;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -740,7 +722,6 @@ feature pnum {
   sub nine.tosf by nine.osf;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -767,7 +748,6 @@ feature tnum {
   sub nine.osf by nine.tosf;
 
 } tnum;
-
 feature lnum {
 # GSUB feature: Lining Figures
 # Lookups: 1
@@ -794,7 +774,6 @@ feature lnum {
   sub nine.tosf by nine;
 
 } lnum;
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -809,7 +788,6 @@ feature ss04 {
   sub guarani by guarani.ss04;
 
 } ss04;
-
 feature ss05 {
 # GSUB feature: Stylistic Set 5
 # Lookups: 1
@@ -838,7 +816,6 @@ feature ss05 {
   sub Idotbelow by Idotbelow.ss05;
 
 } ss05;
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -846,7 +823,6 @@ feature calt {
   sub @calt colon' @calt by uniEE01;
 
 } calt;
-
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -854,7 +830,6 @@ feature ss06 {
   sub ampersand by ampersand.ss06;
 
 } ss06;
-
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 1
@@ -1791,7 +1766,6 @@ feature mark {
 
 
 } mark;
-
 feature mkmk {
 # GPOS feature: Mark to Mark Positioning
 # Lookups: 1
@@ -1813,4 +1787,3 @@ feature mkmk {
 
 
 } mkmk;
-
