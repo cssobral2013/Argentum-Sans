@@ -125,7 +125,6 @@
     <string>section</string>
     <string>dieresis</string>
     <string>copyright</string>
-    <string>ordfeminine</string>
     <string>guillemotleft</string>
     <string>logicalnot</string>
     <string>softhyphen</string>
@@ -1348,6 +1347,7 @@
     <string>jacute</string>
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
+    <string>ordfeminine</string>
   </array>
 </dict>
 </plist>
