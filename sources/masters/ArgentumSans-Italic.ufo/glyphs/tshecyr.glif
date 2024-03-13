@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshecyr" format="2">
+  <advance width="1352"/>
+  <unicode hex="045B"/>
+  <anchor x="593" y="0" name="bottom"/>
+  <anchor x="541" y="1268" name="center"/>
+  <anchor x="485" y="1484" name="top"/>
+  <anchor x="645" y="1064" name="topright"/>
+  <outline>
+    <component base="h"/>
+    <contour>
+      <point x="997" y="1204" type="line"/>
+      <point x="1023" y="1332" type="line"/>
+      <point x="85" y="1332" type="line"/>
+      <point x="59" y="1204" type="line"/>
+    </contour>
+  </outline>
+</glyph>

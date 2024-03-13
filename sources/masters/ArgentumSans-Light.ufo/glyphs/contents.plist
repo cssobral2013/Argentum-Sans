@@ -378,8 +378,8 @@
   <string>I_gravecyr.glif</string>
   <key>Ihoi</key>
   <string>I_hoi.glif</string>
-  <key>Ihookabove.ss05</key>
-  <string>I_hookabove.ss05.glif</string>
+  <key>Ihoi.ss05</key>
+  <string>I_hoi.ss05.glif</string>
   <key>Iinvertedbreve</key>
   <string>I_invertedbreve.glif</string>
   <key>Iinvertedbreve.ss05</key>
@@ -1238,8 +1238,6 @@
   <string>degree.glif</string>
   <key>delta</key>
   <string>delta.glif</string>
-  <key>diamondblack-gmtr</key>
-  <string>diamondblack-gmtr.glif</string>
   <key>diamondwhite-gmtr</key>
   <string>diamondwhite-gmtr.glif</string>
   <key>dieresis</key>
@@ -1370,6 +1368,8 @@
   <string>eight.glif</string>
   <key>eight.dnom</key>
   <string>eight.dnom.glif</string>
+  <key>eight.inferior</key>
+  <string>eight.inferior.glif</string>
   <key>eight.lf</key>
   <string>eight.lf.glif</string>
   <key>eight.numr</key>
@@ -1380,6 +1380,8 @@
   <string>eight.sinf.glif</string>
   <key>eight.subs</key>
   <string>eight.subs.glif</string>
+  <key>eight.superior</key>
+  <string>eight.superior.glif</string>
   <key>eight.sups</key>
   <string>eight.sups.glif</string>
   <key>eight.tosf</key>
@@ -1474,6 +1476,10 @@
   <string>exclamdown.glif</string>
   <key>f</key>
   <string>f.glif</string>
+  <key>f.liga.1</key>
+  <string>f.liga.1.glif</string>
+  <key>f.liga.2</key>
+  <string>f.liga.2.glif</string>
   <key>fi</key>
   <string>fi.glif</string>
   <key>figuredash</key>
@@ -1488,6 +1494,8 @@
   <string>five.glif</string>
   <key>five.dnom</key>
   <string>five.dnom.glif</string>
+  <key>five.inferior</key>
+  <string>five.inferior.glif</string>
   <key>five.lf</key>
   <string>five.lf.glif</string>
   <key>five.numr</key>
@@ -1498,6 +1506,8 @@
   <string>five.sinf.glif</string>
   <key>five.subs</key>
   <string>five.subs.glif</string>
+  <key>five.superior</key>
+  <string>five.superior.glif</string>
   <key>five.sups</key>
   <string>five.sups.glif</string>
   <key>five.tosf</key>
@@ -1512,6 +1522,8 @@
   <string>four.glif</string>
   <key>four.dnom</key>
   <string>four.dnom.glif</string>
+  <key>four.inferior</key>
+  <string>four.inferior.glif</string>
   <key>four.lf</key>
   <string>four.lf.glif</string>
   <key>four.numr</key>
@@ -1522,6 +1534,8 @@
   <string>four.sinf.glif</string>
   <key>four.subs</key>
   <string>four.subs.glif</string>
+  <key>four.superior</key>
+  <string>four.superior.glif</string>
   <key>four.sups</key>
   <string>four.sups.glif</string>
   <key>four.tosf</key>
@@ -1902,6 +1916,8 @@
   <string>nine.glif</string>
   <key>nine.dnom</key>
   <string>nine.dnom.glif</string>
+  <key>nine.inferior</key>
+  <string>nine.inferior.glif</string>
   <key>nine.lf</key>
   <string>nine.lf.glif</string>
   <key>nine.numr</key>
@@ -1912,6 +1928,8 @@
   <string>nine.sinf.glif</string>
   <key>nine.subs</key>
   <string>nine.subs.glif</string>
+  <key>nine.superior</key>
+  <string>nine.superior.glif</string>
   <key>nine.sups</key>
   <string>nine.sups.glif</string>
   <key>nine.tosf</key>
@@ -2016,6 +2034,8 @@
   <string>one.glif</string>
   <key>one.dnom</key>
   <string>one.dnom.glif</string>
+  <key>one.inferior</key>
+  <string>one.inferior.glif</string>
   <key>one.lf</key>
   <string>one.lf.glif</string>
   <key>one.numr</key>
@@ -2226,6 +2246,8 @@
   <string>seven.glif</string>
   <key>seven.dnom</key>
   <string>seven.dnom.glif</string>
+  <key>seven.inferior</key>
+  <string>seven.inferior.glif</string>
   <key>seven.lf</key>
   <string>seven.lf.glif</string>
   <key>seven.numr</key>
@@ -2236,6 +2258,8 @@
   <string>seven.sinf.glif</string>
   <key>seven.subs</key>
   <string>seven.subs.glif</string>
+  <key>seven.superior</key>
+  <string>seven.superior.glif</string>
   <key>seven.sups</key>
   <string>seven.sups.glif</string>
   <key>seven.tosf</key>
@@ -2262,6 +2286,8 @@
   <string>six.glif</string>
   <key>six.dnom</key>
   <string>six.dnom.glif</string>
+  <key>six.inferior</key>
+  <string>six.inferior.glif</string>
   <key>six.lf</key>
   <string>six.lf.glif</string>
   <key>six.numr</key>
@@ -2272,6 +2298,8 @@
   <string>six.sinf.glif</string>
   <key>six.subs</key>
   <string>six.subs.glif</string>
+  <key>six.superior</key>
+  <string>six.superior.glif</string>
   <key>six.sups</key>
   <string>six.sups.glif</string>
   <key>six.tosf</key>
@@ -2340,6 +2368,8 @@
   <string>three.glif</string>
   <key>three.dnom</key>
   <string>three.dnom.glif</string>
+  <key>three.inferior</key>
+  <string>three.inferior.glif</string>
   <key>three.lf</key>
   <string>three.lf.glif</string>
   <key>three.numr</key>
@@ -2418,6 +2448,8 @@
   <string>two.glif</string>
   <key>two.dnom</key>
   <string>two.dnom.glif</string>
+  <key>two.inferior</key>
+  <string>two.inferior.glif</string>
   <key>two.lf</key>
   <string>two.lf.glif</string>
   <key>two.numr</key>
@@ -2484,40 +2516,6 @@
   <string>umacrondieresis.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
-  <key>uni2070</key>
-  <string>uni2070.glif</string>
-  <key>uni2074</key>
-  <string>uni2074.glif</string>
-  <key>uni2075</key>
-  <string>uni2075.glif</string>
-  <key>uni2076</key>
-  <string>uni2076.glif</string>
-  <key>uni2077</key>
-  <string>uni2077.glif</string>
-  <key>uni2078</key>
-  <string>uni2078.glif</string>
-  <key>uni2079</key>
-  <string>uni2079.glif</string>
-  <key>uni2080</key>
-  <string>uni2080.glif</string>
-  <key>uni2081</key>
-  <string>uni2081.glif</string>
-  <key>uni2082</key>
-  <string>uni2082.glif</string>
-  <key>uni2083</key>
-  <string>uni2083.glif</string>
-  <key>uni2084</key>
-  <string>uni2084.glif</string>
-  <key>uni2085</key>
-  <string>uni2085.glif</string>
-  <key>uni2086</key>
-  <string>uni2086.glif</string>
-  <key>uni2087</key>
-  <string>uni2087.glif</string>
-  <key>uni2088</key>
-  <string>uni2088.glif</string>
-  <key>uni2089</key>
-  <string>uni2089.glif</string>
   <key>uniEE01</key>
   <string>uniE_E_01.glif</string>
   <key>uogonek</key>
@@ -2632,6 +2630,8 @@
   <string>zero.glif</string>
   <key>zero.dnom</key>
   <string>zero.dnom.glif</string>
+  <key>zero.inferior</key>
+  <string>zero.inferior.glif</string>
   <key>zero.lf</key>
   <string>zero.lf.glif</string>
   <key>zero.numr</key>
@@ -2642,6 +2642,8 @@
   <string>zero.sinf.glif</string>
   <key>zero.subs</key>
   <string>zero.subs.glif</string>
+  <key>zero.superior</key>
+  <string>zero.superior.glif</string>
   <key>zero.sups</key>
   <string>zero.sups.glif</string>
   <key>zero.tosf</key>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-  <advance width="960"/>
+  <advance width="964"/>
   <unicode hex="2265"/>
   <outline>
-    <component base="greater"/>
-    <component base="minus" xOffset="-33" yOffset="-510"/>
+    <component base="greater" xOffset="20" yOffset="98"/>
+    <component base="minus" xOffset="-154" yOffset="-510"/>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.821,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

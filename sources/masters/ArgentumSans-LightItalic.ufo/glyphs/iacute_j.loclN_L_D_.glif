@@ -4,7 +4,7 @@
   <outline>
     <component base="dotlessi"/>
     <component base="acutecomb" xOffset="-73"/>
-    <component base="uni0237" xOffset="497"/>
+    <component base="dotlessj" xOffset="497"/>
     <component base="acutecomb" xOffset="402"/>
   </outline>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhetailcyr" format="2">
+  <advance width="2152"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="Zhecyr"/>
+    <contour>
+      <point x="1957" y="-302" type="line"/>
+      <point x="2055" y="198" type="line"/>
+      <point x="1707" y="198" type="line"/>
+      <point x="1669" y="0" type="line"/>
+      <point x="1861" y="0" type="line"/>
+      <point x="1815" y="58" type="line"/>
+      <point x="1745" y="-302" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.liga.2" format="2">
+  <advance width="574"/>
+  <anchor x="940" y="0" name="bottom"/>
+  <anchor x="1090" y="796" name="center"/>
+  <anchor x="814" y="1484" name="top"/>
+  <anchor x="1032" y="1484" name="topright"/>
+  <outline>
+    <contour>
+      <point x="234" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="1200" type="line" smooth="yes"/>
+      <point x="274" y="1364"/>
+      <point x="384" y="1484"/>
+      <point x="526" y="1484" type="curve" smooth="yes"/>
+      <point x="598" y="1484"/>
+      <point x="659" y="1473"/>
+      <point x="707" y="1458" type="curve" smooth="yes"/>
+      <point x="745" y="1446"/>
+      <point x="775" y="1432"/>
+      <point x="794" y="1420" type="curve"/>
+      <point x="816" y="1454" type="line"/>
+      <point x="794" y="1466"/>
+      <point x="761" y="1481"/>
+      <point x="719" y="1494" type="curve" smooth="yes"/>
+      <point x="667" y="1510"/>
+      <point x="601" y="1523"/>
+      <point x="526" y="1524" type="curve" smooth="yes"/>
+      <point x="364" y="1526"/>
+      <point x="234" y="1384"/>
+      <point x="234" y="1200" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="104" y="994" type="line"/>
+      <point x="610" y="994" type="line"/>
+      <point x="610" y="1034" type="line"/>
+      <point x="104" y="1034" type="line"/>
+    </contour>
+  </outline>
+</glyph>

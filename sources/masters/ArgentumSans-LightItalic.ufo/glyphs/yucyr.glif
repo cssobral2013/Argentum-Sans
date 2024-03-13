@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yucyr" format="2">
+  <advance width="1686"/>
+  <unicode hex="044E"/>
+  <anchor x="848" y="1060" name="top"/>
+  <outline>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="266" y="506" type="line"/>
+      <point x="588" y="506" type="line"/>
+      <point x="594" y="544" type="line"/>
+      <point x="272" y="544" type="line"/>
+      <point x="370" y="1034" type="line"/>
+      <point x="330" y="1034" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="992" y="-6" type="curve" smooth="yes"/>
+      <point x="1328" y="-6"/>
+      <point x="1570" y="260"/>
+      <point x="1570" y="622" type="curve" smooth="yes"/>
+      <point x="1570" y="878"/>
+      <point x="1402" y="1040"/>
+      <point x="1136" y="1040" type="curve" smooth="yes"/>
+      <point x="800" y="1040"/>
+      <point x="558" y="772"/>
+      <point x="558" y="412" type="curve" smooth="yes"/>
+      <point x="558" y="156"/>
+      <point x="726" y="-6"/>
+    </contour>
+    <contour>
+      <point x="998" y="32" type="curve" smooth="yes"/>
+      <point x="746" y="32"/>
+      <point x="598" y="172"/>
+      <point x="598" y="414" type="curve" smooth="yes"/>
+      <point x="598" y="752"/>
+      <point x="824" y="1002"/>
+      <point x="1130" y="1002" type="curve" smooth="yes"/>
+      <point x="1382" y="1002"/>
+      <point x="1530" y="862"/>
+      <point x="1530" y="620" type="curve" smooth="yes"/>
+      <point x="1530" y="280"/>
+      <point x="1304" y="32"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

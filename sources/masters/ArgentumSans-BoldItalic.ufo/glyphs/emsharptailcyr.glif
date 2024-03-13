@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emsharptailcyr" format="2">
+  <advance width="1784"/>
+  <unicode hex="04CE"/>
+  <outline>
+    <component base="emcyr"/>
+    <contour>
+      <point x="1463" y="-202" type="line"/>
+      <point x="1735" y="354" type="line"/>
+      <point x="1135" y="354" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1475" y="0" type="line"/>
+      <point x="1219" y="96" type="line"/>
+      <point x="1107" y="-202" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

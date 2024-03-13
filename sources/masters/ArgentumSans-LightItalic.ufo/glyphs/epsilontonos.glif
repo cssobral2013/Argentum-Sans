@@ -6,7 +6,7 @@
   <anchor x="546" y="0" name="b.uni0324_3"/>
   <anchor x="1056" y="0" name="m.uni0328_4"/>
   <outline>
-    <component base="uni0511" xOffset="2"/>
+    <component base="reversedzecyr" xOffset="2"/>
     <contour>
       <point x="680" y="1214" type="line"/>
       <point x="798" y="1434" type="line"/>

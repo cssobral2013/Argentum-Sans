@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cheabkhtailcyr" format="2">
+  <advance width="1732"/>
+  <unicode hex="04BF"/>
+  <outline>
+    <component base="cheabkhcyr"/>
+    <contour>
+      <point x="795" y="72" type="line"/>
+      <point x="739" y="-202" type="line"/>
+      <point x="1159" y="-202" type="line"/>
+      <point x="1215" y="72" type="line"/>
+    </contour>
+  </outline>
+</glyph>

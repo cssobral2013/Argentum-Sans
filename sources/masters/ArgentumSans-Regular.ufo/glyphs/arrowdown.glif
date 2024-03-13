@@ -3,6 +3,25 @@
   <advance width="1200"/>
   <unicode hex="2193"/>
   <outline>
-    <component base="arrowup"/>
+    <contour>
+      <point x="662" y="122" type="line"/>
+      <point x="1070" y="400" type="line"/>
+      <point x="1070" y="594" type="line"/>
+      <point x="662" y="336" type="line"/>
+      <point x="250" y="594" type="line"/>
+      <point x="250" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="300" type="line"/>
+      <point x="750" y="962" type="line"/>
+      <point x="568" y="962" type="line"/>
+      <point x="568" y="300" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.392,0.392,0.392,0</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="2">
-  <advance width="1300"/>
+  <advance width="1274"/>
   <unicode hex="0068"/>
-  <anchor x="546" y="0" name="bottom"/>
-  <anchor x="466" y="1218" name="center"/>
-  <anchor x="442" y="1484" name="top"/>
+  <anchor x="520" y="-0" name="bottom"/>
+  <anchor x="440" y="1218" name="center"/>
+  <anchor x="416" y="1484" name="top"/>
   <outline>
     <contour>
-      <point x="804" y="1034" type="curve"/>
-      <point x="592" y="1030"/>
-      <point x="418" y="924"/>
-      <point x="316" y="736" type="curve"/>
-      <point x="462" y="1484" type="line"/>
-      <point x="422" y="1484" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="274" y="532" type="line" smooth="yes"/>
-      <point x="330" y="820"/>
-      <point x="538" y="988"/>
-      <point x="804" y="994" type="curve"/>
-      <point x="1032" y="994"/>
-      <point x="1142" y="858"/>
-      <point x="1096" y="626" type="curve" smooth="yes"/>
-      <point x="972" y="0" type="line"/>
-      <point x="1012" y="0" type="line"/>
-      <point x="1136" y="626" type="line" smooth="yes"/>
-      <point x="1186" y="882"/>
-      <point x="1064" y="1034"/>
+      <point x="778" y="1034" type="curve"/>
+      <point x="566" y="1030"/>
+      <point x="392" y="924"/>
+      <point x="290" y="736" type="curve"/>
+      <point x="436" y="1484" type="line"/>
+      <point x="396" y="1484" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="248" y="532" type="line" smooth="yes"/>
+      <point x="304" y="820"/>
+      <point x="512" y="988"/>
+      <point x="778" y="994" type="curve"/>
+      <point x="1006" y="994"/>
+      <point x="1116" y="858"/>
+      <point x="1070" y="626" type="curve" smooth="yes"/>
+      <point x="946" y="0" type="line"/>
+      <point x="986" y="0" type="line"/>
+      <point x="1110" y="626" type="line" smooth="yes"/>
+      <point x="1160" y="882"/>
+      <point x="1038" y="1034"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=186</string>
+  </dict>
+  </lib>
 </glyph>

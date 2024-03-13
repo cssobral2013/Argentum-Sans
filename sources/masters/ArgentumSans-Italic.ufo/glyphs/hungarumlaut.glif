@@ -4,6 +4,6 @@
   <unicode hex="02DD"/>
   <anchor x="670" y="1524" name="top"/>
   <outline>
-    <component base="uni030B" xOffset="30"/>
+    <component base="hungarumlautcomb" xOffset="30"/>
   </outline>
 </glyph>

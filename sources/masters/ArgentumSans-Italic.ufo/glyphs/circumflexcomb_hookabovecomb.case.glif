@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="2">
+  <advance width="816"/>
+  <anchor x="622" y="1400" name="_top"/>
+  <anchor x="814" y="2126" name="top"/>
+  <outline>
+    <component base="circumflexcomb_hookabovecomb" xOffset="81" yOffset="302"/>
+  </outline>
+</glyph>

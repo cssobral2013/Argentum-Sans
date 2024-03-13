@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Estailcyr" format="2">
+  <advance width="1474"/>
+  <unicode hex="04AA"/>
+  <outline>
+    <component base="Escyr"/>
+    <contour>
+      <point x="458" y="80" type="line"/>
+      <point x="388" y="-274" type="line"/>
+      <point x="820" y="-274" type="line"/>
+      <point x="890" y="80" type="line"/>
+    </contour>
+  </outline>
+</glyph>

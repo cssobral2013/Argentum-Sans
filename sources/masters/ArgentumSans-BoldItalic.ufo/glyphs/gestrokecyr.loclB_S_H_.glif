@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokecyr.loclBSH" format="2">
+  <advance width="1106"/>
+  <outline>
+    <contour>
+      <point x="446" y="0" type="line"/>
+      <point x="594" y="742" type="line"/>
+      <point x="1118" y="742" type="line"/>
+      <point x="1190" y="1094" type="line"/>
+      <point x="216" y="1094" type="line"/>
+      <point x="-4" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="918" y="338" type="line"/>
+      <point x="966" y="578" type="line"/>
+      <point x="334" y="578" type="line"/>
+      <point x="286" y="338" type="line"/>
+    </contour>
+  </outline>
+</glyph>

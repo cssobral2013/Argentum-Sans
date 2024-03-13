@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gestrokecyr" format="2">
+  <advance width="1178"/>
+  <unicode hex="0492"/>
+  <outline>
+    <component base="Gecyr"/>
+    <contour>
+      <point x="990" y="638" type="line"/>
+      <point x="998" y="676" type="line"/>
+      <point x="102" y="676" type="line"/>
+      <point x="94" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

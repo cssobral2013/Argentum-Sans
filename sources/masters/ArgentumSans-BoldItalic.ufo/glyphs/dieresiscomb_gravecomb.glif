@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_gravecomb" format="2">
+  <advance width="940"/>
+  <anchor x="608" y="1094" name="_top"/>
+  <anchor x="758" y="1914" name="top"/>
+  <outline>
+    <component base="dieresiscomb.loclVIET" xOffset="31"/>
+    <component base="gravecomb.loclVIET" xOffset="142" yOffset="410"/>
+  </outline>
+</glyph>

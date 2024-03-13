@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr.loclSRB" format="2">
+  <advance width="2120"/>
+  <anchor x="1182" y="1240" name="top"/>
+  <outline>
+    <component base="shacyr.loclBGR"/>
+    <contour>
+      <point x="680" y="1314" type="line"/>
+      <point x="1708" y="1314" type="line"/>
+      <point x="1716" y="1354" type="line"/>
+      <point x="688" y="1354" type="line"/>
+    </contour>
+  </outline>
+</glyph>

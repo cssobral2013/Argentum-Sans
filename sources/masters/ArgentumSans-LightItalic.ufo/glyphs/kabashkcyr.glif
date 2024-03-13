@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkcyr" format="2">
+  <advance width="1194"/>
+  <unicode hex="04A1"/>
+  <anchor x="607" y="0" name="bottom"/>
+  <anchor x="815" y="1034" name="top"/>
+  <outline>
+    <contour>
+      <point x="469" y="996" type="line"/>
+      <point x="477" y="1034" type="line"/>
+      <point x="97" y="1034" type="line"/>
+      <point x="89" y="996" type="line"/>
+    </contour>
+    <contour>
+      <point x="1049" y="0" type="line"/>
+      <point x="669" y="542" type="line"/>
+      <point x="635" y="526" type="line"/>
+      <point x="1005" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="0" type="line"/>
+      <point x="477" y="1034" type="line"/>
+      <point x="437" y="1034" type="line"/>
+      <point x="229" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="508" type="line"/>
+      <point x="679" y="544" type="line"/>
+      <point x="365" y="544" type="line"/>
+      <point x="357" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="1227" y="1034" type="line"/>
+      <point x="1175" y="1034" type="line"/>
+      <point x="629" y="526" type="line"/>
+      <point x="669" y="514" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

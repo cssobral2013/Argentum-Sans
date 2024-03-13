@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iukrcyr.ss05" format="2">
+  <advance width="844"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="190" y="0" name="ogonek"/>
+  <anchor x="452" y="1400" name="top"/>
+  <outline>
+    <component base="I.ss05"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Iukrcyr</string>
+  </dict>
+  </lib>
+</glyph>

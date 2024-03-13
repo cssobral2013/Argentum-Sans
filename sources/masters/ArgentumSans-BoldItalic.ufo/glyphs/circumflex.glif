@@ -4,6 +4,6 @@
   <unicode hex="02C6"/>
   <anchor x="657" y="1490" name="top"/>
   <outline>
-    <component base="uni0302"/>
+    <component base="circumflexcomb"/>
   </outline>
 </glyph>

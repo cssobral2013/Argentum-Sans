@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0302_acutecomb.sc" format="2">
-  <advance width="772"/>
-  <anchor x="434" y="1894" name="top"/>
-  <outline>
-    <component base="uni0302_acutecomb" xOffset="-256"/>
-  </outline>
-</glyph>

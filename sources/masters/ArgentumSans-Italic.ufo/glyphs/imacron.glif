@@ -4,6 +4,6 @@
   <unicode hex="012B"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0304.narrow" xOffset="-14"/>
+    <component base="macroncomb.narrow" xOffset="-14"/>
   </outline>
 </glyph>

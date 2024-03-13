@@ -4,7 +4,7 @@
   <unicode hex="02C7"/>
   <anchor x="677" y="1480" name="top"/>
   <outline>
-    <component base="uni0302" xScale="-1" yScale="-1" xOffset="1314" yOffset="2752"/>
+    <component base="circumflexcomb" xScale="-1" yScale="-1" xOffset="1314" yOffset="2752"/>
   </outline>
   <guideline angle="90" x="689" y="0"/>
 </glyph>

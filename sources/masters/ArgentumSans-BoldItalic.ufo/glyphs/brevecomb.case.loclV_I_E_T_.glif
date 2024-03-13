@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.case.loclVIET" format="2">
+  <advance width="940"/>
+  <anchor x="604" y="1402" name="_top"/>
+  <anchor x="686" y="1822" name="top"/>
+  <outline>
+    <component base="brevecomb.loclVIET" xOffset="56" yOffset="282"/>
+  </outline>
+  <guideline angle="0" x="0" y="1410"/>
+</glyph>

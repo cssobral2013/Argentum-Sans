@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="1386"/>
+  <unicode hex="043F"/>
+  <anchor x="720" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="446" y="0" type="line"/>
+      <point x="608" y="836" type="line"/>
+      <point x="492" y="742" type="line"/>
+      <point x="962" y="742" type="line"/>
+      <point x="882" y="836" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="1170" y="0" type="line"/>
+      <point x="1390" y="1094" type="line"/>
+      <point x="216" y="1094" type="line"/>
+      <point x="-4" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>78.2</real>
+    <key>weight</key>
+    <integer>-7</integer>
+    <key>width</key>
+    <integer>85</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

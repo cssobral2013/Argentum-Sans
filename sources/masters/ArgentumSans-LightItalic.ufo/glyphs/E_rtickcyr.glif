@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ertickcyr" format="2">
+  <advance width="1462"/>
+  <unicode hex="048E"/>
+  <outline>
+    <component base="P"/>
+    <contour>
+      <point x="834" y="940" type="line"/>
+      <point x="800" y="914" type="line"/>
+      <point x="1192" y="226" type="line"/>
+      <point x="1226" y="252" type="line"/>
+    </contour>
+  </outline>
+</glyph>

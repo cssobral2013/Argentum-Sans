@@ -944,23 +944,23 @@
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
-    <string>uni2070</string>
-    <string>uni2074</string>
-    <string>uni2075</string>
-    <string>uni2076</string>
-    <string>uni2077</string>
-    <string>uni2078</string>
-    <string>uni2079</string>
-    <string>uni2080</string>
-    <string>uni2081</string>
-    <string>uni2082</string>
-    <string>uni2083</string>
-    <string>uni2084</string>
-    <string>uni2085</string>
-    <string>uni2086</string>
-    <string>uni2087</string>
-    <string>uni2088</string>
-    <string>uni2089</string>
+    <string>zero.superior</string>
+    <string>four.superior</string>
+    <string>five.superior</string>
+    <string>six.superior</string>
+    <string>seven.superior</string>
+    <string>eight.superior</string>
+    <string>nine.superior</string>
+    <string>zero.inferior</string>
+    <string>one.inferior</string>
+    <string>two.inferior</string>
+    <string>three.inferior</string>
+    <string>four.inferior</string>
+    <string>five.inferior</string>
+    <string>six.inferior</string>
+    <string>seven.inferior</string>
+    <string>eight.inferior</string>
+    <string>nine.inferior</string>
     <string>colonmonetary</string>
     <string>franc</string>
     <string>lira</string>
@@ -1015,15 +1015,6 @@
     <string>greaterequal</string>
     <string>filledbox</string>
     <string>squarewhite</string>
-    <string>triagup</string>
-    <string>triangleupwhite</string>
-    <string>trianglerightblack</string>
-    <string>trianglerightwhite</string>
-    <string>triagdn</string>
-    <string>triangledownwhite</string>
-    <string>triangleleftblack</string>
-    <string>triangleleftwhite</string>
-    <string>diamondblack-gmtr</string>
     <string>diamondwhite-gmtr</string>
     <string>lozenge</string>
     <string>Saltillo</string>
@@ -1328,7 +1319,7 @@
     <string>Palochkacyr.ss05</string>
     <string>Gmacron.ss04</string>
     <string>Idieresisacute.ss05</string>
-    <string>Ihookabove.ss05</string>
+    <string>Ihoi.ss05</string>
     <string>Idotbelow.ss05</string>
     <string>endash.case</string>
     <string>emdash.case</string>
@@ -1351,6 +1342,16 @@
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
     <string>ampersand</string>
+    <string>triagup</string>
+    <string>triangleupwhite</string>
+    <string>trianglerightblack</string>
+    <string>trianglerightwhite</string>
+    <string>triagdn</string>
+    <string>triangledownwhite</string>
+    <string>triangleleftblack</string>
+    <string>triangleleftwhite</string>
+    <string>f.liga.1</string>
+    <string>f.liga.2</string>
   </array>
 </dict>
 </plist>

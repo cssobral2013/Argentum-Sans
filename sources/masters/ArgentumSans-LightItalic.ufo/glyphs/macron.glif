@@ -4,6 +4,6 @@
   <unicode hex="00AF"/>
   <anchor x="497" y="1240" name="top"/>
   <outline>
-    <component base="uni0304" xOffset="93"/>
+    <component base="macroncomb" xOffset="93"/>
   </outline>
 </glyph>

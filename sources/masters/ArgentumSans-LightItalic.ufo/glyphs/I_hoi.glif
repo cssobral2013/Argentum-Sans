@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ihoi" format="2">
+  <advance width="552"/>
+  <unicode hex="1EC8"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="190" y="0" name="ogonek"/>
+  <anchor x="544" y="1760" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="hookabovecomb.case" xOffset="88" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+hookabovecomb.case</string>
+  </dict>
+  </lib>
+</glyph>

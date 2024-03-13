@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheabkhcyr" format="2">
+  <advance width="2098"/>
+  <unicode hex="04BC"/>
+  <anchor x="1247" y="0" name="bottom"/>
+  <anchor x="1493" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="1269" y="-32" type="curve" smooth="yes"/>
+      <point x="1513" y="-32"/>
+      <point x="1731" y="50"/>
+      <point x="1917" y="212" type="curve"/>
+      <point x="1681" y="498" type="line"/>
+      <point x="1543" y="392"/>
+      <point x="1431" y="348"/>
+      <point x="1301" y="348" type="curve" smooth="yes"/>
+      <point x="1127" y="348"/>
+      <point x="1029" y="454"/>
+      <point x="1029" y="638" type="curve" smooth="yes"/>
+      <point x="1029" y="874"/>
+      <point x="1187" y="1056"/>
+      <point x="1389" y="1056" type="curve" smooth="yes"/>
+      <point x="1569" y="1056"/>
+      <point x="1669" y="912"/>
+      <point x="1625" y="718" type="curve"/>
+      <point x="1757" y="838" type="line"/>
+      <point x="603" y="838" type="line" smooth="yes"/>
+      <point x="459" y="838"/>
+      <point x="449" y="942"/>
+      <point x="573" y="1108" type="curve"/>
+      <point x="211" y="1202" type="line"/>
+      <point x="-3" y="828"/>
+      <point x="127" y="540"/>
+      <point x="513" y="540" type="curve" smooth="yes"/>
+      <point x="2045" y="540" type="line"/>
+      <point x="2229" y="1024"/>
+      <point x="1951" y="1432"/>
+      <point x="1443" y="1432" type="curve" smooth="yes"/>
+      <point x="957" y="1432"/>
+      <point x="559" y="1056"/>
+      <point x="559" y="602" type="curve" smooth="yes"/>
+      <point x="559" y="220"/>
+      <point x="843" y="-32"/>
+    </contour>
+  </outline>
+</glyph>

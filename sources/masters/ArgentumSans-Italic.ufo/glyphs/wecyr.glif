@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wecyr" format="2">
+  <advance width="1886"/>
+  <unicode hex="051D"/>
+  <anchor x="970" y="0" name="bottom"/>
+  <anchor x="970" y="1064" name="top"/>
+  <outline>
+    <contour>
+      <point x="550" y="0" type="line"/>
+      <point x="1040" y="854" type="line"/>
+      <point x="974" y="854" type="line"/>
+      <point x="1144" y="0" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1956" y="1064" type="line"/>
+      <point x="1748" y="1064" type="line"/>
+      <point x="1212" y="114" type="line"/>
+      <point x="1314" y="114" type="line"/>
+      <point x="1138" y="1064" type="line"/>
+      <point x="950" y="1064" type="line"/>
+      <point x="408" y="114" type="line"/>
+      <point x="510" y="114" type="line"/>
+      <point x="338" y="1064" type="line"/>
+      <point x="138" y="1064" type="line"/>
+      <point x="338" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

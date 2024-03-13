@@ -3,6 +3,6 @@
   <advance width="452"/>
   <anchor x="324" y="688" name="_center"/>
   <outline>
-    <component base="uni0307" xOffset="-77" yOffset="-678"/>
+    <component base="dotaccentcomb" xOffset="-77" yOffset="-678"/>
   </outline>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="periodcentered.loclCAT.case" format="2">
   <advance width="686"/>
   <outline>
-    <component base="uni0307" xOffset="1" yOffset="-546"/>
+    <component base="dotaccentcomb" xOffset="1" yOffset="-546"/>
   </outline>
 </glyph>

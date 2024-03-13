@@ -2,7 +2,7 @@
 <glyph name="verticallinelowmodcomb" format="2">
   <advance width="244"/>
   <outline>
-    <component base="uni02CC" xOffset="123"/>
+    <component base="verticallinelowmod" xOffset="123"/>
   </outline>
   <guideline angle="90" x="62" y="0"/>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chetailcyr" format="2">
+  <advance width="1536"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <component base="Checyr"/>
+    <contour>
+      <point x="1320" y="-302" type="line"/>
+      <point x="1418" y="198" type="line"/>
+      <point x="986" y="198" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="1224" y="0" type="line"/>
+      <point x="1178" y="58" type="line"/>
+      <point x="1108" y="-302" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -164,4 +164,5 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  Changelog of Argentum Sans, v3.126 (in no particular order):
  - New iota-grek
  - New ampersand from https://github.com/TaniaChacana/Montserrat-Customization
-   As a result, old ampersand become ss06
+   As a result, old ampersand becomes ss06
+ - New, class-based true ligatures

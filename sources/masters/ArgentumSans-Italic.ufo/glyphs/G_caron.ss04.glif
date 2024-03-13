@@ -3,6 +3,6 @@
   <advance width="1544"/>
   <outline>
     <component base="G.ss04"/>
-    <component base="uni030C.case" xOffset="312" yOffset="2"/>
+    <component base="caroncomb.case" xOffset="312" yOffset="2"/>
   </outline>
 </glyph>

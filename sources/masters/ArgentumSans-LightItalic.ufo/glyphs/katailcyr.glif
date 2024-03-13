@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="1096"/>
+  <unicode hex="049B"/>
+  <outline>
+    <component base="kacyr"/>
+    <contour>
+      <point x="981" y="-242" type="line"/>
+      <point x="1037" y="36" type="line"/>
+      <point x="865" y="36" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="1007" y="0" type="line"/>
+      <point x="995" y="16" type="line"/>
+      <point x="943" y="-242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>height</key>
+    <real>73.8</real>
+    <key>width</key>
+    <integer>78</integer>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

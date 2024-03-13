@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icyr" format="2">
+  <advance width="1638"/>
+  <unicode hex="0418"/>
+  <anchor x="940" y="0" name="bottomleft"/>
+  <anchor x="1476" y="0" name="bottomright"/>
+  <anchor x="990" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="1092" y="726" type="line"/>
+      <point x="940" y="0" type="line"/>
+      <point x="1404" y="0" type="line"/>
+      <point x="1684" y="1400" type="line"/>
+      <point x="1234" y="1400" type="line"/>
+      <point x="608" y="672" type="line"/>
+      <point x="758" y="1400" type="line"/>
+      <point x="294" y="1400" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

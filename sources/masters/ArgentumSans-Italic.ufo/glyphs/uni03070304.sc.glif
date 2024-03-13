@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni03070304.sc" format="2">
-  <advance width="686"/>
-  <anchor x="299" y="1644" name="top"/>
-  <outline>
-    <component base="uni03070304" xOffset="-237"/>
-  </outline>
-</glyph>

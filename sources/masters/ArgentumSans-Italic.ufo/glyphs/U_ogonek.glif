@@ -4,6 +4,6 @@
   <unicode hex="0172"/>
   <outline>
     <component base="U"/>
-    <component base="uni0328.curve" xOffset="707"/>
+    <component base="ogonekcomb.curve" xOffset="707"/>
   </outline>
 </glyph>

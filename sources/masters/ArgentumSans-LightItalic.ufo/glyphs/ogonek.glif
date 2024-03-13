@@ -4,7 +4,7 @@
   <unicode hex="02DB"/>
   <anchor x="269" y="0" name="_ogonek"/>
   <outline>
-    <component base="uni0328" xOffset="15"/>
+    <component base="ogonekcomb" xOffset="15"/>
   </outline>
   <guideline angle="90" x="217" y="0"/>
   <guideline angle="90" x="-87" y="0"/>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0306_tildecomb.sc" format="2">
-  <advance width="856"/>
-  <anchor x="698" y="1772" name="top"/>
-  <outline>
-    <component base="uni0306_tildecomb" xOffset="-46"/>
-  </outline>
-</glyph>

@@ -2,6 +2,6 @@
 <glyph name="verticallinelowmodcomb" format="2">
   <advance width="80"/>
   <outline>
-    <component base="uni02CC" xOffset="243"/>
+    <component base="verticallinelowmod" xOffset="243"/>
   </outline>
 </glyph>

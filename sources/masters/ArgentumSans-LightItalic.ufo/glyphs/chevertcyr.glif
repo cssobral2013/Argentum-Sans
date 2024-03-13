@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chevertcyr" format="2">
+  <advance width="1158"/>
+  <unicode hex="04B9"/>
+  <outline>
+    <component base="checyr"/>
+    <contour>
+      <point x="488" y="144" type="line"/>
+      <point x="596" y="676" type="line"/>
+      <point x="562" y="676" type="line"/>
+      <point x="454" y="144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

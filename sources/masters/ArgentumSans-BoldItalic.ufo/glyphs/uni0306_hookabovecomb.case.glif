@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0306_hookabovecomb.case" format="2">
-  <advance width="900"/>
-  <anchor x="584" y="1402" name="_top"/>
-  <anchor x="740" y="2184" name="top"/>
-  <outline>
-    <component base="uni0306_hookabovecomb" xOffset="58" yOffset="282"/>
-  </outline>
-</glyph>

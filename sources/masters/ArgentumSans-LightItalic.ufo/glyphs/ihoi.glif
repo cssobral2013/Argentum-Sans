@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ihoi" format="2">
+  <advance width="480"/>
+  <unicode hex="1EC9"/>
+  <anchor x="137" y="0" name="bottom"/>
+  <anchor x="157" y="0" name="ogonek"/>
+  <anchor x="579" y="1430" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="hookabovecomb" xOffset="41"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

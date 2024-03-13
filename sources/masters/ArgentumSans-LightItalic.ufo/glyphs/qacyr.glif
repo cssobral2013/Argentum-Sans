@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qacyr" format="2">
+  <advance width="1312"/>
+  <unicode hex="051B"/>
+  <outline>
+    <component base="q" xOffset="47"/>
+  </outline>
+</glyph>

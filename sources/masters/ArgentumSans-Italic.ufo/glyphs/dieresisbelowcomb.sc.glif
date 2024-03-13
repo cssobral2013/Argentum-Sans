@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb.sc" format="2">
+  <advance width="886"/>
+  <anchor x="127" y="-382" name="bottom"/>
+  <anchor x="419" y="1148" name="top"/>
+  <outline>
+    <component base="dieresisbelowcomb" xOffset="-88"/>
+  </outline>
+</glyph>

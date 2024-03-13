@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="2">
+  <advance width="1296"/>
+  <unicode hex="1ED9"/>
+  <anchor x="648" y="548" name="center"/>
+  <anchor x="1032" y="0" name="ogonek"/>
+  <anchor x="984" y="1094" name="topright"/>
+  <anchor x="488" y="-566" name="bottom"/>
+  <anchor x="782" y="1490" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="370"/>
+    <component base="circumflexcomb" xOffset="114"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+dotbelowcomb+circumflexcomb</string>
+  </dict>
+  </lib>
+</glyph>
