@@ -61,7 +61,7 @@ Copyright (c) 2023 The Montserrat-Customization Project Authors (https://github.
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDesigner</key>
-  <string>Julieta Ulanovsky (font), Cristiano Sobral (main changes and remaster)</string>
+  <string>Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNameLicense</key>
@@ -69,7 +69,7 @@ Copyright (c) 2023 The Montserrat-Customization Project Authors (https://github.
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Julieta Ulanovsky (font), Cristiano Sobral (main changes and remaster)</string>
+  <string>Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://www.zkysky.com.ar/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -77,7 +77,7 @@ Copyright (c) 2023 The Montserrat-Customization Project Authors (https://github.
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.126</string>
+  <string>Version 3.127</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -224,7 +224,7 @@ Copyright (c) 2023 The Montserrat-Customization Project Authors (https://github.
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>126</integer>
+  <integer>127</integer>
   <key>xHeight</key>
   <integer>1094</integer>
 </dict>
