@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.sinf" format="2">
-  <advance width="860"/>
+  <advance width="627"/>
   <outline>
-    <component base="one.dnom" xOffset="101" yOffset="-400"/>
+    <component base="one.dnom" yOffset="-400"/>
   </outline>
 </glyph>
