@@ -4,9 +4,9 @@
   <outline>
     <component base="softcyr.loclBGR"/>
     <contour>
-      <point x="566" y="1064" type="line"/>
-      <point x="14" y="1064" type="line"/>
-      <point x="14" y="872" type="line"/>
+      <point x="369" y="1064" type="line"/>
+      <point x="-6" y="1064" type="line"/>
+      <point x="-6" y="872" type="line"/>
       <point x="370" y="872" type="line"/>
     </contour>
   </outline>

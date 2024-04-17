@@ -2,7 +2,7 @@
 <glyph name="brevebelowcomb" format="2">
   <advance width="776"/>
   <unicode hex="032E"/>
-  <anchor x="318" y="0" name="_bottom"/>
+  <anchor x="228" y="-0" name="_bottom"/>
   <anchor x="230" y="-448" name="bottom"/>
   <outline>
     <component base="brevecomb" xOffset="-333" yOffset="-1668"/>

@@ -26,7 +26,7 @@
     <string>numbersign</string>
     <string>dollar</string>
     <string>percent</string>
-    <string>ampersand.ss06</string>
+    <string>ampersand</string>
     <string>quotesingle</string>
     <string>parenleft</string>
     <string>parenright</string>
@@ -1013,6 +1013,14 @@
     <string>greaterequal</string>
     <string>filledbox</string>
     <string>squarewhite</string>
+    <string>triagup</string>
+    <string>triangleupwhite</string>
+    <string>trianglerightblack</string>
+    <string>trianglerightwhite</string>
+    <string>triagdn</string>
+    <string>triangledownwhite</string>
+    <string>triangleleftblack</string>
+    <string>triangleleftwhite</string>
     <string>diamondwhite-gmtr</string>
     <string>lozenge</string>
     <string>Saltillo</string>
@@ -1020,6 +1028,7 @@
     <string>uniEE01</string>
     <string>fi</string>
     <string>fl</string>
+    <string>ampersand.ss06</string>
     <string>parenleft.case</string>
     <string>parenright.case</string>
     <string>hyphen.case</string>
@@ -1104,7 +1113,6 @@
     <string>nine.subs</string>
     <string>nine.sups</string>
     <string>nine.tosf</string>
-    <string>question.1</string>
     <string>question.ss03</string>
     <string>at.case</string>
     <string>G.ss04</string>
@@ -1113,6 +1121,8 @@
     <string>bracketleft.case</string>
     <string>backslash.case</string>
     <string>bracketright.case</string>
+    <string>f.liga.1</string>
+    <string>f.liga.2</string>
     <string>braceleft.case</string>
     <string>braceright.case</string>
     <string>guillemotleft.case</string>
@@ -1339,17 +1349,6 @@
     <string>jacute</string>
     <string>verticallinelowmodcomb</string>
     <string>brevecyrcomb.case</string>
-    <string>ampersand</string>
-    <string>triagup</string>
-    <string>triangleupwhite</string>
-    <string>trianglerightblack</string>
-    <string>trianglerightwhite</string>
-    <string>triagdn</string>
-    <string>triangledownwhite</string>
-    <string>triangleleftblack</string>
-    <string>triangleleftwhite</string>
-    <string>f.liga.1</string>
-    <string>f.liga.2</string>
   </array>
 </dict>
 </plist>

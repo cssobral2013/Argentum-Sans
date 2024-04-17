@@ -4,7 +4,7 @@
   <unicode hex="048B"/>
   <outline>
     <component base="icyr"/>
-    <component base="brevecomb" xOffset="328"/>
+    <component base="brevecyrcomb" xOffset="85"/>
     <contour>
       <point x="1203" y="-202" type="line"/>
       <point x="1475" y="354" type="line"/>

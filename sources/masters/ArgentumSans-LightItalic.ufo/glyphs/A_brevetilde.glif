@@ -4,6 +4,6 @@
   <unicode hex="1EB4"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb_tildecomb.case" xScale="1.0016" yScale="1.0016" xOffset="89"/>
+    <component base="brevecomb_tildecomb.case" xScale="1.0016" yScale="1.0016" xOffset="269"/>
   </outline>
 </glyph>

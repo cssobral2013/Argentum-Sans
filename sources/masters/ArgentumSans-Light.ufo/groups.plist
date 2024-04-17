@@ -1675,10 +1675,6 @@
   <array>
     <string>bar</string>
   </array>
-  <key>public.kern1.L_blackDiamond</key>
-  <array>
-    <string>diamondblack-gmtr</string>
-  </array>
   <key>public.kern1.L_blackSquare</key>
   <array>
     <string>filledbox</string>
@@ -3445,10 +3441,6 @@
   <key>public.kern2.R_be-cy.loclSRB</key>
   <array>
     <string>becyr.loclSRB</string>
-  </array>
-  <key>public.kern2.R_blackDiamond</key>
-  <array>
-    <string>diamondblack-gmtr</string>
   </array>
   <key>public.kern2.R_blackSquare</key>
   <array>
