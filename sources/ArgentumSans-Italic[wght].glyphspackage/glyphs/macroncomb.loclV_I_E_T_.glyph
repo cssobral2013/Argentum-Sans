@@ -1,0 +1,75 @@
+{
+glyphname = macroncomb.loclVIET;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{567, 1422}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,1202,l),
+(845,1202,l),
+(891,1440,l),
+(251,1440,l)
+);
+}
+);
+width = 786;
+},
+{
+anchors = (
+{
+name = top;
+position = "{505, 1288}";
+}
+);
+guides = (
+{
+position = "{0, 1454}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(231,1204,l),
+(741,1204,l),
+(769,1344,l),
+(259,1344,l)
+);
+}
+);
+width = 704;
+},
+{
+anchors = (
+{
+name = top;
+position = "{456, 1206}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,1248,l),
+(680,1248,l),
+(688,1288,l),
+(254,1288,l)
+);
+}
+);
+width = 634;
+}
+);
+leftKerningGroup = macroncomb.loclVIET;
+rightKerningGroup = macroncomb.loclVIET;
+}

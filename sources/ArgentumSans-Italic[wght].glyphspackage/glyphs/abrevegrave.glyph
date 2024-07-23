@@ -1,0 +1,53 @@
+{
+glyphname = abrevegrave;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (91,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 1226;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (75,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 1172;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (119,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 1124;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = n;
+unicode = 7857;
+}

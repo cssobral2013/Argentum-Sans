@@ -1,0 +1,40 @@
+{
+glyphname = decyr.loclBGR;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (21,0);
+ref = g;
+}
+);
+width = 1418;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (27,0);
+ref = g;
+}
+);
+width = 1384;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (35,0);
+ref = g;
+}
+);
+width = 1366;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = u;
+}

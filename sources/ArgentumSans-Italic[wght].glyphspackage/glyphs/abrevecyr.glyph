@@ -1,0 +1,80 @@
+{
+glyphname = abrevecyr;
+leftMetricsKey = a;
+widthMetricsKey = a;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (6,0);
+ref = brevecyrcomb;
+}
+);
+width = 1226;
+},
+{
+anchors = (
+{
+name = top;
+position = "{560, 1062}";
+},
+{
+name = bottom;
+position = "{580, 0}";
+},
+{
+name = ogonek;
+position = "{1044, 0}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (-55,2);
+ref = brevecyrcomb;
+}
+);
+width = 1160;
+},
+{
+anchors = (
+{
+name = top;
+position = "{168, 1028}";
+},
+{
+name = bottom;
+position = "{18, 6}";
+},
+{
+name = ogonek;
+position = "{384, -30}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (-26,0);
+ref = brevecyrcomb;
+}
+);
+width = 1124;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = n;
+unicode = 1233;
+}

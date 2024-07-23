@@ -1,0 +1,76 @@
+{
+glyphname = Ishortcyr;
+layers = (
+{
+guides = (
+{
+position = "{0, 1496}";
+},
+{
+position = "{0, 1834}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = Icyr;
+},
+{
+pos = (-22,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1638;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1212, 0}";
+},
+{
+name = _top;
+position = "{820, 1400}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+ref = Icyr;
+},
+{
+pos = (56,2);
+ref = brevecyrcomb.case;
+}
+);
+width = 1646;
+},
+{
+guides = (
+{
+position = "{0, 1736}";
+},
+{
+position = "{0, 1510}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = Icyr;
+},
+{
+pos = (106,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1652;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+unicode = 1049;
+}

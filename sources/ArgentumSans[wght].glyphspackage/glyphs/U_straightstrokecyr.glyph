@@ -1,0 +1,53 @@
+{
+glyphname = Ustraightstrokecyr;
+layers = (
+{
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+pos = (281,-334);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 1532;
+},
+{
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+pos = (274,-380);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 1352;
+},
+{
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = Ustraightcyr;
+},
+{
+pos = (320,-402);
+ref = strokeshortcomb;
+scale = (1.081,1);
+}
+);
+width = 1240;
+}
+);
+leftKerningGroup = Y;
+rightKerningGroup = Y;
+unicode = 1200;
+}

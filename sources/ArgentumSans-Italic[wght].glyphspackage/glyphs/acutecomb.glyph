@@ -1,0 +1,83 @@
+{
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{535, 1094}";
+},
+{
+name = top;
+position = "{562, 1560}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,1202,l),
+(679,1182,l),
+(1003,1440,l),
+(665,1560,l)
+);
+}
+);
+width = 1134;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{488, 1062}";
+},
+{
+name = top;
+position = "{534, 1510}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(435,1240,l),
+(625,1220,l),
+(869,1412,l),
+(633,1510,l)
+);
+}
+);
+width = 1008;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{416, 1034}";
+},
+{
+name = top;
+position = "{552, 1478}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1258,l),
+(483,1248,l),
+(741,1458,l),
+(703,1478,l)
+);
+}
+);
+width = 882;
+}
+);
+leftKerningGroup = acutecomb;
+rightKerningGroup = acutecomb;
+unicode = 769;
+}

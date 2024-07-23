@@ -1,0 +1,82 @@
+{
+glyphname = acutecomb.loclVIET;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{252, 1094}";
+},
+{
+name = top;
+position = "{312, 1504}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,1264,l),
+(260,1202,l),
+(606,1388,l),
+(328,1550,l)
+);
+}
+);
+width = 628;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{184, 1062}";
+},
+{
+name = top;
+position = "{258, 1370}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(36,1248,l),
+(204,1200,l),
+(480,1348,l),
+(284,1472,l)
+);
+}
+);
+width = 514;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{154, 1034}";
+},
+{
+name = top;
+position = "{174, 1300}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,1266,l),
+(94,1248,l),
+(384,1410,l),
+(350,1436,l)
+);
+}
+);
+width = 430;
+}
+);
+leftKerningGroup = acutecomb.loclVIET;
+rightKerningGroup = acutecomb.loclVIET;
+}

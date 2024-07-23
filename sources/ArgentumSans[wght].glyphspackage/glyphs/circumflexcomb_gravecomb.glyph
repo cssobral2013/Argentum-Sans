@@ -1,0 +1,84 @@
+{
+glyphname = circumflexcomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{488, 1094}";
+},
+{
+name = top;
+position = "{488, 1894}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (46,338);
+ref = gravecomb.loclVIET;
+}
+);
+width = 974;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{408, 1062}";
+},
+{
+name = top;
+position = "{408, 1734}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (38,0);
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (50,264);
+ref = gravecomb.loclVIET;
+}
+);
+width = 816;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{288, 1034}";
+},
+{
+name = top;
+position = "{288, 1642}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (28,230);
+ref = gravecomb.loclVIET;
+}
+);
+width = 576;
+}
+);
+leftKerningGroup = circumflexcomb.loclVIET;
+rightKerningGroup = circumflexcomb.loclVIET;
+}

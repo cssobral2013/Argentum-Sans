@@ -1,0 +1,102 @@
+{
+glyphname = omicron;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{648, 0}";
+},
+{
+name = center;
+position = "{648, 548}";
+},
+{
+name = ogonek;
+position = "{1094, 0}";
+},
+{
+name = top;
+position = "{648, 1094}";
+},
+{
+name = topright;
+position = "{928, 1094}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = o;
+}
+);
+width = 1296;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{626, 0}";
+},
+{
+name = center;
+position = "{626, 532}";
+},
+{
+name = ogonek;
+position = "{976, 0}";
+},
+{
+name = top;
+position = "{626, 1062}";
+},
+{
+name = topright;
+position = "{928, 1060}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+ref = o;
+}
+);
+width = 1250;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{606, 0}";
+},
+{
+name = center;
+position = "{606, 518}";
+},
+{
+name = ogonek;
+position = "{910, 0}";
+},
+{
+name = top;
+position = "{606, 1034}";
+},
+{
+name = topright;
+position = "{868, 1036}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = o;
+}
+);
+width = 1212;
+}
+);
+unicode = 959;
+}

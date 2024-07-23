@@ -1,0 +1,83 @@
+{
+glyphname = dotlessi;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{440, 0}";
+},
+{
+name = top;
+position = "{336, 1094}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,0,l),
+(560,0,l),
+(560,1094,l),
+(110,1094,l)
+);
+}
+);
+width = 670;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{398, 0}";
+},
+{
+name = top;
+position = "{284, 1062}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,0,l),
+(398,0,l),
+(398,1062,l),
+(170,1062,l)
+);
+}
+);
+width = 568;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{260, 0}";
+},
+{
+name = top;
+position = "{240, 1034}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,0,l),
+(260,0,l),
+(260,1034,l),
+(220,1034,l)
+);
+}
+);
+width = 480;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = u;
+unicode = 305;
+}

@@ -1,0 +1,72 @@
+{
+glyphname = odotbelow;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (370,0);
+ref = dotbelowcomb;
+}
+);
+width = 1296;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (456,0);
+ref = dotbelowcomb;
+}
+);
+width = 1250;
+},
+{
+anchors = (
+{
+name = center;
+position = "{607, 518}";
+},
+{
+name = ogonek;
+position = "{855, 0}";
+},
+{
+name = top;
+position = "{695, 1034}";
+},
+{
+name = topright;
+position = "{911, 1034}";
+},
+{
+name = bottom;
+position = "{491, -366}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (483,0);
+ref = dotbelowcomb;
+}
+);
+width = 1212;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+unicode = 7885;
+}

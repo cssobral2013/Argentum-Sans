@@ -1,0 +1,76 @@
+{
+glyphname = gravecomb.loclVIET;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{568, 1504}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(204,1388,l),
+(552,1202,l),
+(794,1264,l),
+(482,1550,l)
+);
+}
+);
+width = 750;
+},
+{
+anchors = (
+{
+name = top;
+position = "{531, 1370}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,1348,l),
+(567,1200,l),
+(735,1248,l),
+(487,1472,l)
+);
+}
+);
+width = 634;
+},
+{
+anchors = (
+{
+name = top;
+position = "{513, 1300}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{441, 0}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,1410,l),
+(589,1248,l),
+(639,1266,l),
+(333,1436,l)
+);
+}
+);
+width = 522;
+}
+);
+leftKerningGroup = gravecomb.loclVIET;
+rightKerningGroup = gravecomb.loclVIET;
+}

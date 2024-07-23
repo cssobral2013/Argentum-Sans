@@ -1,0 +1,68 @@
+{
+glyphname = brevecomb_hookabovecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{384, 1094}";
+},
+{
+name = top;
+position = "{384, 1902}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (-66,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{368, 1102}";
+},
+{
+name = top;
+position = "{368, 1790}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 732;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{340, 1084}";
+},
+{
+name = top;
+position = "{340, 1748}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 690;
+}
+);
+}

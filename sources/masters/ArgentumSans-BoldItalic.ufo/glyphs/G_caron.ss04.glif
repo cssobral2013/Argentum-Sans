@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gcaron.ss04" format="2">
-  <advance width="1538"/>
-  <outline>
-    <component base="G.ss04"/>
-    <component base="caroncomb.case" xOffset="402"/>
-  </outline>
-</glyph>

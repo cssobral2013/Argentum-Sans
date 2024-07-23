@@ -1,0 +1,56 @@
+{
+glyphname = dieresiscomb_gravecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{558, 1960}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-186,0);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 828;
+},
+{
+anchors = (
+{
+name = top;
+position = "{449, 1730}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-188,0);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 766;
+},
+{
+anchors = (
+{
+name = top;
+position = "{393, 1600}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-137,0);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 678;
+}
+);
+}

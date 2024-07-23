@@ -166,3 +166,11 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  - New ampersand from https://github.com/TaniaChacana/Montserrat-Customization
    As a result, old ampersand becomes ss06
  - New, class-based true ligatures
+
+ Changelog of Argentum Sans, v3.127 (in no particular order):
+- New '5' and '7'
+- Fixed some more off-center diacritics
+- Fixed brevecyrcomb in Ucyr and ishortcyr
+- Fixed ampersand
+- Some more adjusts in Italic 'a'
+- Added double 'f' ligature in class-based ligatures

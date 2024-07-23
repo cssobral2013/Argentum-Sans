@@ -1,0 +1,58 @@
+{
+glyphname = periodcentered.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{269, 686}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-186,-720);
+ref = dotaccentcomb;
+}
+);
+width = 484;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{324, 688}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-77,-678);
+ref = dotaccentcomb;
+}
+);
+width = 452;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{231, 708}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-85,-624);
+ref = dotaccentcomb;
+}
+);
+width = 340;
+}
+);
+leftKerningGroup = hyphen.case;
+rightKerningGroup = hyphen.case;
+}

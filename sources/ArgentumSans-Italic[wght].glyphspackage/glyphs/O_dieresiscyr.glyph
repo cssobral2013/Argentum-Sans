@@ -1,0 +1,50 @@
+{
+glyphname = Odieresiscyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = Ocyr;
+},
+{
+pos = (269,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1672;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = Ocyr;
+},
+{
+pos = (269,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1692;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = Ocyr;
+},
+{
+pos = (347,2);
+ref = dieresiscomb.case;
+}
+);
+width = 1714;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 1254;
+}

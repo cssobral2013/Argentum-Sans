@@ -1,0 +1,65 @@
+{
+glyphname = Jacute;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{980, 1898}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (471,338);
+ref = acutecomb;
+}
+);
+width = 1138;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (391,338);
+ref = acutecomb;
+}
+);
+width = 998;
+},
+{
+anchors = (
+{
+name = top;
+position = "{841, 1816}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = J;
+},
+{
+alignment = -1;
+pos = (422,338);
+ref = acutecomb;
+}
+);
+width = 918;
+}
+);
+leftKerningGroup = J;
+rightKerningGroup = U;
+}

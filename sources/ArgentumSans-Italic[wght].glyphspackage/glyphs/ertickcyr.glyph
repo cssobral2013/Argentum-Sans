@@ -1,0 +1,65 @@
+{
+glyphname = ertickcyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(828,562,l),
+(666,454,l),
+(1006,-124,l),
+(1156,-24,l)
+);
+},
+{
+alignment = -1;
+ref = p;
+}
+);
+width = 1412;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(864,484,l),
+(718,386,l),
+(1028,-126,l),
+(1168,-32,l)
+);
+},
+{
+alignment = -1;
+ref = p;
+}
+);
+width = 1402;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,344,l),
+(786,322,l),
+(1038,-120,l),
+(1074,-98,l)
+);
+},
+{
+alignment = -1;
+ref = p;
+}
+);
+width = 1382;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = o;
+unicode = 1167;
+}

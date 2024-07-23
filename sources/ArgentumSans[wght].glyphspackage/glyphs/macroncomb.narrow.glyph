@@ -1,0 +1,82 @@
+{
+glyphname = macroncomb.narrow;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{340, 1094}";
+},
+{
+name = top;
+position = "{340, 1540}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,1268,l),
+(640,1268,l),
+(640,1524,l),
+(40,1524,l)
+);
+}
+);
+width = 680;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{296, 1062}";
+},
+{
+name = top;
+position = "{296, 1378}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,1292,l),
+(550,1292,l),
+(550,1432,l),
+(40,1432,l)
+);
+}
+);
+width = 590;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{258, 1034}";
+},
+{
+name = top;
+position = "{258, 1240}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,1314,l),
+(474,1314,l),
+(474,1354,l),
+(40,1354,l)
+);
+}
+);
+width = 514;
+}
+);
+leftKerningGroup = macroncomb.narrow;
+rightKerningGroup = macroncomb.narrow;
+}

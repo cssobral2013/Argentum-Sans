@@ -1,0 +1,68 @@
+{
+glyphname = dotaccentcomb.case.loclVIET;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{462, 1402}";
+},
+{
+name = top;
+position = "{574, 1822}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-99,304);
+ref = dotaccentcomb.loclVIET;
+}
+);
+width = 544;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{402, 1400}";
+},
+{
+name = top;
+position = "{466, 1780}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-34,326);
+ref = dotaccentcomb.loclVIET;
+}
+);
+width = 450;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{350, 1398}";
+},
+{
+name = top;
+position = "{604, 1758}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-140,304);
+ref = dotaccentcomb.loclVIET;
+}
+);
+width = 304;
+}
+);
+}

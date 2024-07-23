@@ -1,0 +1,158 @@
+{
+glyphname = epsilon;
+layers = (
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{746, 1164}";
+},
+{
+name = b.uni0324_3;
+position = "{514, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{982, 0}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = reversedzecyr;
+}
+);
+width = 1214;
+},
+{
+layerId = "F12549AA-8C4A-4572-BE64-7BBB914C7413";
+name = "LightItalic.Oct 24 17, 12:33";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1028;
+},
+{
+layerId = "48EB616C-4117-41F7-BE51-48BF699A9204";
+name = "LightItalic.Oct 24 17, 12:32";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1028;
+},
+{
+layerId = "F48BA653-2E41-412A-98EC-AACBD2B6DDEA";
+name = "LightItalic.Oct 24 17, 12:22";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1028;
+},
+{
+layerId = "0D2C85D1-0474-4CBE-B707-FA1CE9D6A6B0";
+name = "LightItalic.Oct 12 17, 11:30";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1012;
+},
+{
+layerId = "60C8ABEF-FBB0-43ED-9C88-7D9BC7CF46BB";
+name = "BoldItalic.Oct 24 17, 12:22";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1166;
+},
+{
+layerId = "AC1806C4-521B-4E33-BC58-0C68EA2C7A1F";
+name = "BoldItalic.Oct 12 17, 11:29";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1116;
+},
+{
+layerId = "F8B511E3-F85F-4C08-BE55-A6C7DD30BB8B";
+name = "SemiBoldItalic.Oct 24 17, 12:22";
+shapes = (
+{
+alignment = -1;
+ref = reversedzecyr;
+}
+);
+width = 1098;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{790, 1186}";
+},
+{
+name = b.uni0324_3;
+position = "{552, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1062, 0}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = reversedzecyr;
+}
+);
+width = 1148;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{784, 1186}";
+},
+{
+name = b.uni0324_3;
+position = "{546, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1056, 0}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = reversedzecyr;
+}
+);
+width = 1064;
+}
+);
+unicode = 949;
+}

@@ -1,0 +1,82 @@
+{
+glyphname = brevecomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{558, 1094}";
+},
+{
+name = top;
+position = "{714, 1894}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-6,0);
+ref = brevecomb.loclVIET;
+},
+{
+pos = (66,336);
+ref = gravecomb.loclVIET;
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{532, 1062}";
+},
+{
+name = top;
+position = "{662, 1734}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = brevecomb.loclVIET;
+},
+{
+pos = (-30,268);
+ref = gravecomb.loclVIET;
+}
+);
+width = 732;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{584, 1034}";
+},
+{
+name = top;
+position = "{704, 1642}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (35,0);
+ref = brevecomb.loclVIET;
+},
+{
+pos = (15,228);
+ref = gravecomb.loclVIET;
+}
+);
+width = 620;
+}
+);
+leftKerningGroup = brevecomb.loclVIET;
+rightKerningGroup = brevecomb.loclVIET;
+}

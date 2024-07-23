@@ -1,0 +1,179 @@
+{
+glyphname = peso;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,926,l),
+(1651,926,l),
+(1677,1066,l),
+(179,1066,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(107,696,l),
+(1607,696,l),
+(1633,836,l),
+(133,836,l)
+);
+},
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 1620;
+},
+{
+layerId = "AB91C1E9-E459-44E2-9ACC-D4B830ACA8A9";
+name = "BoldItalic.Bold Italic [120]";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1214,926,l),
+(1634,926,l),
+(1660,1066,l),
+(1214,1066,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1214,696,l),
+(1590,696,l),
+(1616,836,l),
+(1214,836,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(452,836,l),
+(76,836,l),
+(50,696,l),
+(452,696,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(452,1066,l),
+(122,1066,l),
+(96,926,l),
+(452,926,l)
+);
+}
+);
+width = 1546;
+},
+{
+layerId = "771ACD9C-8B67-4E25-BC00-CE7217F52326";
+associatedMasterId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+name = "Regular Italic [120]";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1290,972,l),
+(1620,972,l),
+(1644,1092,l),
+(1290,1092,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1290,732,l),
+(1574,732,l),
+(1598,852,l),
+(1290,852,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,852,l),
+(118,852,l),
+(94,732,l),
+(404,732,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,1092,l),
+(164,1092,l),
+(140,972,l),
+(404,972,l)
+);
+}
+);
+width = 1542;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,972,l),
+(1599,972,l),
+(1623,1092,l),
+(183,1092,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(113,732,l),
+(1553,732,l),
+(1577,852,l),
+(137,852,l)
+);
+},
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 1540;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,1034,l),
+(1553,1034,l),
+(1561,1074,l),
+(205,1074,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(155,814,l),
+(1511,814,l),
+(1519,854,l),
+(163,854,l)
+);
+},
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 1470;
+}
+);
+leftKerningGroup = currency;
+rightKerningGroup = currency;
+unicode = 8369;
+}

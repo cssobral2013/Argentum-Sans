@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caroncomb_dotaccentcomb.case" format="2">
-  <advance width="656"/>
-  <anchor x="918" y="1398" name="_top"/>
-  <anchor x="712" y="1874" name="top"/>
-  <outline>
-    <component base="caroncomb_dotaccentcomb" xOffset="60" yOffset="302"/>
-  </outline>
-</glyph>

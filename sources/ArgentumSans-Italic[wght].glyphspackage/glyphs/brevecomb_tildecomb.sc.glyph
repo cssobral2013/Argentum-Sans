@@ -1,0 +1,56 @@
+{
+glyphname = brevecomb_tildecomb.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{776, 1900}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-48,0);
+ref = brevecomb_tildecomb;
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = top;
+position = "{698, 1772}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-46,0);
+ref = brevecomb_tildecomb;
+}
+);
+width = 856;
+},
+{
+anchors = (
+{
+name = top;
+position = "{783, 1674}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-6,0);
+ref = brevecomb_tildecomb;
+}
+);
+width = 840;
+}
+);
+}

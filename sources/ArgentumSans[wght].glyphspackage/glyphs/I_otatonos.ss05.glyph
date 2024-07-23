@@ -1,0 +1,107 @@
+{
+glyphname = Iotatonos.ss05;
+layers = (
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{802, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{802, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1038, 0}";
+},
+{
+name = top;
+position = "{802, 1898}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (452,0);
+ref = Iota.ss05;
+},
+{
+alignment = -1;
+pos = (78,0);
+ref = tonos;
+}
+);
+width = 1484;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{583, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{583, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{913, 0}";
+},
+{
+name = top;
+position = "{520, 1848}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (275,0);
+ref = Iota.ss05;
+},
+{
+alignment = -1;
+pos = (48,0);
+ref = tonos;
+}
+);
+width = 1199;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{537, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{537, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{867, 0}";
+},
+{
+name = top;
+position = "{446, 1816}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (159,0);
+ref = Iota.ss05;
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = tonos;
+}
+);
+width = 1003;
+}
+);
+}

@@ -1,0 +1,81 @@
+{
+glyphname = Gestrokecyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1175,506,l),
+(1227,766,l),
+(65,766,l),
+(13,506,l)
+);
+},
+{
+alignment = -1;
+ref = Gecyr;
+}
+);
+width = 1332;
+},
+{
+layerId = "4F001B56-FE5B-4E98-9743-83380DA0D6A3";
+name = "BoldItalic.Oct 18 17, 23:51";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1084,480,l),
+(1084,766,l),
+(56,766,l),
+(56,480,l)
+);
+}
+);
+width = 1168;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1058,560,l),
+(1090,730,l),
+(78,730,l),
+(46,560,l)
+);
+},
+{
+alignment = -1;
+ref = Gecyr;
+}
+);
+width = 1246;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(990,638,l),
+(998,676,l),
+(102,676,l),
+(94,638,l)
+);
+},
+{
+alignment = -1;
+ref = Gecyr;
+}
+);
+width = 1178;
+}
+);
+leftKerningGroup = "Ghestroke-cy";
+rightKerningGroup = F;
+unicode = 1170;
+}

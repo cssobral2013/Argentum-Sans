@@ -1,0 +1,73 @@
+{
+glyphname = brevecomb.case.loclVIET;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{470, 1402}";
+},
+{
+name = top;
+position = "{470, 1712}";
+}
+);
+guides = (
+{
+position = "{0, 1410}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (0,282);
+ref = brevecomb.loclVIET;
+}
+);
+width = 940;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{386, 1400}";
+},
+{
+name = top;
+position = "{386, 1610}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (0,280);
+ref = brevecomb.loclVIET;
+}
+);
+width = 772;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{310, 1398}";
+},
+{
+name = top;
+position = "{310, 1552}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (0,290);
+ref = brevecomb.loclVIET;
+}
+);
+width = 620;
+}
+);
+}

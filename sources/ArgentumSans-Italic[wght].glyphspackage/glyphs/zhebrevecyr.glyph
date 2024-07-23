@@ -1,0 +1,92 @@
+{
+glyphname = zhebrevecyr;
+layers = (
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1353, 0}";
+},
+{
+name = bottomright;
+position = "{1871, 0}";
+},
+{
+name = top;
+position = "{1239, 1480}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = zhecyr;
+},
+{
+pos = (442,0);
+ref = brevecyrcomb;
+}
+);
+width = 1980;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1340, 0}";
+},
+{
+name = bottomright;
+position = "{1598, 0}";
+},
+{
+name = top;
+position = "{1086, 1402}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = zhecyr;
+},
+{
+pos = (320,2);
+ref = brevecyrcomb;
+}
+);
+width = 1724;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1353, 0}";
+},
+{
+name = bottomright;
+position = "{1397, 0}";
+},
+{
+name = top;
+position = "{1131, 1280}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = zhecyr;
+},
+{
+pos = (235,6);
+ref = brevecyrcomb;
+}
+);
+width = 1558;
+}
+);
+leftKerningGroup = x;
+rightKerningGroup = x;
+unicode = 1218;
+}

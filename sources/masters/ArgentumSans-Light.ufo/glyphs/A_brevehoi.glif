@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abrevehoi" format="2">
-  <advance width="1374"/>
-  <unicode hex="1EB2"/>
-  <outline>
-    <component base="A"/>
-    <component base="brevecomb_hookabovecomb.case" xScale="1.0014" yScale="1.0014" xOffset="396"/>
-  </outline>
-</glyph>

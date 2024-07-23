@@ -1,0 +1,66 @@
+{
+glyphname = nu;
+layers = (
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{666, 1094}";
+},
+{
+name = b.uni0324_3;
+position = "{666, 0}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 1224;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{734, 1124}";
+},
+{
+name = b.uni0324_3;
+position = "{734, 0}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 1050;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{734, 1124}";
+},
+{
+name = b.uni0324_3;
+position = "{734, 0}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 912;
+}
+);
+unicode = 957;
+}

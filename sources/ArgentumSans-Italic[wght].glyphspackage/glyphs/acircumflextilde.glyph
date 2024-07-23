@@ -1,0 +1,50 @@
+{
+glyphname = acircumflextilde;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (71,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 1226;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (81,2);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 1172;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (228,-6);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 1124;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = n;
+unicode = 7851;
+}

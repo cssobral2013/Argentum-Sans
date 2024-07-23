@@ -1,0 +1,52 @@
+{
+glyphname = Iacute_J.loclNLD;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = Iacute;
+},
+{
+alignment = -1;
+pos = (662,0);
+ref = Jacute;
+}
+);
+width = 1800;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = Iacute;
+},
+{
+alignment = -1;
+pos = (604,0);
+ref = Jacute;
+}
+);
+width = 1602;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = Iacute;
+},
+{
+alignment = -1;
+pos = (552,0);
+ref = Jacute;
+}
+);
+width = 1472;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = U;
+}

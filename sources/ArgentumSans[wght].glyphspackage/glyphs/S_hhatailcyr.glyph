@@ -1,0 +1,74 @@
+{
+glyphname = Shhatailcyr;
+layers = (
+{
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1652,-274,l),
+(1652,366,l),
+(1008,366,l),
+(1008,0,l),
+(1322,0,l),
+(1220,102,l),
+(1220,-274,l)
+);
+},
+{
+alignment = -1;
+ref = Shhacyr;
+}
+);
+width = 1686;
+},
+{
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1586,-302,l),
+(1586,198,l),
+(1150,198,l),
+(1150,0,l),
+(1430,0,l),
+(1374,58,l),
+(1374,-302,l)
+);
+},
+{
+alignment = -1;
+ref = Shhacyr;
+}
+);
+width = 1618;
+},
+{
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1534,-330,l),
+(1534,38,l),
+(1260,38,l),
+(1260,0,l),
+(1512,0,l),
+(1494,18,l),
+(1494,-330,l)
+);
+},
+{
+alignment = -1;
+ref = Shhacyr;
+}
+);
+width = 1568;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = "Tshe-cy";
+unicode = 1318;
+}

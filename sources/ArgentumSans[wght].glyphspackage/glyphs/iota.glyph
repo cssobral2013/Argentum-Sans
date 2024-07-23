@@ -1,0 +1,187 @@
+{
+glyphname = iota;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{350, 0}";
+},
+{
+name = center;
+position = "{500, 796}";
+},
+{
+name = top;
+position = "{222, 1034}";
+},
+{
+name = topright;
+position = "{442, 1484}";
+}
+);
+layerId = "FE84DAC9-9D51-478A-8D06-60DF0DE9A288";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,1034,l),
+(204,1034,l),
+(204,180,ls),
+(204,60,o),
+(256,0,o),
+(350,0,cs),
+(396,0,o),
+(448,26,o),
+(494,74,c),
+(468,102,l),
+(430,62,o),
+(388,40,o),
+(350,40,cs),
+(280,40,o),
+(242,86,o),
+(242,180,cs)
+);
+}
+);
+width = 518;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{454, 0}";
+},
+{
+name = center;
+position = "{806, 796}";
+},
+{
+name = top;
+position = "{328, 1098}";
+},
+{
+name = topright;
+position = "{680, 1486}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(540,1094,l),
+(90,1094,l),
+(90,454,ls),
+(90,124,o),
+(308,-22,o),
+(546,-22,cs),
+(616,-22,o),
+(690,-8,o),
+(758,16,c),
+(732,390,l),
+(698,374,o),
+(664,364,o),
+(632,364,cs),
+(580,364,o),
+(540,392,o),
+(540,464,cs)
+);
+}
+);
+width = 748;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{394, 0}";
+},
+{
+name = center;
+position = "{600, 796}";
+},
+{
+name = top;
+position = "{269, 1064}";
+},
+{
+name = topright;
+position = "{530, 1484}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,1064,l),
+(152,1064,l),
+(152,288,ls),
+(152,94,o),
+(268,-10,o),
+(416,-10,cs),
+(480,-10,o),
+(548,10,o),
+(616,48,c),
+(584,222,l),
+(544,200,o),
+(510,188,o),
+(478,188,cs),
+(418,188,o),
+(380,228,o),
+(380,314,cs)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{350, 0}";
+},
+{
+name = center;
+position = "{500, 796}";
+},
+{
+name = top;
+position = "{222, 1034}";
+},
+{
+name = topright;
+position = "{442, 1484}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,1034,l),
+(204,1034,l),
+(204,180,ls),
+(204,60,o),
+(256,0,o),
+(350,0,cs),
+(396,0,o),
+(448,26,o),
+(494,74,c),
+(468,102,l),
+(430,62,o),
+(388,40,o),
+(350,40,cs),
+(280,40,o),
+(242,86,o),
+(242,180,cs)
+);
+}
+);
+width = 518;
+}
+);
+unicode = 953;
+}

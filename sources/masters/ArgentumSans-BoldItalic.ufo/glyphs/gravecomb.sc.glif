@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravecomb.sc" format="2">
-  <advance width="592"/>
-  <anchor x="240" y="1560" name="top"/>
-  <outline>
-    <component base="gravecomb" xOffset="-607"/>
-  </outline>
-</glyph>

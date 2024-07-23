@@ -1,0 +1,38 @@
+{
+glyphname = four.subs;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-80,-400);
+ref = four.dnom;
+}
+);
+width = 818;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-80,-400);
+ref = four.dnom;
+}
+);
+width = 720;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-80,-400);
+ref = four.dnom;
+}
+);
+width = 646;
+}
+);
+}

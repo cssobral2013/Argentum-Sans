@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acircumflexacute" format="2">
-  <advance width="1476"/>
-  <unicode hex="1EA4"/>
-  <outline>
-    <component base="A"/>
-    <component base="circumflexcomb_acutecomb.case" xOffset="308" yOffset="-2"/>
-  </outline>
-</glyph>

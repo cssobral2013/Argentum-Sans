@@ -1,0 +1,48 @@
+{
+glyphname = guillemotright.case;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglright.case;
+},
+{
+pos = (41,0);
+ref = guilsinglright.case;
+}
+);
+width = 1088;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglright.case;
+},
+{
+pos = (40,0);
+ref = guilsinglright.case;
+}
+);
+width = 912;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglright.case;
+},
+{
+ref = guilsinglright.case;
+}
+);
+width = 762;
+}
+);
+leftKerningGroup = guillemetright.case;
+rightKerningGroup = hyphen.case;
+}

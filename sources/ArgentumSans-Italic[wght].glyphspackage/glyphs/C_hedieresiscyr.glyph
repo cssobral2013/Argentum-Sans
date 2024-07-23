@@ -1,0 +1,50 @@
+{
+glyphname = Chedieresiscyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = Checyr;
+},
+{
+pos = (265,-2);
+ref = dieresiscomb.case;
+}
+);
+width = 1530;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = Checyr;
+},
+{
+pos = (218,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1478;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = Checyr;
+},
+{
+pos = (231,2);
+ref = dieresiscomb.case;
+}
+);
+width = 1440;
+}
+);
+leftKerningGroup = "Che-cy";
+rightKerningGroup = H;
+unicode = 1268;
+}

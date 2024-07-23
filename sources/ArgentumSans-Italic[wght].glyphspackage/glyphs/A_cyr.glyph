@@ -1,0 +1,59 @@
+{
+glyphname = Acyr;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{980, 1400}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (44,0);
+ref = A;
+}
+);
+width = 1700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{884, 1400}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (26,0);
+ref = A;
+}
+);
+width = 1532;
+},
+{
+anchors = (
+{
+name = top;
+position = "{838, 1400}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (28,0);
+ref = A;
+}
+);
+width = 1432;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 1040;
+}

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ylongdieresiscyr" format="2">
-  <advance width="2002"/>
-  <unicode hex="04F8"/>
-  <outline>
-    <component base="Ylongcyr" xOffset="-4"/>
-    <component base="dieresiscomb.case" xOffset="348"/>
-  </outline>
-</glyph>

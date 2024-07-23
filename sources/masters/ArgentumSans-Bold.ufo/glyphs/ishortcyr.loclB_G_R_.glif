@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ishortcyr.loclBGR" format="2">
-  <advance width="1386"/>
-  <outline>
-    <component base="icyr.loclBGR"/>
-    <component base="brevecomb" xOffset="306"/>
-  </outline>
-</glyph>

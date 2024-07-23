@@ -1,0 +1,20 @@
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+width = 480;
+},
+{
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+width = 540;
+},
+{
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+width = 600;
+}
+);
+leftKerningGroup = nbspace;
+rightKerningGroup = nbspace;
+unicode = 160;
+}

@@ -1,0 +1,65 @@
+{
+glyphname = Kastrokecyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(912,1084,l),
+(952,1284,l),
+(138,1284,l),
+(98,1084,l)
+);
+},
+{
+alignment = -1;
+ref = Kacyr;
+}
+);
+width = 1578;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(859,1070,l),
+(891,1230,l),
+(161,1230,l),
+(129,1070,l)
+);
+},
+{
+alignment = -1;
+ref = Kacyr;
+}
+);
+width = 1476;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(851,1150,l),
+(859,1188,l),
+(159,1188,l),
+(151,1150,l)
+);
+},
+{
+alignment = -1;
+ref = Kacyr;
+}
+);
+width = 1412;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = K;
+unicode = 1182;
+}

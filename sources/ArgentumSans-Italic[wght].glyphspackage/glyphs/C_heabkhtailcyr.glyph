@@ -1,0 +1,71 @@
+{
+glyphname = Cheabkhtailcyr;
+layers = (
+{
+guides = (
+{
+angle = 90;
+position = "{1377, 0}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1031,80,l),
+(961,-274,l),
+(1393,-274,l),
+(1463,80,l)
+);
+},
+{
+alignment = -1;
+ref = Cheabkhcyr;
+}
+);
+width = 2098;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1021,50,l),
+(951,-302,l),
+(1163,-302,l),
+(1233,50,l)
+);
+},
+{
+alignment = -1;
+ref = Cheabkhcyr;
+}
+);
+width = 1994;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(989,20,l),
+(919,-330,l),
+(959,-330,l),
+(1029,20,l)
+);
+},
+{
+alignment = -1;
+ref = Cheabkhcyr;
+}
+);
+width = 1890;
+}
+);
+leftKerningGroup = "Cheabkhasian-cy";
+rightKerningGroup = O;
+unicode = 1214;
+}

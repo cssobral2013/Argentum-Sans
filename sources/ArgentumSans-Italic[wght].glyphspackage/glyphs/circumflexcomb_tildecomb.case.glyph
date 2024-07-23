@@ -1,0 +1,70 @@
+{
+glyphname = circumflexcomb_tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{636, 1402}";
+},
+{
+name = top;
+position = "{784, 2144}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (87,302);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 974;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{594, 1400}";
+},
+{
+name = top;
+position = "{802, 2036}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (86,302);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 776;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{548, 1398}";
+},
+{
+name = top;
+position = "{818, 1942}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (88,302);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 652;
+}
+);
+leftKerningGroup = circumflexcomb_tildecomb;
+rightKerningGroup = circumflexcomb_tildecomb;
+}

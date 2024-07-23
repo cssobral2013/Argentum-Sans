@@ -1,0 +1,56 @@
+{
+glyphname = hungarumlautcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{642, 1560}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-104,0);
+ref = hungarumlautcomb;
+}
+);
+width = 1012;
+},
+{
+anchors = (
+{
+name = top;
+position = "{492, 1524}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-134,0);
+ref = hungarumlautcomb;
+}
+);
+width = 868;
+},
+{
+anchors = (
+{
+name = top;
+position = "{526, 1478}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (19,0);
+ref = hungarumlautcomb;
+}
+);
+width = 718;
+}
+);
+}

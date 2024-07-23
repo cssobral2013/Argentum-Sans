@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered.case" format="2">
-  <advance width="340"/>
-  <anchor x="231" y="708" name="_center"/>
-  <outline>
-    <component base="dotaccentcomb" xOffset="-85" yOffset="-624"/>
-  </outline>
-</glyph>

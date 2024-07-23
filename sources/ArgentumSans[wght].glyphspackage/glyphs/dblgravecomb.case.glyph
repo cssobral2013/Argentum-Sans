@@ -1,0 +1,70 @@
+{
+glyphname = dblgravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{610, 1402}";
+},
+{
+name = top;
+position = "{610, 1822}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (0,302);
+ref = dblgravecomb;
+}
+);
+width = 1140;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{518, 1400}";
+},
+{
+name = top;
+position = "{518, 1780}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (0,298);
+ref = dblgravecomb;
+}
+);
+width = 892;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{396, 1398}";
+},
+{
+name = top;
+position = "{420, 1758}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (0,304);
+ref = dblgravecomb;
+}
+);
+width = 680;
+}
+);
+leftKerningGroup = dblgravecomb;
+rightKerningGroup = dblgravecomb;
+}

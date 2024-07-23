@@ -1,0 +1,20 @@
+{
+glyphname = thinspace;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+width = 400;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+width = 400;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+width = 400;
+}
+);
+leftKerningGroup = thinspace;
+rightKerningGroup = thinspace;
+unicode = 8201;
+}

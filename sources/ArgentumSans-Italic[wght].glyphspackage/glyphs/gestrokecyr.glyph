@@ -1,0 +1,65 @@
+{
+glyphname = gestrokecyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(939,338,l),
+(987,578,l),
+(33,578,l),
+(-15,338,l)
+);
+},
+{
+alignment = -1;
+ref = gecyr;
+}
+);
+width = 1178;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(855,376,l),
+(887,530,l),
+(95,530,l),
+(63,376,l)
+);
+},
+{
+alignment = -1;
+ref = gecyr;
+}
+);
+width = 1046;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(776,464,l),
+(784,502,l),
+(106,502,l),
+(98,464,l)
+);
+},
+{
+alignment = -1;
+ref = gecyr;
+}
+);
+width = 950;
+}
+);
+leftKerningGroup = "ghestroke-cy";
+rightKerningGroup = "te-cy";
+unicode = 1171;
+}

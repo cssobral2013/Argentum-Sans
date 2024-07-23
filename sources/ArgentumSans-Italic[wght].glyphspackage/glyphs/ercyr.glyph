@@ -1,0 +1,41 @@
+{
+glyphname = ercyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (35,0);
+ref = p;
+}
+);
+width = 1404;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = p;
+}
+);
+width = 1378;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (34,0);
+ref = p;
+}
+);
+width = 1364;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = o;
+unicode = 1088;
+}

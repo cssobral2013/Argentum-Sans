@@ -1,0 +1,80 @@
+{
+glyphname = lozenge;
+layers = (
+{
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,660,l),
+(480,-18,l),
+(934,660,l),
+(484,1332,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(648,660,l),
+(482,410,l),
+(316,660,l),
+(482,906,l)
+);
+}
+);
+width = 964;
+},
+{
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,660,l),
+(534,-38,l),
+(1002,660,l),
+(536,1354,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(790,660,l),
+(534,282,l),
+(282,660,l),
+(536,1038,l)
+);
+}
+);
+width = 1072;
+},
+{
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,660,l),
+(498,68,l),
+(894,660,l),
+(500,1246,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(846,660,l),
+(498,140,l),
+(152,660,l),
+(500,1178,l)
+);
+}
+);
+width = 998;
+}
+);
+leftKerningGroup = lozenge;
+rightKerningGroup = lozenge;
+unicode = 9674;
+}

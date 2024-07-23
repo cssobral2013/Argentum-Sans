@@ -1,0 +1,85 @@
+{
+glyphname = brevecomb_hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{450, 1094}";
+},
+{
+name = top;
+position = "{450, 1910}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+pos = (-20,0);
+ref = brevecomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (212,336);
+ref = hookabovecomb.loclVIET;
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{366, 1062}";
+},
+{
+name = top;
+position = "{366, 1780}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (-20,0);
+ref = brevecomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (158,268);
+ref = hookabovecomb.loclVIET;
+}
+);
+width = 732;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{290, 1034}";
+},
+{
+name = top;
+position = "{290, 1706}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (-20,-2);
+ref = brevecomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (108,226);
+ref = hookabovecomb.loclVIET;
+}
+);
+width = 580;
+}
+);
+leftKerningGroup = brevecomb.loclVIET;
+rightKerningGroup = brevecomb.loclVIET;
+}

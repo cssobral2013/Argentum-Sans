@@ -1,0 +1,126 @@
+{
+glyphname = Iotadieresis;
+layers = (
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{361, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{361, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{597, 0}";
+},
+{
+name = bottom;
+position = "{221, 0}";
+},
+{
+name = ogonek;
+position = "{325, 0}";
+},
+{
+name = top;
+position = "{700, 1846}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+pos = (-157,-2);
+ref = dieresiscomb.case;
+}
+);
+width = 664;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{400, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{400, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{730, 0}";
+},
+{
+name = bottom;
+position = "{196, 0}";
+},
+{
+name = ogonek;
+position = "{314, 0}";
+},
+{
+name = top;
+position = "{648, 1736}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+pos = (-166,0);
+ref = dieresiscomb.case;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{400, 1400}";
+},
+{
+name = b.uni0324_3;
+position = "{400, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{730, 0}";
+},
+{
+name = bottom;
+position = "{172, 0}";
+},
+{
+name = ogonek;
+position = "{190, 0}";
+},
+{
+name = top;
+position = "{600, 1626}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = Iota;
+},
+{
+pos = (-150,2);
+ref = dieresiscomb.case;
+}
+);
+width = 552;
+}
+);
+unicode = 938;
+}

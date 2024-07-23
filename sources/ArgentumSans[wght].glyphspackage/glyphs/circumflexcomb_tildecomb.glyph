@@ -1,0 +1,84 @@
+{
+glyphname = circumflexcomb_tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{468, 1094}";
+},
+{
+name = top;
+position = "{468, 1848}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (22,338);
+ref = tildecomb.loclVIET;
+}
+);
+width = 934;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{388, 1062}";
+},
+{
+name = top;
+position = "{388, 1712}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+pos = (18,0);
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (22,282);
+ref = tildecomb.loclVIET;
+}
+);
+width = 776;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{326, 1034}";
+},
+{
+name = top;
+position = "{326, 1600}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+pos = (42,0);
+ref = circumflexcomb.loclVIET;
+},
+{
+alignment = -1;
+pos = (-20,250);
+ref = tildecomb.loclVIET;
+}
+);
+width = 652;
+}
+);
+leftKerningGroup = circumflexcomb.loclVIET;
+rightKerningGroup = circumflexcomb.loclVIET;
+}

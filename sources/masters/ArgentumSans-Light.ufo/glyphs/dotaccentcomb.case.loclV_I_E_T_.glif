@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaccentcomb.case.loclVIET" format="2">
-  <advance width="304"/>
-  <anchor x="152" y="1398" name="_top"/>
-  <anchor x="152" y="1512" name="top"/>
-  <outline>
-    <component base="dotaccentcomb.loclVIET" yOffset="304"/>
-  </outline>
-</glyph>

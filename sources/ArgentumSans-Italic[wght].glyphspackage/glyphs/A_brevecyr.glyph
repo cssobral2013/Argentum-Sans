@@ -1,0 +1,68 @@
+{
+glyphname = Abrevecyr;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{1114, 1786}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = Acyr;
+},
+{
+pos = (52,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{1000, 1738}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = Acyr;
+},
+{
+pos = (26,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1532;
+},
+{
+anchors = (
+{
+name = top;
+position = "{1086, 1646}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = Acyr;
+},
+{
+pos = (24,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1432;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 1232;
+}

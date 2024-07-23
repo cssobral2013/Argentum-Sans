@@ -1,0 +1,52 @@
+{
+glyphname = Obreve;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (358,0);
+ref = brevecomb.case;
+scale = (0.998,0.998);
+}
+);
+width = 1598;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (455,0);
+ref = brevecomb.case;
+}
+);
+width = 1620;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (551,0);
+ref = brevecomb.case;
+scale = (1.002,1.002);
+}
+);
+width = 1638;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 334;
+}

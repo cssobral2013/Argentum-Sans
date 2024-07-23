@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_gravecomb.sc" format="2">
-  <advance width="802"/>
-  <anchor x="424" y="1094" name="_top"/>
-  <anchor x="424" y="1886" name="top"/>
-  <outline>
-    <component base="brevecomb_gravecomb" xOffset="-24"/>
-  </outline>
-</glyph>

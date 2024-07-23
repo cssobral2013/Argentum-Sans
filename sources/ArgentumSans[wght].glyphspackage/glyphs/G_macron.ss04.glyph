@@ -1,0 +1,80 @@
+{
+glyphname = Gmacron.ss04;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{792, 0}";
+},
+{
+name = top;
+position = "{820, 1832}";
+}
+);
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = G.ss04;
+},
+{
+alignment = -1;
+pos = (480,308);
+ref = macroncomb;
+}
+);
+width = 1476;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{774, 0}";
+},
+{
+name = top;
+position = "{774, 1716}";
+}
+);
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+ref = G.ss04;
+},
+{
+alignment = -1;
+pos = (478,338);
+ref = macroncomb;
+}
+);
+width = 1498;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{760, 0}";
+},
+{
+name = top;
+position = "{760, 1604}";
+}
+);
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = G.ss04;
+},
+{
+alignment = -1;
+pos = (502,364);
+ref = macroncomb;
+}
+);
+width = 1520;
+}
+);
+}

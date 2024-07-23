@@ -1,0 +1,65 @@
+{
+glyphname = Chevertcyr;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(753,216,l),
+(905,978,l),
+(725,978,l),
+(573,216,l)
+);
+},
+{
+alignment = -1;
+ref = Checyr;
+}
+);
+width = 1530;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(682,192,l),
+(830,934,l),
+(660,934,l),
+(512,192,l)
+);
+},
+{
+alignment = -1;
+ref = Checyr;
+}
+);
+width = 1478;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(597,172,l),
+(741,892,l),
+(701,892,l),
+(557,172,l)
+);
+},
+{
+alignment = -1;
+ref = Checyr;
+}
+);
+width = 1440;
+}
+);
+leftKerningGroup = "Che-cy";
+rightKerningGroup = H;
+unicode = 1208;
+}

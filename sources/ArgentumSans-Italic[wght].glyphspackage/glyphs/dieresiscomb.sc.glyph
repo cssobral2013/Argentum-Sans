@@ -1,0 +1,56 @@
+{
+glyphname = dieresiscomb.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{668, 1564}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-26,0);
+ref = dieresiscomb;
+}
+);
+width = 928;
+},
+{
+anchors = (
+{
+name = top;
+position = "{505, 1484}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-85,0);
+ref = dieresiscomb;
+}
+);
+width = 886;
+},
+{
+anchors = (
+{
+name = top;
+position = "{484, 1384}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = dieresiscomb;
+}
+);
+width = 812;
+}
+);
+}

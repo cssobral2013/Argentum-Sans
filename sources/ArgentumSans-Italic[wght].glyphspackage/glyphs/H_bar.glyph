@@ -1,0 +1,188 @@
+{
+glyphname = Hbar;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{771, 0}";
+},
+{
+name = center;
+position = "{911, 700}";
+},
+{
+name = top;
+position = "{1051, 1400}";
+},
+{
+name = topleft;
+position = "{311, 1400}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,1220,l),
+(137,1024,l),
+(1817,1024,l),
+(1855,1218,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(833,1400,l),
+(371,1400,l),
+(91,0,l),
+(555,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(987,0,l),
+(1451,0,l),
+(1731,1400,l),
+(1267,1400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(625,506,l),
+(1121,506,l),
+(1191,856,l),
+(693,856,l)
+);
+}
+);
+width = 1762;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{686, 0}";
+},
+{
+name = center;
+position = "{826, 700}";
+},
+{
+name = top;
+position = "{966, 1400}";
+},
+{
+name = topleft;
+position = "{214, 1400}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,1180,l),
+(106,1048,l),
+(1680,1048,l),
+(1706,1180,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(594,1400,l),
+(358,1400,l),
+(78,0,l),
+(314,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1056,0,l),
+(1292,0,l),
+(1572,1400,l),
+(1336,1400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(398,586,l),
+(1204,586,l),
+(1244,786,l),
+(438,786,l)
+);
+}
+);
+width = 1582;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{698, 0}";
+},
+{
+name = center;
+position = "{838, 702}";
+},
+{
+name = top;
+position = "{978, 1400}";
+},
+{
+name = topleft;
+position = "{216, 1400}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,1096,l),
+(204,1056,l),
+(1612,1056,l),
+(1620,1096,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,1400,l),
+(432,1400,l),
+(152,0,l),
+(192,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1200,0,l),
+(1240,0,l),
+(1520,1400,l),
+(1480,1400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,688,l),
+(1348,688,l),
+(1356,728,l),
+(328,728,l)
+);
+}
+);
+width = 1600;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+unicode = 294;
+}

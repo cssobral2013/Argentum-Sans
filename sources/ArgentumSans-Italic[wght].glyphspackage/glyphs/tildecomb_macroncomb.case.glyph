@@ -1,0 +1,70 @@
+{
+glyphname = tildecomb_macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{608, 1402}";
+},
+{
+name = top;
+position = "{758, 2120}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (60,302);
+ref = tildecomb_macroncomb;
+}
+);
+width = 908;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{528, 1400}";
+},
+{
+name = top;
+position = "{622, 1968}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (67,326);
+ref = tildecomb_macroncomb;
+}
+);
+width = 752;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{523, 1398}";
+},
+{
+name = top;
+position = "{552, 1818}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (61,304);
+ref = tildecomb_macroncomb;
+}
+);
+width = 698;
+}
+);
+leftKerningGroup = tildecomb_macroncomb;
+rightKerningGroup = tildecomb.loclVIET;
+}

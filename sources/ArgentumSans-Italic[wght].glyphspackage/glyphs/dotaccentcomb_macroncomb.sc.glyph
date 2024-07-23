@@ -1,0 +1,56 @@
+{
+glyphname = dotaccentcomb_macroncomb.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{436, 1878}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-265,0);
+ref = dotaccentcomb_macroncomb;
+}
+);
+width = 712;
+},
+{
+anchors = (
+{
+name = top;
+position = "{299, 1644}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-237,0);
+ref = dotaccentcomb_macroncomb;
+}
+);
+width = 686;
+},
+{
+anchors = (
+{
+name = top;
+position = "{405, 1484}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-251,0);
+ref = dotaccentcomb_macroncomb;
+}
+);
+width = 694;
+}
+);
+}

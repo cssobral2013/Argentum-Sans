@@ -1,0 +1,89 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{190, 0}";
+},
+{
+name = bottom;
+position = "{190, -448}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-106,-488,l),
+(134,-488,l),
+(370,-122,l),
+(20,-122,l)
+);
+}
+);
+width = 544;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{134, 0}";
+},
+{
+name = bottom;
+position = "{114, -408}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{65, 0}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-101,-438,l),
+(63,-438,l),
+(233,-116,l),
+(21,-116,l)
+);
+}
+);
+width = 424;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{90, 0}";
+},
+{
+name = bottom;
+position = "{184, -388}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-80,-428,l),
+(-44,-428,l),
+(100,-130,l),
+(48,-130,l)
+);
+}
+);
+width = 322;
+}
+);
+leftKerningGroup = commaaccentcomb;
+rightKerningGroup = commaaccentcomb;
+unicode = 806;
+}

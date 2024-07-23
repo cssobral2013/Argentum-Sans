@@ -1,0 +1,53 @@
+{
+glyphname = Ytilde;
+layers = (
+{
+layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+pos = (329,0);
+ref = tildecomb.case;
+scale = (0.998,0.998);
+}
+);
+width = 1436;
+},
+{
+layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (246,0);
+ref = tildecomb.case;
+}
+);
+width = 1274;
+},
+{
+layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+pos = (300,0);
+ref = tildecomb.case;
+scale = (1.001,1.001);
+}
+);
+width = 1214;
+}
+);
+leftKerningGroup = Y;
+rightKerningGroup = Y;
+unicode = 7928;
+}

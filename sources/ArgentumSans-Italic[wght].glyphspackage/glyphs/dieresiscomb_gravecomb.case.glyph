@@ -1,0 +1,70 @@
+{
+glyphname = dieresiscomb_gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{702, 1402}";
+},
+{
+name = top;
+position = "{752, 2002}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (61,304);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 940;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{618, 1400}";
+},
+{
+name = top;
+position = "{720, 2000}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (63,318);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 758;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{522, 1398}";
+},
+{
+name = top;
+position = "{718, 1928}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (48,304);
+ref = dieresiscomb_gravecomb;
+}
+);
+width = 580;
+}
+);
+leftKerningGroup = dieresiscomb_gravecomb;
+rightKerningGroup = dieresiscomb.loclVIET;
+}

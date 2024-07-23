@@ -1,0 +1,70 @@
+{
+glyphname = caroncomb_dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{618, 1402}";
+},
+{
+name = top;
+position = "{788, 2274}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (79,302);
+ref = caroncomb_dotaccentcomb;
+}
+);
+width = 974;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{740, 1400}";
+},
+{
+name = top;
+position = "{702, 2012}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (66,324);
+ref = caroncomb_dotaccentcomb;
+}
+);
+width = 816;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{918, 1398}";
+},
+{
+name = top;
+position = "{712, 1874}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (60,302);
+ref = caroncomb_dotaccentcomb;
+}
+);
+width = 656;
+}
+);
+leftKerningGroup = caroncomb_dotaccentcomb;
+rightKerningGroup = caroncomb.loclVIET;
+}

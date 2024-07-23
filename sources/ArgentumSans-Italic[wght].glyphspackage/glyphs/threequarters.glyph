@@ -1,0 +1,73 @@
+{
+glyphname = threequarters;
+layers = (
+{
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+alignment = -1;
+pos = (-108,0);
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (694,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (1244,0);
+ref = four.dnom;
+scale = (0.999,0.999);
+}
+);
+width = 1960;
+},
+{
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+alignment = -1;
+pos = (-66,0);
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (650,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (1026,0);
+ref = four.dnom;
+}
+);
+width = 1688;
+},
+{
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+alignment = -1;
+pos = (-104,0);
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (614,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (919,0);
+ref = four.dnom;
+scale = (1.001,1.001);
+}
+);
+width = 1458;
+}
+);
+leftKerningGroup = three.numr;
+rightKerningGroup = three.dnom;
+unicode = 190;
+}

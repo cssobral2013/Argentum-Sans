@@ -1,0 +1,71 @@
+{
+glyphname = gravemod;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{646, 1540}";
+}
+);
+layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,1440,l),
+(478,1182,l),
+(768,1202,l),
+(616,1560,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{651, 1420}";
+}
+);
+layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(315,1412,l),
+(521,1220,l),
+(715,1240,l),
+(571,1510,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{597, 1320}";
+}
+);
+layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+shapes = (
+{
+closed = 1;
+nodes = (
+(365,1458,l),
+(583,1248,l),
+(637,1258,l),
+(407,1478,l)
+);
+}
+);
+width = 700;
+}
+);
+leftKerningGroup = gravecomb;
+rightKerningGroup = gravecomb;
+unicode = 715;
+}
