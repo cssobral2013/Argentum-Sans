@@ -1,0 +1,80 @@
+{
+glyphname = macroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{899, 1094}";
+},
+{
+name = top;
+position = "{985, 1524}";
+}
+);
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,1268,l),
+(1573,1268,l),
+(1625,1524,l),
+(345,1524,l)
+);
+}
+);
+width = 1360;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{804, 1062}";
+},
+{
+name = top;
+position = "{867, 1378}";
+}
+);
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+shapes = (
+{
+closed = 1;
+nodes = (
+(258,1292,l),
+(1438,1292,l),
+(1466,1432,l),
+(286,1432,l)
+);
+}
+);
+width = 1180;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{723, 1034}";
+},
+{
+name = top;
+position = "{764, 1240}";
+}
+);
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,1314,l),
+(1291,1314,l),
+(1299,1354,l),
+(271,1354,l)
+);
+}
+);
+width = 1028;
+}
+);
+}

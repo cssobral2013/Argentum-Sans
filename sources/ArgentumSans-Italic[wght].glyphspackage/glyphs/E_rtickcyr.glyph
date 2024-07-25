@@ -2,7 +2,7 @@
 glyphname = Ertickcyr;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -21,7 +21,7 @@ ref = P;
 width = 1476;
 },
 {
-layerId = "DD007D06-FB8D-49A5-8DCD-0C43376EC087";
+layerId = "BD9D20DC-A878-4DF6-9D8C-6D5B321C055C";
 name = "BoldItalic.Oct 18 17, 23:53";
 shapes = (
 {
@@ -70,7 +70,7 @@ nodes = (
 width = 1476;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -89,7 +89,7 @@ ref = P;
 width = 1466;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

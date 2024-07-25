@@ -14,7 +14,7 @@ angle = 90;
 position = "{-54, 0}";
 }
 );
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 alignment = -1;
@@ -30,8 +30,8 @@ name = _ogonek;
 position = "{376, 0}";
 }
 );
-layerId = "AC181D9F-2155-4E66-B632-6FAE700FF6FD";
-associatedMasterId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "AC37DFD1-2937-49CD-85FC-F7AFF9F18CF7";
+associatedMasterId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 name = "Regular Nov 20 16, 22:09";
 shapes = (
 {
@@ -102,7 +102,7 @@ angle = 90;
 position = "{269, 0}";
 }
 );
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 alignment = -1;
@@ -132,7 +132,7 @@ angle = 90;
 position = "{-47, 0}";
 }
 );
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 alignment = -1;

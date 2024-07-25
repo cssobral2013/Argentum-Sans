@@ -2,7 +2,7 @@
 glyphname = litre;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -54,7 +54,7 @@ nodes = (
 width = 956;
 },
 {
-layerId = "CF08067C-785B-48CD-B92E-4DB1D4A5EA45";
+layerId = "0D4A9283-E519-4E27-A92E-4468928F1960";
 name = "LightItalic.Bold Italic May 22 13, 08:22";
 shapes = (
 {
@@ -132,7 +132,7 @@ nodes = (
 width = 1004;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -184,7 +184,7 @@ nodes = (
 width = 934;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

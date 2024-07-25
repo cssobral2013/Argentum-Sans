@@ -174,3 +174,7 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
 - Fixed ampersand
 - Some more adjusts in Italic 'a'
 - Added double 'f' ligature in class-based ligatures
+
+ Changelog of Argentum Sans, v3.128 (in no particular order):
+- Re-added all Unicode support from U+1E00 to U+1E9B & U+1E9E
+- Some fixes in localized Cyrillic for Serbian & Bulgarian

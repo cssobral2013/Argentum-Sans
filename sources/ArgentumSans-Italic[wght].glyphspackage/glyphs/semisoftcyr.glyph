@@ -2,7 +2,7 @@
 glyphname = semisoftcyr;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -47,7 +47,7 @@ nodes = (
 width = 1366;
 },
 {
-layerId = "046C5627-EB39-4F4A-B0EF-86CCD150C671";
+layerId = "6281537B-DAEC-480B-804E-34839528B44C";
 name = "BoldItalic.Oct 9 17, 10:02";
 shapes = (
 {
@@ -93,7 +93,7 @@ nodes = (
 width = 1366;
 },
 {
-layerId = "DC4F44F0-DB58-44F0-83C7-2D3CD649E864";
+layerId = "BD781749-5465-497A-BA10-55F27FA82A34";
 name = "LightItalic.Oct 9 17, 10:02";
 shapes = (
 {
@@ -139,7 +139,7 @@ nodes = (
 width = 1218;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -184,7 +184,7 @@ nodes = (
 width = 1226;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

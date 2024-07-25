@@ -16,7 +16,7 @@ name = m.uni0328_4;
 position = "{982, 0}";
 }
 );
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 alignment = -1;
@@ -27,7 +27,7 @@ ref = reversedzecyr;
 width = 1214;
 },
 {
-layerId = "F12549AA-8C4A-4572-BE64-7BBB914C7413";
+layerId = "3277EE06-CD08-474E-8B9D-FE0822FAF228";
 name = "LightItalic.Oct 24 17, 12:33";
 shapes = (
 {
@@ -38,7 +38,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "48EB616C-4117-41F7-BE51-48BF699A9204";
+layerId = "EC4E83B5-4B4D-44B5-9B23-7414814DED24";
 name = "LightItalic.Oct 24 17, 12:32";
 shapes = (
 {
@@ -49,7 +49,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "F48BA653-2E41-412A-98EC-AACBD2B6DDEA";
+layerId = "6E03C778-6E83-47ED-8D33-6463864A1BA1";
 name = "LightItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -60,7 +60,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "0D2C85D1-0474-4CBE-B707-FA1CE9D6A6B0";
+layerId = "AC72AB1C-99BE-4D88-AF4B-313105A9C0CA";
 name = "LightItalic.Oct 12 17, 11:30";
 shapes = (
 {
@@ -71,7 +71,7 @@ ref = reversedzecyr;
 width = 1012;
 },
 {
-layerId = "60C8ABEF-FBB0-43ED-9C88-7D9BC7CF46BB";
+layerId = "69F974DB-A14F-4571-999F-CFFDA79EEA15";
 name = "BoldItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -82,7 +82,7 @@ ref = reversedzecyr;
 width = 1166;
 },
 {
-layerId = "AC1806C4-521B-4E33-BC58-0C68EA2C7A1F";
+layerId = "515732FA-F18B-47F5-9008-3F57F771E2A1";
 name = "BoldItalic.Oct 12 17, 11:29";
 shapes = (
 {
@@ -93,7 +93,7 @@ ref = reversedzecyr;
 width = 1116;
 },
 {
-layerId = "F8B511E3-F85F-4C08-BE55-A6C7DD30BB8B";
+layerId = "F0087F8F-B8D9-4423-928D-6CEB922FB820";
 name = "SemiBoldItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -118,7 +118,7 @@ name = m.uni0328_4;
 position = "{1062, 0}";
 }
 );
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 alignment = -1;
@@ -143,7 +143,7 @@ name = m.uni0328_4;
 position = "{1056, 0}";
 }
 );
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 alignment = -1;

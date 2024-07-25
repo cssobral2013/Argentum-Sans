@@ -1,0 +1,99 @@
+{
+color = (153, 154, 255, 255);
+glyphname = hcedilla;
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{462, 1260}";
+},
+{
+name = top;
+position = "{815, 1094}";
+},
+{
+name = bottom;
+position = "{455, -530}";
+}
+);
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+shapes = (
+{
+alignment = -1;
+ref = h;
+},
+{
+alignment = -1;
+pos = (29,0);
+ref = cedillacomb;
+}
+);
+width = 1374;
+},
+{
+anchors = (
+{
+name = center;
+position = "{476, 1230}";
+},
+{
+name = top;
+position = "{846, 1062}";
+},
+{
+name = bottom;
+position = "{548, -444}";
+}
+);
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+shapes = (
+{
+alignment = -1;
+ref = h;
+},
+{
+alignment = -1;
+pos = (-50,0);
+ref = cedillacomb;
+}
+);
+width = 1338;
+},
+{
+anchors = (
+{
+name = center;
+position = "{440, 1218}";
+},
+{
+name = top;
+position = "{809, 1034}";
+},
+{
+name = bottom;
+position = "{543, -400}";
+}
+);
+guides = (
+{
+position = "{0, -150}";
+}
+);
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+shapes = (
+{
+alignment = -1;
+ref = h;
+},
+{
+alignment = -1;
+pos = (-61,0);
+ref = cedillacomb;
+}
+);
+width = 1274;
+}
+);
+unicode = 7721;
+}

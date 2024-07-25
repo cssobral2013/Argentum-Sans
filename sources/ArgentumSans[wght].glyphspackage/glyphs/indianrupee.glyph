@@ -2,8 +2,8 @@
 glyphname = indianrupee;
 layers = (
 {
-layerId = "5257AFA6-D4C6-4A7D-B96D-A391C6211527";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "D2D9BB39-DC67-433D-860A-BABEDB3351E2";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Bold Aug 11 16, 18:50";
 shapes = (
 {
@@ -56,8 +56,8 @@ angle = 90;
 position = "{1196, 0}";
 }
 );
-layerId = "98EEF56F-BA7D-4A50-A339-03DC3B4F7EC6";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "CDD1DACE-33D6-4211-AB9D-AAA25FE3519C";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Bold Aug 11 16, 18:32";
 shapes = (
 {
@@ -109,8 +109,8 @@ nodes = (
 width = 1110;
 },
 {
-layerId = "199870AD-9157-4CB7-ACCE-47841FF091AE";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "BCDDADE0-FA4A-44E3-8E3D-1EDE47AA8224";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Bold Aug 11 16, 18:24";
 shapes = (
 {
@@ -165,7 +165,7 @@ nodes = (
 width = 1450;
 },
 {
-layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 shapes = (
 {
 closed = 1;
@@ -215,7 +215,7 @@ nodes = (
 width = 1294;
 },
 {
-layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 shapes = (
 {
 closed = 1;
@@ -265,7 +265,7 @@ nodes = (
 width = 1162;
 },
 {
-layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 shapes = (
 {
 closed = 1;

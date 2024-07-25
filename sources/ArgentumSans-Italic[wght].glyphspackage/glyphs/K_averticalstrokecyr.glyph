@@ -2,7 +2,7 @@
 glyphname = Kaverticalstrokecyr;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -53,7 +53,7 @@ nodes = (
 width = 1636;
 },
 {
-layerId = "71048583-9008-4AD4-9406-9D2BFF8CF019";
+layerId = "04E3C8B1-7618-4D06-BB33-AE6D323253E6";
 name = "BoldItalic.Oct 6 17, 16:49";
 shapes = (
 {
@@ -105,7 +105,7 @@ nodes = (
 width = 1594;
 },
 {
-layerId = "372D5BD8-B1DD-4EBB-A0E0-B7C8085AC68E";
+layerId = "E17B7903-68FD-43B1-809C-614C62346A1D";
 name = "BoldItalic.Oct 7 17, 15:13";
 shapes = (
 {
@@ -157,7 +157,7 @@ nodes = (
 width = 1594;
 },
 {
-layerId = "A51D91FB-85D1-4A1F-86C9-E2FBB2CBC3A2";
+layerId = "36DD8844-A621-4AF1-A35D-F32F05BF92DB";
 name = "LightItalic.Oct 6 17, 16:48";
 shapes = (
 {
@@ -209,7 +209,7 @@ nodes = (
 width = 1406;
 },
 {
-layerId = "1726BE8D-1ED0-492C-992A-709D317CC6B5";
+layerId = "9019C720-0684-4195-B935-099742C592D7";
 name = "LightItalic.Oct 7 17, 15:13";
 shapes = (
 {
@@ -261,7 +261,7 @@ nodes = (
 width = 1450;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -312,7 +312,7 @@ nodes = (
 width = 1494;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

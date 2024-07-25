@@ -2,7 +2,7 @@
 glyphname = bracketleft;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -21,7 +21,7 @@ nodes = (
 width = 762;
 },
 {
-layerId = "BB732C6A-E0ED-476B-B84D-B39A02BB061C";
+layerId = "0079A4F3-5640-4BB0-A86E-7C6F0E07191C";
 name = "BoldItalic.Bold Italic Dec 28 15, 00:55";
 shapes = (
 {
@@ -78,7 +78,7 @@ nodes = (
 width = 970;
 },
 {
-layerId = "0AAF3157-F94A-4501-A7D4-EAF906815F16";
+layerId = "1DE658DF-57D2-4446-9C3D-221B03E63859";
 name = "LightItalic.Light Italic Dec 28 15, 00:55";
 shapes = (
 {
@@ -135,8 +135,8 @@ nodes = (
 width = 746;
 },
 {
-layerId = "9B2282EF-E66E-4680-9376-29563418C92E";
-associatedMasterId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "05A40777-C140-4114-812D-FEB63509D817";
+associatedMasterId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 name = "Regular Italic Dec 28 15, 00:55";
 shapes = (
 {
@@ -193,7 +193,7 @@ nodes = (
 width = 848;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -212,7 +212,7 @@ nodes = (
 width = 658;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

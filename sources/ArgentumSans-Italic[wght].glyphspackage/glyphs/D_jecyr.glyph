@@ -2,7 +2,7 @@
 glyphname = Djecyr;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -42,7 +42,7 @@ nodes = (
 width = 1736;
 },
 {
-layerId = "1064D2DE-7719-4000-922A-6083AE76FA26";
+layerId = "C34FBE46-CC64-4A03-B179-6E610175DB1B";
 name = "SemiBoldItalic.Oct 20 17, 16:18";
 shapes = (
 {
@@ -83,7 +83,7 @@ nodes = (
 width = 1674;
 },
 {
-layerId = "38244D7D-3590-43EE-BFBC-00AD3E05C26F";
+layerId = "F8FB3E48-C4A1-4434-B461-D06EB42BCBE7";
 name = "SemiBoldItalic.Oct 20 17, 13:11";
 shapes = (
 {
@@ -124,7 +124,7 @@ nodes = (
 width = 1674;
 },
 {
-layerId = "2587A00B-1589-45E0-9FD8-9EF0DF2EB4C4";
+layerId = "4F662371-3D0D-420F-874F-9B2924B14220";
 name = "BoldItalic.Oct 20 17, 13:11";
 shapes = (
 {
@@ -165,7 +165,7 @@ nodes = (
 width = 1736;
 },
 {
-layerId = "D2AE8B45-EA66-4FE1-8ED7-8DFE04B6C531";
+layerId = "D2964A61-99C6-481F-9C32-3B7DEBE2E2FB";
 name = "BoldItalic.Oct 20 17, 16:18";
 shapes = (
 {
@@ -206,7 +206,7 @@ nodes = (
 width = 1924;
 },
 {
-layerId = "0B4568BA-5003-4743-81FE-A0113384C9CE";
+layerId = "4192C79B-B6A7-43C9-A928-491F38B248CC";
 name = "BoldItalic.Oct 23 17, 12:02";
 shapes = (
 {
@@ -247,7 +247,7 @@ nodes = (
 width = 1738;
 },
 {
-layerId = "8CDE6A82-AD64-4CA3-9052-A041533F9C28";
+layerId = "E178F92E-0285-4897-8277-2FEDEA6F5003";
 name = "LightItalic.Oct 20 17, 13:11";
 shapes = (
 {
@@ -288,7 +288,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "5CBC6FAE-86BF-4439-AAF3-085A21E349FF";
+layerId = "85463FA3-60AF-4BC8-B906-7473ADC5E602";
 name = "LightItalic.Oct 20 17, 16:18";
 shapes = (
 {
@@ -329,7 +329,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -369,7 +369,7 @@ nodes = (
 width = 1674;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

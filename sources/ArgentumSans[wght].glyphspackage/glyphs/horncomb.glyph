@@ -8,8 +8,8 @@ name = _topright;
 position = "{0, 1094}";
 }
 );
-layerId = "ED945066-86FF-4C84-9357-E7245B06332F";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "62009C88-89E3-48E3-97A1-72C823C0BD41";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Bold Aug 9 16, 17:31";
 shapes = (
 {
@@ -41,7 +41,7 @@ name = _topright;
 position = "{0, 1094}";
 }
 );
-layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 shapes = (
 {
 closed = 1;
@@ -66,8 +66,8 @@ name = _topright;
 position = "{0, 1062}";
 }
 );
-layerId = "6A01ACDD-1819-43AF-9576-DD6B8232FF66";
-associatedMasterId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "09923C2C-A005-4441-9FDC-B631EE627A69";
+associatedMasterId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 name = "Regular Aug 9 16, 17:30";
 shapes = (
 {
@@ -99,7 +99,7 @@ name = _topright;
 position = "{0, 1062}";
 }
 );
-layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 shapes = (
 {
 closed = 1;
@@ -124,8 +124,8 @@ name = _topright;
 position = "{0, 1034}";
 }
 );
-layerId = "E7067894-41DB-442E-A816-3B6A8187A9E1";
-associatedMasterId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "596E2DD4-903E-42F4-8298-2EFC42245CCF";
+associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 name = "Light Aug 9 16, 17:29";
 shapes = (
 {
@@ -157,7 +157,7 @@ name = _topright;
 position = "{0, 1034}";
 }
 );
-layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 shapes = (
 {
 closed = 1;

@@ -8,7 +8,7 @@ name = top;
 position = "{716, 1400}";
 }
 );
-layerId = "DF301FFB-0557-4C31-9ADE-0019A29140D1";
+layerId = "29B5E954-B322-4422-AE02-7BCBC183C715";
 name = "SemiBold.Oct 24 17, 20:44";
 shapes = (
 {
@@ -59,8 +59,8 @@ name = top;
 position = "{740, 1400}";
 }
 );
-layerId = "7E4F4B70-36DD-424E-8CF5-97EF813E10E6";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "D3C6CB41-52A1-49B2-BB8C-ECA9CFBFA7A2";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Oct 24 17, 20:12";
 shapes = (
 {
@@ -93,8 +93,8 @@ nodes = (
 width = 1332;
 },
 {
-layerId = "D57A2219-72C4-46BF-8D58-C3589284F7BF";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "53B5E5C7-542B-40AD-B41A-13E27F27E4FE";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Oct 18 17, 23:51";
 shapes = (
 {
@@ -138,7 +138,7 @@ guides = (
 position = "{0, -100}";
 }
 );
-layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 shapes = (
 {
 closed = 1;
@@ -194,7 +194,7 @@ name = top;
 position = "{716, 1400}";
 }
 );
-layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 shapes = (
 {
 closed = 1;
@@ -250,7 +250,7 @@ name = top;
 position = "{714, 1400}";
 }
 );
-layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 shapes = (
 {
 closed = 1;

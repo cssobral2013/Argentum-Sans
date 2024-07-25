@@ -3,7 +3,17 @@ glyphname = f.liga.1;
 leftMetricsKey = f;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+anchors = (
+{
+name = top;
+position = "{693, 1564}";
+},
+{
+name = bottom;
+position = "{304, 0}";
+}
+);
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -39,7 +49,17 @@ nodes = (
 width = 843;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+anchors = (
+{
+name = top;
+position = "{642, 1532}";
+},
+{
+name = bottom;
+position = "{206, 0}";
+}
+);
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -75,7 +95,17 @@ nodes = (
 width = 662;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+anchors = (
+{
+name = top;
+position = "{645, 1524}";
+},
+{
+name = bottom;
+position = "{151, 0}";
+}
+);
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;
@@ -91,9 +121,9 @@ closed = 1;
 nodes = (
 (797,1513,l),
 (773,1519,o),
-(749,1523,o),
+(749,1524,o),
 (724,1524,cs),
-(564,1530,o),
+(564,1524,o),
 (410,1386,o),
 (372,1202,cs),
 (130,0,l),

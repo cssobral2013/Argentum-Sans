@@ -12,7 +12,7 @@ name = center;
 position = "{1399, 1160}";
 }
 );
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -64,7 +64,7 @@ nodes = (
 width = 2364;
 },
 {
-layerId = "2B638CE9-4E9D-4253-82BA-0A250DE429BD";
+layerId = "630FA540-360B-49F3-B7BF-8ADC80530B0D";
 name = "BoldItalic.Sep 18 17, 15:49";
 shapes = (
 {
@@ -141,7 +141,7 @@ name = center;
 position = "{1420, 1170}";
 }
 );
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -203,7 +203,7 @@ name = center;
 position = "{1422, 1180}";
 }
 );
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

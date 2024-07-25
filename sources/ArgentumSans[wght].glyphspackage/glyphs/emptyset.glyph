@@ -2,8 +2,8 @@
 glyphname = emptyset;
 layers = (
 {
-layerId = "959E9F60-A85A-44F4-9F05-703AF4545DC6";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "EDF56528-231F-4613-B458-AFCAA9A3E467";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Bold Aug 11 16, 20:53";
 shapes = (
 {
@@ -62,7 +62,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 shapes = (
 {
 closed = 1;
@@ -111,7 +111,7 @@ nodes = (
 width = 1180;
 },
 {
-layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 shapes = (
 {
 closed = 1;
@@ -160,7 +160,7 @@ nodes = (
 width = 956;
 },
 {
-layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 shapes = (
 {
 closed = 1;

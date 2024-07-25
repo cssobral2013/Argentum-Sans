@@ -2,7 +2,7 @@
 glyphname = Hahookcyr;
 layers = (
 {
-layerId = "67457D57-B4F4-46E9-9F80-B648C172EF17";
+layerId = "5BAFF163-05BC-46DF-B8F8-1EEAD4C6E391";
 name = "SemiBold.Oct 24 17, 21:08";
 shapes = (
 {
@@ -44,8 +44,8 @@ nodes = (
 width = 1336;
 },
 {
-layerId = "2B047224-1AC0-42E6-BF94-2965D9176C52";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "E93897B0-A60E-49E8-9D06-13F9FEC4F6FC";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Sep 25 17, 09:26";
 shapes = (
 {
@@ -83,8 +83,8 @@ nodes = (
 width = 1524;
 },
 {
-layerId = "5FB4E466-D49F-42F9-97C8-07F2002222CB";
-associatedMasterId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "D9ABD601-25D8-484A-86F7-94D2BB47BC1F";
+associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 name = "Oct 24 17, 21:08";
 shapes = (
 {
@@ -126,7 +126,7 @@ nodes = (
 width = 1546;
 },
 {
-layerId = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 shapes = (
 {
 closed = 1;
@@ -172,7 +172,7 @@ nodes = (
 width = 1546;
 },
 {
-layerId = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 shapes = (
 {
 closed = 1;
@@ -227,8 +227,8 @@ position = "{1192, 0}";
 position = "{0, -394}";
 }
 );
-layerId = "861BC1B7-AD05-4F56-845D-9707DAB9477D";
-associatedMasterId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "D2A26BD4-1479-4EA2-993E-217FAB1288EE";
+associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 name = "Sep 25 17, 09:25";
 shapes = (
 {
@@ -272,8 +272,8 @@ angle = 90;
 position = "{1192, 0}";
 }
 );
-layerId = "CCFF9BEE-F678-451F-A56E-B5289D095D20";
-associatedMasterId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "DBFC2204-5944-40D9-ABD2-1F12152A1FA3";
+associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 name = "Sep 20 17, 21:43";
 shapes = (
 {
@@ -320,8 +320,8 @@ position = "{1178, 0}";
 position = "{0, -394}";
 }
 );
-layerId = "30041781-3FC4-476C-AD22-E915887AE8F3";
-associatedMasterId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "6D70AF45-F231-465C-AD79-87111CD230E8";
+associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 name = "Oct 24 17, 21:08";
 shapes = (
 {
@@ -372,7 +372,7 @@ position = "{1176, 0}";
 position = "{0, -394}";
 }
 );
-layerId = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 shapes = (
 {
 closed = 1;

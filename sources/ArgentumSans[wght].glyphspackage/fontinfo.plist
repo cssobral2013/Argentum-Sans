@@ -417,6 +417,7 @@ Zdotaccent,
 zdotaccent,
 Zcaron,
 zcaron,
+longs,
 Schwa,
 florin,
 Ohorn,
@@ -515,10 +516,13 @@ commaturnedabovecomb,
 horncomb,
 dotbelowcomb,
 dieresisbelowcomb,
+ringbelowcomb,
 commaaccentcomb,
 cedillacomb,
 ogonekcomb,
+circumflexbelowcomb,
 brevebelowcomb,
+tildebelowcomb,
 macronbelowcomb,
 strokeshortcomb,
 strokelongcomb,
@@ -831,30 +835,72 @@ Enhookleftcyr,
 enhookleftcyr,
 Eltailcyr,
 eltailcyr,
+Aringbelow,
+aringbelow,
+Bdot,
+bdot,
+Bdotbelow,
+bdotbelow,
+Blinebelow,
+blinebelow,
 Ccedillaacute,
 ccedillaacute,
+Ddot,
+ddot,
 Ddotbelow,
 ddotbelow,
 Dlinebelow,
 dlinebelow,
+Dcedilla,
+dcedilla,
+Dcircumflexbelow,
+dcircumflexbelow,
 Emacrongrave,
 emacrongrave,
 Emacronacute,
 emacronacute,
+Ecircumflexbelow,
+ecircumflexbelow,
+Etildebelow,
+etildebelow,
 Ecedillabreve,
 ecedillabreve,
+Fdot,
+fdot,
 Gmacron,
 gmacron,
+Hdot,
+hdot,
 Hdotbelow,
 hdotbelow,
+Hdieresis,
+hdieresis,
+Hcedilla,
+hcedilla,
 Hbrevebelow,
 hbrevebelow,
+Itildebelow,
+itildebelow,
 Idieresisacute,
 idieresisacute,
+Kacute,
+kacute,
+Kdotbelow,
+kdotbelow,
+Klinebelow,
+klinebelow,
 Ldotbelow,
 ldotbelow,
+Lmacrondot,
+lmacrondot,
 Llinebelow,
 llinebelow,
+Lcircumflexbelow,
+lcircumflexbelow,
+Macute,
+macute,
+Mdot,
+mdot,
 Mdotbelow,
 mdotbelow,
 Ndot,
@@ -863,6 +909,8 @@ Ndotbelow,
 ndotbelow,
 Nlinebelow,
 nlinebelow,
+Ncircumflexbelow,
+ncircumflexbelow,
 Otildeacute,
 otildeacute,
 Otildedieresis,
@@ -871,8 +919,16 @@ Omacrongrave,
 omacrongrave,
 Omacronacute,
 omacronacute,
+Pacute,
+pacute,
+Pdot,
+pdot,
+Rdot,
+rdot,
 Rdotbelow,
 rdotbelow,
+Rmacrondot,
+rmacrondot,
 Rlinebelow,
 rlinebelow,
 Sdot,
@@ -885,25 +941,56 @@ Scarondot,
 scarondot,
 Sdotbelowdotabove,
 sdotbelowdotabove,
+Tdot,
+tdot,
 Tdotbelow,
 tdotbelow,
 Tlinebelow,
 tlinebelow,
+Tcircumflexbelow,
+tcircumflexbelow,
+Udieresisbelow,
+udieresisbelow,
+Utildebelow,
+utildebelow,
+Ucircumflexbelow,
+ucircumflexbelow,
 Utildeacute,
 utildeacute,
 Umacrondieresis,
 umacrondieresis,
+Vtilde,
+vtilde,
+Vdotbelow,
+vdotbelow,
 Wgrave,
 wgrave,
 Wacute,
 wacute,
 Wdieresis,
 wdieresis,
+Wdot,
+wdot,
+Wdotbelow,
+wdotbelow,
+Xdot,
+xdot,
+Xdieresis,
+xdieresis,
 Ydot,
 ydot,
+Zcircumflex,
+zcircumflex,
 Zdotbelow,
 zdotbelow,
+Zlinebelow,
+zlinebelow,
+hlinebelow,
 tdieresis,
+wring,
+yring,
+arighthalfring,
+longsdot,
 Germandbls,
 Adotbelow,
 adotbelow,
@@ -1200,6 +1287,7 @@ T_h,
 bracketleft.case,
 backslash.case,
 bracketright.case,
+f.f,
 f.liga.1,
 f.liga.2,
 braceleft.case,
@@ -1428,7 +1516,7 @@ idotaccent,
 jacute,
 verticallinelowmodcomb,
 brevecyrcomb.case,
-f.f
+macroncomb.alt
 );
 },
 {
@@ -1604,6 +1692,7 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
+
 ";
 tag = Languagesystems;
 }
@@ -4303,7 +4392,7 @@ guides = (
 position = "{0, 491}";
 }
 );
-id = "60C6F403-B830-40DC-BC91-C1CD2FDD7472";
+id = "A37310BC-51AC-4F96-8729-E7F4F8535551";
 metricValues = (
 {
 over = 3;
@@ -4523,7 +4612,7 @@ guides = (
 position = "{0, 526}";
 }
 );
-id = "9BB73D9E-E1CF-483B-8FF3-2862F5B712F7";
+id = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
 metricValues = (
 {
 over = 20;
@@ -4741,7 +4830,7 @@ guides = (
 position = "{0, -142}";
 }
 );
-id = "3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754";
+id = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
 metricValues = (
 {
 over = 3;
@@ -4873,7 +4962,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754" = {
+"7132A246-D2BE-45EF-90A2-0D7A42C907F4" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -7174,7 +7263,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"60C6F403-B830-40DC-BC91-C1CD2FDD7472" = {
+"A37310BC-51AC-4F96-8729-E7F4F8535551" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -9475,7 +9564,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"9BB73D9E-E1CF-483B-8FF3-2862F5B712F7" = {
+"D0849346-794E-4F15-8942-BE6C34F6B6A6" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -11892,7 +11981,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"60C6F403-B830-40DC-BC91-C1CD2FDD7472" = {
+"A37310BC-51AC-4F96-8729-E7F4F8535551" = {
 HV = 20;
 HH = 20;
 OV = 20;
@@ -11902,7 +11991,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"9BB73D9E-E1CF-483B-8FF3-2862F5B712F7" = {
+"D0849346-794E-4F15-8942-BE6C34F6B6A6" = {
 HV = 118;
 HH = 100;
 OV = 120;
@@ -11912,7 +12001,7 @@ oH = 91;
 nV = 115;
 tH = 82;
 };
-"3FDA15A3-2E5D-4DE0-8D90-0C5D946D3754" = {
+"7132A246-D2BE-45EF-90A2-0D7A42C907F4" = {
 HV = 232;
 HH = 176;
 OV = 238;
@@ -11925,5 +12014,5 @@ tH = 142;
 };
 };
 versionMajor = 3;
-versionMinor = 127;
+versionMinor = 128;
 }

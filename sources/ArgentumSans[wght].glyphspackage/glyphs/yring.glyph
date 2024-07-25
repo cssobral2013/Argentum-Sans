@@ -1,0 +1,82 @@
+{
+color = (153, 154, 255, 255);
+glyphname = yring;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{1052, 0}";
+},
+{
+name = top;
+position = "{624, 1590}";
+}
+);
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (306,0);
+ref = ringcomb;
+}
+);
+width = 1248;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{832, 0}";
+},
+{
+name = top;
+position = "{536, 1506}";
+}
+);
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (190,0);
+ref = ringcomb;
+}
+);
+width = 1062;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{672, 0}";
+},
+{
+name = top;
+position = "{466, 1396}";
+}
+);
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (108,0);
+ref = ringcomb;
+}
+);
+width = 912;
+}
+);
+unicode = 7833;
+}

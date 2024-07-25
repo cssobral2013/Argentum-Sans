@@ -2,7 +2,7 @@
 glyphname = Zhetailcyr;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
 shapes = (
 {
 closed = 1;
@@ -38,7 +38,7 @@ name = top;
 position = "{1120, 1400}";
 }
 );
-layerId = "716728EC-D09D-437F-907D-A41E8C923494";
+layerId = "97A3C7D1-845C-478C-9141-D90129177C71";
 name = "BoldItalic.Oct 6 17, 16:44";
 shapes = (
 {
@@ -116,7 +116,7 @@ name = top;
 position = "{996, 1400}";
 }
 );
-layerId = "154EE0B8-E296-4DB6-8981-067FD777EA53";
+layerId = "CC8DEF06-6CFE-40C7-AF6F-3F46E9F32DC0";
 name = "LightItalic.Oct 6 17, 16:44";
 shapes = (
 {
@@ -180,7 +180,7 @@ nodes = (
 width = 2048;
 },
 {
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
 shapes = (
 {
 closed = 1;
@@ -202,7 +202,7 @@ ref = Zhecyr;
 width = 2152;
 },
 {
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 closed = 1;

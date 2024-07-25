@@ -1,0 +1,91 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Dcedilla;
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{460, 700}";
+},
+{
+name = top;
+position = "{816, 1402}";
+},
+{
+name = bottom;
+position = "{430, -530}";
+}
+);
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+pos = (400,0);
+ref = commaaccentcomb;
+}
+);
+width = 1516;
+},
+{
+anchors = (
+{
+name = center;
+position = "{460, 700}";
+},
+{
+name = top;
+position = "{872, 1400}";
+},
+{
+name = bottom;
+position = "{512, -444}";
+}
+);
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+pos = (496,0);
+ref = commaaccentcomb;
+}
+);
+width = 1550;
+},
+{
+anchors = (
+{
+name = center;
+position = "{447, 702}";
+},
+{
+name = top;
+position = "{901, 1398}";
+},
+{
+name = bottom;
+position = "{585, -400}";
+}
+);
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+pos = (599,0);
+ref = commaaccentcomb;
+}
+);
+width = 1624;
+}
+);
+unicode = 7696;
+}

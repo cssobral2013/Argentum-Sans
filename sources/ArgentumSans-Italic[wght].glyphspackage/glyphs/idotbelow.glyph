@@ -2,7 +2,35 @@
 glyphname = idotbelow;
 layers = (
 {
-layerId = "6A7A32D0-3BFD-43C1-930A-C854163D3177";
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+pos = (15,0);
+ref = dotbelowcomb;
+}
+);
+width = 670;
+},
+{
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+pos = (60,0);
+ref = dotbelowcomb;
+}
+);
+width = 568;
+},
+{
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
 shapes = (
 {
 alignment = -1;
@@ -10,34 +38,6 @@ ref = i;
 },
 {
 pos = (59,0);
-ref = dotbelowcomb;
-}
-);
-width = 670;
-},
-{
-layerId = "A3BFC84F-57DC-4376-84A1-AB8B7A21073A";
-shapes = (
-{
-alignment = -1;
-ref = i;
-},
-{
-pos = (53,0);
-ref = dotbelowcomb;
-}
-);
-width = 568;
-},
-{
-layerId = "CC7E1963-6536-4D59-9993-97487CDAFD05";
-shapes = (
-{
-alignment = -1;
-ref = i;
-},
-{
-pos = (89,0);
 ref = dotbelowcomb;
 }
 );

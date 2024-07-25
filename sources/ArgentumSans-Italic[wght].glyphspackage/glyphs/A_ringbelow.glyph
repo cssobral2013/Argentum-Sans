@@ -1,0 +1,80 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Aringbelow;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{1338, 0}";
+},
+{
+name = top;
+position = "{904, 1400}";
+}
+);
+layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (764,0);
+ref = ringbelowcomb;
+}
+);
+width = 1596;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{1368, 0}";
+},
+{
+name = top;
+position = "{862, 1400}";
+}
+);
+layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (768,0);
+ref = ringbelowcomb;
+}
+);
+width = 1476;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{1250, 0}";
+},
+{
+name = top;
+position = "{816, 1400}";
+}
+);
+layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (686,0);
+ref = ringbelowcomb;
+}
+);
+width = 1374;
+}
+);
+unicode = 7680;
+}

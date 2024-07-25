@@ -1,0 +1,70 @@
+{
+color = (153, 154, 255, 255);
+glyphname = wring;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{978, 1590}";
+}
+);
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (660,0);
+ref = ringcomb;
+}
+);
+width = 1954;
+},
+{
+anchors = (
+{
+name = top;
+position = "{902, 1506}";
+}
+);
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (556,0);
+ref = ringcomb;
+}
+);
+width = 1786;
+},
+{
+anchors = (
+{
+name = top;
+position = "{818, 1396}";
+}
+);
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (460,0);
+ref = ringcomb;
+}
+);
+width = 1636;
+}
+);
+unicode = 7832;
+}

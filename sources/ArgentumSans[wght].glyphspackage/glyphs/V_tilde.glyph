@@ -1,0 +1,70 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Vtilde;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{777, 1846}";
+}
+);
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (357,306);
+ref = tildecomb;
+}
+);
+width = 1526;
+},
+{
+anchors = (
+{
+name = top;
+position = "{690, 1756}";
+}
+);
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (300,336);
+ref = tildecomb;
+}
+);
+width = 1380;
+},
+{
+anchors = (
+{
+name = top;
+position = "{628, 1646}";
+}
+);
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (322,366);
+ref = tildecomb;
+}
+);
+width = 1254;
+}
+);
+unicode = 7804;
+}

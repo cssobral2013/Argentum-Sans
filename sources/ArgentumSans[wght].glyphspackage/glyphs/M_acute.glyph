@@ -1,0 +1,79 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Macute;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{936, 0}";
+},
+{
+name = top;
+position = "{938, 1866}";
+}
+);
+layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+shapes = (
+{
+alignment = -1;
+ref = M;
+},
+{
+pos = (487,308);
+ref = acutecomb;
+}
+);
+width = 1876;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{940, 0}";
+},
+{
+name = top;
+position = "{941, 1846}";
+}
+);
+layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+shapes = (
+{
+alignment = -1;
+ref = M;
+},
+{
+pos = (527,338);
+ref = acutecomb;
+}
+);
+width = 1880;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{936, 0}";
+},
+{
+name = top;
+position = "{936, 1844}";
+}
+);
+layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+shapes = (
+{
+alignment = -1;
+ref = M;
+},
+{
+pos = (612,364);
+ref = acutecomb;
+}
+);
+width = 1870;
+}
+);
+unicode = 7742;
+}
