@@ -2,7 +2,7 @@
 glyphname = ljecyr;
 layers = (
 {
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 alignment = -1;
@@ -16,7 +16,7 @@ ref = softcyr;
 width = 2006;
 },
 {
-layerId = "11110DF1-9677-438B-B265-FD0E13380904";
+layerId = "8E7780C9-E78D-4F21-A60D-AEBBEE668B5A";
 name = "BoldItalic.Oct 12 17, 10:49";
 shapes = (
 {
@@ -63,7 +63,7 @@ nodes = (
 width = 1906;
 },
 {
-layerId = "2A8BACA9-8E1B-4654-89D0-B8EEF8475884";
+layerId = "24F70A7F-A401-4A34-ACF2-8FFDB78F359C";
 name = "BoldItalic.Oct 9 17, 09:56";
 shapes = (
 {
@@ -110,7 +110,7 @@ nodes = (
 width = 1916;
 },
 {
-layerId = "EBFA82FC-2A99-4C43-BEA4-86932F40B36A";
+layerId = "A54476D5-BD54-4069-8E06-96AAAAC5FE53";
 name = "LightItalic.Oct 12 17, 10:49";
 shapes = (
 {
@@ -157,7 +157,7 @@ nodes = (
 width = 1768;
 },
 {
-layerId = "1591A86C-8A6B-44AB-9C23-46DFE8F672FF";
+layerId = "5A1C0EA9-F193-4FFE-894B-FE71C4CF373D";
 name = "LightItalic.Oct 9 17, 09:56";
 shapes = (
 {
@@ -204,7 +204,7 @@ nodes = (
 width = 1784;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 alignment = -1;
@@ -218,7 +218,7 @@ ref = softcyr;
 width = 1880;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 alignment = -1;

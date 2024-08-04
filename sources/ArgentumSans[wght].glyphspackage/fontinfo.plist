@@ -1516,7 +1516,8 @@ idotaccent,
 jacute,
 verticallinelowmodcomb,
 brevecyrcomb.case,
-macroncomb.alt
+macroncomb.alt,
+bitcoin
 );
 },
 {
@@ -1692,7 +1693,6 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
-
 ";
 tag = Languagesystems;
 }
@@ -4392,7 +4392,7 @@ guides = (
 position = "{0, 491}";
 }
 );
-id = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+id = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 metricValues = (
 {
 over = 3;
@@ -4612,7 +4612,7 @@ guides = (
 position = "{0, 526}";
 }
 );
-id = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+id = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
 metricValues = (
 {
 over = 20;
@@ -4830,7 +4830,7 @@ guides = (
 position = "{0, -142}";
 }
 );
-id = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+id = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 metricValues = (
 {
 over = 3;
@@ -4962,7 +4962,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"7132A246-D2BE-45EF-90A2-0D7A42C907F4" = {
+"4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -7263,7 +7263,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"A37310BC-51AC-4F96-8729-E7F4F8535551" = {
+"8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -9564,7 +9564,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"D0849346-794E-4F15-8942-BE6C34F6B6A6" = {
+"A0A167AB-9D0E-40C0-91B8-4D2A22A7768E" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -11981,7 +11981,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"A37310BC-51AC-4F96-8729-E7F4F8535551" = {
+"4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288" = {
 HV = 20;
 HH = 20;
 OV = 20;
@@ -11991,7 +11991,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"D0849346-794E-4F15-8942-BE6C34F6B6A6" = {
+"A0A167AB-9D0E-40C0-91B8-4D2A22A7768E" = {
 HV = 118;
 HH = 100;
 OV = 120;
@@ -12001,7 +12001,7 @@ oH = 91;
 nV = 115;
 tH = 82;
 };
-"7132A246-D2BE-45EF-90A2-0D7A42C907F4" = {
+"8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9" = {
 HV = 232;
 HH = 176;
 OV = 238;
@@ -12014,5 +12014,5 @@ tH = 142;
 };
 };
 versionMajor = 3;
-versionMinor = 128;
+versionMinor = 129;
 }

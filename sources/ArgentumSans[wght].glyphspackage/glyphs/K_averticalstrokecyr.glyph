@@ -2,8 +2,8 @@
 glyphname = Kaverticalstrokecyr;
 layers = (
 {
-layerId = "D28CA3EF-9918-4B79-9CB1-A40EA801921D";
-associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "64936336-CB4B-4429-878C-4CBEFB7227F0";
+associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 name = "Oct 7 17, 15:13";
 shapes = (
 {
@@ -55,8 +55,8 @@ nodes = (
 width = 1594;
 },
 {
-layerId = "3D98A2AE-AD2F-4F40-B6DB-2295C2F20370";
-associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "FE42477A-BE74-4F3D-A925-A2AC8878BA60";
+associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 name = "Oct 6 17, 16:49";
 shapes = (
 {
@@ -108,7 +108,7 @@ nodes = (
 width = 1594;
 },
 {
-layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 shapes = (
 {
 closed = 1;
@@ -159,7 +159,7 @@ nodes = (
 width = 1636;
 },
 {
-layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
 shapes = (
 {
 closed = 1;
@@ -210,8 +210,8 @@ nodes = (
 width = 1494;
 },
 {
-layerId = "6EC9BA9A-9E81-4ABB-AACD-F9D1C43D180C";
-associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "D70478ED-231B-43FA-A6AB-EBCFAF4BDC6A";
+associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 name = "Oct 7 17, 15:13";
 shapes = (
 {
@@ -263,8 +263,8 @@ nodes = (
 width = 1450;
 },
 {
-layerId = "70525204-1C30-4B52-B37C-18F8E644F896";
-associatedMasterId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "1992D538-0F8A-43F2-AD82-BD8118304AEB";
+associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 name = "Oct 6 17, 16:48";
 shapes = (
 {
@@ -316,7 +316,7 @@ nodes = (
 width = 1406;
 },
 {
-layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 shapes = (
 {
 closed = 1;

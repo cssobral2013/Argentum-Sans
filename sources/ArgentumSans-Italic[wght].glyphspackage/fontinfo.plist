@@ -1513,7 +1513,8 @@ idotaccent,
 jacute,
 verticallinelowmodcomb,
 brevecyrcomb.case,
-macroncomb.alt
+macroncomb.alt,
+bitcoin
 );
 },
 {
@@ -1653,7 +1654,6 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
-
 ";
 tag = Languagesystems;
 }
@@ -3460,7 +3460,7 @@ guides = (
 position = "{0, 544}";
 }
 );
-id = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+id = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 metricValues = (
 {
 pos = 1850;
@@ -3472,7 +3472,7 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 11.3;
+pos = 11.31;
 },
 {
 pos = 1034;
@@ -3604,7 +3604,7 @@ guides = (
 position = "{0, 619}";
 }
 );
-id = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+id = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 metricValues = (
 {
 pos = 1850;
@@ -3616,7 +3616,7 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 11.3;
+pos = 11.31;
 },
 {
 pos = 1064;
@@ -3747,7 +3747,7 @@ guides = (
 position = "{0, 1034}";
 }
 );
-id = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+id = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 metricValues = (
 {
 pos = 1850;
@@ -3759,7 +3759,7 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 11.3;
+pos = 11.31;
 },
 {
 pos = 1094;
@@ -3851,7 +3851,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"288DB91C-ADA9-4EAE-B002-103CECDA4F2F" = {
+"3412EF41-8D40-4AD8-A3E8-23555CC779E5" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -6152,7 +6152,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"DF367E9D-3B3B-43F4-BC7A-7EE40495C523" = {
+"9043404F-E9C5-4B3E-B15A-843443318E3E" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -8453,7 +8453,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"FADC2794-F71C-487D-BA21-AA7BC8CC963C" = {
+"E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -10849,7 +10849,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"FADC2794-F71C-487D-BA21-AA7BC8CC963C" = {
+"3412EF41-8D40-4AD8-A3E8-23555CC779E5" = {
 HV = 20;
 HH = 20;
 OH = 20;
@@ -10857,7 +10857,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"DF367E9D-3B3B-43F4-BC7A-7EE40495C523" = {
+"E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C" = {
 HV = 118;
 HH = 100;
 OH = 100;
@@ -10865,7 +10865,7 @@ oH = 91;
 nV = 116;
 tH = 82;
 };
-"288DB91C-ADA9-4EAE-B002-103CECDA4F2F" = {
+"9043404F-E9C5-4B3E-B15A-843443318E3E" = {
 HV = 232;
 HH = 176;
 OH = 193;
@@ -10876,5 +10876,5 @@ tH = 142;
 };
 };
 versionMajor = 3;
-versionMinor = 128;
+versionMinor = 129;
 }

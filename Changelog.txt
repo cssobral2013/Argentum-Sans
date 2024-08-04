@@ -178,3 +178,6 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  Changelog of Argentum Sans, v3.128 (in no particular order):
 - Re-added all Unicode support from U+1E00 to U+1E9B & U+1E9E
 - Some fixes in localized Cyrillic for Serbian & Bulgarian
+
+ Changelog of Argentum Sans, v3.129 (in no particular order):
+- New '3', '4', & '5'

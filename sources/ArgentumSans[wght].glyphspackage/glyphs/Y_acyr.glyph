@@ -2,8 +2,8 @@
 glyphname = Yacyr;
 layers = (
 {
-layerId = "C56ECE76-DF2E-4315-95CB-F38AC94BF434";
-associatedMasterId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "EF3ACB68-1E58-4D39-AFE6-6AA30229BF9D";
+associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 name = "Sep 26 17, 14:31";
 shapes = (
 {
@@ -58,7 +58,7 @@ name = top;
 position = "{696, 1400}";
 }
 );
-layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 shapes = (
 {
 closed = 1;
@@ -112,7 +112,7 @@ name = top;
 position = "{682, 1400}";
 }
 );
-layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
 shapes = (
 {
 closed = 1;
@@ -166,7 +166,7 @@ name = top;
 position = "{686, 1400}";
 }
 );
-layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 shapes = (
 {
 closed = 1;

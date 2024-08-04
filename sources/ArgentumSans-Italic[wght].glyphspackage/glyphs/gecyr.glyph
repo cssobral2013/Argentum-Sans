@@ -16,7 +16,7 @@ name = top;
 position = "{698, 1094}";
 }
 );
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 closed = 1;
@@ -40,7 +40,7 @@ name = bottomleft;
 position = "{92, 0}";
 }
 );
-layerId = "9F4005DB-150F-411A-8AA3-FF55BC2C0C07";
+layerId = "C2236FA8-3C0D-4330-B309-94EAF96F32D9";
 name = "BoldItalic.Oct 9 17, 10:29";
 shapes = (
 {
@@ -65,7 +65,7 @@ name = bottomleft;
 position = "{254, 0}";
 }
 );
-layerId = "78C58131-02E3-4D03-839A-2AA77F70551F";
+layerId = "461AF32F-DA60-40E1-A552-5F5FECEA3D58";
 name = "LightItalic.Oct 6 17, 17:13";
 shapes = (
 {
@@ -98,7 +98,7 @@ name = top;
 position = "{688, 1060}";
 }
 );
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 closed = 1;
@@ -130,7 +130,7 @@ name = top;
 position = "{681, 1034}";
 }
 );
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 closed = 1;

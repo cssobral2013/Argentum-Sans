@@ -16,7 +16,7 @@ name = m.uni0328_4;
 position = "{982, 0}";
 }
 );
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 closed = 1;
@@ -36,7 +36,7 @@ ref = reversedzecyr;
 width = 1190;
 },
 {
-layerId = "3277EE06-CD08-474E-8B9D-FE0822FAF228";
+layerId = "7B283194-971B-4D11-92D7-C044A793BDA1";
 name = "LightItalic.Oct 24 17, 12:33";
 shapes = (
 {
@@ -47,7 +47,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "EC4E83B5-4B4D-44B5-9B23-7414814DED24";
+layerId = "7EE01668-D428-4FFE-AAC4-EFBC13F73CF5";
 name = "LightItalic.Oct 24 17, 12:32";
 shapes = (
 {
@@ -58,7 +58,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "6E03C778-6E83-47ED-8D33-6463864A1BA1";
+layerId = "21B92106-A382-4FD8-9427-0BC95BB38CFE";
 name = "LightItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -69,7 +69,7 @@ ref = reversedzecyr;
 width = 1028;
 },
 {
-layerId = "AC72AB1C-99BE-4D88-AF4B-313105A9C0CA";
+layerId = "F9204E71-8516-4A1D-86D6-51FEA5595232";
 name = "LightItalic.Oct 12 17, 11:30";
 shapes = (
 {
@@ -80,7 +80,7 @@ ref = reversedzecyr;
 width = 1012;
 },
 {
-layerId = "69F974DB-A14F-4571-999F-CFFDA79EEA15";
+layerId = "0BFAA930-CD33-4734-BCC2-B146011BF71D";
 name = "BoldItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -91,7 +91,7 @@ ref = reversedzecyr;
 width = 1166;
 },
 {
-layerId = "515732FA-F18B-47F5-9008-3F57F771E2A1";
+layerId = "CD897938-15C7-42F4-ADB3-6F7A2A0E6384";
 name = "BoldItalic.Oct 12 17, 11:29";
 shapes = (
 {
@@ -102,7 +102,7 @@ ref = reversedzecyr;
 width = 1116;
 },
 {
-layerId = "F0087F8F-B8D9-4423-928D-6CEB922FB820";
+layerId = "777B400A-02C9-460C-87A7-E20F92096164";
 name = "SemiBoldItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -127,7 +127,7 @@ name = m.uni0328_4;
 position = "{1062, 0}";
 }
 );
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 closed = 1;
@@ -161,7 +161,7 @@ name = m.uni0328_4;
 position = "{1056, 0}";
 }
 );
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 closed = 1;

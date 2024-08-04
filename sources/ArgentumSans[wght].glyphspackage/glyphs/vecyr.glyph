@@ -12,7 +12,7 @@ name = top;
 position = "{622, 1064}";
 }
 );
-layerId = "2BDC107A-D6FA-4FCF-9888-716C1BEB1D0E";
+layerId = "9F5DDC20-A50F-4D24-A416-BA951F06A9A4";
 name = "SemiBold.Oct 17 17, 16:22";
 shapes = (
 {
@@ -68,7 +68,7 @@ nodes = (
 width = 1220;
 },
 {
-layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 shapes = (
 {
 closed = 1;
@@ -123,7 +123,7 @@ nodes = (
 width = 1258;
 },
 {
-layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
 shapes = (
 {
 closed = 1;
@@ -178,7 +178,7 @@ nodes = (
 width = 1236;
 },
 {
-layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 shapes = (
 {
 closed = 1;

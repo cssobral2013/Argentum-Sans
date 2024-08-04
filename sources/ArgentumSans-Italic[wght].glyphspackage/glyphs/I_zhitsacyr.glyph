@@ -7,7 +7,7 @@ guides = (
 position = "{0, 1432}";
 }
 );
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 closed = 1;
@@ -36,7 +36,7 @@ guides = (
 position = "{0, 1432}";
 }
 );
-layerId = "107A82C0-46D0-4D1D-A1A6-B361463D9878";
+layerId = "CED0837B-C96C-426D-8FA5-64D7042237F7";
 name = "BoldItalic.Sep 16 17, 11:39";
 shapes = (
 {
@@ -62,7 +62,7 @@ nodes = (
 width = 1766;
 },
 {
-layerId = "5B7B7D47-6E4B-43A3-9DFA-25BF667DAC31";
+layerId = "EF9AE4D7-380A-4528-AC75-67BBEB044690";
 name = "LightItalic.Sep 16 17, 11:39";
 shapes = (
 {
@@ -88,7 +88,7 @@ nodes = (
 width = 1528;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 closed = 1;
@@ -112,7 +112,7 @@ nodes = (
 width = 1536;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,7 @@
 glyphname = horncomb.o;
 layers = (
 {
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 closed = 1;
@@ -33,7 +33,7 @@ name = _topright;
 position = "{0, 1094}";
 }
 );
-layerId = "EBEF8FEC-72C8-4902-BAD5-CFCAFA6E5895";
+layerId = "62DD65BA-7164-412D-A7C3-2A3668D94FCC";
 name = "BoldItalic.Bold Aug 9 16, 17:31";
 shapes = (
 {
@@ -65,7 +65,7 @@ name = _topright;
 position = "{0, 1034}";
 }
 );
-layerId = "D8A790C1-3384-4749-B499-71F618D341E8";
+layerId = "919AB1E8-3A30-444E-853F-9241B1AA2EAC";
 name = "LightItalic.Light Aug 9 16, 17:29";
 shapes = (
 {
@@ -97,8 +97,8 @@ name = _topright;
 position = "{0, 1062}";
 }
 );
-layerId = "F44B40F6-C614-4047-A5DB-F34D5881BFDA";
-associatedMasterId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E6BFFC38-58C3-4C0D-BFAD-27F314D902B7";
+associatedMasterId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 name = "Regular Aug 9 16, 17:30";
 shapes = (
 {
@@ -124,7 +124,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 closed = 1;
@@ -149,7 +149,7 @@ nodes = (
 width = 468;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 closed = 1;

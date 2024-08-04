@@ -2,7 +2,7 @@
 glyphname = naira;
 layers = (
 {
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 closed = 1;
@@ -79,7 +79,7 @@ nodes = (
 width = 1640;
 },
 {
-layerId = "BD7D9685-CA70-439A-BA69-9BD5BE68E465";
+layerId = "8FC2B3E9-140D-47AB-93FF-D39A719E9E7C";
 name = "BoldItalic.Bold Italic [120]";
 shapes = (
 {
@@ -139,8 +139,8 @@ nodes = (
 width = 1722;
 },
 {
-layerId = "D68B9941-AD03-48AE-B5A1-A502838846DD";
-associatedMasterId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "DD6F63F4-FF3D-4CF0-8B35-1F2B541A9D91";
+associatedMasterId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 name = "Regular Italic [120]";
 shapes = (
 {
@@ -200,7 +200,7 @@ nodes = (
 width = 1680;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 closed = 1;
@@ -277,7 +277,7 @@ nodes = (
 width = 1514;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 closed = 1;

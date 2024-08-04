@@ -2,7 +2,7 @@
 glyphname = commaaccentcomb.alt;
 layers = (
 {
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
 alignment = -1;
@@ -20,7 +20,7 @@ name = _top;
 position = "{0, 1094}";
 }
 );
-layerId = "9D60E971-8522-4281-99B6-50B755C5C073";
+layerId = "46C797BA-0641-4BB4-90C0-A8A3CC2FE3C3";
 name = "BoldItalic.Bold Aug 12 16, 13:01";
 shapes = (
 {
@@ -54,7 +54,7 @@ name = _top;
 position = "{0, 1034}";
 }
 );
-layerId = "6C4168FA-DFCE-4270-94BF-BFBB149EA3DE";
+layerId = "5618C8F5-698E-424D-8C3D-09A4430745F9";
 name = "LightItalic.Light Aug 12 16, 13:02";
 shapes = (
 {
@@ -82,7 +82,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
 alignment = -1;
@@ -94,7 +94,7 @@ ref = commaaccentcomb;
 width = 470;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
 alignment = -1;

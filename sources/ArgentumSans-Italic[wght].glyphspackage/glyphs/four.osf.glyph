@@ -2,85 +2,37 @@
 glyphname = four.osf;
 layers = (
 {
-layerId = "288DB91C-ADA9-4EAE-B002-103CECDA4F2F";
+layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1199,70,l),
-(1263,402,l),
-(465,402,l),
-(1003,1200,l),
-(561,1200,l),
-(-9,374,l),
-(-69,70,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1137,670,l),
-(707,670,l),
-(539,-200,l),
-(969,-200,l)
-);
+alignment = -1;
+pos = (-16,-200);
+ref = four;
 }
 );
-width = 1312;
+width = 1230;
 },
 {
-layerId = "DF367E9D-3B3B-43F4-BC7A-7EE40495C523";
+layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
 shapes = (
 {
-closed = 1;
-nodes = (
-(1064,148,l),
-(1104,350,l),
-(264,350,l),
-(882,1200,l),
-(654,1200,l),
-(4,316,l),
-(-28,148,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(964,688,l),
-(744,688,l),
-(572,-200,l),
-(792,-200,l)
-);
+alignment = -1;
+pos = (-36,-200);
+ref = four;
 }
 );
-width = 1178;
+width = 1200;
 },
 {
-layerId = "FADC2794-F71C-487D-BA21-AA7BC8CC963C";
+layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
 shapes = (
 {
-closed = 1;
-nodes = (
-(950,216,l),
-(958,256,l),
-(58,256,l),
-(782,1200,l),
-(736,1200,l),
-(20,266,l),
-(10,216,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(820,702,l),
-(780,702,l),
-(606,-200,l),
-(646,-200,l)
-);
+alignment = -1;
+pos = (-40,-200);
+ref = four;
 }
 );
-width = 1074;
+width = 1168;
 }
 );
 }

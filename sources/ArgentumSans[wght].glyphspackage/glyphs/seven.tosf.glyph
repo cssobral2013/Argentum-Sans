@@ -2,15 +2,12 @@
 glyphname = seven.tosf;
 layers = (
 {
-layerId = "7132A246-D2BE-45EF-90A2-0D7A42C907F4";
+layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
 shapes = (
 {
 closed = 1;
 nodes = (
 (55,844,l),
-(463,844,l),
-(463,1048,l),
-(261,844,l),
 (905,844,l),
 (785,1032,l),
 (241,-200,l),
@@ -24,15 +21,12 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "D0849346-794E-4F15-8942-BE6C34F6B6A6";
+layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
 shapes = (
 {
 closed = 1;
 nodes = (
 (101,1000,l),
-(315,1000,l),
-(315,1102,l),
-(209,1000,l),
 (1009,1000,l),
 (949,1092,l),
 (327,-200,l),
@@ -46,15 +40,12 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "A37310BC-51AC-4F96-8729-E7F4F8535551";
+layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
 shapes = (
 {
 closed = 1;
 nodes = (
 (141,1160,l),
-(181,1160,l),
-(181,1178,l),
-(163,1160,l),
 (1109,1160,l),
 (1099,1176,l),
 (399,-200,l),
