@@ -2,7 +2,12 @@
 glyphname = commaaccentcomb.alt;
 layers = (
 {
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "B6412724-0570-4B37-9D16-C04941E8774E";
+name = "Bold.Bold Aug 12 16, 13:01";
+width = 0;
+},
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 alignment = -1;
@@ -20,7 +25,7 @@ name = _top;
 position = "{0, 1094}";
 }
 );
-layerId = "46C797BA-0641-4BB4-90C0-A8A3CC2FE3C3";
+layerId = "6FA4F087-5DF8-4ADD-A19C-DA18EAB51AE0";
 name = "BoldItalic.Bold Aug 12 16, 13:01";
 shapes = (
 {
@@ -54,7 +59,7 @@ name = _top;
 position = "{0, 1034}";
 }
 );
-layerId = "5618C8F5-698E-424D-8C3D-09A4430745F9";
+layerId = "3AA9DC1B-ECC2-46EE-AC85-96D801EA1CFD";
 name = "LightItalic.Light Aug 12 16, 13:02";
 shapes = (
 {
@@ -82,7 +87,7 @@ nodes = (
 width = 0;
 },
 {
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 alignment = -1;
@@ -94,7 +99,12 @@ ref = commaaccentcomb;
 width = 470;
 },
 {
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "2FB44D3B-757B-4BA5-94FC-B8033DE5B460";
+name = "Light.Light Aug 12 16, 13:02";
+width = 0;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 alignment = -1;

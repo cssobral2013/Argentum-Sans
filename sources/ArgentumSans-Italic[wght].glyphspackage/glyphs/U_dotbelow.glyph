@@ -2,7 +2,7 @@
 glyphname = Udotbelow;
 layers = (
 {
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ scale = (0.998,0.998);
 width = 1480;
 },
 {
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 alignment = -1;
@@ -31,7 +31,7 @@ ref = dotbelowcomb.case;
 width = 1518;
 },
 {
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 alignment = -1;

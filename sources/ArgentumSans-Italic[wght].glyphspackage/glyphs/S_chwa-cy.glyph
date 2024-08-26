@@ -1,0 +1,107 @@
+{
+glyphname = "Schwa-cy";
+layers = (
+{
+layerId = "D546F120-ACD8-4501-8D9C-1D3A1094E110";
+name = "Bold.Sep 16 17, 15:30";
+width = 1640;
+},
+{
+anchors = (
+{
+name = top;
+position = "{988, 1400}";
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+pos = (-18,0);
+ref = Schwa;
+}
+);
+width = 1634;
+},
+{
+layerId = "06C421CC-1A30-421E-A283-4F64EA32D7F7";
+name = "BoldItalic.Sep 16 17, 15:30";
+shapes = (
+{
+closed = 1;
+nodes = (
+(502,700,l),
+(502,482,o),
+(642,340,o),
+(798,340,cs),
+(972,340,o),
+(1112,482,o),
+(1112,700,cs),
+(1112,918,o),
+(972,1050,o),
+(798,1050,cs),
+(668,1050,o),
+(544,994,o),
+(488,896,c),
+(140,1174,l),
+(282,1334,o),
+(526,1432,o),
+(798,1432,cs),
+(1254,1432,o),
+(1588,1124,o),
+(1588,700,cs),
+(1588,276,o),
+(1254,-32,o),
+(798,-32,cs),
+(360,-32,o),
+(46,276,o),
+(46,700,cs),
+(46,758,o),
+(52,814,o),
+(64,862,c),
+(1446,862,l),
+(1446,562,l),
+(418,562,l)
+);
+}
+);
+width = 1640;
+},
+{
+anchors = (
+{
+name = top;
+position = "{1001, 1400}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 1646;
+},
+{
+anchors = (
+{
+name = top;
+position = "{1002, 1400}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+pos = (-6,0);
+ref = Schwa;
+}
+);
+width = 1652;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 1240;
+}

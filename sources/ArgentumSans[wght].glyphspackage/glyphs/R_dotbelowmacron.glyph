@@ -1,0 +1,70 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Rdotbelowmacron;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{724, 1830}";
+}
+);
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = Rdotbelow;
+},
+{
+alignment = -1;
+pos = (384,306);
+ref = macroncomb;
+}
+);
+width = 1448;
+},
+{
+anchors = (
+{
+name = top;
+position = "{724, 1714}";
+}
+);
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = Rdotbelow;
+},
+{
+alignment = -1;
+pos = (428,336);
+ref = macroncomb;
+}
+);
+width = 1446;
+},
+{
+anchors = (
+{
+name = top;
+position = "{724, 1606}";
+}
+);
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = Rdotbelow;
+},
+{
+alignment = -1;
+pos = (466,366);
+ref = macroncomb;
+}
+);
+width = 1446;
+}
+);
+unicode = 7772;
+}

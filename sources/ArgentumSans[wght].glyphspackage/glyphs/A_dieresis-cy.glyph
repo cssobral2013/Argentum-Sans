@@ -1,0 +1,70 @@
+{
+glyphname = "Adieresis-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{850, 1822}";
+}
+);
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = "A-cy";
+},
+{
+alignment = -1;
+pos = (386,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{765, 1780}";
+}
+);
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = "A-cy";
+},
+{
+alignment = -1;
+pos = (324,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1532;
+},
+{
+anchors = (
+{
+name = top;
+position = "{716, 1758}";
+}
+);
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = "A-cy";
+},
+{
+pos = (306,2);
+ref = dieresiscomb.case;
+}
+);
+width = 1432;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 1234;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = Ecircumflexhookabove;
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (211,0);
+ref = circumflexcomb_hookabovecomb.case;
+scale = (0.998,0.998);
+}
+);
+width = 1378;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (188,0);
+ref = circumflexcomb_hookabovecomb.case;
+}
+);
+width = 1312;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (409,0);
+ref = circumflexcomb_hookabovecomb.case;
+scale = (1.002,1.002);
+}
+);
+width = 1290;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = E;
+unicode = 7874;
+}

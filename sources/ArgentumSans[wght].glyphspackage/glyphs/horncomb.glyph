@@ -2,14 +2,8 @@
 glyphname = horncomb;
 layers = (
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1094}";
-}
-);
-layerId = "10C0530B-B76C-4BFB-9A20-FE5C50D5F46A";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "41A72269-C690-4223-B814-956EFE5AD194";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Aug 9 16, 17:31";
 shapes = (
 {
@@ -35,13 +29,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1094}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -60,14 +48,8 @@ nodes = (
 width = 508;
 },
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1062}";
-}
-);
-layerId = "D93E464D-DF0F-4D5F-9F2A-2F04E6F526C5";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "C4D08740-E766-40B0-B362-D93EE1DB2677";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular Aug 9 16, 17:30";
 shapes = (
 {
@@ -93,13 +75,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1062}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -118,14 +94,8 @@ nodes = (
 width = 370;
 },
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1034}";
-}
-);
-layerId = "3BCF668F-5289-477A-96B2-EEEE7F71628C";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "18320734-6A5D-4BFF-AB24-58654367F187";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Aug 9 16, 17:29";
 shapes = (
 {
@@ -151,13 +121,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _topright;
-position = "{0, 1034}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

@@ -1,0 +1,65 @@
+{
+glyphname = "Iigrave-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1074, 0}";
+},
+{
+name = bottomright;
+position = "{1586, 0}";
+},
+{
+name = top;
+position = "{840, 1820}";
+}
+);
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = "Ii-cy";
+},
+{
+alignment = -1;
+pos = (450,-2);
+ref = gravecomb.case;
+}
+);
+width = 1638;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = "Ii-cy";
+},
+{
+pos = (416,0);
+ref = gravecomb.case;
+}
+);
+width = 1646;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = "Ii-cy";
+},
+{
+pos = (506,2);
+ref = gravecomb.case;
+}
+);
+width = 1652;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = H;
+unicode = 1037;
+}

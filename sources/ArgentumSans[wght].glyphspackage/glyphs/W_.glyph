@@ -2,18 +2,8 @@
 glyphname = W;
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{1122, 0}";
-},
-{
-name = top;
-position = "{1122, 1402}";
-}
-);
-layerId = "1141F5E8-3DA5-43AD-B866-06B3FEE38F3E";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "29FEBF26-D281-4004-9B7E-D1F9A8BDB268";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Nov 24 16, 19:29";
 shapes = (
 {
@@ -38,17 +28,7 @@ nodes = (
 width = 2242;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{1150, 0}";
-},
-{
-name = top;
-position = "{1150, 1400}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -75,18 +55,8 @@ nodes = (
 width = 2298;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{1036, 0}";
-},
-{
-name = top;
-position = "{1036, 1400}";
-}
-);
-layerId = "61AF3535-FF7B-4645-9674-F87C7D0AAEA6";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "4E304C09-9541-46A1-A4DC-C78CE826ED07";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Nov 24 16, 19:29";
 shapes = (
 {
@@ -111,17 +81,7 @@ nodes = (
 width = 2072;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{1064, 0}";
-},
-{
-name = top;
-position = "{1064, 1400}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -148,17 +108,7 @@ nodes = (
 width = 2126;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{990, 0}";
-},
-{
-name = top;
-position = "{990, 1400}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

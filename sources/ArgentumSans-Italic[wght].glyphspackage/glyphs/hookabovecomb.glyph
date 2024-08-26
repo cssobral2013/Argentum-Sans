@@ -2,6 +2,16 @@
 glyphname = hookabovecomb;
 layers = (
 {
+layerId = "0C0FAE57-F0BD-42CB-8235-64F94281AEC0";
+name = "Bold.Hookabove Nov 9 16, 11:14";
+width = 940;
+},
+{
+layerId = "5AA977A1-325E-4552-82C1-5B30936FFC94";
+name = "Bold.Bold Aug 12 16, 02:26";
+width = 0;
+},
+{
 anchors = (
 {
 name = _top;
@@ -18,7 +28,7 @@ angle = 90;
 position = "{186, 0}";
 }
 );
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 closed = 1;
@@ -49,6 +59,16 @@ nodes = (
 width = 670;
 },
 {
+layerId = "70FDC001-9BD1-4600-8AC5-99A05BEF394B";
+name = "Regular.Regular Aug 12 16, 02:27";
+width = 0;
+},
+{
+layerId = "7081D355-BFA1-4144-9E29-A61E2D31A0E9";
+name = "Regular.Hookabove Nov 9 16, 11:03";
+width = 0;
+},
+{
 anchors = (
 {
 name = _top;
@@ -59,7 +79,7 @@ name = top;
 position = "{452, 1484}";
 }
 );
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 closed = 1;
@@ -90,6 +110,16 @@ nodes = (
 width = 512;
 },
 {
+layerId = "C9C166E8-F798-4FC5-BDF9-07C1BCCE56BF";
+name = "Light.Light Aug 12 16, 02:28";
+width = 0;
+},
+{
+layerId = "AA168220-0B84-4EAB-9AFE-5DEDFC20F68C";
+name = "Light.Hookabove Nov 9 16, 11:08";
+width = 0;
+},
+{
 anchors = (
 {
 name = _top;
@@ -100,7 +130,7 @@ name = top;
 position = "{538, 1430}";
 }
 );
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 closed = 1;

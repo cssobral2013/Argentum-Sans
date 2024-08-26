@@ -1,0 +1,78 @@
+{
+glyphname = Ohookabove;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{769, 0}";
+},
+{
+name = center;
+position = "{831, 702}";
+},
+{
+name = ogonek;
+position = "{1255, 0}";
+},
+{
+name = topleft;
+position = "{209, 1400}";
+},
+{
+name = topright;
+position = "{1233, 1400}";
+},
+{
+name = top;
+position = "{907, 1820}";
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (361,-2);
+ref = hookabovecomb.case;
+}
+);
+width = 1598;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (488,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1620;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (609,0);
+ref = hookabovecomb.case;
+scale = (1.002,1.002);
+}
+);
+width = 1638;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 7886;
+}

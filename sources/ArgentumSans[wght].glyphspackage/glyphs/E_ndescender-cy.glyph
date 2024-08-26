@@ -1,0 +1,74 @@
+{
+glyphname = "Endescender-cy";
+layers = (
+{
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1676,-274,l),
+(1676,366,l),
+(1032,366,l),
+(1032,0,l),
+(1346,0,l),
+(1244,102,l),
+(1244,-274,l)
+);
+},
+{
+alignment = -1;
+ref = "En-cy";
+}
+);
+width = 1718;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1646,-302,l),
+(1646,198,l),
+(1210,198,l),
+(1210,0,l),
+(1490,0,l),
+(1434,58,l),
+(1434,-302,l)
+);
+},
+{
+alignment = -1;
+ref = "En-cy";
+}
+);
+width = 1696;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1608,-330,l),
+(1608,38,l),
+(1334,38,l),
+(1334,0,l),
+(1586,0,l),
+(1568,18,l),
+(1568,-330,l)
+);
+},
+{
+alignment = -1;
+ref = "En-cy";
+}
+);
+width = 1682;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = "De-cy";
+unicode = 1186;
+}

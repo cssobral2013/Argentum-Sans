@@ -2,7 +2,12 @@
 glyphname = kip;
 layers = (
 {
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "3359E265-C14D-4380-9226-957F65465FA9";
+name = "Bold.Bold Aug 11 16, 16:12";
+width = 1546;
+},
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 closed = 1;
@@ -44,7 +49,12 @@ nodes = (
 width = 1576;
 },
 {
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "A8563866-ACBC-4F24-9421-2901C8E7FFBA";
+name = "Regular.Regular Aug 11 16, 16:20";
+width = 1436;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 closed = 1;
@@ -86,7 +96,12 @@ nodes = (
 width = 1310;
 },
 {
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "7E600BE7-266A-4A79-A2A0-EFDAA423C7CE";
+name = "Light.Light Aug 11 16, 16:27";
+width = 1340;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 closed = 1;

@@ -8,15 +8,15 @@ tag = wght;
 );
 classes = (
 {
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Ishortsharptailcyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Dzhecyr Softcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Shhatailcyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Semisoftcyr Ertickcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU Delta Omega";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Dzhe-cy Softsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Delta Omega";
 name = Uppercase;
 },
 {
-code = "Idieresis Yukrcyr";
+code = "Idieresis Yi-cy";
 name = Idieresis;
 },
 {
-code = "idieresis yukrcyr";
+code = "idieresis yi-cy";
 name = idieresis;
 },
 {
@@ -32,7 +32,7 @@ code = "dotbelowcomb cedillacomb dieresisbelowcomb ogonekcomb horncomb brevebelo
 name = ccmp3;
 },
 {
-code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Delta Omega Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve IJ Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adotbelow Ahoi Ainvertedbreve Ccedillaacute DZcaron Ddotbelow Dlinebelow Dzcaron Ecedillabreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edotbelow Ehoi Einvertedbreve Emacronacute Emacrongrave Etilde Gmacron Hbrevebelow Hdotbelow Iacute_J.loclNLD Idblgrave Idieresisacute Idotbelow Ihoi Iinvertedbreve Jacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohoi Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Oinvertedbreve Omacronacute Omacrongrave Oogonek Otildeacute Otildedieresis Otildemacron Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow Sacutedotaccent Saltillo Scarondot Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa Tdotbelow Tlinebelow Udblgrave Udotbelow Uhoi Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uinvertedbreve Umacrondieresis Utildeacute Ydot Ydotbelow Yhoi Ymacron Ytilde Zdotbelow Iegravecyr Iocyr Djecyr Gjecyr Eukrcyr Dzecyr Iukrcyr Yukrcyr Jecyr Ljecyr Njecyr Tshecyr Kjecyr Igravecyr Ushortcyr Dzhecyr Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Ishortsharptailcyr Semisoftcyr Ertickcyr Geupcyr Gestrokecyr Gehookcyr Kaverticalstrokecyr Kastrokecyr Kabashkcyr Entailcyr Engecyr Haabkhcyr Estailcyr Tetailcyr Ustraightcyr Ustraightstrokecyr Xatailcyr Tetsecyr Chetailcyr Chevertcyr Shhacyr Cheabkhcyr Cheabkhtailcyr Palochkacyr Zhebrevecyr Kahookcyr Enhookcyr Ensharptailcyr Chekhakascyr Emsharptailcyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Schwadieresiscyr Zhedieresiscyr Zedieresiscyr Dzeabkhcyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Obardieresiscyr Ereverseddieresiscyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Gehookstrokecyr Hahookcyr Hastrokecyr Reversedzecyr Elhookcyr Qacyr Wecyr Petailcyr Shhatailcyr Enhookleftcyr Eltailcyr Decyr.loclBGR Efcyr.loclBGR Elcyr.loclBGR Estailcyr.loclBSH Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclCHU Zhetailcyr Zetailcyr Katailcyr Shchacyr";
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Delta Omega Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Lcaron Lacute Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Dcroat Abreve Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve IJ Jcircumflex Ldot Eng Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Wgrave Wacute Wdieresis Ygrave Ohorn Uhorn Gcaron Gcommaaccent Kcommaaccent LJ Lcommaaccent Lj NJ Ncommaaccent Nj Rcommaaccent Scommaaccent Tcedilla Tcommaaccent Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adotbelow Ahookabove Ainvertedbreve Ccedillaacute DZcaron Ddotbelow Dlinebelow Dzcaron Ecedillabreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edotbelow Ehookabove Einvertedbreve Emacronacute Emacrongrave Etilde Gmacron Hbrevebelow Hdotbelow Iacute_J.loclNLD Idblgrave Idieresisacute Idotbelow Ihookabove Iinvertedbreve Jacute Ldotbelow Llinebelow Mdotbelow Ndotaccent Ndotbelow Nlinebelow Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresismacron Odotaccentmacron Odotbelow Ohookabove Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oinvertedbreve Omacronacute Omacrongrave Oogonek Otildeacute Otildedieresis Otildemacron Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow Sacutedotaccent Saltillo Scarondotaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa Tdotbelow Tlinebelow Udblgrave Udotbelow Uhookabove Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uinvertedbreve Umacrondieresis Utildeacute Ydotaccent Ydotbelow Yhookabove Ymacron Ytilde Zdotbelow Iegrave-cy Io-cy Dje-cy Gje-cy E-cy Dze-cy I-cy Yi-cy Je-cy Lje-cy Nje-cy Tshe-cy Kje-cy Iigrave-cy Ushort-cy Dzhe-cy A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Yeru-cy Softsign-cy Ereversed-cy Iu-cy Ia-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Iishorttail-cy Semisoftsign-cy Ertick-cy Gheupturn-cy Ghestroke-cy Ghemiddlehook-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Pedescender-cy Shhadescender-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR Ef-cy.loclBGR El-cy.loclBGR Esdescender-cy.loclBSH Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclCHU Zhedescender-cy Zedescender-cy Kadescender-cy Shcha-cy";
 name = ccmp4;
 },
 {
@@ -72,15 +72,15 @@ code = "zero one two three four five six seven eight nine zero.lf one.lf two.lf 
 name = calt;
 },
 {
-code = "parenleft.case parenright.case hyphen.case slash.case at.case bracketleft.case backslash.case bracketright.case braceleft.case braceright.case guillemotleft.case guillemotright.case endash.case emdash.case bullet.case guilsinglleft.case guilsinglright.case arrowleft.case arrowup.case arrowright.case arrowdown.case";
+code = "parenleft.case parenright.case hyphen.case slash.case at.case bracketleft.case backslash.case bracketright.case braceleft.case braceright.case guillemetleft.case guillemetright.case endash.case emdash.case bullet.case guilsinglleft.case guilsinglright.case leftArrow.case upArrow.case rightArrow.case downArrow.case";
 name = case1;
 },
 {
-code = "parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guillemotleft guillemotright endash emdash bullet guilsinglleft guilsinglright arrowleft arrowup arrowright arrowdown";
+code = "parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guillemetleft guillemetright endash emdash bullet guilsinglleft guilsinglright leftArrow upArrow rightArrow downArrow";
 name = case;
 },
 {
-code = "f fi fl i iacute iacute_j.loclNLD ibreve icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihoi iinvertedbreve ij imacron iogonek itilde j jcircumflex t tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow bracketright";
+code = "f fi fl i iacute iacute_j.loclNLD ibreve icircumflex idblgrave idieresis idieresisacute idotbelow igrave ihookabove iinvertedbreve ij imacron iogonek itilde j jcircumflex t tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow bracketright";
 name = liga1;
 },
 {
@@ -88,7 +88,7 @@ code = "b h hbar hcircumflex k l lacute lcaron ldot lslash h hbar hbrevebelow hc
 name = liga2;
 },
 {
-code = "fi fl bracketright f i j t igrave iacute icircumflex idieresis iogonek imacron tcaron itilde ibreve ij jcircumflex tbar tcedilla tcommaaccent iacute_j.loclNLD idblgrave idieresisacute idotbelow iinvertedbreve tdieresis tdotbelow tlinebelow ihoi";
+code = "fi fl bracketright f i j t igrave iacute icircumflex idieresis iogonek imacron tcaron itilde ibreve ij jcircumflex tbar tcedilla tcommaaccent iacute_j.loclNLD idblgrave idieresisacute idotbelow iinvertedbreve tdieresis tdotbelow tlinebelow ihookabove";
 name = liga;
 }
 );
@@ -205,7 +205,7 @@ section,
 dieresis,
 copyright,
 ordfeminine,
-guillemotleft,
+guillemetleft,
 logicalnot,
 softhyphen,
 registered,
@@ -221,7 +221,7 @@ periodcentered,
 cedilla,
 onesuperior,
 ordmasculine,
-guillemotright,
+guillemetright,
 onequarter,
 onehalf,
 threequarters,
@@ -339,7 +339,7 @@ ibreve,
 Iogonek,
 iogonek,
 Idotaccent,
-dotlessi,
+idotless,
 IJ,
 ij,
 Jcircumflex,
@@ -479,18 +479,18 @@ Odotaccentmacron,
 odotaccentmacron,
 Ymacron,
 ymacron,
-dotlessj,
+jdotless,
 schwa,
 commaturnedmod,
 apostrophemod,
-ringhalfrightmod,
-ringhalfleftmod,
+ringhalfright,
+ringhalfleft,
 circumflex,
 caron,
 verticallinemod,
-macronmod,
-acutemod,
-gravemod,
+firsttonechinese,
+secondtonechinese,
+fourthtonechinese,
 verticallinelowmod,
 breve,
 dotaccent,
@@ -598,252 +598,256 @@ upsilondieresis,
 omicrontonos,
 upsilontonos,
 omegatonos,
-Iegravecyr,
-Iocyr,
-Djecyr,
-Gjecyr,
-Eukrcyr,
-Dzecyr,
-Iukrcyr,
-Yukrcyr,
-Jecyr,
-Ljecyr,
-Njecyr,
-Tshecyr,
-Kjecyr,
-Igravecyr,
-Ushortcyr,
-Dzhecyr,
-Acyr,
-Becyr,
-Vecyr,
-Gecyr,
-Decyr,
-Iecyr,
-Zhecyr,
-Zecyr,
-Icyr,
-Ishortcyr,
-Kacyr,
-Elcyr,
-Emcyr,
-Encyr,
-Ocyr,
-Pecyr,
-Ercyr,
-Escyr,
-Tecyr,
-Ucyr,
-Efcyr,
-Hacyr,
-Tsecyr,
-Checyr,
-Shacyr,
-Shchacyr,
-Ylongcyr,
-Softcyr,
-Ereversedcyr,
-Yucyr,
-Yacyr,
-acyr,
-becyr,
-vecyr,
-gecyr,
-decyr,
-iecyr,
-zhecyr,
-zecyr,
-icyr,
-ishortcyr,
-kacyr,
-elcyr,
-emcyr,
-encyr,
-ocyr,
-pecyr,
-ercyr,
-escyr,
-tecyr,
-ucyr,
-efcyr,
-hacyr,
-tsecyr,
-checyr,
-shacyr,
-shchacyr,
-hardcyr,
-ylongcyr,
-softcyr,
-ereversedcyr,
-yucyr,
-yacyr,
-iegravecyr,
-iocyr,
-djecyr,
-gjecyr,
-eukrcyr,
-dzecyr,
-iukrcyr,
-yukrcyr,
-jecyr,
-ljecyr,
-njecyr,
-tshecyr,
-kjecyr,
-igravecyr,
-ushortcyr,
-dzhecyr,
-Yatcyr,
-yatcyr,
-Yusbigcyr,
-yusbigcyr,
-Fitacyr,
-fitacyr,
-Izhitsacyr,
-izhitsacyr,
-Ishortsharptailcyr,
-ishortsharptailcyr,
-Semisoftcyr,
-semisoftcyr,
-Ertickcyr,
-ertickcyr,
-Geupcyr,
-geupcyr,
-Gestrokecyr,
-gestrokecyr,
-Gehookcyr,
-gehookcyr,
-Zhetailcyr,
-zhetailcyr,
-Zetailcyr,
-zetailcyr,
-Katailcyr,
-katailcyr,
-Kaverticalstrokecyr,
-kaverticalstrokecyr,
-Kastrokecyr,
-kastrokecyr,
-Kabashkcyr,
-kabashkcyr,
-Entailcyr,
-entailcyr,
-Engecyr,
-engecyr,
-Haabkhcyr,
-haabkhcyr,
-Estailcyr,
-estailcyr,
-Tetailcyr,
-tetailcyr,
-Ustraightcyr,
-ustraightcyr,
-Ustraightstrokecyr,
-ustraightstrokecyr,
-Xatailcyr,
-xatailcyr,
-Tetsecyr,
-tetsecyr,
-Chetailcyr,
-chetailcyr,
-Chevertcyr,
-chevertcyr,
-Shhacyr,
-shhacyr,
-Cheabkhcyr,
-cheabkhcyr,
-Cheabkhtailcyr,
-cheabkhtailcyr,
-Palochkacyr,
-Zhebrevecyr,
-zhebrevecyr,
-Kahookcyr,
-kahookcyr,
-elsharptailcyr,
-Enhookcyr,
-enhookcyr,
-Ensharptailcyr,
-ensharptailcyr,
-Chekhakascyr,
-chekhakascyr,
-Emsharptailcyr,
-emsharptailcyr,
-palochkacyr,
-Abrevecyr,
-abrevecyr,
-Adieresiscyr,
-adieresiscyr,
-Aiecyr,
-aiecyr,
-Iebrevecyr,
-iebrevecyr,
-Schwacyr,
-schwacyr,
-Schwadieresiscyr,
-schwadieresiscyr,
-Zhedieresiscyr,
-zhedieresiscyr,
-Zedieresiscyr,
-zedieresiscyr,
-Dzeabkhcyr,
-dzeabkhcyr,
-Imacroncyr,
-imacroncyr,
-Idieresiscyr,
-idieresiscyr,
-Odieresiscyr,
-odieresiscyr,
-Obarcyr,
-obarcyr,
-Obardieresiscyr,
-obardieresiscyr,
-Ereverseddieresiscyr,
-ereverseddieresiscyr,
-Umacroncyr,
-umacroncyr,
-Udieresiscyr,
-udieresiscyr,
-Uacutedblcyr,
-uacutedblcyr,
-Chedieresiscyr,
-chedieresiscyr,
-Getailcyr,
-getailcyr,
-Ylongdieresiscyr,
-ylongdieresiscyr,
-Gehookstrokecyr,
-gehookstrokecyr,
-Hahookcyr,
-hahookcyr,
-Hastrokecyr,
-hastrokecyr,
-Reversedzecyr,
-reversedzecyr,
-Elhookcyr,
-elhookcyr,
-Qacyr,
-qacyr,
-Wecyr,
-wecyr,
-Petailcyr,
-petailcyr,
-Shhatailcyr,
-shhatailcyr,
-Enhookleftcyr,
-enhookleftcyr,
-Eltailcyr,
-eltailcyr,
+"Iegrave-cy",
+"Io-cy",
+"Dje-cy",
+"Gje-cy",
+"E-cy",
+"Dze-cy",
+"I-cy",
+"Yi-cy",
+"Je-cy",
+"Lje-cy",
+"Nje-cy",
+"Tshe-cy",
+"Kje-cy",
+"Iigrave-cy",
+"Ushort-cy",
+"Dzhe-cy",
+"A-cy",
+"Be-cy",
+"Ve-cy",
+"Ge-cy",
+"De-cy",
+"Ie-cy",
+"Zhe-cy",
+"Ze-cy",
+"Ii-cy",
+"Iishort-cy",
+"Ka-cy",
+"El-cy",
+"Em-cy",
+"En-cy",
+"O-cy",
+"Pe-cy",
+"Er-cy",
+"Es-cy",
+"Te-cy",
+"U-cy",
+"Ef-cy",
+"Ha-cy",
+"Tse-cy",
+"Che-cy",
+"Sha-cy",
+"Shcha-cy",
+"Hardsign-cy",
+"Yeru-cy",
+"Softsign-cy",
+"Ereversed-cy",
+"Iu-cy",
+"Ia-cy",
+"a-cy",
+"be-cy",
+"ve-cy",
+"ge-cy",
+"de-cy",
+"ie-cy",
+"zhe-cy",
+"ze-cy",
+"ii-cy",
+"iishort-cy",
+"ka-cy",
+"el-cy",
+"em-cy",
+"en-cy",
+"o-cy",
+"pe-cy",
+"er-cy",
+"es-cy",
+"te-cy",
+"u-cy",
+"ef-cy",
+"ha-cy",
+"tse-cy",
+"che-cy",
+"sha-cy",
+"shcha-cy",
+"hardsign-cy",
+"yeru-cy",
+"softsign-cy",
+"ereversed-cy",
+"iu-cy",
+"ia-cy",
+"iegrave-cy",
+"io-cy",
+"dje-cy",
+"gje-cy",
+"e-cy",
+"dze-cy",
+"i-cy",
+"yi-cy",
+"je-cy",
+"lje-cy",
+"nje-cy",
+"tshe-cy",
+"kje-cy",
+"iigrave-cy",
+"ushort-cy",
+"dzhe-cy",
+"Yat-cy",
+"yat-cy",
+"Yusbig-cy",
+"yusbig-cy",
+"Fita-cy",
+"fita-cy",
+"Izhitsa-cy",
+"izhitsa-cy",
+"Iishorttail-cy",
+"iishorttail-cy",
+"Semisoftsign-cy",
+"semisoftsign-cy",
+"Ertick-cy",
+"ertick-cy",
+"Gheupturn-cy",
+"gheupturn-cy",
+"Ghestroke-cy",
+"ghestroke-cy",
+"Ghemiddlehook-cy",
+"ghemiddlehook-cy",
+"Zhedescender-cy",
+"zhedescender-cy",
+"Zedescender-cy",
+"zedescender-cy",
+"Kadescender-cy",
+"kadescender-cy",
+"Kaverticalstroke-cy",
+"kaverticalstroke-cy",
+"Kastroke-cy",
+"kastroke-cy",
+"Kabashkir-cy",
+"kabashkir-cy",
+"Endescender-cy",
+"endescender-cy",
+"Enghe-cy",
+"enghe-cy",
+"Pemiddlehook-cy",
+"pemiddlehook-cy",
+"Haabkhasian-cy",
+"haabkhasian-cy",
+"Esdescender-cy",
+"esdescender-cy",
+"Tedescender-cy",
+"tedescender-cy",
+"Ustraight-cy",
+"ustraight-cy",
+"Ustraightstroke-cy",
+"ustraightstroke-cy",
+"Hadescender-cy",
+"hadescender-cy",
+"Tetse-cy",
+"tetse-cy",
+"Chedescender-cy",
+"chedescender-cy",
+"Cheverticalstroke-cy",
+"cheverticalstroke-cy",
+"Shha-cy",
+"shha-cy",
+"Cheabkhasian-cy",
+"cheabkhasian-cy",
+"Chedescenderabkhasian-cy",
+"chedescenderabkhasian-cy",
+"Palochka-cy",
+"Zhebreve-cy",
+"zhebreve-cy",
+"Kahook-cy",
+"kahook-cy",
+"Eltail-cy",
+"eltail-cy",
+"Enhook-cy",
+"enhook-cy",
+"Entail-cy",
+"entail-cy",
+"Chekhakassian-cy",
+"chekhakassian-cy",
+"Emtail-cy",
+"emtail-cy",
+"palochka-cy",
+"Abreve-cy",
+"abreve-cy",
+"Adieresis-cy",
+"adieresis-cy",
+"Aie-cy",
+"aie-cy",
+"Iebreve-cy",
+"iebreve-cy",
+"Schwa-cy",
+"schwa-cy",
+"Schwadieresis-cy",
+"schwadieresis-cy",
+"Zhedieresis-cy",
+"zhedieresis-cy",
+"Zedieresis-cy",
+"zedieresis-cy",
+"Dzeabkhasian-cy",
+"dzeabkhasian-cy",
+"Imacron-cy",
+"imacron-cy",
+"Idieresis-cy",
+"idieresis-cy",
+"Odieresis-cy",
+"odieresis-cy",
+"Obarred-cy",
+"obarred-cy",
+"Obarreddieresis-cy",
+"obarreddieresis-cy",
+"Edieresis-cy",
+"edieresis-cy",
+"Umacron-cy",
+"umacron-cy",
+"Udieresis-cy",
+"udieresis-cy",
+"Uhungarumlaut-cy",
+"uhungarumlaut-cy",
+"Chedieresis-cy",
+"chedieresis-cy",
+"Gedescender-cy",
+"gedescender-cy",
+"Yerudieresis-cy",
+"yerudieresis-cy",
+"Gestrokehook-cy",
+"gestrokehook-cy",
+"Hahook-cy",
+"hahook-cy",
+"Hastroke-cy",
+"hastroke-cy",
+"Reversedze-cy",
+"reversedze-cy",
+"Elhook-cy",
+"elhook-cy",
+"Qa-cy",
+"qa-cy",
+"We-cy",
+"we-cy",
+"Pedescender-cy",
+"pedescender-cy",
+"Shhadescender-cy",
+"shhadescender-cy",
+"EnLeftHook-cy",
+"enlefthook-cy",
+"Eldescender-cy",
+"eldescender-cy",
 Aringbelow,
 aringbelow,
-Bdot,
-bdot,
+Bdotaccent,
+bdotaccent,
 Bdotbelow,
 bdotbelow,
 Blinebelow,
 blinebelow,
 Ccedillaacute,
 ccedillaacute,
-Ddot,
-ddot,
+Ddotaccent,
+ddotaccent,
 Ddotbelow,
 ddotbelow,
 Dlinebelow,
@@ -862,12 +866,12 @@ Etildebelow,
 etildebelow,
 Ecedillabreve,
 ecedillabreve,
-Fdot,
-fdot,
+Fdotaccent,
+fdotaccent,
 Gmacron,
 gmacron,
-Hdot,
-hdot,
+Hdotaccent,
+hdotaccent,
 Hdotbelow,
 hdotbelow,
 Hdieresis,
@@ -888,20 +892,20 @@ Klinebelow,
 klinebelow,
 Ldotbelow,
 ldotbelow,
-Lmacrondot,
-lmacrondot,
+Ldotbelowmacron,
+ldotbelowmacron,
 Llinebelow,
 llinebelow,
 Lcircumflexbelow,
 lcircumflexbelow,
 Macute,
 macute,
-Mdot,
-mdot,
+Mdotaccent,
+mdotaccent,
 Mdotbelow,
 mdotbelow,
-Ndot,
-ndot,
+Ndotaccent,
+ndotaccent,
 Ndotbelow,
 ndotbelow,
 Nlinebelow,
@@ -918,28 +922,28 @@ Omacronacute,
 omacronacute,
 Pacute,
 pacute,
-Pdot,
-pdot,
-Rdot,
-rdot,
+Pdotaccent,
+pdotaccent,
+Rdotaccent,
+rdotaccent,
 Rdotbelow,
 rdotbelow,
-Rmacrondot,
-rmacrondot,
+Rdotbelowmacron,
+rdotbelowmacron,
 Rlinebelow,
 rlinebelow,
-Sdot,
-sdot,
+Sdotaccent,
+sdotaccent,
 Sdotbelow,
 sdotbelow,
 Sacutedotaccent,
 sacutedotaccent,
-Scarondot,
-scarondot,
-Sdotbelowdotabove,
-sdotbelowdotabove,
-Tdot,
-tdot,
+Scarondotaccent,
+scarondotaccent,
+Sdotbelowdotaccent,
+sdotbelowdotaccent,
+Tdotaccent,
+tdotaccent,
 Tdotbelow,
 tdotbelow,
 Tlinebelow,
@@ -966,16 +970,16 @@ Wacute,
 wacute,
 Wdieresis,
 wdieresis,
-Wdot,
-wdot,
+Wdotaccent,
+wdotaccent,
 Wdotbelow,
 wdotbelow,
-Xdot,
-xdot,
+Xdotaccent,
+xdotaccent,
 Xdieresis,
 xdieresis,
-Ydot,
-ydot,
+Ydotaccent,
+ydotaccent,
 Zcircumflex,
 zcircumflex,
 Zdotbelow,
@@ -987,18 +991,18 @@ tdieresis,
 wring,
 yring,
 arighthalfring,
-longsdot,
+longsdotaccent,
 Germandbls,
 Adotbelow,
 adotbelow,
-Ahoi,
-ahoi,
+Ahookabove,
+ahookabove,
 Acircumflexacute,
 acircumflexacute,
 Acircumflexgrave,
 acircumflexgrave,
-Acircumflexhoi,
-acircumflexhoi,
+Acircumflexhookabove,
+acircumflexhookabove,
 Acircumflextilde,
 acircumflextilde,
 Acircumflexdotbelow,
@@ -1007,42 +1011,42 @@ Abreveacute,
 abreveacute,
 Abrevegrave,
 abrevegrave,
-Abrevehoi,
-abrevehoi,
+Abrevehookabove,
+abrevehookabove,
 Abrevetilde,
 abrevetilde,
 Abrevedotbelow,
 abrevedotbelow,
 Edotbelow,
 edotbelow,
-Ehoi,
-ehoi,
+Ehookabove,
+ehookabove,
 Etilde,
 etilde,
 Ecircumflexacute,
 ecircumflexacute,
 Ecircumflexgrave,
 ecircumflexgrave,
-Ecircumflexhoi,
-ecircumflexhoi,
+Ecircumflexhookabove,
+ecircumflexhookabove,
 Ecircumflextilde,
 ecircumflextilde,
 Ecircumflexdotbelow,
 ecircumflexdotbelow,
-Ihoi,
-ihoi,
+Ihookabove,
+ihookabove,
 Idotbelow,
 idotbelow,
 Odotbelow,
 odotbelow,
-Ohoi,
-ohoi,
+Ohookabove,
+ohookabove,
 Ocircumflexacute,
 ocircumflexacute,
 Ocircumflexgrave,
 ocircumflexgrave,
-Ocircumflexhoi,
-ocircumflexhoi,
+Ocircumflexhookabove,
+ocircumflexhookabove,
 Ocircumflextilde,
 ocircumflextilde,
 Ocircumflexdotbelow,
@@ -1051,22 +1055,22 @@ Ohornacute,
 ohornacute,
 Ohorngrave,
 ohorngrave,
-Ohornhoi,
-ohornhoi,
+Ohornhookabove,
+ohornhookabove,
 Ohorntilde,
 ohorntilde,
 Ohorndotbelow,
 ohorndotbelow,
 Udotbelow,
 udotbelow,
-Uhoi,
-uhoi,
+Uhookabove,
+uhookabove,
 Uhornacute,
 uhornacute,
 Uhorngrave,
 uhorngrave,
-Uhornhoi,
-uhornhoi,
+Uhornhookabove,
+uhornhookabove,
 Uhorntilde,
 uhorntilde,
 Uhorndotbelow,
@@ -1075,8 +1079,8 @@ Ygrave,
 ygrave,
 Ydotbelow,
 ydotbelow,
-Yhoi,
-yhoi,
+Yhookabove,
+yhookabove,
 Ytilde,
 ytilde,
 figurespace,
@@ -1084,7 +1088,7 @@ punctuationspace,
 thinspace,
 hairspace,
 zerowidthspace,
-"hyphen-gnrl",
+hyphentwo,
 figuredash,
 endash,
 emdash,
@@ -1095,6 +1099,7 @@ quotesinglbase,
 quotedblleft,
 quotedblright,
 quotedblbase,
+dagger,
 daggerdbl,
 bullet,
 ellipsis,
@@ -1104,40 +1109,41 @@ second,
 guilsinglleft,
 guilsinglright,
 fraction,
-zero.superior,
-four.superior,
-five.superior,
-six.superior,
-seven.superior,
-eight.superior,
-nine.superior,
-zero.inferior,
-one.inferior,
-two.inferior,
-three.inferior,
-four.inferior,
-five.inferior,
-six.inferior,
-seven.inferior,
-eight.inferior,
-nine.inferior,
-colonmonetary,
+zerosuperior,
+foursuperior,
+fivesuperior,
+sixsuperior,
+sevensuperior,
+eightsuperior,
+ninesuperior,
+zeroinferior,
+oneinferior,
+twoinferior,
+threeinferior,
+fourinferior,
+fiveinferior,
+sixinferior,
+seveninferior,
+eightinferior,
+nineinferior,
+colonsign,
 franc,
 lira,
 naira,
 peseta,
 won,
 dong,
-Euro,
+euro,
 kip,
 peso,
 guarani,
 cedi,
-indianrupee,
-turkishlira,
+rupeeIndian,
+liraTurkish,
 manat,
 ruble,
-litre,
+bitcoin,
+literSign,
 numero,
 trademark,
 Ohm,
@@ -1148,16 +1154,16 @@ oneeighth,
 threeeighths,
 fiveeighths,
 seveneighths,
-arrowleft,
-arrowup,
-arrowright,
-arrowdown,
-arrowboth,
-arrowupdn,
-arrowNW,
-arrowNE,
-arrowSE,
-arrowSW,
+leftArrow,
+upArrow,
+rightArrow,
+downArrow,
+leftRightArrow,
+upDownArrow,
+northWestArrow,
+northEastArrow,
+southEastArrow,
+southWestArrow,
 partialdiff,
 emptyset,
 increment,
@@ -1173,18 +1179,18 @@ approxequal,
 notequal,
 lessequal,
 greaterequal,
-filledbox,
-squarewhite,
-triagup,
-triangleupwhite,
-trianglerightblack,
-trianglerightwhite,
-triagdn,
-triangledownwhite,
-triangleleftblack,
-triangleleftwhite,
-"diamondblack-gmtr",
-"diamondwhite-gmtr",
+blackSquare,
+whiteSquare,
+upBlackTriangle,
+upWhiteTriangle,
+rightBlackTriangle,
+rightWhiteTriangle,
+downBlackTriangle,
+downWhiteTriangle,
+leftBlackTriangle,
+leftWhiteTriangle,
+blackDiamond,
+whiteDiamond,
 lozenge,
 Saltillo,
 saltillo,
@@ -1289,13 +1295,13 @@ f.liga.1,
 f.liga.2,
 braceleft.case,
 braceright.case,
-guillemotleft.case,
-guillemotleft.sc,
+guillemetleft.case,
+guillemetleft.sc,
 periodcentered.case,
 periodcentered.loclCAT,
 periodcentered.loclCAT.case,
-guillemotright.case,
-guillemotright.sc,
+guillemetright.case,
+guillemetright.sc,
 questiondown.ss03,
 Igrave.ss05,
 Iacute_J.loclNLD,
@@ -1365,6 +1371,7 @@ tildecomb.narrow,
 macroncomb_acutecomb,
 macroncomb_acutecomb.case,
 macroncomb_acutecomb.sc,
+macroncomb.alt,
 macroncomb.case,
 macroncomb.case.loclVIET,
 macroncomb_dieresiscomb,
@@ -1450,48 +1457,48 @@ strokeshortcomb.narrow,
 Iotatonos.ss05,
 Iota.ss05,
 Iotadieresis.ss05,
-Iukrcyr.ss05,
-Yukrcyr.ss05,
-Decyr.loclBGR,
-Elcyr.loclBGR,
-Efcyr.loclBGR,
-becyr.loclSRB,
-vecyr.loclBGR,
-gecyr.loclBGR,
-gecyr.loclSRB,
-decyr.loclBGR,
-decyr.loclSRB,
-zhecyr.loclBGR,
-zecyr.loclBGR,
-icyr.loclBGR,
-ishortcyr.loclBGR,
-kacyr.loclBGR,
-elcyr.loclBGR,
-encyr.loclBGR,
-pecyr.loclBGR,
-pecyr.loclSRB,
-tecyr.loclBGR,
-tecyr.loclSRB,
-tsecyr.loclBGR,
-checyr.loclBGR,
-shacyr.loclBGR,
-shchacyr.loclBGR,
-hardcyr.loclBGR,
-softcyr.loclBGR,
-yucyr.loclBGR,
-gjecyr.loclMKD,
-igravecyr.loclBGR,
-Gestrokecyr.loclBSH,
-gestrokecyr.loclBSH,
-Zetailcyr.loclBSH,
-zetailcyr.loclBSH,
-Estailcyr.loclBSH,
-Estailcyr.loclCHU,
-estailcyr.loclCHU,
-Palochkacyr.ss05,
+"I-cy.ss05",
+"Yi-cy.ss05",
+"De-cy.loclBGR",
+"El-cy.loclBGR",
+"Ef-cy.loclBGR",
+"be-cy.loclSRB",
+"ve-cy.loclBGR",
+"ge-cy.loclBGR",
+"ge-cy.loclSRB",
+"de-cy.loclBGR",
+"de-cy.loclSRB",
+"zhe-cy.loclBGR",
+"ze-cy.loclBGR",
+"ii-cy.loclBGR",
+"iishort-cy.loclBGR",
+"ka-cy.loclBGR",
+"el-cy.loclBGR",
+"en-cy.loclBGR",
+"pe-cy.loclBGR",
+"pe-cy.loclSRB",
+"te-cy.loclBGR",
+"te-cy.loclSRB",
+"tse-cy.loclBGR",
+"che-cy.loclBGR",
+"sha-cy.loclBGR",
+"shcha-cy.loclBGR",
+"hardsign-cy.loclBGR",
+"softsign-cy.loclBGR",
+"iu-cy.loclBGR",
+"gje-cy.loclMKD",
+"iigrave-cy.loclBGR",
+"Ghestroke-cy.loclBSH",
+"ghestroke-cy.loclBSH",
+"Zedescender-cy.loclBSH",
+"zedescender-cy.loclBSH",
+"Esdescender-cy.loclBSH",
+"Esdescender-cy.loclCHU",
+"esdescender-cy.loclCHU",
+"Palochka-cy.ss05",
 Gmacron.ss04,
 Idieresisacute.ss05,
-Ihoi.ss05,
+Ihookabove.ss05,
 Idotbelow.ss05,
 endash.case,
 emdash.case,
@@ -1502,19 +1509,17 @@ guilsinglleft.sc,
 guilsinglright.case,
 guilsinglright.sc,
 guarani.ss04,
-arrowleft.case,
-arrowup.case,
-arrowright.case,
-arrowdown.case,
+leftArrow.case,
+upArrow.case,
+rightArrow.case,
+downArrow.case,
 Jacute,
 Tdieresis,
 brevecyrcomb,
 idotaccent,
 jacute,
 verticallinelowmodcomb,
-brevecyrcomb.case,
-macroncomb.alt,
-bitcoin
+brevecyrcomb.case
 );
 },
 {
@@ -1610,8 +1615,8 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 
 lookup ccmp_2 {
 # GSUB lookup 3, type 11 (Single)
-  sub i by dotlessi;
-  sub j by dotlessj;
+  sub i by idotless;
+  sub j by jdotless;
   sub gravecomb by gravecomb.case;
   sub acutecomb by acutecomb.case;
   sub circumflexcomb by circumflexcomb.case;
@@ -1654,6 +1659,7 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
+
 ";
 tag = Languagesystems;
 }
@@ -1674,8 +1680,8 @@ code = "# GSUB feature: Access All Alternates
   sub i by idotaccent;
   sub braceleft by braceleft.case;
   sub braceright by braceright.case;
-  sub guillemotleft by guillemotleft.case;
-  sub guillemotright by guillemotright.case;
+  sub guillemetleft by guillemetleft.case;
+  sub guillemetright by guillemetright.case;
   sub Scedilla by Scommaaccent;
   sub scedilla by scommaaccent;
   sub Tcedilla by Tcommaaccent;
@@ -1693,41 +1699,41 @@ code = "# GSUB feature: Access All Alternates
   sub caroncomb by caroncomb.case;
   sub dblgravecomb by dblgravecomb.case;
   sub breveinvertedcomb by breveinvertedcomb.case;
-  sub Decyr by Decyr.loclBGR;
-  sub Elcyr by Elcyr.loclBGR;
-  sub Efcyr by Efcyr.loclBGR;
-  sub becyr by becyr.loclSRB;
-  sub vecyr by vecyr.loclBGR;
-  sub zhecyr by zhecyr.loclBGR;
-  sub zecyr by zecyr.loclBGR;
-  sub icyr by icyr.loclBGR;
-  sub ishortcyr by ishortcyr.loclBGR;
-  sub kacyr by kacyr.loclBGR;
-  sub elcyr by elcyr.loclBGR;
-  sub encyr by encyr.loclBGR;
-  sub tsecyr by tsecyr.loclBGR;
-  sub checyr by checyr.loclBGR;
-  sub shacyr by shacyr.loclBGR;
-  sub shchacyr by shchacyr.loclBGR;
-  sub hardcyr by hardcyr.loclBGR;
-  sub softcyr by softcyr.loclBGR;
-  sub yucyr by yucyr.loclBGR;
-  sub gjecyr by gjecyr.loclMKD;
-  sub igravecyr by igravecyr.loclBGR;
-  sub Gestrokecyr by Gestrokecyr.loclBSH;
-  sub gestrokecyr by gestrokecyr.loclBSH;
-  sub Zetailcyr by Zetailcyr.loclBSH;
-  sub zetailcyr by zetailcyr.loclBSH;
-  sub estailcyr by estailcyr.loclCHU;
+  sub De-cy by De-cy.loclBGR;
+  sub El-cy by El-cy.loclBGR;
+  sub Ef-cy by Ef-cy.loclBGR;
+  sub be-cy by be-cy.loclSRB;
+  sub ve-cy by ve-cy.loclBGR;
+  sub zhe-cy by zhe-cy.loclBGR;
+  sub ze-cy by ze-cy.loclBGR;
+  sub ii-cy by ii-cy.loclBGR;
+  sub iishort-cy by iishort-cy.loclBGR;
+  sub ka-cy by ka-cy.loclBGR;
+  sub el-cy by el-cy.loclBGR;
+  sub en-cy by en-cy.loclBGR;
+  sub tse-cy by tse-cy.loclBGR;
+  sub che-cy by che-cy.loclBGR;
+  sub sha-cy by sha-cy.loclBGR;
+  sub shcha-cy by shcha-cy.loclBGR;
+  sub hardsign-cy by hardsign-cy.loclBGR;
+  sub softsign-cy by softsign-cy.loclBGR;
+  sub iu-cy by iu-cy.loclBGR;
+  sub gje-cy by gje-cy.loclMKD;
+  sub iigrave-cy by iigrave-cy.loclBGR;
+  sub Ghestroke-cy by Ghestroke-cy.loclBSH;
+  sub ghestroke-cy by ghestroke-cy.loclBSH;
+  sub Zedescender-cy by Zedescender-cy.loclBSH;
+  sub zedescender-cy by zedescender-cy.loclBSH;
+  sub esdescender-cy by esdescender-cy.loclCHU;
   sub endash by endash.case;
   sub emdash by emdash.case;
   sub bullet by bullet.case;
   sub guilsinglleft by guilsinglleft.case;
   sub guilsinglright by guilsinglright.case;
-  sub arrowleft by arrowleft.case;
-  sub arrowup by arrowup.case;
-  sub arrowright by arrowright.case;
-  sub arrowdown by arrowdown.case;
+  sub leftArrow by leftArrow.case;
+  sub upArrow by upArrow.case;
+  sub rightArrow by rightArrow.case;
+  sub downArrow by downArrow.case;
   sub periodcentered.loclCAT by periodcentered.loclCAT.case;
   sub gravecomb_macroncomb by gravecomb_macroncomb.case;
   sub acutecomb_macroncomb by acutecomb_macroncomb.case;
@@ -1752,22 +1758,22 @@ code = "# GSUB feature: Access All Alternates
   sub dotaccentcomb_macroncomb by dotaccentcomb_macroncomb.case;
   sub dieresiscomb_macroncomb by dieresiscomb_macroncomb.case;
   sub caroncomb_dotaccentcomb by caroncomb_dotaccentcomb.case;
-  sub zero from [zero.inferior zero.sinf zero.superior zero.numr zero.dnom zero.tosf];
-  sub one from [one.inferior one.sinf onesuperior one.numr one.dnom one.tosf];
-  sub two from [two.inferior two.sinf twosuperior two.numr two.dnom two.tosf];
-  sub three from [three.inferior three.sinf threesuperior three.numr three.dnom three.tosf];
-  sub four from [four.inferior four.sinf four.superior four.numr four.dnom four.tosf];
-  sub five from [five.inferior five.sinf five.superior five.numr five.dnom five.tosf];
-  sub six from [six.inferior six.sinf six.superior six.numr six.dnom six.tosf];
-  sub seven from [seven.inferior seven.sinf seven.superior seven.numr seven.dnom seven.tosf];
-  sub eight from [eight.inferior eight.sinf eight.superior eight.numr eight.dnom eight.tosf];
-  sub nine from [nine.inferior nine.sinf nine.superior nine.numr nine.dnom nine.tosf];
+  sub zero from [zeroinferior zero.sinf zerosuperior zero.numr zero.dnom zero.tosf];
+  sub one from [oneinferior one.sinf onesuperior one.numr one.dnom one.tosf];
+  sub two from [twoinferior two.sinf twosuperior two.numr two.dnom two.tosf];
+  sub three from [threeinferior three.sinf threesuperior three.numr three.dnom three.tosf];
+  sub four from [fourinferior four.sinf foursuperior four.numr four.dnom four.tosf];
+  sub five from [fiveinferior five.sinf fivesuperior five.numr five.dnom five.tosf];
+  sub six from [sixinferior six.sinf sixsuperior six.numr six.dnom six.tosf];
+  sub seven from [seveninferior seven.sinf sevensuperior seven.numr seven.dnom seven.tosf];
+  sub eight from [eightinferior eight.sinf eightsuperior eight.numr eight.dnom eight.tosf];
+  sub nine from [nineinferior nine.sinf ninesuperior nine.numr nine.dnom nine.tosf];
   sub periodcentered from [periodcentered.loclCAT periodcentered.loclCAT.case periodcentered.case];
-  sub gecyr from [gecyr.loclBGR gecyr.loclSRB];
-  sub decyr from [decyr.loclBGR decyr.loclSRB];
-  sub pecyr from [pecyr.loclBGR pecyr.loclSRB];
-  sub tecyr from [tecyr.loclBGR tecyr.loclSRB];
-  sub Estailcyr from [Estailcyr.loclCHU Estailcyr.loclBSH];";
+  sub ge-cy from [ge-cy.loclBGR ge-cy.loclSRB];
+  sub de-cy from [de-cy.loclBGR de-cy.loclSRB];
+  sub pe-cy from [pe-cy.loclBGR pe-cy.loclSRB];
+  sub te-cy from [te-cy.loclBGR te-cy.loclSRB];
+  sub Esdescender-cy from [Esdescender-cy.loclCHU Esdescender-cy.loclBSH];";
 tag = aalt;
 },
 {
@@ -1777,8 +1783,8 @@ code = "# GSUB feature: Glyph Composition / Decomposition
 
   lookup ccmp_1 {
   # GSUB lookup 4, type 16 (Chaining Context)
-    sub [i j]' @ccmp2 by [dotlessi dotlessj];
-    sub [i j]' @ccmp3 @ccmp2 by [dotlessi dotlessj];
+    sub [i j]' @ccmp2 by [idotless jdotless];
+    sub [i j]' @ccmp3 @ccmp2 by [idotless jdotless];
     sub @ccmp @ccmp' lookup ccmp_2;
     sub @ccmp4 @ccmp' lookup ccmp_2;
   } ccmp_1;
@@ -1983,66 +1989,66 @@ code = "# GSUB feature: Localized Forms
 
   script cyrl; # Cyrillic
     language SRB ; # Serbian
-    sub becyr by becyr.loclSRB;
-    sub gecyr by gecyr.loclSRB;
-    sub decyr by decyr.loclSRB;
-    sub pecyr by pecyr.loclSRB;
-    sub tecyr by tecyr.loclSRB;
+    sub be-cy by be-cy.loclSRB;
+    sub ge-cy by ge-cy.loclSRB;
+    sub de-cy by de-cy.loclSRB;
+    sub pe-cy by pe-cy.loclSRB;
+    sub te-cy by te-cy.loclSRB;
 
     language MKD ; # Macedonian
-    sub gjecyr by gjecyr.loclMKD;
+    sub gje-cy by gje-cy.loclMKD;
 
     language BSH ; # Bashkir
-    sub Gestrokecyr by Gestrokecyr.loclBSH;
-    sub gestrokecyr by gestrokecyr.loclBSH;
-    sub Zetailcyr by Zetailcyr.loclBSH;
-    sub zetailcyr by zetailcyr.loclBSH;
-    sub Estailcyr by Estailcyr.loclBSH;
+    sub Ghestroke-cy by Ghestroke-cy.loclBSH;
+    sub ghestroke-cy by ghestroke-cy.loclBSH;
+    sub Zedescender-cy by Zedescender-cy.loclBSH;
+    sub zedescender-cy by zedescender-cy.loclBSH;
+    sub Esdescender-cy by Esdescender-cy.loclBSH;
 
     language BGR ; # Bulgarian
-    sub Decyr by Decyr.loclBGR;
-    sub Elcyr by Elcyr.loclBGR;
-    sub Efcyr by Efcyr.loclBGR;
-    sub vecyr by vecyr.loclBGR;
-    sub gecyr by gecyr.loclBGR;
-    sub decyr by decyr.loclBGR;
-    sub zhecyr by zhecyr.loclBGR;
-    sub zecyr by zecyr.loclBGR;
-    sub icyr by icyr.loclBGR;
-    sub ishortcyr by ishortcyr.loclBGR;
-    sub kacyr by kacyr.loclBGR;
-    sub elcyr by elcyr.loclBGR;
-    sub encyr by encyr.loclBGR;
-    sub pecyr by pecyr.loclBGR;
-    sub tecyr by tecyr.loclBGR;
-    sub tsecyr by tsecyr.loclBGR;
-    sub checyr by checyr.loclBGR;
-    sub shacyr by shacyr.loclBGR;
-    sub shchacyr by shchacyr.loclBGR;
-    sub hardcyr by hardcyr.loclBGR;
-    sub softcyr by softcyr.loclBGR;
-    sub yucyr by yucyr.loclBGR;
-    sub igravecyr by igravecyr.loclBGR;
+    sub De-cy by De-cy.loclBGR;
+    sub El-cy by El-cy.loclBGR;
+    sub Ef-cy by Ef-cy.loclBGR;
+    sub ve-cy by ve-cy.loclBGR;
+    sub ge-cy by ge-cy.loclBGR;
+    sub de-cy by de-cy.loclBGR;
+    sub zhe-cy by zhe-cy.loclBGR;
+    sub ze-cy by ze-cy.loclBGR;
+    sub ii-cy by ii-cy.loclBGR;
+    sub iishort-cy by iishort-cy.loclBGR;
+    sub ka-cy by ka-cy.loclBGR;
+    sub el-cy by el-cy.loclBGR;
+    sub en-cy by en-cy.loclBGR;
+    sub pe-cy by pe-cy.loclBGR;
+    sub te-cy by te-cy.loclBGR;
+    sub tse-cy by tse-cy.loclBGR;
+    sub che-cy by che-cy.loclBGR;
+    sub sha-cy by sha-cy.loclBGR;
+    sub shcha-cy by shcha-cy.loclBGR;
+    sub hardsign-cy by hardsign-cy.loclBGR;
+    sub softsign-cy by softsign-cy.loclBGR;
+    sub iu-cy by iu-cy.loclBGR;
+    sub iigrave-cy by iigrave-cy.loclBGR;
 
     language CHU ; # Chuvash
-    sub Estailcyr by Estailcyr.loclCHU;
-    sub estailcyr by estailcyr.loclCHU;";
+    sub Esdescender-cy by Esdescender-cy.loclCHU;
+    sub esdescender-cy by esdescender-cy.loclCHU;";
 tag = locl;
 },
 {
 code = "# GSUB feature: Subscript
 # Lookups: 1
 
-  sub zero by zero.inferior;
-  sub one by one.inferior;
-  sub two by two.inferior;
-  sub three by three.inferior;
-  sub four by four.inferior;
-  sub five by five.inferior;
-  sub six by six.inferior;
-  sub seven by seven.inferior;
-  sub eight by eight.inferior;
-  sub nine by nine.inferior;";
+  sub zero by zeroinferior;
+  sub one by oneinferior;
+  sub two by twoinferior;
+  sub three by threeinferior;
+  sub four by fourinferior;
+  sub five by fiveinferior;
+  sub six by sixinferior;
+  sub seven by seveninferior;
+  sub eight by eightinferior;
+  sub nine by nineinferior;";
 tag = subs;
 },
 {
@@ -2065,16 +2071,16 @@ tag = sinf;
 code = "# GSUB feature: Superscript
 # Lookups: 1
 
-  sub zero by zero.superior;
+  sub zero by zerosuperior;
   sub one by onesuperior;
   sub two by twosuperior;
   sub three by threesuperior;
-  sub four by four.superior;
-  sub five by five.superior;
-  sub six by six.superior;
-  sub seven by seven.superior;
-  sub eight by eight.superior;
-  sub nine by nine.superior;";
+  sub four by foursuperior;
+  sub five by fivesuperior;
+  sub six by sixsuperior;
+  sub seven by sevensuperior;
+  sub eight by eightsuperior;
+  sub nine by ninesuperior;";
 tag = sups;
 },
 {
@@ -2167,17 +2173,17 @@ code = "# GSUB feature: Case-Sensitive Forms
   sub bracketright by bracketright.case;
   sub braceleft by braceleft.case;
   sub braceright by braceright.case;
-  sub guillemotleft by guillemotleft.case;
-  sub guillemotright by guillemotright.case;
+  sub guillemetleft by guillemetleft.case;
+  sub guillemetright by guillemetright.case;
   sub endash by endash.case;
   sub emdash by emdash.case;
   sub bullet by bullet.case;
   sub guilsinglleft by guilsinglleft.case;
   sub guilsinglright by guilsinglright.case;
-  sub arrowleft by arrowleft.case;
-  sub arrowup by arrowup.case;
-  sub arrowright by arrowright.case;
-  sub arrowdown by arrowdown.case;";
+  sub leftArrow by leftArrow.case;
+  sub upArrow by upArrow.case;
+  sub rightArrow by rightArrow.case;
+  sub downArrow by downArrow.case;";
 tag = case;
 },
 {
@@ -2193,16 +2199,16 @@ code = "# GSUB feature: Standard Ligatures
 
 lookup double_Idieresis {
   sub Idieresis Idieresis by Idieresis.double;
-  sub Idieresis Yukrcyr by Idieresis.double;
-  sub Yukrcyr Idieresis by Idieresis.double;
-  sub Yukrcyr Yukrcyr by Idieresis.double;
+  sub Idieresis Yi-cy by Idieresis.double;
+  sub Yi-cy Idieresis by Idieresis.double;
+  sub Yi-cy Yi-cy by Idieresis.double;
 } double_Idieresis;
 
 lookup double_idieresis {
   sub idieresis idieresis by idieresis.double;
-  sub idieresis yukrcyr by idieresis.double;
-  sub yukrcyr idieresis by idieresis.double;
-  sub yukrcyr yukrcyr by idieresis.double;
+  sub idieresis yi-cy by idieresis.double;
+  sub yi-cy idieresis by idieresis.double;
+  sub yi-cy yi-cy by idieresis.double;
 } double_idieresis;
 
   sub f' f by f.f;
@@ -2216,40 +2222,40 @@ tag = liga;
 code = "# GSUB feature: Stylistic Set 1
 # Lookups: 1
 
-  sub Decyr by Decyr.loclBGR;
-  sub Elcyr by Elcyr.loclBGR;
-  sub Efcyr by Efcyr.loclBGR;
-  sub vecyr by vecyr.loclBGR;
-  sub gecyr by gecyr.loclBGR;
-  sub decyr by decyr.loclBGR;
-  sub zhecyr by zhecyr.loclBGR;
-  sub zecyr by zecyr.loclBGR;
-  sub icyr by icyr.loclBGR;
-  sub ishortcyr by ishortcyr.loclBGR;
-  sub kacyr by kacyr.loclBGR;
-  sub elcyr by elcyr.loclBGR;
-  sub encyr by encyr.loclBGR;
-  sub pecyr by pecyr.loclBGR;
-  sub tecyr by tecyr.loclBGR;
-  sub tsecyr by tsecyr.loclBGR;
-  sub checyr by checyr.loclBGR;
-  sub shacyr by shacyr.loclBGR;
-  sub shchacyr by shchacyr.loclBGR;
-  sub hardcyr by hardcyr.loclBGR;
-  sub softcyr by softcyr.loclBGR;
-  sub yucyr by yucyr.loclBGR;
-  sub igravecyr by igravecyr.loclBGR;";
+  sub De-cy by De-cy.loclBGR;
+  sub El-cy by El-cy.loclBGR;
+  sub Ef-cy by Ef-cy.loclBGR;
+  sub ve-cy by ve-cy.loclBGR;
+  sub ge-cy by ge-cy.loclBGR;
+  sub de-cy by de-cy.loclBGR;
+  sub zhe-cy by zhe-cy.loclBGR;
+  sub ze-cy by ze-cy.loclBGR;
+  sub ii-cy by ii-cy.loclBGR;
+  sub iishort-cy by iishort-cy.loclBGR;
+  sub ka-cy by ka-cy.loclBGR;
+  sub el-cy by el-cy.loclBGR;
+  sub en-cy by en-cy.loclBGR;
+  sub pe-cy by pe-cy.loclBGR;
+  sub te-cy by te-cy.loclBGR;
+  sub tse-cy by tse-cy.loclBGR;
+  sub che-cy by che-cy.loclBGR;
+  sub sha-cy by sha-cy.loclBGR;
+  sub shcha-cy by shcha-cy.loclBGR;
+  sub hardsign-cy by hardsign-cy.loclBGR;
+  sub softsign-cy by softsign-cy.loclBGR;
+  sub iu-cy by iu-cy.loclBGR;
+  sub iigrave-cy by iigrave-cy.loclBGR;";
 tag = ss01;
 },
 {
 code = "# GSUB feature: Stylistic Set 2
 # Lookups: 1
 
-  sub becyr by becyr.loclSRB;
-  sub gecyr by gecyr.loclSRB;
-  sub decyr by decyr.loclSRB;
-  sub pecyr by pecyr.loclSRB;
-  sub tecyr by tecyr.loclSRB;";
+  sub be-cy by be-cy.loclSRB;
+  sub ge-cy by ge-cy.loclSRB;
+  sub de-cy by de-cy.loclSRB;
+  sub pe-cy by pe-cy.loclSRB;
+  sub te-cy by te-cy.loclSRB;";
 tag = ss02;
 },
 {
@@ -2362,11 +2368,11 @@ code = "# GSUB feature: Stylistic Set 5
   sub Iotatonos by Iotatonos.ss05;
   sub Iota by Iota.ss05;
   sub Iotadieresis by Iotadieresis.ss05;
-  sub Iukrcyr by Iukrcyr.ss05;
-  sub Yukrcyr by Yukrcyr.ss05;
-  sub Palochkacyr by Palochkacyr.ss05;
+  sub I-cy by I-cy.ss05;
+  sub Yi-cy by Yi-cy.ss05;
+  sub Palochka-cy by Palochka-cy.ss05;
   sub Idieresisacute by Idieresisacute.ss05;
-  sub Ihoi by Ihoi.ss05;
+  sub Ihookabove by Ihookabove.ss05;
   sub Idotbelow by Idotbelow.ss05;";
 tag = ss05;
 },
@@ -2616,7 +2622,7 @@ code = "# GPOS feature: Mark Positioning
         <anchor 502 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 432 350> mark @m.dotaccentcomb_2;
-    pos base dotlessi
+    pos base idotless
         <anchor 184 531> mark @t.gravecomb
         <anchor 135 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -2660,7 +2666,7 @@ code = "# GPOS feature: Mark Positioning
         <anchor 472 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base dotlessj
+    pos base jdotless
         <anchor 177 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -2672,15 +2678,15 @@ code = "# GPOS feature: Mark Positioning
         <anchor 274 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base macronmod
+    pos base firsttonechinese
         <anchor 303 689> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base acutemod
+    pos base secondtonechinese
         <anchor 256 755> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base gravemod
+    pos base fourthtonechinese
         <anchor 288 710> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -2804,243 +2810,243 @@ code = "# GPOS feature: Mark Positioning
         <anchor 331 531> mark @t.gravecomb
         <anchor 451 0> mark @m.ogonek_1
         <anchor 305 266> mark @m.dotaccentcomb_2;
-    pos base Iegravecyr
+    pos base Iegrave-cy
         <anchor 536 890> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Iocyr
+    pos base Io-cy
         <anchor 442 830> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Gjecyr
+    pos base Gje-cy
         <anchor 491 890> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Iukrcyr
+    pos base I-cy
         <anchor 244 700> mark @t.gravecomb
         <anchor 161 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Acyr
+    pos base A-cy
         <anchor 442 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Gecyr
+    pos base Ge-cy
         <anchor 416 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Zhecyr
+    pos base Zhe-cy
         <anchor 609 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Zecyr
+    pos base Ze-cy
         <anchor 406 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Icyr
+    pos base Ii-cy
         <anchor 497 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Kacyr
+    pos base Ka-cy
         <anchor 451 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Emcyr
+    pos base Em-cy
         <anchor 569 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Encyr
+    pos base En-cy
         <anchor 498 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 428 350> mark @m.dotaccentcomb_2;
-    pos base Tecyr
+    pos base Te-cy
         <anchor 395 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 322 336> mark @m.dotaccentcomb_2;
-    pos base Ucyr
+    pos base U-cy
         <anchor 431 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Checyr
+    pos base Che-cy
         <anchor 430 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Ylongcyr
+    pos base Yeru-cy
         <anchor 567 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Softcyr
+    pos base Softsign-cy
         <anchor 0 0> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 240 585> mark @m.dotaccentcomb_2;
-    pos base Ereversedcyr
+    pos base Ereversed-cy
         <anchor 408 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Yucyr
+    pos base Iu-cy
         <anchor 565 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Yacyr
+    pos base Ia-cy
         <anchor 430 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base acyr
+    pos base a-cy
         <anchor 357 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base vecyr
+    pos base ve-cy
         <anchor 369 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base gecyr
+    pos base ge-cy
         <anchor 344 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base iecyr
+    pos base ie-cy
         <anchor 358 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base zhecyr
+    pos base zhe-cy
         <anchor 486 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base zecyr
+    pos base ze-cy
         <anchor 291 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base icyr
+    pos base ii-cy
         <anchor 397 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base kacyr
+    pos base ka-cy
         <anchor 367 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base emcyr
+    pos base em-cy
         <anchor 454 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base encyr
+    pos base en-cy
         <anchor 393 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 372 427> mark @m.dotaccentcomb_2;
-    pos base ocyr
+    pos base o-cy
         <anchor 353 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base tecyr
+    pos base te-cy
         <anchor 307 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 251 250> mark @m.dotaccentcomb_2;
-    pos base ucyr
+    pos base u-cy
         <anchor 319 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base checyr
+    pos base che-cy
         <anchor 332 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base ylongcyr
+    pos base yeru-cy
         <anchor 463 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base ereversedcyr
+    pos base ereversed-cy
         <anchor 322 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base yucyr
+    pos base iu-cy
         <anchor 453 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base yacyr
+    pos base ia-cy
         <anchor 340 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base iocyr
+    pos base io-cy
         <anchor 380 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base djecyr
+    pos base dje-cy
         <anchor 238 742> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 275 635> mark @m.dotaccentcomb_2;
-    pos base iukrcyr
+    pos base i-cy
         <anchor 250 750> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base tshecyr
+    pos base tshe-cy
         <anchor 241 742> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 269 634> mark @m.dotaccentcomb_2;
-    pos base Yatcyr
+    pos base Yat-cy
         <anchor 0 0> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 339 585> mark @m.dotaccentcomb_2;
-    pos base kastrokecyr
+    pos base kastroke-cy
         <anchor 375 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Kabashkcyr
+    pos base Kabashkir-cy
         <anchor 587 701> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base kabashkcyr
+    pos base kabashkir-cy
         <anchor 451 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Engecyr
+    pos base Enghe-cy
         <anchor 1197 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 428 350> mark @m.dotaccentcomb_2;
-    pos base tetailcyr
+    pos base tedescender-cy
         <anchor 307 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 251 250> mark @m.dotaccentcomb_2;
-    pos base Ustraightcyr
+    pos base Ustraight-cy
         <anchor 425 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 330 235> mark @m.dotaccentcomb_2;
-    pos base ustraightcyr
+    pos base ustraight-cy
         <anchor 0 0> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 239 5> mark @m.dotaccentcomb_2;
-    pos base Tetsecyr
+    pos base Tetse-cy
         <anchor 393 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 320 336> mark @m.dotaccentcomb_2;
-    pos base Cheabkhcyr
+    pos base Cheabkhasian-cy
         <anchor 687 703> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base cheabkhcyr
+    pos base cheabkhasian-cy
         <anchor 517 530> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Palochkacyr
+    pos base Palochka-cy
         <anchor 248 700> mark @t.gravecomb
         <anchor 165 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base palochkacyr
+    pos base palochka-cy
         <anchor 238 742> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 162 360> mark @m.dotaccentcomb_2;
-    pos base Schwacyr
+    pos base Schwa-cy
         <anchor 497 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Obarcyr
+    pos base Obarred-cy
         <anchor 507 700> mark @t.gravecomb
         <anchor 450 0> mark @m.ogonek_1
         <anchor 437 350> mark @m.dotaccentcomb_2;
-    pos base obarcyr
+    pos base obarred-cy
         <anchor 380 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base Gehookstrokecyr
+    pos base Gestrokehook-cy
         <anchor 445 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base wecyr
+    pos base we-cy
         <anchor 476 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -3048,7 +3054,7 @@ code = "# GPOS feature: Mark Positioning
         <anchor 394 700> mark @t.gravecomb
         <anchor 540 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base colonmonetary
+    pos base colonsign
         <anchor 415 700> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -3292,27 +3298,27 @@ code = "# GPOS feature: Mark Positioning
         <anchor 220 574> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base kacyr.loclBGR
+    pos base ka-cy.loclBGR
         <anchor 362 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base elcyr.loclBGR
+    pos base el-cy.loclBGR
         <anchor 343 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base tecyr.loclSRB
+    pos base te-cy.loclSRB
         <anchor 590 690> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base shacyr.loclBGR
+    pos base sha-cy.loclBGR
         <anchor 562 532> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base igravecyr.loclBGR
+    pos base iigrave-cy.loclBGR
         <anchor 531 710> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
-    pos base estailcyr.loclCHU
+    pos base esdescender-cy.loclCHU
         <anchor 398 531> mark @t.gravecomb
         <anchor 0 0> mark @m.ogonek_1
         <anchor 0 0> mark @m.dotaccentcomb_2;
@@ -3460,7 +3466,7 @@ guides = (
 position = "{0, 544}";
 }
 );
-id = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+id = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 metricValues = (
 {
 pos = 1850;
@@ -3604,7 +3610,7 @@ guides = (
 position = "{0, 619}";
 }
 );
-id = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+id = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 metricValues = (
 {
 pos = 1850;
@@ -3747,7 +3753,7 @@ guides = (
 position = "{0, 1034}";
 }
 );
-id = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+id = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 metricValues = (
 {
 pos = 1850;
@@ -3851,7 +3857,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"3412EF41-8D40-4AD8-A3E8-23555CC779E5" = {
+"196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -4960,7 +4966,7 @@ itilde = 60;
 "@MMK_R_tshe-cy" = 80;
 "@MMK_R_underscore" = 58;
 "@MMK_R_yen" = 34;
-Decyr = 16;
+"De-cy" = 16;
 };
 "@MMK_L_braceleft.case" = {
 "@MMK_R_A" = 60;
@@ -5288,7 +5294,7 @@ rdblgrave = 86;
 "@MMK_R_x" = -48;
 "@MMK_R_yen" = -48;
 "@MMK_R_z" = -26;
-Decyr = -10;
+"De-cy" = -10;
 };
 "@MMK_L_hyphen.case" = {
 "@MMK_R_A" = -74;
@@ -5474,7 +5480,7 @@ j = 158;
 "@MMK_R_tshe-cy" = 38;
 "@MMK_R_underscore" = 8;
 "@MMK_R_yen" = 34;
-Decyr = 6;
+"De-cy" = 6;
 };
 "@MMK_L_parenleft.case" = {
 "@MMK_R_backslash" = 94;
@@ -6111,7 +6117,7 @@ c = {
 eogonek = {
 "@MMK_R_j" = 60;
 };
-hahookcyr = {
+"hahook-cy" = {
 "@MMK_R_j" = 100;
 };
 i = {
@@ -6136,7 +6142,7 @@ j = {
 q = {
 "@MMK_R_j" = 100;
 };
-reversedzecyr = {
+"reversedze-cy" = {
 "@MMK_R_hyphen" = -44;
 "@MMK_R_quoteleft" = 22;
 "@MMK_R_quoteright" = 6;
@@ -6152,7 +6158,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"9043404F-E9C5-4B3E-B15A-843443318E3E" = {
+"D4E38000-BFB5-44FC-A51C-4288F8544A0D" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -7261,7 +7267,7 @@ itilde = 60;
 "@MMK_R_tshe-cy" = 80;
 "@MMK_R_underscore" = 58;
 "@MMK_R_yen" = 34;
-Decyr = 16;
+"De-cy" = 16;
 };
 "@MMK_L_braceleft.case" = {
 "@MMK_R_A" = 60;
@@ -7589,7 +7595,7 @@ rdblgrave = 86;
 "@MMK_R_x" = -48;
 "@MMK_R_yen" = -48;
 "@MMK_R_z" = -26;
-Decyr = -10;
+"De-cy" = -10;
 };
 "@MMK_L_hyphen.case" = {
 "@MMK_R_A" = -74;
@@ -7775,7 +7781,7 @@ j = 158;
 "@MMK_R_tshe-cy" = 38;
 "@MMK_R_underscore" = 8;
 "@MMK_R_yen" = 34;
-Decyr = 6;
+"De-cy" = 6;
 };
 "@MMK_L_parenleft.case" = {
 "@MMK_R_backslash" = 94;
@@ -8412,7 +8418,7 @@ c = {
 eogonek = {
 "@MMK_R_j" = 60;
 };
-hahookcyr = {
+"hahook-cy" = {
 "@MMK_R_j" = 100;
 };
 i = {
@@ -8437,7 +8443,7 @@ j = {
 q = {
 "@MMK_R_j" = 100;
 };
-reversedzecyr = {
+"reversedze-cy" = {
 "@MMK_R_hyphen" = -44;
 "@MMK_R_quoteleft" = 22;
 "@MMK_R_quoteright" = 6;
@@ -8453,7 +8459,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C" = {
+"FAA95C36-2A9A-4A6A-AE16-672F8292957B" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -9562,7 +9568,7 @@ itilde = 60;
 "@MMK_R_tshe-cy" = 80;
 "@MMK_R_underscore" = 58;
 "@MMK_R_yen" = 34;
-Decyr = 16;
+"De-cy" = 16;
 };
 "@MMK_L_braceleft.case" = {
 "@MMK_R_A" = 60;
@@ -9890,7 +9896,7 @@ rdblgrave = 86;
 "@MMK_R_x" = -48;
 "@MMK_R_yen" = -48;
 "@MMK_R_z" = -26;
-Decyr = -10;
+"De-cy" = -10;
 };
 "@MMK_L_hyphen.case" = {
 "@MMK_R_A" = -74;
@@ -10076,7 +10082,7 @@ j = 158;
 "@MMK_R_tshe-cy" = 38;
 "@MMK_R_underscore" = 8;
 "@MMK_R_yen" = 34;
-Decyr = 6;
+"De-cy" = 6;
 };
 "@MMK_L_parenleft.case" = {
 "@MMK_R_backslash" = 94;
@@ -10713,7 +10719,7 @@ c = {
 eogonek = {
 "@MMK_R_j" = 60;
 };
-hahookcyr = {
+"hahook-cy" = {
 "@MMK_R_j" = 100;
 };
 i = {
@@ -10738,7 +10744,7 @@ j = {
 q = {
 "@MMK_R_j" = 100;
 };
-reversedzecyr = {
+"reversedze-cy" = {
 "@MMK_R_hyphen" = -44;
 "@MMK_R_quoteleft" = 22;
 "@MMK_R_quoteright" = 6;
@@ -10849,7 +10855,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"3412EF41-8D40-4AD8-A3E8-23555CC779E5" = {
+"FAA95C36-2A9A-4A6A-AE16-672F8292957B" = {
 HV = 20;
 HH = 20;
 OH = 20;
@@ -10857,7 +10863,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C" = {
+"196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0" = {
 HV = 118;
 HH = 100;
 OH = 100;
@@ -10865,7 +10871,7 @@ oH = 91;
 nV = 116;
 tH = 82;
 };
-"9043404F-E9C5-4B3E-B15A-843443318E3E" = {
+"D4E38000-BFB5-44FC-A51C-4288F8544A0D" = {
 HV = 232;
 HH = 176;
 OH = 193;

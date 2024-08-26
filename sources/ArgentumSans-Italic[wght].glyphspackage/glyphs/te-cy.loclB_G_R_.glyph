@@ -1,0 +1,40 @@
+{
+glyphname = "te-cy.loclBGR";
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+pos = (51,0);
+ref = m;
+}
+);
+width = 2072;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+pos = (47,0);
+ref = m;
+}
+);
+width = 2098;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+pos = (51,0);
+ref = m;
+}
+);
+width = 2122;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = n;
+}

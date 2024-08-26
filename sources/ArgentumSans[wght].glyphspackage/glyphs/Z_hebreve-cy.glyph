@@ -1,0 +1,84 @@
+{
+glyphname = "Zhebreve-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1726, 0}";
+},
+{
+name = bottomright;
+position = "{2252, 0}";
+},
+{
+name = top;
+position = "{1144, 1786}";
+}
+);
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = "Zhe-cy";
+},
+{
+pos = (302,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 2280;
+},
+{
+anchors = (
+{
+name = bottomleft;
+position = "{1778, 0}";
+},
+{
+name = bottomright;
+position = "{2064, 0}";
+},
+{
+name = top;
+position = "{1042, 1738}";
+}
+);
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = "Zhe-cy";
+},
+{
+pos = (278,2);
+ref = brevecyrcomb.case;
+}
+);
+width = 2078;
+},
+{
+anchors = (
+{
+name = top;
+position = "{976, 1646}";
+}
+);
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = "Zhe-cy";
+},
+{
+pos = (262,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1948;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = X;
+unicode = 1217;
+}

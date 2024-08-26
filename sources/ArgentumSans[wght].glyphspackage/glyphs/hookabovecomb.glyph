@@ -2,18 +2,8 @@
 glyphname = hookabovecomb;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{462, 1094}";
-},
-{
-name = top;
-position = "{462, 1596}";
-}
-);
-layerId = "C81A8CE0-8E50-4B34-B650-FF50A1E7190E";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "D71CA2ED-BEA1-4CC8-98D3-5E7848A40739";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Hookabove Nov 9 16, 11:14";
 shapes = (
 {
@@ -45,18 +35,8 @@ nodes = (
 width = 940;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{0, 1094}";
-},
-{
-name = top;
-position = "{0, 1596}";
-}
-);
-layerId = "9383CC81-FEAD-4ED1-979D-95627ED7B701";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "0FD87306-C66D-4CDE-9FA2-4A1A60952CB8";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Aug 12 16, 02:26";
 shapes = (
 {
@@ -95,23 +75,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{336, 1094}";
-},
-{
-name = top;
-position = "{336, 1548}";
-}
-);
-guides = (
-{
-angle = 90;
-position = "{20, 0}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -142,18 +106,8 @@ nodes = (
 width = 670;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{0, 1062}";
-},
-{
-name = top;
-position = "{-22, 1484}";
-}
-);
-layerId = "18C0E5A4-A974-4E4D-8A91-8581F5C336AF";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "2333800D-D0C0-48CC-BCCE-767ECC1DBDED";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular Aug 12 16, 02:27";
 shapes = (
 {
@@ -192,18 +146,8 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{-2, 1062}";
-},
-{
-name = top;
-position = "{-6, 1484}";
-}
-);
-layerId = "A3232E1C-A528-419C-B2DF-348443C7F2F5";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "214D46E0-8B9A-47C7-AC79-2B593983C4AD";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Hookabove Nov 9 16, 11:03";
 shapes = (
 {
@@ -235,17 +179,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{266, 1062}";
-},
-{
-name = top;
-position = "{266, 1484}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -276,18 +210,8 @@ nodes = (
 width = 512;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{0, 1034}";
-},
-{
-name = top;
-position = "{0, 1430}";
-}
-);
-layerId = "BE6D4DA9-F83F-4DF3-925B-2485E0F3A8D8";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "6BE97D15-A72C-4355-853F-CA3C8BEECE9C";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Aug 12 16, 02:28";
 shapes = (
 {
@@ -326,18 +250,8 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{0, 1034}";
-},
-{
-name = top;
-position = "{0, 1430}";
-}
-);
-layerId = "88E4AB2E-00FE-49D1-B4EE-59D40847E2DB";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "44008490-DA99-4309-B479-C5DF5569C2C8";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Hookabove Nov 9 16, 11:08";
 shapes = (
 {
@@ -369,17 +283,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{200, 1034}";
-},
-{
-name = top;
-position = "{200, 1430}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

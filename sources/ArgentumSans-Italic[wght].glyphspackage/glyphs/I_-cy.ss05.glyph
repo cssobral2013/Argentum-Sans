@@ -1,0 +1,77 @@
+{
+glyphname = "I-cy.ss05";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{221, 0}";
+},
+{
+name = ogonek;
+position = "{325, 0}";
+},
+{
+name = top;
+position = "{493, 1400}";
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = I.ss05;
+}
+);
+width = 1032;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{196, 0}";
+},
+{
+name = ogonek;
+position = "{314, 0}";
+},
+{
+name = top;
+position = "{476, 1400}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = I.ss05;
+}
+);
+width = 924;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{172, 0}";
+},
+{
+name = ogonek;
+position = "{190, 0}";
+},
+{
+name = top;
+position = "{452, 1400}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = I.ss05;
+}
+);
+width = 844;
+}
+);
+}

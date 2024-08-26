@@ -2,18 +2,8 @@
 glyphname = u;
 layers = (
 {
-anchors = (
-{
-name = ogonek;
-position = "{1252, 20}";
-},
-{
-name = top;
-position = "{660, 1094}";
-}
-);
-layerId = "B9BCEF24-DAF7-4931-A151-F6038F7D032D";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "05FFE7D0-FEFF-410A-9B83-C227A8EE9A6C";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Aug 9 16, 18:46";
 shapes = (
 {
@@ -99,25 +89,7 @@ nodes = (
 width = 1344;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{672, 0}";
-},
-{
-name = ogonek;
-position = "{1110, 0}";
-},
-{
-name = top;
-position = "{672, 1094}";
-},
-{
-name = topright;
-position = "{1094, 1094}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -153,18 +125,8 @@ nodes = (
 width = 1344;
 },
 {
-anchors = (
-{
-name = ogonek;
-position = "{1188, 20}";
-},
-{
-name = top;
-position = "{646, 1062}";
-}
-);
-layerId = "38319E9C-438C-4868-8608-D2D78F0D8E5D";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "558759A1-D1B6-4072-90D0-746A3B972819";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular Aug 9 16, 18:45";
 shapes = (
 {
@@ -250,25 +212,7 @@ nodes = (
 width = 1306;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{654, 0}";
-},
-{
-name = ogonek;
-position = "{1136, 0}";
-},
-{
-name = top;
-position = "{654, 1062}";
-},
-{
-name = topright;
-position = "{1036, 1062}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -304,25 +248,7 @@ nodes = (
 width = 1306;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{638, 0}";
-},
-{
-name = ogonek;
-position = "{1054, 0}";
-},
-{
-name = top;
-position = "{638, 1034}";
-},
-{
-name = topright;
-position = "{1034, 1034}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

@@ -2,8 +2,8 @@
 glyphname = Schwa;
 layers = (
 {
-layerId = "FB397347-C843-465D-91C4-0747E994F084";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "EB8AC2D5-8523-4F61-8039-940AFCBABF5E";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Aug 5 16, 18:27";
 shapes = (
 {
@@ -51,7 +51,7 @@ nodes = (
 width = 1600;
 },
 {
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -94,12 +94,7 @@ nodes = (
 width = 1598;
 },
 {
-guides = (
-{
-position = "{0, 700}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -142,8 +137,8 @@ nodes = (
 width = 1560;
 },
 {
-layerId = "A54A81D1-EE54-4967-A14E-A3A492E57920";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "B41461C9-33F2-41A9-91E0-343552652781";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Aug 5 16, 18:01";
 shapes = (
 {
@@ -183,7 +178,7 @@ nodes = (
 width = 1540;
 },
 {
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

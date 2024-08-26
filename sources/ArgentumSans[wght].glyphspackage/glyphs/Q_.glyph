@@ -2,8 +2,8 @@
 glyphname = Q;
 layers = (
 {
-layerId = "4A92889B-2DC9-4BAA-A14D-4685940DA5A3";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "5AFF942B-6D4C-4592-8F14-69376221A231";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold [170]";
 shapes = (
 {
@@ -53,7 +53,7 @@ nodes = (
 width = 1600;
 },
 {
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -102,8 +102,8 @@ nodes = (
 width = 1598;
 },
 {
-layerId = "A5196A70-0F2B-4DA9-8EEC-5A91034F6883";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "BB67C927-03F8-44C5-B972-D8BC73D5E558";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular [170]";
 shapes = (
 {
@@ -153,7 +153,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -202,7 +202,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

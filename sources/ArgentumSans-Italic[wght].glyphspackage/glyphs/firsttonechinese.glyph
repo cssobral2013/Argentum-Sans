@@ -1,0 +1,71 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{537, 1540}";
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,1268,l),
+(785,1268,l),
+(835,1524,l),
+(235,1524,l)
+);
+}
+);
+width = 680;
+},
+{
+anchors = (
+{
+name = top;
+position = "{519, 1378}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,1292,l),
+(757,1292,l),
+(785,1432,l),
+(275,1432,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{497, 1240}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,1314,l),
+(727,1314,l),
+(735,1354,l),
+(301,1354,l)
+);
+}
+);
+width = 700;
+}
+);
+leftKerningGroup = macron;
+rightKerningGroup = macron;
+unicode = 713;
+}

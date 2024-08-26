@@ -1,0 +1,65 @@
+{
+glyphname = "Kje-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomleft;
+position = "{984, 0}";
+},
+{
+name = bottomright;
+position = "{1518, 0}";
+},
+{
+name = top;
+position = "{868, 1820}";
+}
+);
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = "Ka-cy";
+},
+{
+alignment = -1;
+pos = (566,-2);
+ref = acutecomb.case;
+}
+);
+width = 1530;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = "Ka-cy";
+},
+{
+pos = (534,0);
+ref = acutecomb.case;
+}
+);
+width = 1432;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = "Ka-cy";
+},
+{
+pos = (512,2);
+ref = acutecomb.case;
+}
+);
+width = 1368;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = X;
+unicode = 1036;
+}

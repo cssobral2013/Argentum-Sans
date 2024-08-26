@@ -1,0 +1,80 @@
+{
+glyphname = whiteDiamond;
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,530,l),
+(492,-18,l),
+(1148,530,l),
+(706,1080,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(830,530,l),
+(554,298,l),
+(366,530,l),
+(644,762,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,530,l),
+(492,-18,l),
+(1148,530,l),
+(706,1080,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(938,530,l),
+(532,192,l),
+(260,530,l),
+(664,870,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,530,l),
+(492,-18,l),
+(1148,530,l),
+(706,1080,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1092,530,l),
+(504,38,l),
+(106,530,l),
+(694,1022,l)
+);
+}
+);
+width = 1200;
+}
+);
+leftKerningGroup = whiteDiamond;
+rightKerningGroup = whiteDiamond;
+unicode = 9671;
+}

@@ -2,33 +2,13 @@
 glyphname = dieresiscomb.narrow;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{492, 1094}";
-},
-{
-name = top;
-position = "{492, 1540}";
-}
-);
-layerId = "8C3DECAD-5486-4896-9013-69B2E7EED5D6";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "09C92FEC-F8A2-466C-8694-F7A7D3C61E59";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Dec 5 16, 18:17";
 width = 980;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{470, 1094}";
-},
-{
-name = top;
-position = "{470, 1540}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -68,17 +48,7 @@ nodes = (
 width = 980;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{398, 1062}";
-},
-{
-name = top;
-position = "{398, 1400}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -118,17 +88,7 @@ nodes = (
 width = 796;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{304, 1034}";
-},
-{
-name = top;
-position = "{304, 1260}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

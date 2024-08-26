@@ -2,21 +2,7 @@
 glyphname = tonos;
 layers = (
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{-112, 1520}";
-},
-{
-name = b.uni0324_3;
-position = "{-112, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{114, 0}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -31,21 +17,7 @@ nodes = (
 width = 450;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{-78, 1618}";
-},
-{
-name = b.uni0324_3;
-position = "{-78, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{238, 0}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -60,21 +32,7 @@ nodes = (
 width = 354;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{-32, 1618}";
-},
-{
-name = b.uni0324_3;
-position = "{-32, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{284, 0}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

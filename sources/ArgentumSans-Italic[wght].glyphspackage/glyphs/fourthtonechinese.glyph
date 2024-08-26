@@ -1,0 +1,71 @@
+{
+glyphname = fourthtonechinese;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{646, 1540}";
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,1440,l),
+(478,1182,l),
+(768,1202,l),
+(616,1560,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{651, 1420}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(315,1412,l),
+(521,1220,l),
+(715,1240,l),
+(571,1510,l)
+);
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = top;
+position = "{597, 1320}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(365,1458,l),
+(583,1248,l),
+(637,1258,l),
+(407,1478,l)
+);
+}
+);
+width = 700;
+}
+);
+leftKerningGroup = gravecomb;
+rightKerningGroup = gravecomb;
+unicode = 715;
+}

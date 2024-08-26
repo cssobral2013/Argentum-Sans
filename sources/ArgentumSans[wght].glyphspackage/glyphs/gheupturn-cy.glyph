@@ -1,0 +1,65 @@
+{
+glyphname = "gheupturn-cy";
+layers = (
+{
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(556,0,l),
+(556,742,l),
+(1062,742,l),
+(1062,1318,l),
+(642,1318,l),
+(642,1094,l),
+(106,1094,l),
+(106,0,l)
+);
+}
+);
+width = 1086;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(398,0,l),
+(398,872,l),
+(936,872,l),
+(936,1282,l),
+(730,1282,l),
+(730,1064,l),
+(178,1064,l),
+(178,0,l)
+);
+}
+);
+width = 950;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+closed = 1;
+nodes = (
+(274,0,l),
+(274,996,l),
+(836,996,l),
+(836,1248,l),
+(798,1248,l),
+(798,1034,l),
+(234,1034,l),
+(234,0,l)
+);
+}
+);
+width = 830;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
+unicode = 1169;
+}

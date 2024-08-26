@@ -1,0 +1,64 @@
+{
+glyphname = "Zedescender-cy.loclBSH";
+layers = (
+{
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,80,l),
+(400,-274,l),
+(832,-274,l),
+(832,80,l)
+);
+},
+{
+alignment = -1;
+ref = "Ze-cy";
+}
+);
+width = 1344;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,50,l),
+(504,-302,l),
+(716,-302,l),
+(716,50,l)
+);
+},
+{
+alignment = -1;
+ref = "Ze-cy";
+}
+);
+width = 1292;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+closed = 1;
+nodes = (
+(572,20,l),
+(572,-330,l),
+(612,-330,l),
+(612,20,l)
+);
+},
+{
+alignment = -1;
+ref = "Ze-cy";
+}
+);
+width = 1246;
+}
+);
+leftKerningGroup = "Zedescender-cy";
+rightKerningGroup = B;
+}

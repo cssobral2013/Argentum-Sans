@@ -2,11 +2,16 @@
 glyphname = iacute_j.loclNLD;
 layers = (
 {
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "2E657FDB-B9B3-4C65-8AAD-BB39C6C8DC7F";
+name = "Bold.Bold Aug 12 16, 01:46";
+width = 1366;
+},
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 alignment = -1;
-ref = dotlessi;
+ref = idotless;
 },
 {
 pos = (-90,0);
@@ -14,7 +19,7 @@ ref = acutecomb;
 },
 {
 pos = (669,0);
-ref = dotlessj;
+ref = jdotless;
 },
 {
 pos = (566,0);
@@ -24,11 +29,16 @@ ref = acutecomb;
 width = 1346;
 },
 {
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "F7483DAC-5546-4CE1-83F7-F0FF6CB9EA7C";
+name = "Regular.Regular Aug 12 16, 01:51";
+width = 1200;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 alignment = -1;
-ref = dotlessi;
+ref = idotless;
 },
 {
 pos = (-98,0);
@@ -36,7 +46,7 @@ ref = acutecomb;
 },
 {
 pos = (576,0);
-ref = dotlessj;
+ref = jdotless;
 },
 {
 pos = (457,0);
@@ -46,11 +56,16 @@ ref = acutecomb;
 width = 1134;
 },
 {
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "AEF1AEF9-4CC5-4FA3-813C-0238A6FAC3BD";
+name = "Light.Light Aug 12 16, 01:50";
+width = 1200;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 alignment = -1;
-ref = dotlessi;
+ref = idotless;
 },
 {
 pos = (-73,0);
@@ -58,7 +73,7 @@ ref = acutecomb;
 },
 {
 pos = (497,0);
-ref = dotlessj;
+ref = jdotless;
 },
 {
 pos = (402,0);

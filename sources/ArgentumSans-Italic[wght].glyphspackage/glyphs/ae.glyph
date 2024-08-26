@@ -2,6 +2,11 @@
 glyphname = ae;
 layers = (
 {
+layerId = "CFD8F2DF-3DA0-448C-B224-0C6733C0756C";
+name = "Bold.Bold Dec 28 15, 16:31";
+width = 1916;
+},
+{
 anchors = (
 {
 name = top;
@@ -16,7 +21,7 @@ name = ogonek;
 position = "{182, 0}";
 }
 );
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 closed = 1;
@@ -91,13 +96,18 @@ nodes = (
 width = 1916;
 },
 {
+layerId = "8AA534A9-B9F3-444E-9905-9EC4EF09E609";
+name = "Regular.Regular Dec 28 15, 16:31";
+width = 1948;
+},
+{
 anchors = (
 {
 name = top;
 position = "{1006, 1062}";
 }
 );
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 closed = 1;
@@ -172,13 +182,23 @@ nodes = (
 width = 1950;
 },
 {
+layerId = "C8498A0D-4A99-4F0C-9E24-F376B68FDA0C";
+name = "Light.Light Dec 28 15, 16:32";
+width = 1976;
+},
+{
+layerId = "E18FE9A2-E1EF-4AE2-8D2B-43A4DC082D05";
+name = "Light.Light Dec 28 15, 16:31";
+width = 1976;
+},
+{
 anchors = (
 {
 name = top;
 position = "{1005, 1034}";
 }
 );
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 closed = 1;

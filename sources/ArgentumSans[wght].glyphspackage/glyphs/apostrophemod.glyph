@@ -2,13 +2,13 @@
 glyphname = apostrophemod;
 layers = (
 {
-layerId = "FB129700-BBA8-4523-8B0E-1720E2E16CE5";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "54F3A753-1F5D-4197-B5EA-AB60CA9F353B";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Aug 12 16, 13:04";
 width = 516;
 },
 {
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -23,13 +23,13 @@ nodes = (
 width = 504;
 },
 {
-layerId = "318A0745-28B5-463A-B855-33A85DE9EFC8";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "4EAF1E0E-2B0C-408E-B001-D8519EE89A72";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular Aug 12 16, 13:04";
 width = 348;
 },
 {
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -44,13 +44,13 @@ nodes = (
 width = 304;
 },
 {
-layerId = "136ADEB2-1138-4B78-A4DC-AC31FC8B3624";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "EF0A1599-A234-4B00-8A98-CEDE79687A82";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Aug 12 16, 13:04";
 width = 182;
 },
 {
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

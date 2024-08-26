@@ -2,6 +2,11 @@
 glyphname = dieresiscomb;
 layers = (
 {
+layerId = "48A485A3-D16B-461C-8974-0BC83988A04E";
+name = "Bold.Dec 5 16, 18:17";
+width = 980;
+},
+{
 anchors = (
 {
 name = _top;
@@ -12,7 +17,7 @@ name = top;
 position = "{696, 1540}";
 }
 );
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 closed = 1;
@@ -62,7 +67,7 @@ name = top;
 position = "{492, 1540}";
 }
 );
-layerId = "75C759C5-2DFB-4423-89FB-DF5B49A3150F";
+layerId = "A081CD61-68B3-4E1B-BF6D-405A24382215";
 name = "BoldItalic.Dec 5 16, 18:17";
 width = 980;
 },
@@ -77,7 +82,7 @@ name = top;
 position = "{644, 1400}";
 }
 );
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 closed = 1;
@@ -127,7 +132,7 @@ name = top;
 position = "{652, 1260}";
 }
 );
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 closed = 1;

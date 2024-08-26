@@ -2,21 +2,7 @@
 glyphname = dotaccentcomb;
 layers = (
 {
-anchors = (
-{
-name = _center;
-position = "{282, 1402}";
-},
-{
-name = _top;
-position = "{282, 1094}";
-},
-{
-name = top;
-position = "{282, 1544}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -39,21 +25,7 @@ nodes = (
 width = 564;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{234, 1366}";
-},
-{
-name = _top;
-position = "{234, 1062}";
-},
-{
-name = top;
-position = "{234, 1062}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -76,21 +48,7 @@ nodes = (
 width = 468;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{152, 1332}";
-},
-{
-name = _top;
-position = "{152, 1034}";
-},
-{
-name = top;
-position = "{152, 1332}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

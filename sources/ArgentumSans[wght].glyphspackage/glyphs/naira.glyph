@@ -2,8 +2,8 @@
 glyphname = naira;
 layers = (
 {
-layerId = "D30F490D-E907-4DFB-9D1A-BF1FA39DF5F8";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "4B021275-73D3-4810-A3E4-2075B35E1218";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold [120]";
 shapes = (
 {
@@ -63,7 +63,7 @@ nodes = (
 width = 1642;
 },
 {
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -140,8 +140,8 @@ nodes = (
 width = 1640;
 },
 {
-layerId = "172261C2-943C-47AA-A390-429C8D0CA009";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17C99E36-8E98-4BA0-9DE1-221CCD3F81F2";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular [120]";
 shapes = (
 {
@@ -201,7 +201,7 @@ nodes = (
 width = 1514;
 },
 {
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -278,7 +278,7 @@ nodes = (
 width = 1514;
 },
 {
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

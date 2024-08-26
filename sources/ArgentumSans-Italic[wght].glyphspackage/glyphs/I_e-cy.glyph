@@ -1,0 +1,67 @@
+{
+glyphname = "Ie-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{904, 1400}";
+}
+);
+annotations = (
+{
+pos = (324,-397);
+text = "La E tiene el trazo vertical más angosto en la Black";
+type = Text;
+width = 1444;
+}
+);
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+pos = (10,0);
+ref = E;
+}
+);
+width = 1356;
+},
+{
+anchors = (
+{
+name = top;
+position = "{896, 1400}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = E;
+}
+);
+width = 1338;
+},
+{
+anchors = (
+{
+name = top;
+position = "{909, 1400}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = E;
+}
+);
+width = 1290;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = E;
+unicode = 1045;
+}

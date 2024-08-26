@@ -2,6 +2,11 @@
 glyphname = Lslash;
 layers = (
 {
+layerId = "CFBB81F5-E092-45D7-A779-4C61DE027A3B";
+name = "Bold.Bold Aug 12 16, 13:13";
+width = 1212;
+},
+{
 anchors = (
 {
 name = bottom;
@@ -20,7 +25,7 @@ name = topright;
 position = "{1023, 1396}";
 }
 );
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 closed = 1;
@@ -47,6 +52,11 @@ nodes = (
 width = 1276;
 },
 {
+layerId = "CE332AFF-3E14-400D-B97C-5E76ECD2F2D4";
+name = "Regular.Regular Aug 12 16, 13:13";
+width = 1102;
+},
+{
 anchors = (
 {
 name = bottom;
@@ -65,7 +75,7 @@ name = topright;
 position = "{869, 1398}";
 }
 );
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 closed = 1;
@@ -92,6 +102,11 @@ nodes = (
 width = 1132;
 },
 {
+layerId = "89BA70F7-4CCF-4699-A9B3-6F910D2D64B2";
+name = "Light.Light Aug 12 16, 13:14";
+width = 1006;
+},
+{
 anchors = (
 {
 name = bottom;
@@ -110,7 +125,7 @@ name = topright;
 position = "{860, 1400}";
 }
 );
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 closed = 1;

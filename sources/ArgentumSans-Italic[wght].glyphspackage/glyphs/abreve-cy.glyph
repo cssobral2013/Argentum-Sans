@@ -1,0 +1,79 @@
+{
+glyphname = "abreve-cy";
+leftMetricsKey = a;
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (6,0);
+ref = brevecyrcomb;
+}
+);
+width = 1242;
+},
+{
+anchors = (
+{
+name = top;
+position = "{572, 1062}";
+},
+{
+name = bottom;
+position = "{592, 0}";
+},
+{
+name = ogonek;
+position = "{1056, 0}";
+}
+);
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (-43,2);
+ref = brevecyrcomb;
+}
+);
+width = 1186;
+},
+{
+anchors = (
+{
+name = top;
+position = "{168, 1028}";
+},
+{
+name = bottom;
+position = "{18, 6}";
+},
+{
+name = ogonek;
+position = "{384, -30}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (-26,0);
+ref = brevecyrcomb;
+}
+);
+width = 1138;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = n;
+unicode = 1233;
+}

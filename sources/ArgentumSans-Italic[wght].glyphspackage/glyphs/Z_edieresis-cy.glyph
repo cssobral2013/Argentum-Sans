@@ -1,0 +1,50 @@
+{
+glyphname = "Zedieresis-cy";
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = "Ze-cy";
+},
+{
+pos = (173,-2);
+ref = dieresiscomb.case;
+}
+);
+width = 1344;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = "Ze-cy";
+},
+{
+pos = (170,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1292;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = "Ze-cy";
+},
+{
+pos = (192,2);
+ref = dieresiscomb.case;
+}
+);
+width = 1246;
+}
+);
+leftKerningGroup = "Ereversed-cy";
+rightKerningGroup = B;
+unicode = 1246;
+}

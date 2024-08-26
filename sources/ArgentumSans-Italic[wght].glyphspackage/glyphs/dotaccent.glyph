@@ -2,13 +2,28 @@
 glyphname = dotaccent;
 layers = (
 {
+layerId = "B55CAD33-C5AF-4BA2-8D43-0ED25BBAF7C7";
+name = "Bold.Dec 5 16, 18:16";
+width = 700;
+},
+{
+layerId = "5B69C978-5F0E-4346-A11F-657D880431DC";
+name = "Bold.Dec 5 16, 18:14";
+width = 700;
+},
+{
+layerId = "EE652DB7-E53D-4D94-8B95-B5EB2BF0E7FD";
+name = "Bold.Bold Aug 12 16, 12:57";
+width = 700;
+},
+{
 anchors = (
 {
 name = top;
 position = "{549, 1544}";
 }
 );
-layerId = "9043404F-E9C5-4B3E-B15A-843443318E3E";
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
 shapes = (
 {
 alignment = -1;
@@ -25,7 +40,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "2E4DA8A8-2717-4A47-B40E-640E8D993A94";
+layerId = "66C55C9D-51C6-4843-BC56-952AA46285A8";
 name = "BoldItalic.Bold Aug 12 16, 12:57";
 shapes = (
 {
@@ -55,7 +70,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "1FEEC617-3887-498B-8F8F-A1EAE9467A86";
+layerId = "DA91E129-57FF-48A5-AE2A-A5561CB0E715";
 name = "BoldItalic.Dec 5 16, 18:14";
 shapes = (
 {
@@ -85,7 +100,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "C5DB1456-4116-4BCB-9EE2-FE44C2DD6EAD";
+layerId = "9070A123-9D12-4864-89E2-EEF235FCC19B";
 name = "BoldItalic.Dec 5 16, 18:16";
 shapes = (
 {
@@ -115,7 +130,7 @@ name = top;
 position = "{525, 1412}";
 }
 );
-layerId = "E14B12F3-6DA5-4EC4-9B8C-3BC58519F69C";
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
 shapes = (
 {
 alignment = -1;
@@ -132,7 +147,7 @@ name = top;
 position = "{254, 1332}";
 }
 );
-layerId = "3412EF41-8D40-4AD8-A3E8-23555CC779E5";
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
 shapes = (
 {
 alignment = -1;

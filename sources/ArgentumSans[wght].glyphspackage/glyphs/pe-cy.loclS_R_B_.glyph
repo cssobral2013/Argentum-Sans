@@ -1,0 +1,51 @@
+{
+glyphname = "pe-cy.loclSRB";
+leftMetricsKey = u;
+widthMetricsKey = u;
+layers = (
+{
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (332,0);
+ref = macroncomb;
+}
+);
+width = 1344;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (358,0);
+ref = macroncomb;
+}
+);
+width = 1306;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (380,0);
+ref = macroncomb;
+}
+);
+width = 1274;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = u;
+}

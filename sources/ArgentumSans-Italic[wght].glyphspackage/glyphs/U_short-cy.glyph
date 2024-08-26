@@ -1,0 +1,55 @@
+{
+glyphname = "Ushort-cy";
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+pos = (-1,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1528;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+pos = (2,0);
+ref = brevecyrcomb.case;
+}
+);
+width = 1394;
+},
+{
+anchors = (
+{
+name = top;
+position = "{814, 1400}";
+}
+);
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+ref = brevecyrcomb.case;
+}
+);
+width = 1316;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = V;
+unicode = 1038;
+}

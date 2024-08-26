@@ -2,14 +2,8 @@
 glyphname = ae;
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{962, 1094}";
-}
-);
-layerId = "BC42EF9B-2472-4681-B8C9-85895F8A4EC4";
-associatedMasterId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "C2FA2B34-E5FF-4A9E-A195-6C0594ED3608";
+associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 name = "Bold Dec 28 15, 16:31";
 shapes = (
 {
@@ -97,13 +91,7 @@ nodes = (
 width = 1916;
 },
 {
-anchors = (
-{
-name = top;
-position = "{962, 1094}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -178,14 +166,8 @@ nodes = (
 width = 1916;
 },
 {
-anchors = (
-{
-name = top;
-position = "{976, 1062}";
-}
-);
-layerId = "15E92AE6-10E4-46ED-829F-B0CDC59114B1";
-associatedMasterId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "8ADAEBB1-28F5-4421-9315-C5A11764C112";
+associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 name = "Regular Dec 28 15, 16:31";
 shapes = (
 {
@@ -273,13 +255,7 @@ nodes = (
 width = 1948;
 },
 {
-anchors = (
-{
-name = top;
-position = "{976, 1062}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -354,14 +330,8 @@ nodes = (
 width = 1950;
 },
 {
-anchors = (
-{
-name = top;
-position = "{988, 1034}";
-}
-);
-layerId = "F4FE7183-9DDA-49C9-B1B0-3761CA958693";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "0A58967E-9348-4E66-9CB2-7BB34A35EBDE";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Dec 28 15, 16:32";
 shapes = (
 {
@@ -449,14 +419,8 @@ nodes = (
 width = 1976;
 },
 {
-anchors = (
-{
-name = top;
-position = "{988, 1034}";
-}
-);
-layerId = "07A120F7-E6B3-4229-BCCC-EAB784C3E6A1";
-associatedMasterId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "C4068023-B020-4E6E-A136-D5F3D7051C97";
+associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 name = "Light Dec 28 15, 16:31";
 shapes = (
 {
@@ -544,13 +508,7 @@ nodes = (
 width = 1976;
 },
 {
-anchors = (
-{
-name = top;
-position = "{988, 1034}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

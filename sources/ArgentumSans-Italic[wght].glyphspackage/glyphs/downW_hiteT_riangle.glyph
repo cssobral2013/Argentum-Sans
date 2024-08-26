@@ -1,0 +1,74 @@
+{
+glyphname = downWhiteTriangle;
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1108,956,l),
+(256,956,l),
+(518,104,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(506,780,l),
+(790,780,l),
+(594,496,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1108,956,l),
+(256,956,l),
+(518,104,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(458,816,l),
+(854,816,l),
+(578,418,l)
+);
+}
+);
+width = 1200;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1108,956,l),
+(256,956,l),
+(518,104,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(314,916,l),
+(1038,916,l),
+(534,194,l)
+);
+}
+);
+width = 1200;
+}
+);
+leftKerningGroup = upWhiteTriangle;
+rightKerningGroup = upWhiteTriangle;
+unicode = 9661;
+}

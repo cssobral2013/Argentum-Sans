@@ -3,21 +3,7 @@ glyphname = thorn;
 rightMetricsKey = "=104";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{346, 0}";
-},
-{
-name = top;
-position = "{346, 1484}";
-},
-{
-name = topright;
-position = "{630, 1094}";
-}
-);
-layerId = "8F4E32AC-E022-4D39-97B2-6A8CA1DCECD9";
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
 shapes = (
 {
 closed = 1;
@@ -62,21 +48,7 @@ nodes = (
 width = 1380;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{296, 0}";
-},
-{
-name = top;
-position = "{296, 1484}";
-},
-{
-name = topright;
-position = "{532, 1062}";
-}
-);
-layerId = "A0A167AB-9D0E-40C0-91B8-4D2A22A7768E";
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
 shapes = (
 {
 closed = 1;
@@ -121,21 +93,7 @@ nodes = (
 width = 1360;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{224, 0}";
-},
-{
-name = top;
-position = "{224, 1484}";
-},
-{
-name = topright;
-position = "{420, 1034}";
-}
-);
-layerId = "4D1A9A15-4E4F-4ADE-8E9B-C4DB08FE4288";
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
 shapes = (
 {
 closed = 1;

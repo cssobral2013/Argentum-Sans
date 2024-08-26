@@ -1,0 +1,50 @@
+{
+glyphname = "obarreddieresis-cy";
+layers = (
+{
+layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+shapes = (
+{
+alignment = -1;
+ref = "obarred-cy";
+},
+{
+pos = (167,0);
+ref = dieresiscomb;
+}
+);
+width = 1350;
+},
+{
+layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+shapes = (
+{
+alignment = -1;
+ref = "obarred-cy";
+},
+{
+pos = (204,2);
+ref = dieresiscomb;
+}
+);
+width = 1304;
+},
+{
+layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+shapes = (
+{
+alignment = -1;
+ref = "obarred-cy";
+},
+{
+pos = (301,0);
+ref = dieresiscomb;
+}
+);
+width = 1276;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+unicode = 1259;
+}

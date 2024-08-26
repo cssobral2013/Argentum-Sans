@@ -1,0 +1,50 @@
+{
+glyphname = "gje-cy";
+layers = (
+{
+layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+shapes = (
+{
+alignment = -1;
+ref = "ge-cy";
+},
+{
+pos = (136,0);
+ref = acutecomb;
+}
+);
+width = 1086;
+},
+{
+layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+shapes = (
+{
+alignment = -1;
+ref = "ge-cy";
+},
+{
+pos = (167,-2);
+ref = acutecomb;
+}
+);
+width = 990;
+},
+{
+layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+shapes = (
+{
+alignment = -1;
+ref = "ge-cy";
+},
+{
+pos = (255,0);
+ref = acutecomb;
+}
+);
+width = 898;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = "ge-cy";
+unicode = 1107;
+}
