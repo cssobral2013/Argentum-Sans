@@ -2,8 +2,39 @@
 glyphname = commaaccentcomb;
 layers = (
 {
-layerId = "1F1E1740-5CD7-4E67-A68B-BFC8064EC940";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = _bottom;
+position = "{160, 0}";
+},
+{
+name = bottom;
+position = "{126, -388}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,-428,l),
+(96,-428,l),
+(182,-130,l),
+(140,-130,l)
+);
+}
+);
+width = 322;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{0, 0}";
+}
+);
+layerId = "AD3BB3D1-0DA8-45BC-964B-61FADA911120";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Bold Aug 12 16, 13:00";
 shapes = (
 {
@@ -31,7 +62,17 @@ nodes = (
 width = 0;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = _bottom;
+position = "{270, 0}";
+},
+{
+name = bottom;
+position = "{268, -448}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -46,7 +87,23 @@ nodes = (
 width = 544;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = _bottom;
+position = "{240, 0}";
+},
+{
+name = bottom;
+position = "{186, -408}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{234, 0}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -59,21 +116,6 @@ nodes = (
 }
 );
 width = 424;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(60,-428,l),
-(96,-428,l),
-(182,-130,l),
-(140,-130,l)
-);
-}
-);
-width = 322;
 }
 );
 leftKerningGroup = commaaccentcomb;

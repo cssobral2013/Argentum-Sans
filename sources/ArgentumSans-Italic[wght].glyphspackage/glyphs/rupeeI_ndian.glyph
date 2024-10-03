@@ -2,22 +2,25 @@
 glyphname = rupeeIndian;
 layers = (
 {
-layerId = "0FE6CED6-0AA0-4B46-9121-6A260003E942";
-name = "Bold.Bold Aug 11 16, 18:50";
+layerId = "12128813-6E50-488F-8159-5567E1F0B481";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 11 16, 18:50";
 width = 1296;
 },
 {
-layerId = "3BB601AD-DC3C-4853-BA5D-83AA95307A05";
-name = "Bold.Bold Aug 11 16, 18:32";
+layerId = "843F92FF-8F36-4B74-AE42-A65E435CC18F";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 11 16, 18:32";
 width = 1110;
 },
 {
-layerId = "9DC261A7-458E-459B-BAD8-A8B9518E4CC4";
-name = "Bold.Bold Aug 11 16, 18:24";
+layerId = "31563FE1-3021-4CC8-B43C-F7478410566F";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 11 16, 18:24";
 width = 1450;
 },
 {
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -73,7 +76,7 @@ nodes = (
 width = 1294;
 },
 {
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -129,7 +132,7 @@ nodes = (
 width = 1162;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

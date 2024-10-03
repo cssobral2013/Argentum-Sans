@@ -2,8 +2,9 @@
 glyphname = "Lje-cy";
 layers = (
 {
-layerId = "82E820AB-66BD-4904-80EC-F42FDC997B6C";
-name = "Bold.Sep 18 17, 15:49";
+layerId = "9FA9BD9F-C257-4BC9-9845-A777C98A2ED5";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Sep 18 17, 15:49";
 width = 2282;
 },
 {
@@ -17,7 +18,7 @@ name = center;
 position = "{1399, 1160}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -69,7 +70,7 @@ nodes = (
 width = 2364;
 },
 {
-layerId = "134065C9-8A1F-46FB-BDD9-CD4144BDCFFA";
+layerId = "CE326990-D396-4069-8CB2-ECFA4CDFCD76";
 name = "BoldItalic.Sep 18 17, 15:49";
 shapes = (
 {
@@ -146,7 +147,7 @@ name = center;
 position = "{1420, 1170}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -208,7 +209,7 @@ name = center;
 position = "{1422, 1180}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

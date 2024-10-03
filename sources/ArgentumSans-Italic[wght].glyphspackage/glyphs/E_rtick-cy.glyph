@@ -2,12 +2,13 @@
 glyphname = "Ertick-cy";
 layers = (
 {
-layerId = "5FF30DB2-F909-41CF-A503-286963642370";
-name = "Bold.Oct 18 17, 23:53";
+layerId = "EBE1D92A-749C-4FE1-B5C5-6FC7837C9035";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Oct 18 17, 23:53";
 width = 1476;
 },
 {
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -48,7 +49,7 @@ nodes = (
 width = 1476;
 },
 {
-layerId = "6B02F6A5-09BB-438F-AFA9-4DE8208F4608";
+layerId = "54E72CF1-997F-4A23-B86F-F953070E8903";
 name = "BoldItalic.Oct 18 17, 23:53";
 shapes = (
 {
@@ -97,7 +98,7 @@ nodes = (
 width = 1476;
 },
 {
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -138,7 +139,7 @@ nodes = (
 width = 1466;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

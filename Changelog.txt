@@ -181,3 +181,6 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
 
  Changelog of Argentum Sans, v3.129 (in no particular order):
 - New '3', '4', & '5'
+
+ Changelog of Argentum Sans, v3.130 (in no particular order):
+- New '1' and '&'

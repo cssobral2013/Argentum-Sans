@@ -2,7 +2,84 @@
 glyphname = "tshe-cy";
 layers = (
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = bottom;
+position = "{676, 0}";
+},
+{
+name = center;
+position = "{384, 1260}";
+},
+{
+name = top;
+position = "{256, 1484}";
+},
+{
+name = topright;
+position = "{462, 1034}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(822,1242,l),
+(822,1280,l),
+(-52,1280,l),
+(-52,1242,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(486,1040,o),
+(332,926,o),
+(272,746,c),
+(276,740,l),
+(276,1484,l),
+(236,1484,l),
+(236,0,l),
+(276,0,l),
+(276,562,ls),
+(276,824,o),
+(440,1002,o),
+(712,1002,cs),
+(946,1002,o),
+(1084,866,o),
+(1084,610,cs),
+(1084,0,l),
+(1124,0,l),
+(1124,610,ls),
+(1124,890,o),
+(964,1040,o),
+(710,1040,cs)
+);
+}
+);
+width = 1324;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{716, 0}";
+},
+{
+name = center;
+position = "{394, 1276}";
+},
+{
+name = top;
+position = "{332, 1484}";
+},
+{
+name = topright;
+position = "{624, 1094}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -43,7 +120,25 @@ nodes = (
 width = 1396;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = bottom;
+position = "{698, 0}";
+},
+{
+name = center;
+position = "{392, 1268}";
+},
+{
+name = top;
+position = "{294, 1484}";
+},
+{
+name = topright;
+position = "{538, 1064}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -82,47 +177,6 @@ nodes = (
 }
 );
 width = 1352;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(822,1242,l),
-(822,1280,l),
-(-52,1280,l),
-(-52,1242,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(486,1040,o),
-(332,926,o),
-(272,746,c),
-(276,740,l),
-(276,1484,l),
-(236,1484,l),
-(236,0,l),
-(276,0,l),
-(276,562,ls),
-(276,824,o),
-(440,1002,o),
-(712,1002,cs),
-(946,1002,o),
-(1084,866,o),
-(1084,610,cs),
-(1084,0,l),
-(1124,0,l),
-(1124,610,ls),
-(1124,890,o),
-(964,1040,o),
-(710,1040,cs)
-);
-}
-);
-width = 1324;
 }
 );
 leftKerningGroup = "tshe-cy";

@@ -2,12 +2,13 @@
 glyphname = apostrophemod;
 layers = (
 {
-layerId = "5F9AAA0C-E277-41DC-A78F-4913AC425BCE";
-name = "Bold.Bold Aug 12 16, 13:04";
+layerId = "F5BD172E-DBA7-468A-A202-F3DE992CEBE4";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 12 16, 13:04";
 width = 516;
 },
 {
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -22,28 +23,24 @@ nodes = (
 width = 504;
 },
 {
-layerId = "9CA7F8FC-BFF0-4DAC-B0FD-D5CD0AB8F20E";
+layerId = "82A41710-E5B8-4413-93CB-AA41EEF1BD3B";
 name = "BoldItalic.Bold Aug 12 16, 13:04";
 width = 516;
 },
 {
-layerId = "3DC9D592-42AC-4293-8EF7-E168760CB5E1";
-name = "LightItalic.Light Aug 12 16, 13:04";
-width = 182;
+layerId = "9801C675-FE5E-4CEA-9900-1A726576A89D";
+associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+name = "Regular Aug 12 16, 13:04.1";
+width = 348;
 },
 {
-layerId = "E0CC5F99-5B80-4AFF-A284-9087824AB26D";
-associatedMasterId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "F3ED328E-92A4-4334-A68C-835D937B073E";
+associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 name = "Regular Aug 12 16, 13:04";
 width = 348;
 },
 {
-layerId = "90AE9B0A-49DE-4092-A280-512C0F9473BF";
-name = "Regular.Regular Aug 12 16, 13:04";
-width = 348;
-},
-{
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -58,12 +55,19 @@ nodes = (
 width = 304;
 },
 {
-layerId = "5C921E82-1B6B-4696-817C-F65B20F58823";
-name = "Light.Light Aug 12 16, 13:04";
+layerId = "4E76329C-31B2-4AB1-A90A-A02A4FC5ABEF";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Light Aug 12 16, 13:04";
 width = 182;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "D13EE744-D403-413F-BC55-DB62816B9617";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Light Aug 12 16, 13:04.1";
+width = 182;
+},
+{
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

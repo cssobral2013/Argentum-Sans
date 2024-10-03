@@ -2,7 +2,7 @@
 glyphname = "ve-cy";
 layers = (
 {
-layerId = "ABD68658-EF1A-4C5F-A7A3-447FC6A66EE3";
+layerId = "BCFBD029-109A-4CA7-9AE5-1EA8666E3E1D";
 name = "SemiBold.Oct 17 17, 16:22";
 width = 1220;
 },
@@ -17,7 +17,7 @@ name = top;
 position = "{764, 1094}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -82,7 +82,7 @@ name = top;
 position = "{622, 1064}";
 }
 );
-layerId = "FE85DF54-1A43-406B-9964-3B1F5848A60A";
+layerId = "D2310CD2-97B0-4953-B37B-553EA91C5AB5";
 name = "SemiBoldItalic.Oct 17 17, 16:22";
 shapes = (
 {
@@ -148,7 +148,7 @@ name = top;
 position = "{764, 1094}";
 }
 );
-layerId = "1FA54B34-46F6-4297-BB09-2C2A3C689A00";
+layerId = "0D6D03CE-177B-4150-A2C8-A99B13FFE0EE";
 name = "BoldItalic.Oct 21 17, 12:23";
 shapes = (
 {
@@ -214,7 +214,7 @@ name = top;
 position = "{738, 1064}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -279,7 +279,7 @@ name = top;
 position = "{698, 1034}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

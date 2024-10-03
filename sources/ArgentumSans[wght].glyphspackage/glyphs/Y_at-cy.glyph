@@ -2,8 +2,65 @@
 glyphname = "Yat-cy";
 layers = (
 {
-layerId = "8D5F791C-FECB-43CA-8C3B-E3867FE08AB4";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = center;
+position = "{488, 1180}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(940,0,ls),
+(1280,0,o),
+(1460,152,o),
+(1460,442,cs),
+(1460,724,o),
+(1288,872,o),
+(962,872,cs),
+(472,872,l),
+(472,1484,l),
+(432,1484,l),
+(432,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,834,l),
+(948,834,ls),
+(1264,834,o),
+(1420,704,o),
+(1420,440,cs),
+(1420,174,o),
+(1260,38,o),
+(948,38,cs),
+(472,38,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(932,1160,l),
+(932,1198,l),
+(36,1198,l),
+(36,1160,l)
+);
+}
+);
+width = 1566;
+},
+{
+anchors = (
+{
+name = center;
+position = "{620, 1160}";
+}
+);
+layerId = "A3A2A9E8-71D2-42EE-A06A-686450072140";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Oct 19 17, 00:17";
 shapes = (
 {
@@ -49,7 +106,13 @@ nodes = (
 width = 1702;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = center;
+position = "{612, 1160}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -94,7 +157,13 @@ nodes = (
 width = 1698;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = center;
+position = "{550, 1170}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -137,51 +206,6 @@ nodes = (
 }
 );
 width = 1632;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(940,0,ls),
-(1280,0,o),
-(1460,152,o),
-(1460,442,cs),
-(1460,724,o),
-(1288,872,o),
-(962,872,cs),
-(472,872,l),
-(472,1484,l),
-(432,1484,l),
-(432,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(472,834,l),
-(948,834,ls),
-(1264,834,o),
-(1420,704,o),
-(1420,440,cs),
-(1420,174,o),
-(1260,38,o),
-(948,38,cs),
-(472,38,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(932,1160,l),
-(932,1198,l),
-(36,1198,l),
-(36,1160,l)
-);
-}
-);
-width = 1566;
 }
 );
 leftKerningGroup = T;

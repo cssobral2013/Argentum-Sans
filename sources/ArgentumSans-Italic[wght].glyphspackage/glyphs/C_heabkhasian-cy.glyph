@@ -12,7 +12,7 @@ name = top;
 position = "{1493, 1400}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -68,7 +68,7 @@ name = top;
 position = "{1196, 1406}";
 }
 );
-layerId = "1F24E0E7-F4A6-4D5D-B7E0-91095984EFB7";
+layerId = "B45875B6-F1AC-4415-B5AD-F05827DDCB7E";
 name = "SemiBoldItalic.Oct 20 17, 16:38";
 shapes = (
 {
@@ -128,7 +128,7 @@ name = top;
 position = "{1300, 1406}";
 }
 );
-layerId = "F8C07EE2-F586-4A9D-B2D6-8B0CA4177133";
+layerId = "E0554517-A72B-4C64-982C-D7CBF488F2DB";
 name = "BoldItalic.Oct 20 17, 16:29";
 shapes = (
 {
@@ -188,7 +188,7 @@ name = top;
 position = "{1373, 1406}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -244,7 +244,7 @@ name = top;
 position = "{1281, 1406}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

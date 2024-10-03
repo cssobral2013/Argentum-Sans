@@ -2,8 +2,59 @@
 glyphname = "em-cy";
 layers = (
 {
-layerId = "5BC6A4F0-D908-4899-AAD1-4B946FFD3138";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = bottom;
+position = "{776, 0}";
+},
+{
+name = bottomleft;
+position = "{1278, 0}";
+},
+{
+name = top;
+position = "{776, 1034}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(274,0,l),
+(274,976,l),
+(258,976,l),
+(764,144,l),
+(786,144,l),
+(1290,976,l),
+(1278,976,l),
+(1278,0,l),
+(1316,0,l),
+(1316,1034,l),
+(1282,1034,l),
+(768,180,l),
+(786,180,l),
+(268,1034,l),
+(234,1034,l),
+(234,0,l)
+);
+}
+);
+width = 1550;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{820, 0}";
+},
+{
+name = top;
+position = "{820, 1094}";
+}
+);
+layerId = "E2C6D2AD-FED8-4193-8919-2B3E06EC6A56";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Oct 6 17, 21:46";
 shapes = (
 {
@@ -31,7 +82,21 @@ nodes = (
 width = 1626;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = bottom;
+position = "{834, 0}";
+},
+{
+name = bottomleft;
+position = "{1160, 0}";
+},
+{
+name = top;
+position = "{834, 1094}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -58,7 +123,21 @@ nodes = (
 width = 1670;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = bottom;
+position = "{802, 0}";
+},
+{
+name = bottomleft;
+position = "{1226, 0}";
+},
+{
+name = top;
+position = "{802, 1064}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -83,33 +162,6 @@ nodes = (
 }
 );
 width = 1604;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(274,0,l),
-(274,976,l),
-(258,976,l),
-(764,144,l),
-(786,144,l),
-(1290,976,l),
-(1278,976,l),
-(1278,0,l),
-(1316,0,l),
-(1316,1034,l),
-(1282,1034,l),
-(768,180,l),
-(786,180,l),
-(268,1034,l),
-(234,1034,l),
-(234,0,l)
-);
-}
-);
-width = 1550;
 }
 );
 leftKerningGroup = n;

@@ -2,13 +2,15 @@
 glyphname = hookabovecomb.case;
 layers = (
 {
-layerId = "0C0FAE57-F0BD-42CB-8235-64F94281AEC0";
-name = "Bold.Hookabove Nov 9 16, 11:14";
+layerId = "784FFA27-407E-4C6E-A7AF-13315C3E9AF3";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Hookabove Nov 9 16, 11:14";
 width = 940;
 },
 {
-layerId = "5AA977A1-325E-4552-82C1-5B30936FFC94";
-name = "Bold.Bold Aug 12 16, 02:26";
+layerId = "50F49660-0158-4198-85A2-F9D70B28597A";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 12 16, 02:26";
 width = 0;
 },
 {
@@ -28,7 +30,7 @@ angle = 90;
 position = "{247, 0}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -59,13 +61,15 @@ nodes = (
 width = 670;
 },
 {
-layerId = "70FDC001-9BD1-4600-8AC5-99A05BEF394B";
-name = "Regular.Regular Aug 12 16, 02:27";
+layerId = "FEFC9ECC-CE80-4776-927A-7CA0A651B437";
+associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+name = "Regular Aug 12 16, 02:27";
 width = 0;
 },
 {
-layerId = "7081D355-BFA1-4144-9E29-A61E2D31A0E9";
-name = "Regular.Hookabove Nov 9 16, 11:03";
+layerId = "E10A4442-394E-4154-9114-BB1AB00C3C3B";
+associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+name = "Hookabove Nov 9 16, 11:03";
 width = 0;
 },
 {
@@ -79,7 +83,7 @@ name = top;
 position = "{512, 1780}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -110,13 +114,15 @@ nodes = (
 width = 512;
 },
 {
-layerId = "C9C166E8-F798-4FC5-BDF9-07C1BCCE56BF";
-name = "Light.Light Aug 12 16, 02:28";
+layerId = "60C37D31-02E4-46A7-AE48-7105557C9D09";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Light Aug 12 16, 02:28";
 width = 0;
 },
 {
-layerId = "AA168220-0B84-4EAB-9AFE-5DEDFC20F68C";
-name = "Light.Hookabove Nov 9 16, 11:08";
+layerId = "1150330D-0894-447F-9CB6-A838AEC7717E";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Hookabove Nov 9 16, 11:08";
 width = 0;
 },
 {
@@ -130,7 +136,7 @@ name = top;
 position = "{606, 1758}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

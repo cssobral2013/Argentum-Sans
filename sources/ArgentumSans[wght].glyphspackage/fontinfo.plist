@@ -1694,7 +1694,6 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
-
 ";
 tag = Languagesystems;
 }
@@ -4237,222 +4236,6 @@ tag = mkmk;
 fontMaster = (
 {
 axesValues = (
-100
-);
-customParameters = (
-{
-name = typoAscender;
-value = 1850;
-},
-{
-name = typoDescender;
-value = -450;
-},
-{
-name = typoLineGap;
-value = 300;
-},
-{
-name = winAscent;
-value = 2000;
-},
-{
-name = winDescent;
-value = 600;
-},
-{
-name = underlineThickness;
-value = 100;
-},
-{
-name = underlinePosition;
-value = -200;
-},
-{
-name = strikeoutPosition;
-value = 600;
-},
-{
-name = strikeoutSize;
-value = 100;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 1300;
-},
-{
-name = subscriptYOffset;
-value = 150;
-},
-{
-name = subscriptYSize;
-value = 1200;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 1300;
-},
-{
-name = superscriptYOffset;
-value = 700;
-},
-{
-name = superscriptYSize;
-value = 1200;
-},
-{
-name = hheaAscender;
-value = 1936;
-},
-{
-name = hheaDescender;
-value = -502;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-name = asc;
-position = 1484;
-size = 3;
-},
-{
-name = T1;
-position = 1198;
-size = 3;
-},
-{
-name = xhgt;
-position = 1034;
-size = 4;
-},
-{
-name = fig;
-position = 1398;
-size = 3;
-},
-{
-name = base;
-position = 0;
-size = -20;
-},
-{
-name = comma;
-position = -200;
-size = -14;
-},
-{
-name = dsc;
-position = -388;
-size = -9;
-}
-);
-},
-{
-name = GSOffsetHorizontal;
-value = 10;
-},
-{
-name = GSOffsetMakeStroke;
-value = 1;
-},
-{
-name = GSOffsetProportional;
-value = 1;
-},
-{
-name = GSOffsetVertical;
-value = 10;
-},
-{
-name = paramArea;
-value = 550;
-},
-{
-name = paramDepth;
-value = 25;
-},
-{
-name = paramOver;
-value = 0;
-}
-);
-guides = (
-{
-position = "{0, 491}";
-}
-);
-id = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-metricValues = (
-{
-over = 3;
-pos = 1198;
-},
-{
-pos = 1850;
-},
-{
-over = -20;
-pos = 0;
-},
-{
-pos = 1400;
-},
-{
-over = -14;
-pos = -200;
-},
-{
-pos = -450;
-},
-{
-over = 3;
-pos = 1398;
-},
-{
-pos = 0;
-},
-{
-over = 4;
-pos = 1034;
-},
-{
-over = 3;
-pos = 1484;
-},
-{
-over = -9;
-pos = -388;
-},
-{
-pos = 0;
-}
-);
-stemValues = (
-40,
-40,
-40,
-40,
-40,
-40
-);
-iconName = Light;
-name = Light;
-},
-{
-axesValues = (
 400
 );
 customParameters = (
@@ -4614,7 +4397,7 @@ guides = (
 position = "{0, 526}";
 }
 );
-id = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+id = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 metricValues = (
 {
 over = 20;
@@ -4832,7 +4615,7 @@ guides = (
 position = "{0, -142}";
 }
 );
-id = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+id = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 metricValues = (
 {
 over = 3;
@@ -4888,6 +4671,222 @@ stemValues = (
 );
 iconName = Bold;
 name = Bold;
+},
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1850;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 300;
+},
+{
+name = winAscent;
+value = 2000;
+},
+{
+name = winDescent;
+value = 600;
+},
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -200;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1936;
+},
+{
+name = hheaDescender;
+value = -502;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = asc;
+position = 1484;
+size = 3;
+},
+{
+name = T1;
+position = 1198;
+size = 3;
+},
+{
+name = xhgt;
+position = 1034;
+size = 4;
+},
+{
+name = fig;
+position = 1398;
+size = 3;
+},
+{
+name = base;
+position = 0;
+size = -20;
+},
+{
+name = comma;
+position = -200;
+size = -14;
+},
+{
+name = dsc;
+position = -388;
+size = -9;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 10;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetProportional;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 10;
+},
+{
+name = paramArea;
+value = 550;
+},
+{
+name = paramDepth;
+value = 25;
+},
+{
+name = paramOver;
+value = 0;
+}
+);
+guides = (
+{
+position = "{0, 491}";
+}
+);
+id = "B026C813-5E74-43B8-9BDA-38360344913A";
+metricValues = (
+{
+over = 3;
+pos = 1198;
+},
+{
+pos = 1850;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+over = -14;
+pos = -200;
+},
+{
+pos = -450;
+},
+{
+over = 3;
+pos = 1398;
+},
+{
+pos = 0;
+},
+{
+over = 4;
+pos = 1034;
+},
+{
+over = 3;
+pos = 1484;
+},
+{
+over = -9;
+pos = -388;
+},
+{
+pos = 0;
+}
+);
+stemValues = (
+40,
+40,
+40,
+40,
+40,
+40
+);
+iconName = Light;
+name = Light;
 }
 );
 instances = (
@@ -4964,7 +4963,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"17E3EB7E-1F08-45A4-8E6B-D8F983509A13" = {
+"6620CA85-00CC-482E-8046-24C727E4DEBF" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -7265,7 +7264,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"59F18BB4-F2E3-4803-AEEB-FBD371085F85" = {
+"B026C813-5E74-43B8-9BDA-38360344913A" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -9566,7 +9565,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E" = {
+"ED22C04F-3B1D-41D7-8242-D57D8DACD8E1" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -11925,7 +11924,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)";
+value = "Julieta Ulanovsky, Owen Earl, Rasmus Andersson, Cristiano Sobral";
 }
 );
 },
@@ -11951,7 +11950,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)";
+value = "The Argentum Sans Project Authors";
 }
 );
 }
@@ -11983,17 +11982,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"59F18BB4-F2E3-4803-AEEB-FBD371085F85" = {
-HV = 20;
-HH = 20;
-OV = 20;
-OH = 20;
-oV = 20;
-oH = 20;
-nV = 20;
-tH = 20;
-};
-"17E3EB7E-1F08-45A4-8E6B-D8F983509A13" = {
+"6620CA85-00CC-482E-8046-24C727E4DEBF" = {
 HV = 118;
 HH = 100;
 OV = 120;
@@ -12003,7 +11992,7 @@ oH = 91;
 nV = 115;
 tH = 82;
 };
-"E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E" = {
+"ED22C04F-3B1D-41D7-8242-D57D8DACD8E1" = {
 HV = 232;
 HH = 176;
 OV = 238;
@@ -12013,8 +12002,18 @@ oH = 173;
 nV = 225;
 tH = 142;
 };
+"B026C813-5E74-43B8-9BDA-38360344913A" = {
+HV = 20;
+HH = 20;
+OV = 20;
+OH = 20;
+oV = 20;
+oH = 20;
+nV = 20;
+tH = 20;
+};
 };
 };
 versionMajor = 3;
-versionMinor = 129;
+versionMinor = 130;
 }

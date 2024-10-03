@@ -2,8 +2,9 @@
 glyphname = W;
 layers = (
 {
-layerId = "D126CF71-1C57-4B8D-8F90-429A8457EFA9";
-name = "Bold.Nov 24 16, 19:29";
+layerId = "B3123176-B9E2-42D2-9195-040E6120A4E8";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Nov 24 16, 19:29";
 width = 2242;
 },
 {
@@ -13,7 +14,7 @@ name = top;
 position = "{1302, 1400}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -40,8 +41,9 @@ nodes = (
 width = 2298;
 },
 {
-layerId = "E9E252E9-3791-47D6-B3A2-F3053F6C69D2";
-name = "Regular.Nov 24 16, 19:29";
+layerId = "ED04B5DC-0717-49A6-BC23-697784ECB0B7";
+associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+name = "Nov 24 16, 19:29";
 width = 2072;
 },
 {
@@ -51,7 +53,7 @@ name = top;
 position = "{1247, 1400}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -84,7 +86,7 @@ name = top;
 position = "{1170, 1400}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

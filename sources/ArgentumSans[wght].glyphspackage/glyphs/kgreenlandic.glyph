@@ -2,7 +2,60 @@
 glyphname = kgreenlandic;
 layers = (
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = bottom;
+position = "{536, 0}";
+},
+{
+name = top;
+position = "{536, 1034}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,0,l),
+(260,0,l),
+(260,1034,l),
+(220,1034,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(250,356,l),
+(250,294,l),
+(978,1034,l),
+(922,1034,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(538,628,l),
+(990,0,l),
+(1038,0,l),
+(570,652,l)
+);
+}
+);
+width = 1070;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{656, 0}";
+},
+{
+name = top;
+position = "{656, 1094}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -35,7 +88,17 @@ nodes = (
 width = 1310;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = bottom;
+position = "{590, 0}";
+},
+{
+name = top;
+position = "{590, 1062}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -66,39 +129,6 @@ nodes = (
 }
 );
 width = 1180;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(220,0,l),
-(260,0,l),
-(260,1034,l),
-(220,1034,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(250,356,l),
-(250,294,l),
-(978,1034,l),
-(922,1034,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(538,628,l),
-(990,0,l),
-(1038,0,l),
-(570,652,l)
-);
-}
-);
-width = 1070;
 }
 );
 leftKerningGroup = n;

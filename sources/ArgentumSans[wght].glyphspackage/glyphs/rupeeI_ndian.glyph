@@ -2,8 +2,58 @@
 glyphname = rupeeIndian;
 layers = (
 {
-layerId = "3805BB74-ACAA-4894-B6B6-1379E8231CDE";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(554,480,ls),
+(896,480,o),
+(1090,650,o),
+(1090,946,cs),
+(1090,1166,o),
+(976,1316,o),
+(772,1372,c),
+(768,1360,l),
+(1242,1360,l),
+(1242,1400,l),
+(80,1400,l),
+(80,1360,l),
+(554,1360,ls),
+(870,1360,o),
+(1050,1210,o),
+(1050,946,cs),
+(1050,674,o),
+(870,520,o),
+(554,520,cs),
+(80,520,l),
+(80,480,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(80,922,l),
+(1242,922,l),
+(1242,962,l),
+(80,962,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1242,0,l),
+(818,540,l),
+(768,540,l),
+(1192,0,l)
+);
+}
+);
+width = 1270;
+},
+{
+layerId = "0914DAB7-1B80-46CF-93D2-94968FADEC3D";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Bold Aug 11 16, 18:50";
 shapes = (
 {
@@ -50,8 +100,14 @@ nodes = (
 width = 1296;
 },
 {
-layerId = "38A5F812-4A60-4AED-A539-962E72D47354";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+guides = (
+{
+angle = 90;
+position = "{1196, 0}";
+}
+);
+layerId = "52E3D263-CDB4-4924-894B-4B85502E033A";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Bold Aug 11 16, 18:32";
 shapes = (
 {
@@ -103,8 +159,8 @@ nodes = (
 width = 1110;
 },
 {
-layerId = "CBFEE056-C337-4368-8D3C-7E01D118D66F";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "9F527F7D-6D71-4F10-BDAC-0145BD6803D8";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Bold Aug 11 16, 18:24";
 shapes = (
 {
@@ -159,7 +215,7 @@ nodes = (
 width = 1450;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -209,7 +265,7 @@ nodes = (
 width = 1294;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -257,56 +313,6 @@ nodes = (
 }
 );
 width = 1162;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(554,480,ls),
-(896,480,o),
-(1090,650,o),
-(1090,946,cs),
-(1090,1166,o),
-(976,1316,o),
-(772,1372,c),
-(768,1360,l),
-(1242,1360,l),
-(1242,1400,l),
-(80,1400,l),
-(80,1360,l),
-(554,1360,ls),
-(870,1360,o),
-(1050,1210,o),
-(1050,946,cs),
-(1050,674,o),
-(870,520,o),
-(554,520,cs),
-(80,520,l),
-(80,480,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(80,922,l),
-(1242,922,l),
-(1242,962,l),
-(80,962,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1242,0,l),
-(818,540,l),
-(768,540,l),
-(1192,0,l)
-);
-}
-);
-width = 1270;
 }
 );
 leftKerningGroup = rupeeIndian;

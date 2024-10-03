@@ -2,7 +2,42 @@
 glyphname = increment;
 layers = (
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+guides = (
+{
+position = "{0, 40}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1316,0,l),
+(1316,32,l),
+(674,1400,l),
+(630,1400,l),
+(0,32,l),
+(0,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(652,1354,l),
+(1268,40,l),
+(48,40,l)
+);
+}
+);
+width = 1316;
+},
+{
+guides = (
+{
+position = "{0, 359}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -27,8 +62,8 @@ nodes = (
 width = 1496;
 },
 {
-layerId = "C85961CB-FF04-4BF4-A55D-65A1F9C4644C";
-associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "3223DD3B-A0F5-4780-9D32-3C7211799106";
+associatedMasterId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 name = "Regular Aug 11 16, 21:01";
 shapes = (
 {
@@ -56,7 +91,12 @@ nodes = (
 width = 1200;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+guides = (
+{
+position = "{0, 150}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -79,31 +119,6 @@ nodes = (
 }
 );
 width = 1360;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1316,0,l),
-(1316,32,l),
-(674,1400,l),
-(630,1400,l),
-(0,32,l),
-(0,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(652,1354,l),
-(1268,40,l),
-(48,40,l)
-);
-}
-);
-width = 1316;
 }
 );
 leftKerningGroup = A;

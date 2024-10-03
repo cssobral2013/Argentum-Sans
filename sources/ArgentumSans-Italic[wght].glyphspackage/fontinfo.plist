@@ -1659,7 +1659,6 @@ lookup ccmp_2 {
 #
 # Feature definitions
 #
-
 ";
 tag = Languagesystems;
 }
@@ -3466,7 +3465,7 @@ guides = (
 position = "{0, 544}";
 }
 );
-id = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+id = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 metricValues = (
 {
 pos = 1850;
@@ -3610,7 +3609,7 @@ guides = (
 position = "{0, 619}";
 }
 );
-id = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+id = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 metricValues = (
 {
 pos = 1850;
@@ -3753,7 +3752,7 @@ guides = (
 position = "{0, 1034}";
 }
 );
-id = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+id = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 metricValues = (
 {
 pos = 1850;
@@ -3857,7 +3856,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0" = {
+"5BDD1EDE-DE70-4338-9338-A02B2C6AE01A" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -6158,7 +6157,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"D4E38000-BFB5-44FC-A51C-4288F8544A0D" = {
+"A3D6E1CA-B1BA-4595-96B0-7801BFB529A2" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -8459,7 +8458,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"FAA95C36-2A9A-4A6A-AE16-672F8292957B" = {
+"FCBE0D3F-305A-4B26-ABA3-05651CFDD837" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -10797,7 +10796,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)";
+value = "Julieta Ulanovsky, Owen Earl, Rasmus Andersson, Cristiano Sobral";
 }
 );
 },
@@ -10823,7 +10822,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Julieta Ulanovsky (font), Owen Earl (portions from Jones font), Cristiano Sobral (main changes and remaster)";
+value = "The Argentum Sans Project Authors";
 }
 );
 }
@@ -10855,7 +10854,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"FAA95C36-2A9A-4A6A-AE16-672F8292957B" = {
+"A3D6E1CA-B1BA-4595-96B0-7801BFB529A2" = {
 HV = 20;
 HH = 20;
 OH = 20;
@@ -10863,7 +10862,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0" = {
+"5BDD1EDE-DE70-4338-9338-A02B2C6AE01A" = {
 HV = 118;
 HH = 100;
 OH = 100;
@@ -10871,7 +10870,7 @@ oH = 91;
 nV = 116;
 tH = 82;
 };
-"D4E38000-BFB5-44FC-A51C-4288F8544A0D" = {
+"FCBE0D3F-305A-4B26-ABA3-05651CFDD837" = {
 HV = 232;
 HH = 176;
 OH = 193;
@@ -10882,5 +10881,5 @@ tH = 142;
 };
 };
 versionMajor = 3;
-versionMinor = 129;
+versionMinor = 130;
 }

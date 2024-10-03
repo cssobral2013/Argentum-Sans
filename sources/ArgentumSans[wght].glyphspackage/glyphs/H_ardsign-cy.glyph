@@ -2,8 +2,51 @@
 glyphname = "Hardsign-cy";
 layers = (
 {
-layerId = "3F2ECF9E-5B33-4BD9-B7B4-F767575FB0CE";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(516,872,l),
+(516,1400,l),
+(16,1400,l),
+(16,1362,l),
+(476,1362,l),
+(476,0,l),
+(984,0,ls),
+(1324,0,o),
+(1504,152,o),
+(1504,442,cs),
+(1504,724,o),
+(1332,872,o),
+(1006,872,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(516,38,l),
+(516,834,l),
+(992,834,ls),
+(1308,834,o),
+(1464,704,o),
+(1464,440,cs),
+(1464,174,o),
+(1304,38,o),
+(992,38,cs)
+);
+}
+);
+width = 1610;
+},
+{
+guides = (
+{
+position = "{0, 880}";
+}
+);
+layerId = "9452B14C-B304-4CA6-B0FB-E693FD668D03";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Sep 15 17, 19:48";
 shapes = (
 {
@@ -42,7 +85,12 @@ nodes = (
 width = 1794;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+guides = (
+{
+position = "{0, 880}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -80,7 +128,7 @@ nodes = (
 width = 1730;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -116,44 +164,6 @@ nodes = (
 }
 );
 width = 1664;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(516,872,l),
-(516,1400,l),
-(16,1400,l),
-(16,1362,l),
-(476,1362,l),
-(476,0,l),
-(984,0,ls),
-(1324,0,o),
-(1504,152,o),
-(1504,442,cs),
-(1504,724,o),
-(1332,872,o),
-(1006,872,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(516,38,l),
-(516,834,l),
-(992,834,ls),
-(1308,834,o),
-(1464,704,o),
-(1464,440,cs),
-(1464,174,o),
-(1304,38,o),
-(992,38,cs)
-);
-}
-);
-width = 1610;
 }
 );
 leftKerningGroup = T;

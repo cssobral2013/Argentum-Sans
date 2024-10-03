@@ -2,13 +2,83 @@
 glyphname = dieresiscomb.narrow;
 layers = (
 {
-layerId = "09C92FEC-F8A2-466C-8694-F7A7D3C61E59";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = _top;
+position = "{304, 1034}";
+},
+{
+name = top;
+position = "{304, 1260}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,1384,o),
+(142,1360,o),
+(142,1332,cs),
+(142,1304,o),
+(166,1280,o),
+(194,1280,cs),
+(222,1280,o),
+(246,1304,o),
+(246,1332,cs),
+(246,1360,o),
+(226,1384,o),
+(194,1384,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(386,1384,o),
+(362,1360,o),
+(362,1332,cs),
+(362,1304,o),
+(386,1280,o),
+(414,1280,cs),
+(442,1280,o),
+(466,1304,o),
+(466,1332,cs),
+(466,1360,o),
+(442,1384,o),
+(414,1384,cs)
+);
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{492, 1094}";
+},
+{
+name = top;
+position = "{492, 1540}";
+}
+);
+layerId = "EEFE5EEC-DFBC-4075-A3C8-BF5B9986D008";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Dec 5 16, 18:17";
 width = 980;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = _top;
+position = "{470, 1094}";
+},
+{
+name = top;
+position = "{470, 1540}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -48,7 +118,17 @@ nodes = (
 width = 980;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = _top;
+position = "{398, 1062}";
+},
+{
+name = top;
+position = "{398, 1400}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -86,46 +166,6 @@ nodes = (
 }
 );
 width = 796;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(166,1384,o),
-(142,1360,o),
-(142,1332,cs),
-(142,1304,o),
-(166,1280,o),
-(194,1280,cs),
-(222,1280,o),
-(246,1304,o),
-(246,1332,cs),
-(246,1360,o),
-(226,1384,o),
-(194,1384,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(386,1384,o),
-(362,1360,o),
-(362,1332,cs),
-(362,1304,o),
-(386,1280,o),
-(414,1280,cs),
-(442,1280,o),
-(466,1304,o),
-(466,1332,cs),
-(466,1360,o),
-(442,1384,o),
-(414,1384,cs)
-);
-}
-);
-width = 604;
 }
 );
 leftKerningGroup = dieresiscomb.narrow;

@@ -2,8 +2,9 @@
 glyphname = "Yat-cy";
 layers = (
 {
-layerId = "50F846AC-0D36-4CA4-84BB-D8DDC2B503F5";
-name = "Bold.Oct 19 17, 00:17";
+layerId = "316AF907-EA9E-4068-9A32-5EA42E13E196";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Oct 19 17, 00:17";
 width = 1702;
 },
 {
@@ -13,7 +14,7 @@ name = center;
 position = "{734, 1160}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -64,7 +65,7 @@ name = center;
 position = "{620, 1160}";
 }
 );
-layerId = "505A2290-125B-4103-B79B-D758BBB56785";
+layerId = "2A6F4459-64F2-485F-95E9-01AEF381A08F";
 name = "BoldItalic.Oct 19 17, 00:17";
 shapes = (
 {
@@ -116,7 +117,7 @@ name = center;
 position = "{679, 1170}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -167,7 +168,7 @@ name = center;
 position = "{579, 1180}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

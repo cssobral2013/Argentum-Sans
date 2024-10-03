@@ -2,8 +2,57 @@
 glyphname = Q;
 layers = (
 {
-layerId = "5AFF942B-6D4C-4592-8F14-69376221A231";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,1406,o),
+(100,1088,o),
+(100,702,cs),
+(100,314,o),
+(424,-6,o),
+(818,-6,cs),
+(1212,-6,o),
+(1536,314,o),
+(1536,702,cs),
+(1536,1088,o),
+(1212,1406,o),
+(818,1406,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1190,1366,o),
+(1496,1066,o),
+(1496,702,cs),
+(1496,336,o),
+(1190,34,o),
+(818,34,cs),
+(446,34,o),
+(140,336,o),
+(140,702,cs),
+(140,1066,o),
+(446,1366,o),
+(818,1366,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(1486,-20,l),
+(1514,6,l),
+(918,568,l),
+(890,542,l)
+);
+}
+);
+width = 1602;
+},
+{
+layerId = "BA95E2A4-1856-4AEB-AE17-4A6C9B79F5E7";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Bold [170]";
 shapes = (
 {
@@ -53,7 +102,7 @@ nodes = (
 width = 1600;
 },
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -102,8 +151,8 @@ nodes = (
 width = 1598;
 },
 {
-layerId = "BB67C927-03F8-44C5-B972-D8BC73D5E558";
-associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "B88E72E7-DF03-444A-8DD5-2BD801221925";
+associatedMasterId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 name = "Regular [170]";
 shapes = (
 {
@@ -153,7 +202,7 @@ nodes = (
 width = 1620;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -200,55 +249,6 @@ nodes = (
 }
 );
 width = 1620;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(424,1406,o),
-(100,1088,o),
-(100,702,cs),
-(100,314,o),
-(424,-6,o),
-(818,-6,cs),
-(1212,-6,o),
-(1536,314,o),
-(1536,702,cs),
-(1536,1088,o),
-(1212,1406,o),
-(818,1406,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(1190,1366,o),
-(1496,1066,o),
-(1496,702,cs),
-(1496,336,o),
-(1190,34,o),
-(818,34,cs),
-(446,34,o),
-(140,336,o),
-(140,702,cs),
-(140,1066,o),
-(446,1366,o),
-(818,1366,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(1486,-20,l),
-(1514,6,l),
-(918,568,l),
-(890,542,l)
-);
-}
-);
-width = 1602;
 }
 );
 leftKerningGroup = O;

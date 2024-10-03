@@ -2,57 +2,8 @@
 glyphname = Iacute_J.loclNLD;
 layers = (
 {
-layerId = "D707F8E1-44BF-4BE5-B286-2E745371FE71";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
-name = "Bold Aug 12 16, 01:55";
-width = 1802;
-},
-{
-guides = (
-{
-angle = 90;
-position = "{0, 0}";
-}
-);
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
-shapes = (
-{
-alignment = -1;
-ref = Iacute;
-},
-{
-alignment = -1;
-pos = (664,0);
-ref = Jacute;
-scale = (0.998,0.998);
-}
-);
-width = 1800;
-},
-{
-layerId = "3AC2922F-49AF-4A2C-9547-B7A7CD76473E";
-associatedMasterId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
-name = "Regular Aug 12 16, 01:56";
-width = 1602;
-},
-{
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
-shapes = (
-{
-alignment = -1;
-ref = Iacute;
-},
-{
-alignment = -1;
-pos = (604,0);
-ref = Jacute;
-}
-);
-width = 1602;
-},
-{
-layerId = "6DE91A51-D457-4D82-A5CF-CD37A46C1D2E";
-associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+layerId = "3FB7EA5B-5F41-4588-9D7F-BC0A751A879B";
+associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
 name = "Light Aug 12 16, 01:56";
 width = 1470;
 },
@@ -71,7 +22,7 @@ angle = 90;
 position = "{256, 0}";
 }
 );
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
 shapes = (
 {
 alignment = -1;
@@ -85,6 +36,55 @@ scale = (1.001,1.001);
 }
 );
 width = 1472;
+},
+{
+layerId = "9678FD11-D504-4D3C-B0BD-17A593FF465B";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+name = "Bold Aug 12 16, 01:55";
+width = 1802;
+},
+{
+guides = (
+{
+angle = 90;
+position = "{0, 0}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+shapes = (
+{
+alignment = -1;
+ref = Iacute;
+},
+{
+alignment = -1;
+pos = (664,0);
+ref = Jacute;
+scale = (0.998,0.998);
+}
+);
+width = 1800;
+},
+{
+layerId = "652FCCCE-DDB8-4ABA-8DA6-4EE1BCA3E496";
+associatedMasterId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+name = "Regular Aug 12 16, 01:56";
+width = 1602;
+},
+{
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+shapes = (
+{
+alignment = -1;
+ref = Iacute;
+},
+{
+alignment = -1;
+pos = (604,0);
+ref = Jacute;
+}
+);
+width = 1602;
 }
 );
 leftKerningGroup = H;

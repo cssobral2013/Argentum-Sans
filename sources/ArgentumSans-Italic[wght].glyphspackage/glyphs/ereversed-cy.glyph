@@ -14,7 +14,7 @@ angle = 90;
 position = "{-120, 0}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -72,7 +72,7 @@ angle = 90;
 position = "{-116, 0}";
 }
 );
-layerId = "38ADDA9D-AC05-4052-AC95-08968A86E5D6";
+layerId = "F0F3B885-A624-48E4-BC5E-A30ACBD0597D";
 name = "BoldItalic.Oct 22 17, 18:30";
 shapes = (
 {
@@ -125,7 +125,7 @@ name = top;
 position = "{640, 1060}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -177,7 +177,7 @@ name = top;
 position = "{606, 1034}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

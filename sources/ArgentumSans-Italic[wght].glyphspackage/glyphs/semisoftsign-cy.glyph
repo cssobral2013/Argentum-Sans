@@ -2,12 +2,13 @@
 glyphname = "semisoftsign-cy";
 layers = (
 {
-layerId = "FC348B6E-03F8-4572-B05D-FC5270727EAD";
-name = "Bold.Oct 9 17, 10:02";
+layerId = "7617A332-A051-476D-8EBB-629910CD6DF3";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Oct 9 17, 10:02";
 width = 1366;
 },
 {
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -52,7 +53,7 @@ nodes = (
 width = 1366;
 },
 {
-layerId = "22FD634E-3AD6-4661-BC26-1A7BB7C577E3";
+layerId = "9357A071-9851-42CD-9D29-B744A52E61B3";
 name = "BoldItalic.Oct 9 17, 10:02";
 shapes = (
 {
@@ -98,53 +99,7 @@ nodes = (
 width = 1366;
 },
 {
-layerId = "350CA04A-E844-4A52-83C0-1067D0828D07";
-name = "LightItalic.Oct 9 17, 10:02";
-shapes = (
-{
-closed = 1;
-nodes = (
-(368,634,l),
-(368,1034,l),
-(328,1034,l),
-(328,0,l),
-(714,0,ls),
-(980,0,o),
-(1120,112,o),
-(1120,322,cs),
-(1120,524,o),
-(986,634,o),
-(732,634,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(368,36,l),
-(368,598,l),
-(718,598,ls),
-(960,598,o),
-(1080,504,o),
-(1080,320,cs),
-(1080,134,o),
-(958,36,o),
-(718,36,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(778,832,l),
-(778,870,l),
-(50,870,l),
-(50,832,l)
-);
-}
-);
-width = 1218;
-},
-{
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -189,12 +144,60 @@ nodes = (
 width = 1226;
 },
 {
-layerId = "E293CF78-64DD-4174-BB6F-8CEA75B3ED86";
-name = "Light.Oct 9 17, 10:02";
+layerId = "26F6D447-4202-4CF7-B2C7-77744E71490A";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Oct 9 17, 10:02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(368,634,l),
+(368,1034,l),
+(328,1034,l),
+(328,0,l),
+(714,0,ls),
+(980,0,o),
+(1120,112,o),
+(1120,322,cs),
+(1120,524,o),
+(986,634,o),
+(732,634,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(368,36,l),
+(368,598,l),
+(718,598,ls),
+(960,598,o),
+(1080,504,o),
+(1080,320,cs),
+(1080,134,o),
+(958,36,o),
+(718,36,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(778,832,l),
+(778,870,l),
+(50,870,l),
+(50,832,l)
+);
+}
+);
 width = 1218;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "732FEBA8-40F0-49C8-90C6-14A06DF05C29";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Oct 9 17, 10:02.1";
+width = 1218;
+},
+{
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

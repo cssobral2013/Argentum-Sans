@@ -2,18 +2,20 @@
 glyphname = "Gestrokehook-cy";
 layers = (
 {
-layerId = "398C9D94-C9C5-4A9F-A27D-FF79039A2387";
+layerId = "AE3FB1FD-0122-434F-B43E-22DBFAFF6D52";
 name = "SemiBold.Oct 24 17, 20:44";
 width = 1248;
 },
 {
-layerId = "3019B730-F5B6-4C7F-B1BF-4EF96BACE573";
-name = "Bold.Oct 24 17, 20:12";
+layerId = "04490ECF-A8D1-4564-B7D8-D071DB9D5DA0";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Oct 24 17, 20:12";
 width = 1332;
 },
 {
-layerId = "39F9E965-A64C-48B4-A919-5CBFB2459B1F";
-name = "Bold.Oct 18 17, 23:51";
+layerId = "DDD27B6E-D411-447C-BBAE-5DBC1A4B5FC6";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Oct 18 17, 23:51";
 width = 1388;
 },
 {
@@ -28,7 +30,7 @@ guides = (
 position = "{0, -100}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -84,7 +86,7 @@ name = top;
 position = "{716, 1400}";
 }
 );
-layerId = "57876321-E396-46B3-BC03-EC8098B175DD";
+layerId = "AE8CF90D-5DE5-4F8C-9B11-36846E5564C8";
 name = "SemiBoldItalic.Oct 24 17, 20:44";
 shapes = (
 {
@@ -129,7 +131,7 @@ nodes = (
 width = 1248;
 },
 {
-layerId = "FF52C44C-D9AB-440E-9370-75F49BBACFF9";
+layerId = "75EDCBC2-699A-4B1B-83BE-A780FB36B473";
 name = "BoldItalic.Oct 18 17, 23:51";
 shapes = (
 {
@@ -168,7 +170,7 @@ name = top;
 position = "{740, 1400}";
 }
 );
-layerId = "2B24DAE9-24E5-4838-9BB9-120D712BBB2F";
+layerId = "97099384-870E-4DC1-B9EF-573D30D6D0CC";
 name = "BoldItalic.Oct 24 17, 20:12";
 shapes = (
 {
@@ -207,7 +209,7 @@ name = top;
 position = "{890, 1400}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -263,7 +265,7 @@ name = top;
 position = "{890, 1400}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

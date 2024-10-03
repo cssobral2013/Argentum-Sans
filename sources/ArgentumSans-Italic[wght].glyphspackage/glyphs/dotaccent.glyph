@@ -2,18 +2,21 @@
 glyphname = dotaccent;
 layers = (
 {
-layerId = "B55CAD33-C5AF-4BA2-8D43-0ED25BBAF7C7";
-name = "Bold.Dec 5 16, 18:16";
+layerId = "1906F830-DC03-42F1-BA79-5C044A8BD6ED";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Dec 5 16, 18:16";
 width = 700;
 },
 {
-layerId = "5B69C978-5F0E-4346-A11F-657D880431DC";
-name = "Bold.Dec 5 16, 18:14";
+layerId = "C840C81C-2F54-4A22-9698-7DF0A62CDBAD";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Dec 5 16, 18:14";
 width = 700;
 },
 {
-layerId = "EE652DB7-E53D-4D94-8B95-B5EB2BF0E7FD";
-name = "Bold.Bold Aug 12 16, 12:57";
+layerId = "C6362E57-2D00-4C6C-A757-900DE9C3E515";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 12 16, 12:57";
 width = 700;
 },
 {
@@ -23,7 +26,7 @@ name = top;
 position = "{549, 1544}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 alignment = -1;
@@ -40,7 +43,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "66C55C9D-51C6-4843-BC56-952AA46285A8";
+layerId = "FE5A3222-7093-4170-A435-BB709BD60B72";
 name = "BoldItalic.Bold Aug 12 16, 12:57";
 shapes = (
 {
@@ -70,7 +73,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "DA91E129-57FF-48A5-AE2A-A5561CB0E715";
+layerId = "936C479A-6E7F-4321-A5C4-AF26187A5C2B";
 name = "BoldItalic.Dec 5 16, 18:14";
 shapes = (
 {
@@ -100,7 +103,7 @@ name = _top;
 position = "{350, 1094}";
 }
 );
-layerId = "9070A123-9D12-4864-89E2-EEF235FCC19B";
+layerId = "BAF9BC3E-F600-4B01-9111-53636F10B58F";
 name = "BoldItalic.Dec 5 16, 18:16";
 shapes = (
 {
@@ -130,7 +133,7 @@ name = top;
 position = "{525, 1412}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 alignment = -1;
@@ -147,7 +150,7 @@ name = top;
 position = "{254, 1332}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 alignment = -1;

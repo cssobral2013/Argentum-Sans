@@ -2,7 +2,77 @@
 glyphname = Etatonos;
 layers = (
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = t.uni0308;
+position = "{850, 1400}";
+},
+{
+name = t.uni0307_1;
+position = "{850, 1188}";
+},
+{
+name = b.uni0324_3;
+position = "{850, 0}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1378,1400,l),
+(1418,1400,l),
+(1418,0,l),
+(1378,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(358,0,l),
+(318,0,l),
+(318,1400,l),
+(358,1400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1388,692,l),
+(348,692,l),
+(348,730,l),
+(1388,730,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(36,1214,l),
+(110,1434,l),
+(170,1434,l),
+(76,1214,l)
+);
+}
+);
+width = 1684;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{1260, 1400}";
+},
+{
+name = t.uni0307_1;
+position = "{1260, 1152}";
+},
+{
+name = b.uni0324_3;
+position = "{1260, 0}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -44,7 +114,21 @@ nodes = (
 width = 2064;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = t.uni0308;
+position = "{1054, 1400}";
+},
+{
+name = t.uni0307_1;
+position = "{1054, 1188}";
+},
+{
+name = b.uni0324_3;
+position = "{1054, 0}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -84,48 +168,6 @@ nodes = (
 }
 );
 width = 1878;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1378,1400,l),
-(1418,1400,l),
-(1418,0,l),
-(1378,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(358,0,l),
-(318,0,l),
-(318,1400,l),
-(358,1400,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1388,692,l),
-(348,692,l),
-(348,730,l),
-(1388,730,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(36,1214,l),
-(110,1434,l),
-(170,1434,l),
-(76,1214,l)
-);
-}
-);
-width = 1684;
 }
 );
 unicode = 905;

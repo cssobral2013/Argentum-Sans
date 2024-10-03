@@ -2,12 +2,13 @@
 glyphname = "Reversedze-cy";
 layers = (
 {
-layerId = "CA554EE3-80B5-4949-85A9-51EF87C45951";
-name = "Bold.Sep 25 17, 15:54";
+layerId = "20222B40-C339-4479-9170-767A6A6E347C";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Sep 25 17, 15:54";
 width = 1404;
 },
 {
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -60,7 +61,7 @@ nodes = (
 width = 1344;
 },
 {
-layerId = "E5285D19-EA45-44D9-8884-D295285B29A0";
+layerId = "65064722-D49D-40B7-AFC0-3701FBCD502A";
 name = "BoldItalic.Sep 25 17, 15:54";
 shapes = (
 {
@@ -102,7 +103,7 @@ nodes = (
 width = 1404;
 },
 {
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -155,7 +156,7 @@ nodes = (
 width = 1290;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

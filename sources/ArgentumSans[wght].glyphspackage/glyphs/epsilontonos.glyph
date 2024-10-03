@@ -2,8 +2,53 @@
 glyphname = epsilontonos;
 layers = (
 {
-layerId = "2B9E09CC-201E-46C7-93C5-821FDB8EED80";
-associatedMasterId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "2168FCB8-17C7-41BC-A00A-6D6BEF9C0148";
+associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+name = "Oct 12 17, 11:30";
+shapes = (
+{
+alignment = -1;
+ref = "reversedze-cy";
+}
+);
+width = 1012;
+},
+{
+anchors = (
+{
+name = t.uni0308;
+position = "{686, 1186}";
+},
+{
+name = b.uni0324_3;
+position = "{686, 0}";
+},
+{
+name = m.uni0328_4;
+position = "{1196, 0}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(578,1214,l),
+(652,1434,l),
+(712,1434,l),
+(618,1214,l)
+);
+},
+{
+alignment = -1;
+ref = "reversedze-cy";
+}
+);
+width = 1064;
+},
+{
+layerId = "B0FDEF34-262F-4450-A224-F4E1B200BF5C";
+associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 name = "Oct 12 17, 11:29";
 shapes = (
 {
@@ -28,7 +73,7 @@ name = m.uni0328_4;
 position = "{1122, 0}";
 }
 );
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -61,7 +106,7 @@ name = m.uni0328_4;
 position = "{1202, 0}";
 }
 );
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -78,51 +123,6 @@ ref = "reversedze-cy";
 }
 );
 width = 1128;
-},
-{
-layerId = "4230059D-361E-4A20-8F93-AF536E2B1168";
-associatedMasterId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-name = "Oct 12 17, 11:30";
-shapes = (
-{
-alignment = -1;
-ref = "reversedze-cy";
-}
-);
-width = 1012;
-},
-{
-anchors = (
-{
-name = t.uni0308;
-position = "{686, 1186}";
-},
-{
-name = b.uni0324_3;
-position = "{686, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{1196, 0}";
-}
-);
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(578,1214,l),
-(652,1434,l),
-(712,1434,l),
-(618,1214,l)
-);
-},
-{
-alignment = -1;
-ref = "reversedze-cy";
-}
-);
-width = 1064;
 }
 );
 unicode = 941;

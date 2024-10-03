@@ -2,8 +2,9 @@
 glyphname = "Schwa-cy";
 layers = (
 {
-layerId = "D546F120-ACD8-4501-8D9C-1D3A1094E110";
-name = "Bold.Sep 16 17, 15:30";
+layerId = "6B898E8F-941A-4611-B372-0D11C545D28F";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Sep 16 17, 15:30";
 width = 1640;
 },
 {
@@ -13,7 +14,7 @@ name = top;
 position = "{988, 1400}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +25,7 @@ ref = Schwa;
 width = 1634;
 },
 {
-layerId = "06C421CC-1A30-421E-A283-4F64EA32D7F7";
+layerId = "F2F337B7-F4DE-4864-B939-B9D454EE9558";
 name = "BoldItalic.Sep 16 17, 15:30";
 shapes = (
 {
@@ -74,7 +75,7 @@ name = top;
 position = "{1001, 1400}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 alignment = -1;
@@ -90,7 +91,7 @@ name = top;
 position = "{1002, 1400}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 alignment = -1;

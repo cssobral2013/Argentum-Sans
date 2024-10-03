@@ -2,8 +2,9 @@
 glyphname = "Izhitsa-cy";
 layers = (
 {
-layerId = "AD31F879-9E03-4E50-ACBC-F1EFBE3DCD79";
-name = "Bold.Sep 16 17, 11:39";
+layerId = "171FF020-1E41-43B4-8401-266C2F27236F";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Sep 16 17, 11:39";
 width = 1766;
 },
 {
@@ -12,7 +13,7 @@ guides = (
 position = "{0, 1432}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -41,7 +42,7 @@ guides = (
 position = "{0, 1432}";
 }
 );
-layerId = "2D6CA627-5E35-470F-9BEC-20093DA70B07";
+layerId = "8314A685-27B5-439B-A141-9BED453C19C2";
 name = "BoldItalic.Sep 16 17, 11:39";
 shapes = (
 {
@@ -67,8 +68,33 @@ nodes = (
 width = 1766;
 },
 {
-layerId = "211333BE-5686-4596-A076-AB5C096D6CD7";
-name = "LightItalic.Sep 16 17, 11:39";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(721,0,l),
+(1265,954,ls),
+(1373,1152,o),
+(1467,1220,o),
+(1623,1180,c),
+(1675,1400,l),
+(1417,1466,o),
+(1257,1384,o),
+(1109,1112,cs),
+(667,332,l),
+(443,1400,l),
+(201,1400,l),
+(495,0,l)
+);
+}
+);
+width = 1536;
+},
+{
+layerId = "E65D041C-CD92-46A1-B103-6E48CD429067";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Sep 16 17, 11:39";
 shapes = (
 {
 closed = 1;
@@ -93,36 +119,13 @@ nodes = (
 width = 1528;
 },
 {
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
-shapes = (
-{
-closed = 1;
-nodes = (
-(721,0,l),
-(1265,954,ls),
-(1373,1152,o),
-(1467,1220,o),
-(1623,1180,c),
-(1675,1400,l),
-(1417,1466,o),
-(1257,1384,o),
-(1109,1112,cs),
-(667,332,l),
-(443,1400,l),
-(201,1400,l),
-(495,0,l)
-);
-}
-);
-width = 1536;
-},
-{
-layerId = "992029DE-B5FC-458B-8027-6A75740D4A1F";
-name = "Light.Sep 16 17, 11:39";
+layerId = "E72771F5-FE0C-4EF7-A90E-5A7EC1D137B5";
+associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+name = "Sep 16 17, 11:39.1";
 width = 1528;
 },
 {
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

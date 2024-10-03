@@ -2,8 +2,9 @@
 glyphname = commaaccentcomb;
 layers = (
 {
-layerId = "86556139-7BB5-4334-97C4-243299674385";
-name = "Bold.Bold Aug 12 16, 13:00";
+layerId = "893743D3-EE91-420C-B2A5-1BEFCD031F61";
+associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+name = "Bold Aug 12 16, 13:00";
 width = 0;
 },
 {
@@ -17,7 +18,7 @@ name = bottom;
 position = "{190, -448}";
 }
 );
-layerId = "D4E38000-BFB5-44FC-A51C-4288F8544A0D";
+layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
 shapes = (
 {
 closed = 1;
@@ -48,7 +49,7 @@ angle = 90;
 position = "{65, 0}";
 }
 );
-layerId = "196BCA4D-4EBA-41D5-BBFD-A0C7C55F9EA0";
+layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
 shapes = (
 {
 closed = 1;
@@ -73,7 +74,7 @@ name = bottom;
 position = "{184, -388}";
 }
 );
-layerId = "FAA95C36-2A9A-4A6A-AE16-672F8292957B";
+layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,78 @@
 glyphname = "Kabashkir-cy";
 layers = (
 {
-layerId = "E8FC7CDB-EB64-4B8C-83EE-9B2B76976C4E";
+anchors = (
+{
+name = bottom;
+position = "{954, 0}";
+},
+{
+name = top;
+position = "{954, 1402}";
+}
+);
+layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(516,1362,l),
+(516,1400,l),
+(16,1400,l),
+(16,1362,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1516,0,l),
+(900,730,l),
+(864,714,l),
+(1466,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(516,0,l),
+(516,1400,l),
+(476,1400,l),
+(476,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(908,694,l),
+(908,732,l),
+(500,732,l),
+(500,694,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1474,1400,l),
+(1424,1400,l),
+(864,714,l),
+(900,698,l)
+);
+}
+);
+width = 1570;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1050, 0}";
+},
+{
+name = top;
+position = "{1060, 1400}";
+}
+);
+layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
 shapes = (
 {
 closed = 1;
@@ -53,7 +124,17 @@ nodes = (
 width = 1802;
 },
 {
-layerId = "17E3EB7E-1F08-45A4-8E6B-D8F983509A13";
+anchors = (
+{
+name = bottom;
+position = "{1000, 0}";
+},
+{
+name = top;
+position = "{1000, 1402}";
+}
+);
+layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
 shapes = (
 {
 closed = 1;
@@ -102,57 +183,6 @@ nodes = (
 }
 );
 width = 1670;
-},
-{
-layerId = "59F18BB4-F2E3-4803-AEEB-FBD371085F85";
-shapes = (
-{
-closed = 1;
-nodes = (
-(516,1362,l),
-(516,1400,l),
-(16,1400,l),
-(16,1362,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1516,0,l),
-(900,730,l),
-(864,714,l),
-(1466,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(516,0,l),
-(516,1400,l),
-(476,1400,l),
-(476,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(908,694,l),
-(908,732,l),
-(500,732,l),
-(500,694,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1474,1400,l),
-(1424,1400,l),
-(864,714,l),
-(900,698,l)
-);
-}
-);
-width = 1570;
 }
 );
 leftKerningGroup = T;
