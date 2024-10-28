@@ -2,7 +2,7 @@
 glyphname = Gcommaaccent.ss04;
 layers = (
 {
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 alignment = -1;
@@ -23,8 +23,8 @@ name = _bottom;
 position = "{0, 0}";
 }
 );
-layerId = "AD3BB3D1-0DA8-45BC-964B-61FADA911120";
-associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "4CF4DF1E-40D2-4E27-B9F7-3C328C6FFE01";
+associatedMasterId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 name = "Bold Aug 12 16, 13:00";
 shapes = (
 {
@@ -36,7 +36,7 @@ ref = commaaccentcomb;
 width = 0;
 },
 {
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 alignment = -1;
@@ -51,7 +51,7 @@ ref = commaaccentcomb;
 width = 1538;
 },
 {
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 alignment = -1;

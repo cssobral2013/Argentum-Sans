@@ -2,8 +2,13 @@
 glyphname = "softsign-cy.loclBGR";
 layers = (
 {
-layerId = "8060B9B7-6BE6-4644-9E64-1E483C377492";
-associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1164;
+},
+{
+layerId = "52025025-894A-4A15-B767-B8B361BFB81C";
+associatedMasterId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 name = "Oct 3 17, 11:50";
 shapes = (
 {
@@ -44,8 +49,8 @@ nodes = (
 width = 1122;
 },
 {
-layerId = "F7D2BDE0-A590-4E8E-A4AA-C2E05FC0F46F";
-associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "6C6F929E-7C99-4120-823E-C60E7E920A3A";
+associatedMasterId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 name = "Oct 2 17, 17:44";
 shapes = (
 {
@@ -96,7 +101,7 @@ nodes = (
 width = 1208;
 },
 {
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -140,8 +145,8 @@ nodes = (
 width = 1088;
 },
 {
-layerId = "5172C1C6-C380-42F7-A5DE-7B6E4963E29E";
-associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "463B2646-C34B-4906-8E48-CC0E81CF9976";
+associatedMasterId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 name = "Oct 3 17, 11:52";
 shapes = (
 {
@@ -182,8 +187,8 @@ nodes = (
 width = 1228;
 },
 {
-layerId = "7A7BD07C-8FCD-44AC-B0DE-65D3B502DDA5";
-associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "94FEC037-2B79-4AE9-96CD-6213ED2498A4";
+associatedMasterId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 name = "Oct 2 17, 17:45";
 shapes = (
 {
@@ -234,7 +239,7 @@ nodes = (
 width = 1254;
 },
 {
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -278,7 +283,7 @@ nodes = (
 width = 1262;
 },
 {
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

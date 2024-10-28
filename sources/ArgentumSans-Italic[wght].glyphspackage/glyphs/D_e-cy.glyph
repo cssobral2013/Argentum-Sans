@@ -2,52 +2,15 @@
 glyphname = "De-cy";
 layers = (
 {
-layerId = "5C47D914-B5DD-4D6D-A22F-45B9FB7ADBC8";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "0AFBF4AF-53F9-40C3-80AE-7A0882CC3195";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Oct 6 17, 18:10";
 width = 1590;
 },
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1439,200,l),
-(1679,1400,l),
-(495,1400,l),
-(397,992,ls),
-(311,636,o),
-(195,366,o),
-(21,366,c),
-(531,296,l),
-(655,402,o),
-(723,624,o),
-(793,916,cs),
-(821,1034,l),
-(1143,1034,l),
-(975,200,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(301,-274,l),
-(355,0,l),
-(1151,0,l),
-(1097,-274,l),
-(1529,-274,l),
-(1657,366,l),
-(-3,366,l),
-(-131,-274,l)
-);
-}
-);
-width = 1728;
-},
-{
-layerId = "5D29C0AF-078D-468E-8F37-C44942B62658";
-name = "BoldItalic.Oct 6 17, 18:10";
+layerId = "ED2CE8A8-3056-4E33-A893-1FE9945F3ADA";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Oct 6 17, 18:10.1";
 shapes = (
 {
 closed = 1;
@@ -85,7 +48,45 @@ nodes = (
 width = 1590;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1439,200,l),
+(1679,1400,l),
+(495,1400,l),
+(397,992,ls),
+(311,636,o),
+(195,366,o),
+(21,366,c),
+(531,296,l),
+(655,402,o),
+(723,624,o),
+(793,916,cs),
+(821,1034,l),
+(1143,1034,l),
+(975,200,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(301,-274,l),
+(355,0,l),
+(1151,0,l),
+(1097,-274,l),
+(1529,-274,l),
+(1657,366,l),
+(-3,366,l),
+(-131,-274,l)
+);
+}
+);
+width = 1728;
+},
+{
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -123,8 +124,8 @@ nodes = (
 width = 1618;
 },
 {
-layerId = "2C896712-6F2D-41BA-8391-A2EEFECEB22F";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "D264EEB6-2D39-40CD-BC72-4D402E717D11";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Oct 6 17, 18:24";
 shapes = (
 {
@@ -163,13 +164,13 @@ nodes = (
 width = 1626;
 },
 {
-layerId = "FF2F134D-9650-497B-B402-D045D5210813";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "5142DAFB-C6D7-42DE-B6A7-3253BD72D438";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Oct 6 17, 18:24.1";
 width = 1626;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

@@ -2,13 +2,13 @@
 glyphname = "Kahook-cy";
 layers = (
 {
-guides = (
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1442;
+},
 {
-position = "{0, -394}";
-}
-);
-layerId = "94FFA16B-586B-4412-9818-3F57C0C6C0A9";
-associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "59A14A28-00D3-46DA-8E06-6E476799D817";
+associatedMasterId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 name = "Sep 25 17, 15:13";
 shapes = (
 {
@@ -52,13 +52,8 @@ nodes = (
 width = 1258;
 },
 {
-guides = (
-{
-position = "{0, -394}";
-}
-);
-layerId = "86BA2144-00C6-43E5-815E-906B751D34AA";
-associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "6D07EDF4-CF34-4A88-87B0-FBF4877D8360";
+associatedMasterId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 name = "Oct 6 17, 16:27";
 shapes = (
 {
@@ -110,16 +105,7 @@ nodes = (
 width = 1370;
 },
 {
-guides = (
-{
-position = "{0, -394}";
-},
-{
-angle = 90;
-position = "{1272, 0}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -177,8 +163,8 @@ nodes = (
 width = 1354;
 },
 {
-layerId = "2AD02931-4AF9-4F15-A4CA-7D1B2F139DDB";
-associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "9B1FF60D-C41B-4828-97E1-F4F5335D521F";
+associatedMasterId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 name = "Oct 6 17, 16:27";
 shapes = (
 {
@@ -230,13 +216,7 @@ nodes = (
 width = 1520;
 },
 {
-guides = (
-{
-angle = 90;
-position = "{1526, 0}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -294,7 +274,7 @@ nodes = (
 width = 1558;
 },
 {
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,7 @@
 glyphname = seveneighths;
 layers = (
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +24,7 @@ scale = (0.999,0.999);
 width = 1906;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 alignment = -1;
@@ -45,7 +45,7 @@ ref = eight.dnom;
 width = 1670;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 alignment = -1;

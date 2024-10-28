@@ -2,21 +2,12 @@
 glyphname = ecedillabreve;
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{560, -440}";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1176;
 },
 {
-name = ogonek;
-position = "{922, 0}";
-},
-{
-name = top;
-position = "{590, 1382}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -74,29 +65,29 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (340,0);
-ref = brevecomb;
+closed = 1;
+nodes = (
+(380,1452,l),
+(384,1332,o),
+(476,1242,o),
+(590,1242,cs),
+(704,1242,o),
+(796,1332,o),
+(800,1452,c),
+(760,1452,l),
+(756,1356,o),
+(684,1282,o),
+(590,1282,cs),
+(496,1282,o),
+(424,1356,o),
+(420,1452,c)
+);
 }
 );
 width = 1178;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{558, -530}";
-},
-{
-name = ogonek;
-position = "{1070, 0}";
-},
-{
-name = top;
-position = "{602, 1094}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -154,29 +145,29 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (214,0);
-ref = brevecomb;
+closed = 1;
+nodes = (
+(234,1538,l),
+(244,1326,o),
+(388,1190,o),
+(602,1190,cs),
+(816,1190,o),
+(960,1326,o),
+(970,1538,c),
+(700,1538,l),
+(694,1478,o),
+(656,1438,o),
+(602,1438,cs),
+(548,1438,o),
+(510,1478,o),
+(504,1538,c)
+);
 }
 );
 width = 1228;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{574, -444}";
-},
-{
-name = ogonek;
-position = "{972, 0}";
-},
-{
-name = top;
-position = "{578, 1400}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;
@@ -234,9 +225,23 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (228,0);
-ref = brevecomb;
+closed = 1;
+nodes = (
+(296,1496,l),
+(302,1328,o),
+(418,1216,o),
+(578,1216,cs),
+(738,1216,o),
+(854,1328,o),
+(860,1496,c),
+(704,1496,l),
+(700,1418,o),
+(648,1362,o),
+(578,1362,cs),
+(508,1362,o),
+(456,1418,o),
+(452,1496,c)
+);
 }
 );
 width = 1176;

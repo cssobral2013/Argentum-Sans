@@ -12,15 +12,15 @@ name = top;
 position = "{764, 1818}";
 }
 );
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 alignment = -1;
-pos = (22,0);
+pos = (54,0);
 ref = tildecomb.loclVIET;
 },
 {
-pos = (153,378);
+pos = (173,381);
 ref = macroncomb.loclVIET;
 }
 );
@@ -37,15 +37,15 @@ name = top;
 position = "{660, 1640}";
 }
 );
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 alignment = -1;
-pos = (17,0);
+pos = (80,0);
 ref = tildecomb.loclVIET;
 },
 {
-pos = (104,296);
+pos = (131,294);
 ref = macroncomb.loclVIET;
 }
 );
@@ -62,15 +62,15 @@ name = top;
 position = "{582, 1514}";
 }
 );
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 alignment = -1;
-pos = (20,0);
+pos = (79,0);
 ref = tildecomb.loclVIET;
 },
 {
-pos = (99,226);
+pos = (134,226);
 ref = macroncomb.loclVIET;
 }
 );

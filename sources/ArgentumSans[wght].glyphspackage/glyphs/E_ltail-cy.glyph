@@ -2,21 +2,53 @@
 glyphname = "Eltail-cy";
 layers = (
 {
-anchors = (
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+shapes = (
 {
-name = bottomleft;
-position = "{1334, 0}";
+closed = 1;
+nodes = (
+(1354,-330,l),
+(1474,38,l),
+(1238,38,l),
+(1238,0,l),
+(1452,0,l),
+(1424,18,l),
+(1318,-330,l)
+);
 },
 {
-name = bottom;
-position = "{810, 0}";
-},
-{
-name = top;
-position = "{804, 1398}";
+closed = 1;
+nodes = (
+(306,-10,o),
+(400,210,o),
+(422,778,c),
+(444,1380,l),
+(426,1362,l),
+(1254,1362,l),
+(1236,1380,l),
+(1236,0,l),
+(1276,0,l),
+(1276,1400,l),
+(404,1400,l),
+(382,780,ls),
+(362,230,o),
+(278,30,o),
+(92,30,cs),
+(68,30,o),
+(50,32,o),
+(22,38,c),
+(14,0,l),
+(46,-8,o),
+(68,-10,o),
+(96,-10,cs)
+);
 }
 );
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+width = 1500;
+},
+{
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -61,21 +93,7 @@ nodes = (
 width = 1500;
 },
 {
-anchors = (
-{
-name = bottomleft;
-position = "{1032, 0}";
-},
-{
-name = bottom;
-position = "{790, 0}";
-},
-{
-name = top;
-position = "{790, 1400}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -120,21 +138,7 @@ nodes = (
 width = 1631;
 },
 {
-anchors = (
-{
-name = bottomleft;
-position = "{1210, 0}";
-},
-{
-name = bottom;
-position = "{798, 0}";
-},
-{
-name = top;
-position = "{808, 1398}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

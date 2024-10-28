@@ -2,8 +2,8 @@
 glyphname = "Izhitsa-cy";
 layers = (
 {
-layerId = "171FF020-1E41-43B4-8401-266C2F27236F";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "AB53D0B4-A025-4437-87F1-A6F273B686A1";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Sep 16 17, 11:39";
 width = 1766;
 },
@@ -13,37 +13,9 @@ guides = (
 position = "{0, 1432}";
 }
 );
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
-shapes = (
-{
-closed = 1;
-nodes = (
-(931,0,l),
-(1405,828,l),
-(1485,978,o),
-(1557,1028,o),
-(1693,990,c),
-(1789,1402,l),
-(1445,1486,o),
-(1243,1422,o),
-(1093,1142,cs),
-(815,620,l),
-(683,1400,l),
-(185,1400,l),
-(467,0,l)
-);
-}
-);
-width = 1660;
-},
-{
-guides = (
-{
-position = "{0, 1432}";
-}
-);
-layerId = "8314A685-27B5-439B-A141-9BED453C19C2";
-name = "BoldItalic.Sep 16 17, 11:39";
+layerId = "2F03C7E5-24F2-46C3-8F1E-8A7FE6C8FBB3";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Sep 16 17, 11:39.1";
 shapes = (
 {
 closed = 1;
@@ -68,7 +40,36 @@ nodes = (
 width = 1766;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+guides = (
+{
+position = "{0, 1432}";
+}
+);
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(931,0,l),
+(1405,828,l),
+(1485,978,o),
+(1557,1028,o),
+(1693,990,c),
+(1789,1402,l),
+(1445,1486,o),
+(1243,1422,o),
+(1093,1142,cs),
+(815,620,l),
+(683,1400,l),
+(185,1400,l),
+(467,0,l)
+);
+}
+);
+width = 1660;
+},
+{
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -92,8 +93,8 @@ nodes = (
 width = 1536;
 },
 {
-layerId = "E65D041C-CD92-46A1-B103-6E48CD429067";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "C1A92203-A6C4-4915-8663-537988BAA46A";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Sep 16 17, 11:39";
 shapes = (
 {
@@ -119,13 +120,13 @@ nodes = (
 width = 1528;
 },
 {
-layerId = "E72771F5-FE0C-4EF7-A90E-5A7EC1D137B5";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "78E02783-47FD-45DF-865A-B45612BBD298";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Sep 16 17, 11:39.1";
 width = 1528;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

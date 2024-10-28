@@ -12,10 +12,11 @@ name = top;
 position = "{346, 1524}";
 }
 );
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 alignment = -1;
+pos = (2,0);
 ref = tildecomb.loclVIET;
 },
 {
@@ -37,10 +38,11 @@ name = top;
 position = "{442, 1858}";
 }
 );
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 alignment = -1;
+pos = (-21,0);
 ref = tildecomb.loclVIET;
 },
 {
@@ -62,10 +64,11 @@ name = top;
 position = "{366, 1664}";
 }
 );
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 alignment = -1;
+pos = (-16,0);
 ref = tildecomb.loclVIET;
 },
 {

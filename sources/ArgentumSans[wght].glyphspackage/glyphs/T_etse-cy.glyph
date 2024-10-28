@@ -2,21 +2,12 @@
 glyphname = "Tetse-cy";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{556, 0}";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1956;
 },
 {
-name = center;
-position = "{556, 712}";
-},
-{
-name = top;
-position = "{556, 1400}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -62,21 +53,7 @@ nodes = (
 width = 1904;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{672, 0}";
-},
-{
-name = center;
-position = "{672, 630}";
-},
-{
-name = top;
-position = "{672, 1400}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -122,21 +99,7 @@ nodes = (
 width = 2034;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{612, 0}";
-},
-{
-name = center;
-position = "{612, 672}";
-},
-{
-name = top;
-position = "{612, 1400}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

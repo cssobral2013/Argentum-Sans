@@ -7,7 +7,51 @@ guides = (
 position = "{0, -408}";
 }
 );
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "98FBC6F7-7492-40DB-9C79-7BE5931AA3D6";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Oct 24 17, 10:17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(556,0,l),
+(556,838,l),
+(458,742,l),
+(1062,742,l),
+(1062,1094,l),
+(106,1094,l),
+(106,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(510,-386,l),
+(976,-484,o),
+(1300,-228,o),
+(1300,130,cs),
+(1300,492,o),
+(966,712,o),
+(454,576,c),
+(468,222,l),
+(612,284,o),
+(836,308,o),
+(836,110,cs),
+(836,12,o),
+(778,-70,o),
+(602,-34,c)
+);
+}
+);
+width = 1318;
+},
+{
+guides = (
+{
+position = "{0, -408}";
+}
+);
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 closed = 1;
@@ -44,7 +88,7 @@ nodes = (
 width = 1318;
 },
 {
-layerId = "80E1453D-F0EA-45BB-ACA4-270EDECBA9AB";
+layerId = "320B82E5-108E-4012-9542-823B19C54545";
 name = "SemiBoldItalic.Oct 24 17, 10:17";
 shapes = (
 {
@@ -82,50 +126,7 @@ nodes = (
 width = 1212;
 },
 {
-guides = (
-{
-position = "{0, -408}";
-}
-);
-layerId = "B3B95F88-6493-4C19-822B-54A4364544DD";
-name = "BoldItalic.Oct 24 17, 10:17";
-shapes = (
-{
-closed = 1;
-nodes = (
-(556,0,l),
-(556,838,l),
-(458,742,l),
-(1062,742,l),
-(1062,1094,l),
-(106,1094,l),
-(106,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(510,-386,l),
-(976,-484,o),
-(1300,-228,o),
-(1300,130,cs),
-(1300,492,o),
-(966,712,o),
-(454,576,c),
-(468,222,l),
-(612,284,o),
-(836,308,o),
-(836,110,cs),
-(836,12,o),
-(778,-70,o),
-(602,-34,c)
-);
-}
-);
-width = 1318;
-},
-{
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -162,8 +163,8 @@ nodes = (
 width = 1212;
 },
 {
-layerId = "A390E8D4-F70F-440E-9337-463139B0164E";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "464A81CE-777D-494E-B106-CFC9B84FFDE2";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Oct 24 17, 10:17";
 shapes = (
 {
@@ -201,7 +202,7 @@ nodes = (
 width = 1146;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

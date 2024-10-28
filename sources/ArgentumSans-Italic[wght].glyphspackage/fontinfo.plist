@@ -3465,7 +3465,7 @@ guides = (
 position = "{0, 544}";
 }
 );
-id = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+id = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 metricValues = (
 {
 pos = 1850;
@@ -3609,7 +3609,7 @@ guides = (
 position = "{0, 619}";
 }
 );
-id = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+id = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 metricValues = (
 {
 pos = 1850;
@@ -3752,7 +3752,7 @@ guides = (
 position = "{0, 1034}";
 }
 );
-id = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+id = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 metricValues = (
 {
 pos = 1850;
@@ -3856,7 +3856,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"5BDD1EDE-DE70-4338-9338-A02B2C6AE01A" = {
+"6D930887-645F-4E17-BAB2-3A566A02CAA9" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -6157,7 +6157,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"A3D6E1CA-B1BA-4595-96B0-7801BFB529A2" = {
+"9B3D3104-3922-4F2D-8412-46D902A9971C" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -8458,7 +8458,7 @@ uogonek = {
 "@MMK_R_j" = 84;
 };
 };
-"FCBE0D3F-305A-4B26-ABA3-05651CFDD837" = {
+"A09E50E2-67FC-4045-B7D7-901372DB4BBE" = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_Che-cy" = -98;
@@ -10854,7 +10854,7 @@ name = V2;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"A3D6E1CA-B1BA-4595-96B0-7801BFB529A2" = {
+"9B3D3104-3922-4F2D-8412-46D902A9971C" = {
 HV = 20;
 HH = 20;
 OH = 20;
@@ -10862,7 +10862,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"5BDD1EDE-DE70-4338-9338-A02B2C6AE01A" = {
+"6D930887-645F-4E17-BAB2-3A566A02CAA9" = {
 HV = 118;
 HH = 100;
 OH = 100;
@@ -10870,7 +10870,7 @@ oH = 91;
 nV = 116;
 tH = 82;
 };
-"FCBE0D3F-305A-4B26-ABA3-05651CFDD837" = {
+"A09E50E2-67FC-4045-B7D7-901372DB4BBE" = {
 HV = 232;
 HH = 176;
 OH = 193;
@@ -10881,5 +10881,5 @@ tH = 142;
 };
 };
 versionMajor = 3;
-versionMinor = 130;
+versionMinor = 131;
 }

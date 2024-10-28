@@ -2,29 +2,12 @@
 glyphname = omicrontonos;
 layers = (
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{720, 1124}";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1280;
 },
 {
-name = t.uni0307_1;
-position = "{720, 562}";
-},
-{
-name = t.uni031B_2;
-position = "{856, 1122}";
-},
-{
-name = b.uni0324_3;
-position = "{720, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{1000, 0}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -81,29 +64,7 @@ nodes = (
 width = 1220;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{768, 1094}";
-},
-{
-name = t.uni0307_1;
-position = "{768, 548}";
-},
-{
-name = t.uni031B_2;
-position = "{960, 1094}";
-},
-{
-name = b.uni0324_3;
-position = "{768, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{1014, 0}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -160,29 +121,7 @@ nodes = (
 width = 1352;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{742, 1124}";
-},
-{
-name = t.uni0307_1;
-position = "{742, 562}";
-},
-{
-name = t.uni031B_2;
-position = "{878, 1122}";
-},
-{
-name = b.uni0324_3;
-position = "{742, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{1022, 0}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

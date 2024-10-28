@@ -2,13 +2,19 @@
 glyphname = apostrophemod;
 layers = (
 {
-layerId = "F5BD172E-DBA7-468A-A202-F3DE992CEBE4";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "3CA18F67-0435-4357-8ADE-B1D3ABC78F6B";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Bold Aug 12 16, 13:04";
 width = 516;
 },
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "35F10232-3C25-44D3-85B9-F8D9EDD28CC9";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Bold Aug 12 16, 13:04.1";
+width = 516;
+},
+{
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 closed = 1;
@@ -23,24 +29,19 @@ nodes = (
 width = 504;
 },
 {
-layerId = "82A41710-E5B8-4413-93CB-AA41EEF1BD3B";
-name = "BoldItalic.Bold Aug 12 16, 13:04";
-width = 516;
-},
-{
-layerId = "9801C675-FE5E-4CEA-9900-1A726576A89D";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "37AF4A46-B3F4-417A-9FCD-98DCBF58B670";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Aug 12 16, 13:04.1";
 width = 348;
 },
 {
-layerId = "F3ED328E-92A4-4334-A68C-835D937B073E";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "DFDBF3C0-6719-4C26-8EE7-DD4B974745A7";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Aug 12 16, 13:04";
 width = 348;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -55,19 +56,19 @@ nodes = (
 width = 304;
 },
 {
-layerId = "4E76329C-31B2-4AB1-A90A-A02A4FC5ABEF";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "E69EC215-A3BC-46E3-8AEA-69075EEF9788";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Light Aug 12 16, 13:04";
 width = 182;
 },
 {
-layerId = "D13EE744-D403-413F-BC55-DB62816B9617";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "038D8873-0CC7-46E0-9088-7F39201F144A";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Light Aug 12 16, 13:04.1";
 width = 182;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

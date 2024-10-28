@@ -3,21 +3,12 @@ glyphname = iotatonos;
 widthMetricsKey = iota;
 layers = (
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{384, 1124}";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 618;
 },
 {
-name = b.uni0324_3;
-position = "{384, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{700, 0}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -29,28 +20,31 @@ nodes = (
 );
 },
 {
-alignment = -1;
-ref = iota;
+closed = 1;
+nodes = (
+(242,180,ls),
+(242,86,o),
+(280,40,o),
+(350,40,cs),
+(388,40,o),
+(430,62,o),
+(468,102,c),
+(494,74,l),
+(448,26,o),
+(396,0,o),
+(350,0,cs),
+(256,0,o),
+(204,60,o),
+(204,180,cs),
+(204,1034,l),
+(242,1034,l)
+);
 }
 );
 width = 518;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{384, 1094}";
-},
-{
-name = b.uni0324_3;
-position = "{384, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{610, 0}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -62,28 +56,31 @@ nodes = (
 );
 },
 {
-alignment = -1;
-ref = iota;
+closed = 1;
+nodes = (
+(540,464,ls),
+(540,392,o),
+(580,364,o),
+(632,364,cs),
+(664,364,o),
+(698,374,o),
+(732,390,c),
+(758,16,l),
+(690,-8,o),
+(616,-22,o),
+(546,-22,cs),
+(308,-22,o),
+(90,124,o),
+(90,454,cs),
+(90,1094,l),
+(540,1094,l)
+);
 }
 );
 width = 748;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{360, 1124}";
-},
-{
-name = b.uni0324_3;
-position = "{360, 0}";
-},
-{
-name = m.uni0328_4;
-position = "{676, 0}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;
@@ -95,8 +92,25 @@ nodes = (
 );
 },
 {
-alignment = -1;
-ref = iota;
+closed = 1;
+nodes = (
+(380,314,ls),
+(380,228,o),
+(418,188,o),
+(478,188,cs),
+(510,188,o),
+(544,200,o),
+(584,222,c),
+(616,48,l),
+(548,10,o),
+(480,-10,o),
+(416,-10,cs),
+(268,-10,o),
+(152,94,o),
+(152,288,cs),
+(152,1064,l),
+(380,1064,l)
+);
 }
 );
 width = 618;

@@ -2,8 +2,13 @@
 glyphname = "Izhitsa-cy";
 layers = (
 {
-layerId = "F29E09C9-3C73-4EE3-9F9D-1BBE90D6A3EB";
-associatedMasterId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1536;
+},
+{
+layerId = "C7C2204D-E4EF-4823-A3B4-1073548BFBC5";
+associatedMasterId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 name = "Sep 16 17, 11:39";
 shapes = (
 {
@@ -29,7 +34,7 @@ nodes = (
 width = 1528;
 },
 {
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -53,13 +58,8 @@ nodes = (
 width = 1444;
 },
 {
-guides = (
-{
-position = "{0, 1432}";
-}
-);
-layerId = "5584736C-D63F-4B77-A1D7-736F75B2C958";
-associatedMasterId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "28C97779-A0B1-4234-8746-6299C8E11CFC";
+associatedMasterId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 name = "Sep 16 17, 11:39";
 shapes = (
 {
@@ -85,12 +85,7 @@ nodes = (
 width = 1766;
 },
 {
-guides = (
-{
-position = "{0, 1432}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -114,7 +109,7 @@ nodes = (
 width = 1660;
 },
 {
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

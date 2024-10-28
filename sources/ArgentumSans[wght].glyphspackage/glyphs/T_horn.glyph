@@ -2,7 +2,46 @@
 glyphname = Thorn;
 layers = (
 {
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,1200,l),
+(402,1016,l),
+(704,1016,ls),
+(942,1016,o),
+(1066,916,o),
+(1066,728,cs),
+(1066,532,o),
+(942,432,o),
+(704,432,cs),
+(404,432,l),
+(404,248,l),
+(714,248,ls),
+(1094,248,o),
+(1306,422,o),
+(1306,734,cs),
+(1306,1032,o),
+(1094,1200,o),
+(714,1200,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(420,0,l),
+(420,1400,l),
+(184,1400,l)
+);
+}
+);
+width = 1356;
+},
+{
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -40,7 +79,7 @@ nodes = (
 width = 1326;
 },
 {
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -78,7 +117,7 @@ nodes = (
 width = 1394;
 },
 {
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

@@ -2,25 +2,12 @@
 glyphname = tau;
 layers = (
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{490, 1148}";
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+width = 1108;
 },
 {
-name = t.uni0307_1;
-position = "{512, 478}";
-},
-{
-name = t.uni031B_2;
-position = "{852, 1254}";
-},
-{
-name = b.uni0324_3;
-position = "{642, 0}";
-}
-);
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -44,25 +31,7 @@ nodes = (
 width = 908;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{598, 1194}";
-},
-{
-name = t.uni0307_1;
-position = "{636, 522}";
-},
-{
-name = t.uni031B_2;
-position = "{920, 1338}";
-},
-{
-name = b.uni0324_3;
-position = "{770, 0}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -86,25 +55,7 @@ nodes = (
 width = 1328;
 },
 {
-anchors = (
-{
-name = t.uni0308;
-position = "{548, 1252}";
-},
-{
-name = t.uni0307_1;
-position = "{570, 478}";
-},
-{
-name = t.uni031B_2;
-position = "{910, 1358}";
-},
-{
-name = b.uni0324_3;
-position = "{700, 0}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

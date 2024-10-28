@@ -2,7 +2,45 @@
 glyphname = "hastroke-cy";
 layers = (
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "8FCDBA68-0348-4021-A85A-9DC44C274C65";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Oct 24 17, 12:22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,0,l),
+(742,360,l),
+(552,386,l),
+(802,0,l),
+(1320,0,l),
+(816,688,l),
+(816,438,l),
+(1310,1094,l),
+(836,1094,l),
+(570,718,l),
+(758,732,l),
+(516,1094,l),
+(6,1094,l),
+(498,416,l),
+(510,676,l),
+(-6,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1196,424,l),
+(1196,664,l),
+(128,664,l),
+(128,424,l)
+);
+}
+);
+width = 1316;
+},
+{
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 closed = 1;
@@ -38,7 +76,7 @@ nodes = (
 width = 1316;
 },
 {
-layerId = "68A741FB-F5C4-4C48-8466-F4B92AEAB445";
+layerId = "930780A6-B5EA-4645-96D1-574BBFBEDC55";
 name = "SemiBoldItalic.Oct 24 17, 12:22";
 shapes = (
 {
@@ -75,44 +113,7 @@ nodes = (
 width = 1152;
 },
 {
-layerId = "C00D261C-87EA-4387-9821-564752B89764";
-name = "BoldItalic.Oct 24 17, 12:22";
-shapes = (
-{
-closed = 1;
-nodes = (
-(484,0,l),
-(742,360,l),
-(552,386,l),
-(802,0,l),
-(1320,0,l),
-(816,688,l),
-(816,438,l),
-(1310,1094,l),
-(836,1094,l),
-(570,718,l),
-(758,732,l),
-(516,1094,l),
-(6,1094,l),
-(498,416,l),
-(510,676,l),
-(-6,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1196,424,l),
-(1196,664,l),
-(128,664,l),
-(128,424,l)
-);
-}
-);
-width = 1316;
-},
-{
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -148,8 +149,8 @@ nodes = (
 width = 1152;
 },
 {
-layerId = "B7EE9A94-1BD3-466C-84E6-1F5D8C221D86";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "CEFB521B-E872-44DE-A9C9-28018E638E24";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Oct 24 17, 12:22";
 shapes = (
 {
@@ -186,7 +187,7 @@ nodes = (
 width = 1056;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

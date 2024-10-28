@@ -2,50 +2,15 @@
 glyphname = won;
 layers = (
 {
-layerId = "82CA9C34-8679-4F51-8552-6EE504A634C2";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "5325C82F-9267-4527-AF7A-3FC5CE769111";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Bold [130]";
 width = 2142;
 },
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1836,1400,l),
-(1424,292,l),
-(1530,280,l),
-(1460,1400,l),
-(1022,1398,l),
-(608,292,l),
-(724,280,l),
-(648,1400,l),
-(156,1400,l),
-(368,0,l),
-(824,0,l),
-(1222,1024,l),
-(1128,1038,l),
-(1192,0,l),
-(1652,0,l),
-(2306,1400,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(34,630,l),
-(2194,630,l),
-(2222,770,l),
-(62,770,l)
-);
-}
-);
-width = 2140;
-},
-{
-layerId = "BA7F06C6-9E41-418C-8783-49892384CBD3";
-name = "BoldItalic.Bold Italic [120]";
+layerId = "E6F34973-C255-4005-9545-3572779E3097";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Bold Italic [120]";
 shapes = (
 {
 closed = 1;
@@ -108,14 +73,50 @@ nodes = (
 width = 2150;
 },
 {
-layerId = "368CFAF8-3F40-42E7-B9F2-7AC8C8A85E9E";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1836,1400,l),
+(1424,292,l),
+(1530,280,l),
+(1460,1400,l),
+(1022,1398,l),
+(608,292,l),
+(724,280,l),
+(648,1400,l),
+(156,1400,l),
+(368,0,l),
+(824,0,l),
+(1222,1024,l),
+(1128,1038,l),
+(1192,0,l),
+(1652,0,l),
+(2306,1400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(34,630,l),
+(2194,630,l),
+(2222,770,l),
+(62,770,l)
+);
+}
+);
+width = 2140;
+},
+{
+layerId = "67D1E8F6-FE34-435E-A3CC-2C1B80CEACE8";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular [130]";
 width = 2072;
 },
 {
-layerId = "9E435E69-AFA4-4EC8-94E6-0F2504114566";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "D3695B98-455C-4C2B-951B-6688C5955E28";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Italic [120]";
 shapes = (
 {
@@ -179,7 +180,7 @@ nodes = (
 width = 1948;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -215,7 +216,7 @@ nodes = (
 width = 1972;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

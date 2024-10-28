@@ -2,33 +2,57 @@
 glyphname = Oslash;
 layers = (
 {
-anchors = (
+layerId = "3E08A46C-BB86-4C4A-83AF-B3C64A14215C";
+name = "#instance";
+shapes = (
 {
-name = bottom;
-position = "{820, 0}";
+closed = 1;
+nodes = (
+(170,-110,l),
+(368,-110,l),
+(1450,1510,l),
+(1250,1510,l)
+);
 },
 {
-name = center;
-position = "{820, 700}";
+closed = 1;
+nodes = (
+(392,1406,o),
+(68,1100,o),
+(68,700,cs),
+(68,302,o),
+(392,-10,o),
+(810,-10,cs),
+(1228,-10,o),
+(1552,302,o),
+(1552,700,cs),
+(1552,1098,o),
+(1228,1406,o),
+(810,1406,cs)
+);
 },
 {
-name = ogonek;
-position = "{1184, 0}";
-},
-{
-name = top;
-position = "{822, 1400}";
-},
-{
-name = topleft;
-position = "{40, 1400}";
-},
-{
-name = topright;
-position = "{1158, 1400}";
+closed = 1;
+nodes = (
+(1086,1206,o),
+(1310,984,o),
+(1310,700,cs),
+(1310,416,o),
+(1086,190,o),
+(812,190,cs),
+(538,190,o),
+(308,416,o),
+(308,700,cs),
+(308,984,o),
+(536,1206,o),
+(812,1206,cs)
+);
 }
 );
-layerId = "B026C813-5E74-43B8-9BDA-38360344913A";
+width = 1620;
+},
+{
+layerId = "530FD3FD-5444-46AA-B51A-11B2B68AE76D";
 shapes = (
 {
 closed = 1;
@@ -77,33 +101,7 @@ nodes = (
 width = 1638;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{798, -8}";
-},
-{
-name = center;
-position = "{798, 692}";
-},
-{
-name = ogonek;
-position = "{1288, -8}";
-},
-{
-name = top;
-position = "{840, 1400}";
-},
-{
-name = topleft;
-position = "{40, 1392}";
-},
-{
-name = topright;
-position = "{1120, 1392}";
-}
-);
-layerId = "ED22C04F-3B1D-41D7-8242-D57D8DACD8E1";
+layerId = "6D4C632D-5FF3-432A-8199-1F9B3F2CB990";
 shapes = (
 {
 closed = 1;
@@ -152,33 +150,7 @@ nodes = (
 width = 1598;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{810, 0}";
-},
-{
-name = center;
-position = "{810, 700}";
-},
-{
-name = ogonek;
-position = "{1212, 0}";
-},
-{
-name = top;
-position = "{810, 1400}";
-},
-{
-name = topleft;
-position = "{40, 1400}";
-},
-{
-name = topright;
-position = "{1146, 1398}";
-}
-);
-layerId = "6620CA85-00CC-482E-8046-24C727E4DEBF";
+layerId = "6B80B6C1-47AF-41BF-A29C-E15F80EDEA88";
 shapes = (
 {
 closed = 1;

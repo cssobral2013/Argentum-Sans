@@ -2,54 +2,9 @@
 glyphname = bracketleft.case;
 layers = (
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
-shapes = (
-{
-closed = 1;
-nodes = (
-(694,1124,ls),
-(712,1216,o),
-(752,1242,o),
-(880,1242,c),
-(946,1572,l),
-(770,1572,ls),
-(480,1572,o),
-(368,1496,o),
-(322,1266,cs),
-(258,940,ls),
-(248,888,o),
-(228,872,o),
-(182,872,cs),
-(92,872,l),
-(24,532,l),
-(114,532,ls),
-(160,532,o),
-(172,516,o),
-(162,464,cs),
-(98,138,ls),
-(52,-92,o),
-(132,-168,o),
-(422,-168,cs),
-(598,-168,l),
-(664,162,l),
-(538,162,o),
-(508,188,o),
-(526,280,cs),
-(556,434,ls),
-(588,596,o),
-(552,664,o),
-(418,702,c),
-(564,732,o),
-(632,808,o),
-(664,970,cs)
-);
-}
-);
-width = 762;
-},
-{
-layerId = "2506A4D1-C372-437B-B956-7DF8AB98D20A";
-name = "BoldItalic.Bold Italic Dec 28 15, 00:55";
+layerId = "6EC86F12-59A1-4225-AF87-4F14B3DB9742";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Bold Italic Dec 28 15, 00:55";
 shapes = (
 {
 closed = 1;
@@ -105,8 +60,54 @@ nodes = (
 width = 970;
 },
 {
-layerId = "1B10D4AA-5526-4977-A861-B8603529F877";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(694,1124,ls),
+(712,1216,o),
+(752,1242,o),
+(880,1242,c),
+(946,1572,l),
+(770,1572,ls),
+(480,1572,o),
+(368,1496,o),
+(322,1266,cs),
+(258,940,ls),
+(248,888,o),
+(228,872,o),
+(182,872,cs),
+(92,872,l),
+(24,532,l),
+(114,532,ls),
+(160,532,o),
+(172,516,o),
+(162,464,cs),
+(98,138,ls),
+(52,-92,o),
+(132,-168,o),
+(422,-168,cs),
+(598,-168,l),
+(664,162,l),
+(538,162,o),
+(508,188,o),
+(526,280,cs),
+(556,434,ls),
+(588,596,o),
+(552,664,o),
+(418,702,c),
+(564,732,o),
+(632,808,o),
+(664,970,cs)
+);
+}
+);
+width = 762;
+},
+{
+layerId = "244A816C-6A50-4A04-AF50-294DF0C64E10";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Italic Dec 28 15, 00:55";
 shapes = (
 {
@@ -163,7 +164,7 @@ nodes = (
 width = 848;
 },
 {
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -209,8 +210,8 @@ nodes = (
 width = 658;
 },
 {
-layerId = "80C146DC-B438-4C71-A1EB-81194CBE8451";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "2B01ED2E-4B56-4C71-ADE2-1DB24E1C5953";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Light Italic Dec 28 15, 00:55";
 shapes = (
 {
@@ -267,7 +268,7 @@ nodes = (
 width = 746;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

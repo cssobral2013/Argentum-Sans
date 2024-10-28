@@ -14,7 +14,7 @@ angle = 90;
 position = "{-54, 0}";
 }
 );
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 alignment = -1;
@@ -24,8 +24,8 @@ ref = ogonekcomb;
 width = 644;
 },
 {
-layerId = "6B1CE195-5C22-4274-B5D3-C78E344090B0";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "4B6FD98C-A90A-4E3C-99CF-E5C87A8C9CB8";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Nov 20 16, 22:09.1";
 width = 548;
 },
@@ -36,8 +36,8 @@ name = _ogonek;
 position = "{376, 0}";
 }
 );
-layerId = "0315D96A-B105-4A36-A584-77307BAA7A6E";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "0ACFAE6B-86A8-421B-A705-CDB86D8BCAE1";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Nov 20 16, 22:09";
 shapes = (
 {
@@ -108,7 +108,7 @@ angle = 90;
 position = "{269, 0}";
 }
 );
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 alignment = -1;
@@ -138,7 +138,7 @@ angle = 90;
 position = "{-47, 0}";
 }
 );
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 alignment = -1;

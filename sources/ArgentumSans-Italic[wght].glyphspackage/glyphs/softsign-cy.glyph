@@ -2,7 +2,60 @@
 glyphname = "softsign-cy";
 layers = (
 {
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+anchors = (
+{
+name = "#entry";
+position = "{106, 0}";
+},
+{
+name = center;
+position = "{350, 904}";
+}
+);
+guides = (
+{
+position = "{0, 560}";
+}
+);
+layerId = "33503F0A-0DD7-4776-AFDB-49DCF6A64C94";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
+name = "Oct 21 17, 15:16";
+shapes = (
+{
+closed = 1;
+nodes = (
+(556,764,l),
+(556,1094,l),
+(106,1094,l),
+(106,0,l),
+(742,0,ls),
+(1060,0,o),
+(1254,150,o),
+(1254,396,cs),
+(1254,630,o),
+(1092,764,o),
+(798,764,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(556,304,l),
+(556,500,l),
+(696,500,ls),
+(756,500,o),
+(794,472,o),
+(794,404,cs),
+(794,334,o),
+(756,304,o),
+(696,304,cs)
+);
+}
+);
+width = 1278;
+},
+{
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 closed = 1;
@@ -48,7 +101,7 @@ name = center;
 position = "{312, 886}";
 }
 );
-layerId = "4AB67157-0629-4225-9425-158A73DF34E6";
+layerId = "15380563-E54D-459F-9DAA-32C1AB54AE4A";
 name = "SemiBoldItalic.Oct 21 17, 15:16";
 shapes = (
 {
@@ -85,59 +138,7 @@ nodes = (
 width = 1164;
 },
 {
-anchors = (
-{
-name = "#entry";
-position = "{106, 0}";
-},
-{
-name = center;
-position = "{350, 904}";
-}
-);
-guides = (
-{
-position = "{0, 560}";
-}
-);
-layerId = "65331145-C659-4D66-8703-E4A779A21258";
-name = "BoldItalic.Oct 21 17, 15:16";
-shapes = (
-{
-closed = 1;
-nodes = (
-(556,764,l),
-(556,1094,l),
-(106,1094,l),
-(106,0,l),
-(742,0,ls),
-(1060,0,o),
-(1254,150,o),
-(1254,396,cs),
-(1254,630,o),
-(1092,764,o),
-(798,764,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(556,304,l),
-(556,500,l),
-(696,500,ls),
-(756,500,o),
-(794,472,o),
-(794,404,cs),
-(794,334,o),
-(756,304,o),
-(696,304,cs)
-);
-}
-);
-width = 1278;
-},
-{
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -183,8 +184,8 @@ name = center;
 position = "{282, 870}";
 }
 );
-layerId = "ABB0460D-4C23-45ED-B90A-7FA7A1E90F81";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "133FE6D0-8DF8-470F-8D91-14BB22E2F491";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Oct 21 17, 15:16";
 shapes = (
 {
@@ -221,7 +222,7 @@ nodes = (
 width = 1076;
 },
 {
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;

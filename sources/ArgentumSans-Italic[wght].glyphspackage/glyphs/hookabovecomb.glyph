@@ -2,14 +2,14 @@
 glyphname = hookabovecomb;
 layers = (
 {
-layerId = "784FFA27-407E-4C6E-A7AF-13315C3E9AF3";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "9398F40D-D00B-4D72-836B-E6C98BA32D78";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Hookabove Nov 9 16, 11:14";
 width = 940;
 },
 {
-layerId = "50F49660-0158-4198-85A2-F9D70B28597A";
-associatedMasterId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "5EF8E4F9-BEB2-4E48-BF3F-571C0FEB057A";
+associatedMasterId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 name = "Bold Aug 12 16, 02:26";
 width = 0;
 },
@@ -30,7 +30,7 @@ angle = 90;
 position = "{186, 0}";
 }
 );
-layerId = "FCBE0D3F-305A-4B26-ABA3-05651CFDD837";
+layerId = "A09E50E2-67FC-4045-B7D7-901372DB4BBE";
 shapes = (
 {
 closed = 1;
@@ -61,14 +61,14 @@ nodes = (
 width = 670;
 },
 {
-layerId = "FEFC9ECC-CE80-4776-927A-7CA0A651B437";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "2FC35321-FC02-4A76-B160-38AFDD17B69C";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Regular Aug 12 16, 02:27";
 width = 0;
 },
 {
-layerId = "E10A4442-394E-4154-9114-BB1AB00C3C3B";
-associatedMasterId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "2CA51F69-5383-44E8-9BC3-B37285B3A99F";
+associatedMasterId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 name = "Hookabove Nov 9 16, 11:03";
 width = 0;
 },
@@ -83,7 +83,7 @@ name = top;
 position = "{452, 1484}";
 }
 );
-layerId = "5BDD1EDE-DE70-4338-9338-A02B2C6AE01A";
+layerId = "6D930887-645F-4E17-BAB2-3A566A02CAA9";
 shapes = (
 {
 closed = 1;
@@ -114,14 +114,14 @@ nodes = (
 width = 512;
 },
 {
-layerId = "60C37D31-02E4-46A7-AE48-7105557C9D09";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "A940A3C2-492F-4EDC-83BE-9181AD95BE26";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Light Aug 12 16, 02:28";
 width = 0;
 },
 {
-layerId = "1150330D-0894-447F-9CB6-A838AEC7717E";
-associatedMasterId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "C46195E1-0C78-4A8A-9F10-839B6D0DB7C9";
+associatedMasterId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 name = "Hookabove Nov 9 16, 11:08";
 width = 0;
 },
@@ -136,7 +136,7 @@ name = top;
 position = "{538, 1430}";
 }
 );
-layerId = "A3D6E1CA-B1BA-4595-96B0-7801BFB529A2";
+layerId = "9B3D3104-3922-4F2D-8412-46D902A9971C";
 shapes = (
 {
 closed = 1;
