@@ -184,3 +184,6 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
 
  Changelog of Argentum Sans, v3.132 (in no particular order):
 - New '5', tilde, & question mark
+
+ Changelog of Argentum Sans, v3.134 (in no particular order):
+- Implemented rvrn feature for some currencies
