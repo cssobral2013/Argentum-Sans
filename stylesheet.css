@@ -160,3 +160,365 @@
     font-weight: 900;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedThin.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedThin.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedThin.ttf') format('truetype');
+    font-weight: 100;
+    font-stretch: condensed;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedThinItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedThinItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedExtraLight.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedExtraLight.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedExtraLightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedExtraLightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedLight.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedLight.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedLight.ttf') format('truetype');
+    font-weight: 300;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedLightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedLightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-Condensed.woff2') format('woff2'),
+        url('web/ArgentumSans-Condensed.woff') format('woff'),
+        url('ttf/ArgentumSans-Condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedMedium.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedMedium.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedMediumItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedMediumItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedMediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedSemiBold.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedSemiBold.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedSemiBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedSemiBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedSemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedBold.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedBold.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedExtraBold.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedExtraBold.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedExtraBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedExtraBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedBlack.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedBlack.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-stretch: condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-CondensedBlackItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-CondensedBlackItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-CondensedBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-stretch: condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedThin.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedThin.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedThin.ttf') format('truetype');
+    font-weight: 100;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedThinItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedThinItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedExtraLight.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedExtraLight.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedExtraLightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedExtraLightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedLight.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedLight.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedLight.ttf') format('truetype');
+    font-weight: 300;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedLightItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedLightItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensed.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensed.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedMedium.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedMedium.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedMediumItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedMediumItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedMediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedSemiBold.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedSemiBold.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedSemiBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedSemiBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedSemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedBold.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedBold.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedExtraBold.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedExtraBold.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedExtraBoldItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedExtraBoldItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedBlack.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedBlack.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-stretch: semi-condensed;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Argentum Sans';
+    src: url('web/ArgentumSans-SemiCondensedBlackItalic.woff2') format('woff2'),
+        url('web/ArgentumSans-SemiCondensedBlackItalic.woff') format('woff'),
+        url('ttf/ArgentumSans-SemiCondensedBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-stretch: semi-condensed;
+    font-style: italic;
+}

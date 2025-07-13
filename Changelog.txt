@@ -189,3 +189,7 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
 - Implemented rvrn feature for some currencies
 - Some fixes in transformed components
 - Some fixes in Greek
+
+ Changelog of Argentum Sans, v3.200 (in no particular order):
+- Added width axis
+- New '1' and '5'

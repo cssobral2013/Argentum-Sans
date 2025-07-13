@@ -165,6 +165,331 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
+srcPath  = './ttf/ArgentumSans-SemiCondensedThin.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedThin.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedThinItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedThinItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraLight.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLight.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensed.ttf'
+woffPath = './web/ArgentumSans-SemiCondensed.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedMedium.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedMedium.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedMediumItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedMediumItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBlack.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBlack.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBlackItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBlackItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+    
+srcPath  = './ttf/ArgentumSans-CondensedThin.ttf'
+woffPath = './web/ArgentumSans-CondensedThin.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedThinItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedThinItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedExtraLight.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedExtraLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+    
+srcPath  = './ttf/ArgentumSans-CondensedLight.ttf'
+woffPath = './web/ArgentumSans-CondensedLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-Condensed.ttf'
+woffPath = './web/ArgentumSans-Condensed.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedMedium.ttf'
+woffPath = './web/ArgentumSans-CondensedMedium.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedMediumItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedMediumItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBold.ttf'
+woffPath = './web/ArgentumSans-CondensedBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedExtraBold.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedExtraBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBlack.ttf'
+woffPath = './web/ArgentumSans-CondensedBlack.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBlackItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedBlackItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
 
 
 '''Generate WOFF2 from TTF or OTF font.'''
@@ -330,4 +655,330 @@ woff2Path = './web/ArgentumSans-BlackItalic.woff2'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
-    font.save(woff2Path)    
+    font.save(woff2Path)
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedThin.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedThin.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedThinItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedThinItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraLight.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLight.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensed.ttf'
+woffPath = './web/ArgentumSans-SemiCondensed.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedMedium.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedMedium.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedMediumItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedMediumItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedSemiBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraBold.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedExtraBoldItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedExtraBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBlack.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBlack.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-SemiCondensedBlackItalic.ttf'
+woffPath = './web/ArgentumSans-SemiCondensedBlackItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+    
+srcPath  = './ttf/ArgentumSans-CondensedThin.ttf'
+woffPath = './web/ArgentumSans-CondensedThin.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedThinItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedThinItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedExtraLight.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+
+srcPath  = './ttf/ArgentumSans-CondensedExtraLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)
+    
+srcPath  = './ttf/ArgentumSans-CondensedLight.ttf'
+woffPath = './web/ArgentumSans-CondensedLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedLightItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-Condensed.ttf'
+woffPath = './web/ArgentumSans-Condensed.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedMedium.ttf'
+woffPath = './web/ArgentumSans-CondensedMedium.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedMediumItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedMediumItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBold.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedSemiBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedSemiBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBold.ttf'
+woffPath = './web/ArgentumSans-CondensedBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedExtraBold.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedExtraBoldItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedExtraBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBlack.ttf'
+woffPath = './web/ArgentumSans-CondensedBlack.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/ArgentumSans-CondensedBlackItalic.ttf'
+woffPath = './web/ArgentumSans-CondensedBlackItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woffPath)    
