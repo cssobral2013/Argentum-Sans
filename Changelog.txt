@@ -193,3 +193,6 @@ Changelog of Argentum Sans, v3.117 (in no particular order):
  Changelog of Argentum Sans, v3.200 (in no particular order):
 - Added width axis
 - New '1' and '5'
+
+ Changelog of Argentum Sans, v4.000 (in no particular order):
+- Finished width axis
